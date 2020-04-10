@@ -1,0 +1,242 @@
+,fecha_online,pais,conteo,semana
+0,0.0,Argentina,159,5 de enero
+1,0.0,Chile,165,5 de enero
+2,0.0,Colombia,86,5 de enero
+3,0.0,Costa Rica,15,5 de enero
+4,0.0,Rep. Dominicana,7,5 de enero
+5,0.0,Ecuador,114,5 de enero
+6,0.0,Guatemala,35,5 de enero
+7,0.0,Honduras,41,5 de enero
+8,0.0,Nicaragua,14,5 de enero
+9,0.0,Panamá,29,5 de enero
+10,0.0,Perú,259,5 de enero
+11,0.0,El Salvador,154,5 de enero
+12,0.0,Uruguay,29,5 de enero
+13,0.0,Venezuela,456,5 de enero
+14,1.0,Argentina,397,12 de enero
+15,1.0,Bolivia,2,12 de enero
+16,1.0,Chile,462,12 de enero
+17,1.0,Colombia,285,12 de enero
+18,1.0,Costa Rica,104,12 de enero
+19,1.0,Rep. Dominicana,22,12 de enero
+20,1.0,Ecuador,325,12 de enero
+21,1.0,Guatemala,198,12 de enero
+22,1.0,Honduras,126,12 de enero
+23,1.0,Nicaragua,50,12 de enero
+24,1.0,Panamá,78,12 de enero
+25,1.0,Perú,573,12 de enero
+26,1.0,Paraguay,5,12 de enero
+27,1.0,El Salvador,347,12 de enero
+28,1.0,Uruguay,39,12 de enero
+29,1.0,Venezuela,2343,12 de enero
+30,2.0,Argentina,456,19 de enero
+31,2.0,Bolivia,4,19 de enero
+32,2.0,Chile,417,19 de enero
+33,2.0,Colombia,648,19 de enero
+34,2.0,Costa Rica,92,19 de enero
+35,2.0,Rep. Dominicana,37,19 de enero
+36,2.0,Ecuador,283,19 de enero
+37,2.0,Guatemala,153,19 de enero
+38,2.0,Honduras,102,19 de enero
+39,2.0,Nicaragua,38,19 de enero
+40,2.0,Panamá,113,19 de enero
+41,2.0,Perú,477,19 de enero
+42,2.0,Paraguay,10,19 de enero
+43,2.0,El Salvador,259,19 de enero
+44,2.0,Uruguay,74,19 de enero
+45,2.0,Venezuela,2019,19 de enero
+46,3.0,Argentina,430,26 de enero
+47,3.0,Bolivia,11,26 de enero
+48,3.0,Chile,443,26 de enero
+49,3.0,Colombia,724,26 de enero
+50,3.0,Costa Rica,101,26 de enero
+51,3.0,Rep. Dominicana,46,26 de enero
+52,3.0,Ecuador,292,26 de enero
+53,3.0,Guatemala,192,26 de enero
+54,3.0,Honduras,138,26 de enero
+55,3.0,Nicaragua,52,26 de enero
+56,3.0,Panamá,86,26 de enero
+57,3.0,Perú,437,26 de enero
+58,3.0,Paraguay,14,26 de enero
+59,3.0,El Salvador,289,26 de enero
+60,3.0,Uruguay,75,26 de enero
+61,3.0,Venezuela,2350,26 de enero
+62,4.0,Argentina,925,2 de febrero
+63,4.0,Bolivia,5,2 de febrero
+64,4.0,Chile,1675,2 de febrero
+65,4.0,Colombia,1974,2 de febrero
+66,4.0,Costa Rica,111,2 de febrero
+67,4.0,Rep. Dominicana,83,2 de febrero
+68,4.0,Ecuador,233,2 de febrero
+69,4.0,Guatemala,286,2 de febrero
+70,4.0,Honduras,188,2 de febrero
+71,4.0,Nicaragua,35,2 de febrero
+72,4.0,Panamá,93,2 de febrero
+73,4.0,Perú,1208,2 de febrero
+74,4.0,Paraguay,11,2 de febrero
+75,4.0,El Salvador,226,2 de febrero
+76,4.0,Uruguay,90,2 de febrero
+77,4.0,Venezuela,2191,2 de febrero
+78,5.0,Argentina,3883,9 de febrero
+79,5.0,Bolivia,164,9 de febrero
+80,5.0,Chile,4736,9 de febrero
+81,5.0,Colombia,9025,9 de febrero
+82,5.0,Costa Rica,431,9 de febrero
+83,5.0,Rep. Dominicana,117,9 de febrero
+84,5.0,Ecuador,570,9 de febrero
+85,5.0,Guatemala,1577,9 de febrero
+86,5.0,Honduras,419,9 de febrero
+87,5.0,Nicaragua,50,9 de febrero
+88,5.0,Panamá,177,9 de febrero
+89,5.0,Perú,9396,9 de febrero
+90,5.0,Paraguay,101,9 de febrero
+91,5.0,El Salvador,995,9 de febrero
+92,5.0,Uruguay,330,9 de febrero
+93,5.0,Venezuela,2557,9 de febrero
+94,6.0,Argentina,5191,16 de febrero
+95,6.0,Bolivia,24,16 de febrero
+96,6.0,Chile,5318,16 de febrero
+97,6.0,Colombia,18637,16 de febrero
+98,6.0,Costa Rica,531,16 de febrero
+99,6.0,Rep. Dominicana,34,16 de febrero
+100,6.0,Ecuador,792,16 de febrero
+101,6.0,Guatemala,2171,16 de febrero
+102,6.0,Honduras,441,16 de febrero
+103,6.0,Nicaragua,114,16 de febrero
+104,6.0,Panamá,129,16 de febrero
+105,6.0,Perú,15214,16 de febrero
+106,6.0,Paraguay,19,16 de febrero
+107,6.0,El Salvador,1329,16 de febrero
+108,6.0,Uruguay,375,16 de febrero
+109,6.0,Venezuela,2646,16 de febrero
+110,7.0,Bolivia,8,23 de febrero
+111,7.0,Colombia,834,23 de febrero
+112,7.0,Costa Rica,73,23 de febrero
+113,7.0,Rep. Dominicana,53,23 de febrero
+114,7.0,Ecuador,250,23 de febrero
+115,7.0,Guatemala,168,23 de febrero
+116,7.0,Honduras,135,23 de febrero
+117,7.0,Nicaragua,52,23 de febrero
+118,7.0,Panamá,75,23 de febrero
+119,7.0,Paraguay,4,23 de febrero
+120,7.0,El Salvador,231,23 de febrero
+121,7.0,Uruguay,66,23 de febrero
+122,7.0,Venezuela,2306,23 de febrero
+123,8.0,Bolivia,1,1 de marzo
+124,8.0,Colombia,2527,1 de marzo
+125,8.0,Costa Rica,92,1 de marzo
+126,8.0,Rep. Dominicana,24,1 de marzo
+127,8.0,Ecuador,157,1 de marzo
+128,8.0,Guatemala,204,1 de marzo
+129,8.0,Honduras,110,1 de marzo
+130,8.0,Nicaragua,38,1 de marzo
+131,8.0,Panamá,67,1 de marzo
+132,8.0,Paraguay,9,1 de marzo
+133,8.0,El Salvador,226,1 de marzo
+134,8.0,Uruguay,57,1 de marzo
+135,8.0,Venezuela,1523,1 de marzo
+136,9.0,Argentina,1780,8 de marzo
+137,9.0,Bolivia,4,8 de marzo
+138,9.0,Chile,882,8 de marzo
+139,9.0,Colombia,14645,8 de marzo
+140,9.0,Costa Rica,272,8 de marzo
+141,9.0,Rep. Dominicana,48,8 de marzo
+142,9.0,Ecuador,388,8 de marzo
+143,9.0,Guatemala,891,8 de marzo
+144,9.0,Honduras,253,8 de marzo
+145,9.0,Nicaragua,48,8 de marzo
+146,9.0,Panamá,110,8 de marzo
+147,9.0,Perú,87,8 de marzo
+148,9.0,Paraguay,21,8 de marzo
+149,9.0,El Salvador,737,8 de marzo
+150,9.0,Uruguay,212,8 de marzo
+151,9.0,Venezuela,2726,8 de marzo
+152,10.0,Argentina,7155,15 de marzo
+153,10.0,Bolivia,121,15 de marzo
+154,10.0,Chile,3943,15 de marzo
+155,10.0,Colombia,31276,15 de marzo
+156,10.0,Costa Rica,368,15 de marzo
+157,10.0,Rep. Dominicana,35,15 de marzo
+158,10.0,Ecuador,477,15 de marzo
+159,10.0,Guatemala,1626,15 de marzo
+160,10.0,Honduras,279,15 de marzo
+161,10.0,Nicaragua,106,15 de marzo
+162,10.0,Panamá,76,15 de marzo
+163,10.0,Perú,6994,15 de marzo
+164,10.0,Paraguay,58,15 de marzo
+165,10.0,El Salvador,798,15 de marzo
+166,10.0,Uruguay,266,15 de marzo
+167,10.0,Venezuela,2496,15 de marzo
+168,11.0,Argentina,658,22 de marzo
+169,11.0,Bolivia,12,22 de marzo
+170,11.0,Chile,6342,22 de marzo
+171,11.0,Colombia,15271,22 de marzo
+172,11.0,Costa Rica,183,22 de marzo
+173,11.0,Rep. Dominicana,76,22 de marzo
+174,11.0,Ecuador,133,22 de marzo
+175,11.0,Guatemala,633,22 de marzo
+176,11.0,Honduras,65,22 de marzo
+177,11.0,Nicaragua,29,22 de marzo
+178,11.0,Panamá,35,22 de marzo
+179,11.0,Paraguay,15,22 de marzo
+180,11.0,El Salvador,391,22 de marzo
+181,11.0,Uruguay,93,22 de marzo
+182,11.0,Venezuela,542,22 de marzo
+183,12.0,Argentina,4862,29 de marzo
+184,12.0,Colombia,30475,29 de marzo
+185,12.0,Costa Rica,30,29 de marzo
+186,12.0,Rep. Dominicana,2,29 de marzo
+187,12.0,Ecuador,32,29 de marzo
+188,12.0,Guatemala,68,29 de marzo
+189,12.0,Honduras,32,29 de marzo
+190,12.0,Nicaragua,13,29 de marzo
+191,12.0,Panamá,23,29 de marzo
+192,12.0,Paraguay,5,29 de marzo
+193,12.0,El Salvador,38,29 de marzo
+194,12.0,Uruguay,19,29 de marzo
+195,12.0,Venezuela,448,29 de marzo
+196,13.0,Argentina,5249,5 de abril
+197,13.0,Bolivia,6,5 de abril
+198,13.0,Chile,2474,5 de abril
+199,13.0,Colombia,8907,5 de abril
+200,13.0,Costa Rica,120,5 de abril
+201,13.0,Rep. Dominicana,5,5 de abril
+202,13.0,Ecuador,73,5 de abril
+203,13.0,Guatemala,519,5 de abril
+204,13.0,Honduras,98,5 de abril
+205,13.0,Nicaragua,24,5 de abril
+206,13.0,Panamá,8,5 de abril
+207,13.0,Perú,3500,5 de abril
+208,13.0,Paraguay,11,5 de abril
+209,13.0,El Salvador,249,5 de abril
+210,13.0,Uruguay,120,5 de abril
+211,13.0,Venezuela,330,5 de abril
+212,14.0,Argentina,2613,12 de abril
+213,14.0,Bolivia,4,12 de abril
+214,14.0,Chile,1941,12 de abril
+215,14.0,Colombia,3835,12 de abril
+216,14.0,Costa Rica,39,12 de abril
+217,14.0,Rep. Dominicana,98,12 de abril
+218,14.0,Ecuador,40,12 de abril
+219,14.0,Guatemala,122,12 de abril
+220,14.0,Honduras,28,12 de abril
+221,14.0,Nicaragua,103,12 de abril
+222,14.0,Panamá,9,12 de abril
+223,14.0,Perú,719,12 de abril
+224,14.0,Paraguay,98,12 de abril
+225,14.0,El Salvador,67,12 de abril
+226,14.0,Uruguay,26,12 de abril
+227,14.0,Venezuela,450,12 de abril
+228,16.0,Bolivia,1,26 de abril
+229,16.0,Rep. Dominicana,1,26 de abril
+230,16.0,Ecuador,1,26 de abril
+231,16.0,Honduras,3,26 de abril
+232,16.0,Panamá,1,26 de abril
+233,16.0,Venezuela,2,26 de abril
+234,17.0,Honduras,3,3 de mayo
+235,17.0,Panamá,3,3 de mayo
+236,18.0,Honduras,4,10 de mayo
+237,18.0,Panamá,3,10 de mayo
+238,18.0,Venezuela,2,10 de mayo
+239,19.0,Honduras,3,17 de mayo
+240,19.0,Panamá,1,17 de mayo
