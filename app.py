@@ -6,14 +6,11 @@ import dash
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
-import dash_table
 import pandas as pd
-import numpy as np
 import plotly
 import plotly.graph_objs as go
 import random
 import plotly.express as px
-from plotly.subplots import make_subplots
 
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
@@ -37,7 +34,7 @@ app.layout = html.Div(children=[
     style={'textAlign': 'center', 
             }
     ),
-    html.H3(children='Observatorio de vacantes de empleo',
+    html.H3(children='Observatorio de vacantes de empleo †',
         style={'textAlign': 'center'
                 },
 ),
@@ -61,41 +58,53 @@ app.layout = html.Div(children=[
             dcc.Graph(id='graph1',
               style={'width': '48%', 'display': 'inline'},
               config = {'displaylogo': False}),
-        
         ]),
-        html.P(['*No todos los países cuentan con la variable de no. de vacantes por aviso.' , html.Br(),'Fuente: con base en datos descargados de Computrabajo e Infojobs.'],
+        html.P(['Fuente: con base en datos descargados de Computrabajo e Infojobs.', html.Br(),'*No todos los países cuentan con la variable de no. de vacantes por aviso.'],
                 style={'color': 'black', 'fontSize': 10, 'marginBottom': 25, 'marginTop': 15, 'marginLeft': 65}),
 
-         dcc.Graph(id='graph2',
+        dcc.Graph(id='graph2',
             style={'width': '48%', 'display': 'inline-block'},
-            config = {'displaylogo': False}),          
-        dcc.Graph(id='graph3',
+            config = {'displaylogo': False}),      
+        dcc.Graph(id='graph4',
             style={'width': '48%', 'display': 'inline-block'},
             config = {'displaylogo': False}),
-                   html.P(['**Acumulado del año. Se limitan salarios con distancia menor a 2.2 desviaciones estándar de la media.', html.Br(),'Fuente: con base en datos descargados de Computrabajo e Infojobs.'],
-                style={'width': '48%', 'display': 'inline-block', 'fontSize': 10, 'marginTop': 10, 'marginBottom': 25, 'marginLeft': 35}),
-                  html.P(['**Acumulado del año. Clasificación de ramas provista por el portal (not CIIU). Solo ARG, CHL, y COL tienen info para esta variable.', html.Br(),'Fuente: con base en datos descargados de Computrabajo e Infojobs.'],
-                style={'width': '48%', 'display': 'inline-block', 'fontSize': 10}),
-        
+                   html.P(['Fuente: con base en datos descargados de Computrabajo e Infojobs.', html.Br(),'‡Se limitan salarios con distancia menor a 2.2 desviaciones estándar de la media.'],
+                style={'width': '48%', 'display': 'inline-block', 'fontSize': 10, 'marginTop': 1, 'marginBottom': 25, 'marginLeft': 35}),
+                html.P('Fuente: https://www.google.com/covid19/mobility/',
+                            style={'width': '48%', 'display': 'inline-block', 'fontSize': 10,  'marginBottom': 25, 'marginLeft': 5}),        
+        html.Div([html.P("Seleccione un mes o grupo de meses:",
+                         style={'marginTop': '2em','marginBottom': '1em',
+                                'display': 'inline-block'})]),
+
         html.Div([
-            dcc.Graph(id='graph4',
+            dcc.Dropdown(
+                id='yaxis-column',
+                options=[{'label': i, 'value': i} for i in ramas.fecha_online.unique()],
+                placeholder='Seleccione un mes',
+                value = ['Enero', 'Febrero', 'Marzo','Abril','Mayo', 'Junio'],
+                multi =True),
+                ],
+                 style={'width': '48%', 'display': 'inline',
+                        'marginTop': '1em','marginBottom': '1em'}),
+            html.Div([           
+            dcc.Graph(id='graph3',
             style={'width': '48%', 'display': 'inline-block'},
             config = {'displaylogo': False}),
             dcc.Graph(id='graph5',
             style={'width': '48%', 'display': 'inline-block'},
             config = {'displaylogo': False}),
-                     html.P('Fuente: https://www.google.com/covid19/mobility/',
-                            style={'width': '48%', 'display': 'inline-block', 'fontSize': 10,  'marginBottom': 25, 'marginLeft': 35}),
-                     html.P(['**Acumulado del año.', html.Br(), 'Fuente: con base en datos descargados de Computrabajo e Infojobs.'],
-                            style={'width': '48%', 'display': 'inline-block', 'fontSize': 10}),
+                     html.P(['Fuente: con base en datos descargados de Computrabajo e Infojobs.', html.Br(),'‡Clasificación de ramas provista por el portal (not CIIU). Solo ARG, CHL, y COL tienen info para esta variable.'],
+                style={'width': '48%', 'display': 'inline-block', 'fontSize': 10, 'marginLeft': 35}),
+                     html.P(['Fuente: con base en datos descargados de Computrabajo e Infojobs.'],
+                            style={'width': '48%', 'display': 'inline-block', 'fontSize': 10, 'marginBottom': 25, 'marginLeft': 12}),
             ]),
 
-            html.Div([
-                html.P("Desarrollado en Python por:"),
-                html.A("Alvaro Altamirano Montoya", href='https://www.linkedin.com/in/%C3%A1lvaro-altamirano-montoya-b3857659/?locale=en_US', target="_blank"),
-                html.Br(),
-                html.A("@ALVARODW", href='https://twitter.com/ALVARODW', target="_blank")
-            ])
+            html.Div(["† Desarrollado en Python por: ",html.A("Alvaro Altamirano Montoya", href='https://www.linkedin.com/in/%C3%A1lvaro-altamirano-montoya-b3857659/?locale=en_US', target="_blank"),
+                ' con base en datos descargados por ',
+                html.A("Alvaro Altamiano Montoya", href='https://www.linkedin.com/in/%C3%A1lvaro-altamirano-montoya-b3857659/', target="_blank"),
+                       ' y ', html.A("Roberto Sánchez Ávalos", href='https://www.linkedin.com/in/rsanchezavalos/', target="_blank"), '.'
+            ]),
+
 ])
 
 
@@ -106,7 +115,7 @@ app.layout = html.Div(children=[
 
 def update_graph(xaxis_column_name, yaxis_type):
     table_g = table3.loc[table3['pais']==xaxis_column_name]
-    table_g['conteo_MA']= table_g['conteo'].rolling(window=3).mean()
+    #table_g['conteo_MA']= table_g['conteo'].rolling(window=3).mean()
     table_g2 = table4.loc[table4['pais']==xaxis_column_name]
     
     if xaxis_column_name == 'Argentina' or xaxis_column_name == 'Chile' or xaxis_column_name == 'Colombia':
@@ -161,45 +170,48 @@ def update_graph(xaxis_column_name, yaxis_type):
         
 @app.callback(
     Output('graph3', 'figure'),
-    [Input('xaxis-column', 'value')])
-
-def update_graph3(xaxis_column_name):
+    [Input('xaxis-column', 'value'),
+     Input('yaxis-column', 'value')])
+        
+def update_graph3(xaxis_column_name, year_value):
     if xaxis_column_name == 'Argentina' or xaxis_column_name == 'Chile' or xaxis_column_name == 'Colombia':
-        table_rama = ramas.loc[ramas['pais']==xaxis_column_name]
+        table_rama = ramas.loc[(ramas['pais']==xaxis_column_name) & ramas['fecha_online'].
+                        isin(year_value)].sort_values(by='conteo', ascending=False)
     else:
         table_rama=[]
 
-    return px.treemap(table_rama, path=['rama_de_actividad'], values='conteo',
+    fig = px.treemap(table_rama, path=['rama_de_actividad'], values='conteo',
                   color='conteo', hover_data=['rama_de_actividad'],
                   color_continuous_scale='Greens',
-                  title = {'text':'Distribución de ramas de actividad**', 'x':0.5}
-                  )
+                  title = {'text':'Distribución de ramas de actividad‡', 'x':0.5})
+    
+    fig.update_layout(margin=dict(b=5, l=30), height=430)
+    
+    return  fig
+
 
 @app.callback(
     Output('graph2', 'figure'),
     [Input('xaxis-column', 'value')])
 
 def update_graph2(xaxis_column_name):
-    table_salarios = salarios.loc[salarios['pais']==xaxis_column_name]
-    table_salarios = table_salarios[~(np.abs(table_salarios.salario-table_salarios.salario.mean()) > (2.2*table_salarios.salario.std()))]
-    if xaxis_column_name=='Colombia':
-        table_salarios = table_salarios[table_salarios['salario']>600000]
-    if xaxis_column_name=='Chile':
-        table_salarios = table_salarios[table_salarios['salario']>100000]
-    
-    
-    fig = px.histogram(table_salarios, x="salario",marginal='box',nbins=20,
-                         title={'text': "Histograma y Boxplot de la distribución salarial**", 'x':0.5},
-                         color_discrete_sequence=px.colors.qualitative.Safe,
-                         template="simple_white",
-                         )
+    table_g = salarios.loc[salarios['pais']==xaxis_column_name]
+    fig = px.bar(table_g, x='fecha_online', y='url_oferta', 
+                    color="median",
+                         title={'text': "Nuevos anuncios según categoría salarial‡", 'x':0.5})
 
-    fig.update_layout(template="simple_white", 
-                      xaxis_title="Salario mensual en moneda local nominal",
-                      yaxis_title="Densidad"
-                      )
-    return fig  
+    fig.update_xaxes(showline=True, linewidth=1, linecolor='black', showspikes=True)
+    fig.update_yaxes(showspikes=True, showline=True, linewidth=1, linecolor='black')
 
+    fig.update_layout(
+    xaxis_title="",
+    yaxis_title="Número de anuncios",
+    plot_bgcolor='rgba(0,0,0,0)',
+    legend_title_text='',
+    barmode='group',
+    legend_orientation="h")
+
+    return  fig
 
 @app.callback(
     Output('graph4', 'figure'),
@@ -208,23 +220,25 @@ def update_graph2(xaxis_column_name):
 def update_graph4(xaxis_column_name):
     google2 = google.loc[google['pais']==xaxis_column_name]
     area = px.area(google2, x="semana", y="workplaces_percent_change_from_baseline",
-	       title={'text': "Google's 'Tendencias de movilidad hacia lugares de trabajo'", 'x':0.5},
+	       title={'text': "Tendencias de movilidad hacia lugares de trabajo", 'x':0.5},
            color="workplaces_percent_change_from_baseline",
            color_discrete_sequence= px.colors.sequential.thermal)
     area.layout.showlegend = False
     area.update_layout(template="simple_white", 
                       xaxis_title="Semana (ISO 8601)",
-                      yaxis_title="Cambio en relación con línea base (%)"
-                      )
+                      yaxis_title="Cambio en relación con línea base (%)",
+                      margin=dict(b=5, l=25))
 
     return area
 
 @app.callback(
     Output('graph5', 'figure'),
-    [Input('xaxis-column', 'value')])
+    [Input('xaxis-column', 'value'),
+     Input('yaxis-column', 'value')])
         
-def update_graph5(xaxis_column_name):
-    table3 = anuncios_empresa.loc[anuncios_empresa['pais']==xaxis_column_name].sort_values(by='conteo', ascending=False)
+def update_graph5(xaxis_column_name, year_value):
+    table3 = anuncios_empresa.loc[(anuncios_empresa['pais']==xaxis_column_name) & anuncios_empresa['fecha_online'].\
+                                  isin(year_value)].sort_values(by='conteo', ascending=False)
     table3.loc[table3['conteo']>20,'conteo']=20
     colors = [plotly.colors.DEFAULT_PLOTLY_COLORS[random.randrange(1, 10)] for i in range(30)]
 
@@ -239,15 +253,16 @@ def update_graph5(xaxis_column_name):
 
     return {'data': [data],'layout' : go.Layout(xaxis={'showgrid': False, 'showticklabels': False, 'zeroline': False, 'showline':True, 'mirror':True},
                                                 yaxis={'showgrid': False, 'showticklabels': False, 'zeroline': False, 'showline':True, 'mirror':True},
-                                                title={'text': "15 empresas con más anuncios**",'y':0.9,'x':0.5, 'xanchor': 'center','yanchor': 'top'})
+                                                title={'text': "15 empresas con más anuncios‡",'y':0.9,'x':0.5, 'xanchor': 'center','yanchor': 'top'},
+                                                height=425, width=650,
+                                                margin=dict(b=5, l=80))
             }
-
-    table3 = anuncios_empresa.loc[anuncios_empresa['pais']=='Colombia'].sort_values(by='conteo', ascending=False)
 
 
 
 if __name__ == '__main__':
     app.run_server(debug=False)
+
 
 
 
