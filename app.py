@@ -1,6 +1,9 @@
-#!/usr/bin/env python
 # -*- coding: utf-8 -*-
+"""
+Created on Fri Apr 10 15:28:03 2020
 
+@author: unily
+"""
 
 import dash
 import dash_core_components as dcc
@@ -34,7 +37,7 @@ app.layout = html.Div(children=[
     style={'textAlign': 'center', 
             }
     ),
-    html.H3(children='Observatorio de vacantes de empleo †',
+    html.H3(children='Observatorio de vacantes de empleo *',
         style={'textAlign': 'center'
                 },
 ),
@@ -59,7 +62,9 @@ app.layout = html.Div(children=[
               style={'width': '48%', 'display': 'inline'},
               config = {'displaylogo': False}),
         ]),
-        html.P(['Fuente: con base en datos descargados de Computrabajo e Infojobs.', html.Br(),'*No todos los países cuentan con la variable de no. de vacantes por aviso.'],
+        html.P(['Fuente: con base en datos descargados de Computrabajo e Infojobs.', html.Br(),'†No todos los países cuentan con la variable de no. de vacantes por aviso.',
+                html.Br(),'Cada punto de datos corresponde al número de nuevos anuncios (y/o vacantes) publicadas por los portales de empleo en la semana particular.',
+                html.Br(),'El número de plazas de empleo (vacantes) por anuncio individual se limita a un techo de 300.'],
                 style={'color': 'black', 'fontSize': 10, 'marginBottom': 25, 'marginTop': 15, 'marginLeft': 65}),
 
         dcc.Graph(id='graph2',
@@ -70,7 +75,8 @@ app.layout = html.Div(children=[
             config = {'displaylogo': False}),
                    html.P(['Fuente: con base en datos descargados de Computrabajo e Infojobs.', html.Br(),'‡Se limitan salarios con distancia menor a 2.2 desviaciones estándar de la media.'],
                 style={'width': '48%', 'display': 'inline-block', 'fontSize': 10, 'marginTop': 1, 'marginBottom': 25, 'marginLeft': 35}),
-                html.P('Fuente: https://www.google.com/covid19/mobility/',
+                html.P(['Fuente: Google', html.Br(),'‡La línea base es el valor medio, para el día correspondiente de la semana, durante el período del 3 de enero al 6 de febrero de 2020.',\
+                       html.Br(),'Para más información, consultar: https://www.google.com/covid19/mobility/'],
                             style={'width': '48%', 'display': 'inline-block', 'fontSize': 10,  'marginBottom': 25, 'marginLeft': 5}),        
         html.Div([html.P("Seleccione un mes o grupo de meses:",
                          style={'marginTop': '2em','marginBottom': '1em',
@@ -93,16 +99,19 @@ app.layout = html.Div(children=[
             dcc.Graph(id='graph5',
             style={'width': '48%', 'display': 'inline-block'},
             config = {'displaylogo': False}),
-                     html.P(['Fuente: con base en datos descargados de Computrabajo e Infojobs.', html.Br(),'‡Clasificación de ramas provista por el portal (not CIIU). Solo ARG, CHL, y COL tienen info para esta variable.'],
+                     html.P(['Fuente: con base en datos descargados de Computrabajo e Infojobs.', html.Br(),'‡Clasificación de ramas provista por el portal (no es CIIU). Solo ARG, CHL, y COL tienen info para esta variable.'],
                 style={'width': '48%', 'display': 'inline-block', 'fontSize': 10, 'marginLeft': 35}),
-                     html.P(['Fuente: con base en datos descargados de Computrabajo e Infojobs.'],
+                     html.P(['Fuente: con base en datos descargados de Computrabajo e Infojobs. ‡Durante el mes(es) y país seleccionado.'],
                             style={'width': '48%', 'display': 'inline-block', 'fontSize': 10, 'marginBottom': 25, 'marginLeft': 12}),
             ]),
 
-            html.Div(["† Desarrollado en Python por: ",html.A("Alvaro Altamirano Montoya", href='https://www.linkedin.com/in/%C3%A1lvaro-altamirano-montoya-b3857659/?locale=en_US', target="_blank"),
+            html.Div(["* Desarrollado en Python por: ",html.A("Alvaro Altamirano Montoya", href='https://www.linkedin.com/in/%C3%A1lvaro-altamirano-montoya-b3857659/?locale=en_US', target="_blank"),
                 ' con base en datos descargados por ',
                 html.A("Alvaro Altamiano Montoya", href='https://www.linkedin.com/in/%C3%A1lvaro-altamirano-montoya-b3857659/', target="_blank"),
-                       ' y ', html.A("Roberto Sánchez Ávalos", href='https://www.linkedin.com/in/rsanchezavalos/', target="_blank"), '.'
+                       ' y ', html.A("Roberto Sánchez Ávalos", href='https://www.linkedin.com/in/rsanchezavalos/', target="_blank"), '. Las vacantes son\
+                       descargadas continuamente mediante la librería BeautifulSoup, y posteriormente ordenadas en bases de datos relacionales de texto plano (csv).\
+                       Estas bases de datos permiten la creación de los indicadores presentados en esta página. La labor de de-duplicación sigue un proceso de dos etapas,\
+		       usando primero el URL y luego metodología de record linkage. Solo se presentan datos de un portal por país.'
             ]),
 
 ])
@@ -132,7 +141,7 @@ def update_graph(xaxis_column_name, yaxis_type):
             'yanchor': 'bottom', 'showline':True,'showgrid':False,'zeroline': False,
             'linewidth':1.5, 'linecolor':'black', 'showspikes':True},  
         yaxis={
-            'title': 'Número*',
+            'title': 'Número†',
             'type': 'linear' if yaxis_type == 'Lineal' else 'log',
             'showline':True, 'showgrid':True,'zeroline': False,
             'linewidth':1.5, 'linecolor':'black', 'showspikes':True},
@@ -226,7 +235,7 @@ def update_graph4(xaxis_column_name):
     area.layout.showlegend = False
     area.update_layout(template="simple_white", 
                       xaxis_title="Semana (ISO 8601)",
-                      yaxis_title="Cambio en relación con línea base (%)",
+                      yaxis_title="Cambio en relación con línea base (%)‡",
                       margin=dict(b=5, l=25))
 
     return area
