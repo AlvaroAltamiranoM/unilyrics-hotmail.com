@@ -111,7 +111,7 @@ app.layout = html.Div(children=[
                        ' y ', html.A("Roberto Sánchez Ávalos", href='https://www.linkedin.com/in/rsanchezavalos/', target="_blank"), '. Las vacantes son\
                        descargadas continuamente mediante la librería BeautifulSoup, y posteriormente ordenadas en bases de datos relacionales de texto plano (csv).\
                        Estas bases de datos permiten la creación de los indicadores presentados en esta página. La labor de de-duplicación sigue un proceso de dos etapas,\
-		       usando primero el URL y luego metodología de record linkage. Solo se presentan datos de un portal por país.'
+		       usando primero el URL y luego se aplica una metodología de record linkage. Solo se presentan datos de un portal por país.'
             ]),
 
 ])
