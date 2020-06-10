@@ -105,7 +105,7 @@ app.layout = html.Div(children=[
                             style={'width': '48%', 'display': 'inline-block', 'fontSize': 10, 'marginBottom': 25, 'marginLeft': 12}),
             ]),
 
-            html.Div(["* Desarrollado en Python por: ",html.A("Alvaro Altamirano Montoya", href='https://www.linkedin.com/in/%C3%A1lvaro-altamirano-montoya-b3857659/?locale=en_US', target="_blank"),
+            html.Div(["* Desarrollado en Python por: ",html.A("Alvaro Altamirano Montoya", href='https://github.com/AlvaroAltamiranoM/vacantes_lac', target="_blank"),
                 ' con base en datos descargados por ',
                 html.A("Alvaro Altamiano Montoya", href='https://www.linkedin.com/in/%C3%A1lvaro-altamirano-montoya-b3857659/', target="_blank"),
                        ' y ', html.A("Roberto Sánchez Ávalos", href='https://www.linkedin.com/in/rsanchezavalos/', target="_blank"), '. Las vacantes son\
