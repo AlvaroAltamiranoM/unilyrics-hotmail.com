@@ -136,7 +136,7 @@ html.P(['Fuente: con base en datos descargados de Computrabajo e Infojobs.',
 
             html.Div(["* Desarrollado en Python por: ",html.A("Alvaro Altamirano Montoya", href='https://www.linkedin.com/in/%C3%A1lvaro-altamirano-montoya-b3857659/?locale=en_US', target="_blank"),
                 ' con base en datos descargados por ',
-                html.A("Alvaro Altamiano Montoya", href='https://www.linkedin.com/in/%C3%A1lvaro-altamirano-montoya-b3857659/', target="_blank"),
+                html.A("Alvaro Altamirano Montoya", href='https://www.linkedin.com/in/%C3%A1lvaro-altamirano-montoya-b3857659/', target="_blank"),
                        ' y ', html.A("Roberto Sánchez Ávalos", href='https://www.linkedin.com/in/rsanchezavalos/', target="_blank"), '. Las vacantes son\
                        descargadas continuamente mediante la librería BeautifulSoup, y posteriormente ordenadas en bases de datos relacionales de texto plano (csv).\
                        Estas bases de datos permiten la creación de los indicadores presentados en esta página.'
