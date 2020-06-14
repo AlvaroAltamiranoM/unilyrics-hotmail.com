@@ -15,7 +15,7 @@ import plotly.express as px
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
-server = app.server
+#server = app.server
 #import vacantes_series
 #Data
 table1 = pd.read_csv(r'table1.csv', encoding='utf-8')
@@ -53,7 +53,7 @@ app.layout = html.Div(children=[
         ]),
 
 html.P(['Fuente: con base en datos descargados de Computrabajo e Infojobs.',
-                ' Cada punto de datos corresponde al número de nuevos anuncios publicados por los portales de empleo en la semana particular.'],
+                ' Cada punto de datos corresponde al número de nuevos anuncios publicados por los portales de empleo en la semana particular. La lista desplegable de la próxima sección enumera los países incluidos.'],
                 style={'color': 'black', 'fontSize': 10, 'marginBottom': 25, 'marginTop': 15, 'marginLeft': 65}),
         
     html.Div([
@@ -134,12 +134,14 @@ html.P(['Fuente: con base en datos descargados de Computrabajo e Infojobs.',
                             style={'width': '48%', 'display': 'inline-block', 'fontSize': 10, 'marginBottom': 25, 'marginLeft': 13}),
             ]),
 
-            html.Div(["* Desarrollado en Python por: ",html.A("Alvaro Altamirano Montoya", href='https://www.linkedin.com/in/%C3%A1lvaro-altamirano-montoya-b3857659/?locale=en_US', target="_blank"),
+            html.Div(["* Desarrollado en ", html.A("Python", href='https://github.com/AlvaroAltamiranoM/vacantes_lac', target="_blank"), ' por: Alvaro Altamirano Montoya',
                 ' con base en datos descargados por ',
                 html.A("Alvaro Altamirano Montoya", href='https://www.linkedin.com/in/%C3%A1lvaro-altamirano-montoya-b3857659/', target="_blank"),
                        ' y ', html.A("Roberto Sánchez Ávalos", href='https://www.linkedin.com/in/rsanchezavalos/', target="_blank"), '. Las vacantes son\
                        descargadas continuamente mediante la librería BeautifulSoup, y posteriormente ordenadas en bases de datos relacionales de texto plano (csv).\
-                       Estas bases de datos permiten la creación de los indicadores presentados en esta página.'
+                       Estas bases de datos permiten la creación de los indicadores presentados en esta página. La labor de de-duplicación sigue un proceso de dos etapas,\
+		       	       usando primero el URL de cada vacante y luego se aplica una metodología de record-linkage. Solo se presentan datos de un portal por país.'
+                          
             ], style={'marginTop': '2em',
                                 'marginBottom': '1em','display': 'block',
                                 'borderTop': '1px solid #d6d6d6',
@@ -343,7 +345,4 @@ def update_graph5(xaxis_column_name, year_value):
 
 if __name__ == '__main__':
     app.run_server(debug=False)
-
-
-
 
