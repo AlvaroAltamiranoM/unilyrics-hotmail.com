@@ -15,19 +15,13 @@ import plotly.express as px
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
-#server = app.server
+server = app.server
 #import vacantes_series
 #Data
-table1 = pd.read_csv(r'table1.csv', encoding='utf-8')
 table3 = pd.read_csv(r'table3.csv', encoding='utf-8')
-table4 = pd.read_csv(r'table4.csv', encoding='utf-8')
 ramas = pd.read_csv(r'ramas.csv', encoding='utf-8')
-salarios = pd.read_csv(r'salarios.csv', encoding='utf-8')
-google = pd.read_csv(r'google.csv', encoding='utf-8')
-anuncios_empresa = pd.read_csv(r'empresa.csv', encoding='utf-8')
 
 app.title = 'Observatorio de vacantes'
-
 
 
 app.layout = html.Div(children=[
@@ -92,7 +86,7 @@ html.P(['Fuente: con base en datos descargados de Computrabajo e Infojobs.',
         ]),
         html.P(['Fuente: con base en datos descargados de Computrabajo e Infojobs.',' †No todos los países cuentan con la variable de no. de vacantes por aviso.',
                 ' Cada punto de datos corresponde al número de nuevos anuncios (y/o vacantes) publicadas por los portales de empleo en la semana particular.',
-                ' El número de plazas de empleo (vacantes) por anuncio individual se limita a un techo de 300.'],
+                ' El número de plazas de empleo (vacantes) por anuncio individual se limita a un techo de 200.'],
                 style={'color': 'black', 'fontSize': 10, 'marginBottom': 25, 'marginTop': 15, 'marginLeft': 65}),
 
         dcc.Graph(id='graph2',
@@ -134,13 +128,9 @@ html.P(['Fuente: con base en datos descargados de Computrabajo e Infojobs.',
                             style={'width': '48%', 'display': 'inline-block', 'fontSize': 10, 'marginBottom': 25, 'marginLeft': 13}),
             ]),
 
-            html.Div(["* Desarrollado en ", html.A("Python", href='https://github.com/AlvaroAltamiranoM/vacantes_lac', target="_blank"), ' por: Alvaro Altamirano Montoya',
-                ' con base en datos descargados por ',
-                html.A("Alvaro Altamirano Montoya", href='https://www.linkedin.com/in/%C3%A1lvaro-altamirano-montoya-b3857659/', target="_blank"),
-                       ' y ', html.A("Roberto Sánchez Ávalos", href='https://www.linkedin.com/in/rsanchezavalos/', target="_blank"), '. Las vacantes son\
-                       descargadas continuamente mediante la librería BeautifulSoup, y posteriormente ordenadas en bases de datos relacionales de texto plano (csv).\
-                       Estas bases de datos permiten la creación de los indicadores presentados en esta página. La labor de de-duplicación sigue un proceso de dos etapas,\
-		       	       usando primero el URL de cada vacante y luego se aplica una metodología de record-linkage. Solo se presentan datos de un portal por país.'
+            html.Div(["* Desarrollado en Python por ", html.A("Alvaro Altamirano Montoya", href='https://www.linkedin.com/in/%C3%A1lvaro-altamirano-montoya-b3857659/', target="_blank"),
+                '. Las vacantes son descargadas continuamente mediante la librería BeautifulSoup, y posteriormente ordenadas en bases de datos relacionales de texto plano (csv).\
+                       Estas bases de datos permiten la creación de los indicadores ilustrados en esta página. Solo se presentan datos de un portal por país.'
                           
             ], style={'marginTop': '2em',
                                 'marginBottom': '1em','display': 'block',
@@ -161,7 +151,7 @@ html.P(['Fuente: con base en datos descargados de Computrabajo e Infojobs.',
      Input('yaxis-type', 'value')])
 
 def update_graph0(data1, data2):
-
+        table1 = pd.read_csv(r'table1.csv', encoding='utf-8')
         data1 = go.Scatter(x=table1['semana'], y=table1['conteo'], name='Vacantes por semana',
                                  line=dict(color='royalblue', width=3), mode='lines')
         data2 =go.Scatter(x=table1['semana'], y=table1['conteo_MA'], name = 'Media móvil (3 semanas)',
@@ -190,6 +180,7 @@ def update_graph0(data1, data2):
      Input('yaxis-type', 'value')])
 
 def update_graph(xaxis_column_name, yaxis_type):
+    table4 = pd.read_csv(r'table4.csv', encoding='utf-8')
     table_g = table3.loc[table3['pais']==xaxis_column_name]
     #table_g['conteo_MA']= table_g['conteo'].rolling(window=3).mean()
     table_g2 = table4.loc[table4['pais']==xaxis_column_name]
@@ -271,6 +262,7 @@ def update_graph3(xaxis_column_name, year_value):
     [Input('xaxis-column', 'value')])
 
 def update_graph2(xaxis_column_name):
+    salarios = pd.read_csv(r'salarios.csv', encoding='utf-8')
     table_g = salarios.loc[salarios['pais']==xaxis_column_name]
     fig = px.bar(table_g, x='fecha_online', y='url_oferta', 
                     color="median",
@@ -301,11 +293,11 @@ def update_graph2(xaxis_column_name):
     [Input('xaxis-column', 'value')])
 
 def update_graph4(xaxis_column_name):
+    google = pd.read_csv(r'google.csv', encoding='utf-8')
     google2 = google.loc[google['pais']==xaxis_column_name]
     area = px.area(google2, x="semana", y="workplaces_percent_change_from_baseline",
 	       title={'text': "Tendencias de movilidad hacia lugares de trabajo", 'x':0.5},
-           color="workplaces_percent_change_from_baseline",
-           color_discrete_sequence= px.colors.sequential.thermal)
+           color_discrete_sequence=px.colors.sequential.Bluered)
     area.layout.showlegend = False
     area.update_layout(template="simple_white", 
                       xaxis_title="Semana (ISO 8601)",
@@ -320,6 +312,7 @@ def update_graph4(xaxis_column_name):
      Input('yaxis-column', 'value')])
         
 def update_graph5(xaxis_column_name, year_value):
+    anuncios_empresa = pd.read_csv(r'empresa.csv', encoding='utf-8')
     table3 = anuncios_empresa.loc[(anuncios_empresa['pais']==xaxis_column_name) & anuncios_empresa['fecha_online'].\
                                   isin(year_value)].sort_values(by='conteo', ascending=False)
     table3.loc[table3['conteo']>20,'conteo']=20
@@ -345,4 +338,3 @@ def update_graph5(xaxis_column_name, year_value):
 
 if __name__ == '__main__':
     app.run_server(debug=False)
-
