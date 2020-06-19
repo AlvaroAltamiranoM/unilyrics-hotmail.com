@@ -1,0 +1,415 @@
+fecha_online,pais,conteo,conteo_MA,semana
+0,Argentina,159,159.0,5 de enero
+0,Brasil,1334,1334.0,5 de enero
+0,Chile,165,165.0,5 de enero
+0,Colombia,86,86.0,5 de enero
+0,Costa Rica,15,15.0,5 de enero
+0,Rep. Dominicana,7,7.0,5 de enero
+0,Ecuador,114,114.0,5 de enero
+0,Guatemala,35,35.0,5 de enero
+0,Honduras,41,41.0,5 de enero
+0,Nicaragua,14,14.0,5 de enero
+0,Panamá,29,29.0,5 de enero
+0,Perú,259,259.0,5 de enero
+0,El Salvador,154,154.0,5 de enero
+0,Uruguay,29,29.0,5 de enero
+0,Venezuela,456,456.0,5 de enero
+1,Argentina,397,278.0,12 de enero
+1,Bolivia,2,2.0,12 de enero
+1,Brasil,2887,2110.5,12 de enero
+1,Chile,462,313.5,12 de enero
+1,Colombia,285,185.5,12 de enero
+1,Costa Rica,104,59.5,12 de enero
+1,Rep. Dominicana,22,14.5,12 de enero
+1,Ecuador,325,219.5,12 de enero
+1,Guatemala,198,116.5,12 de enero
+1,Honduras,126,83.5,12 de enero
+1,Nicaragua,50,32.0,12 de enero
+1,Panamá,78,53.5,12 de enero
+1,Perú,573,416.0,12 de enero
+1,Paraguay,5,5.0,12 de enero
+1,El Salvador,347,250.5,12 de enero
+1,Uruguay,39,34.0,12 de enero
+1,Venezuela,2343,1399.5,12 de enero
+2,Argentina,456,337.3333333333333,19 de enero
+2,Bolivia,4,3.0,19 de enero
+2,Brasil,6967,3729.3333333333335,19 de enero
+2,Chile,417,348.0,19 de enero
+2,Colombia,648,339.6666666666667,19 de enero
+2,Costa Rica,92,70.33333333333333,19 de enero
+2,Rep. Dominicana,37,22.0,19 de enero
+2,Ecuador,283,240.66666666666666,19 de enero
+2,Guatemala,153,128.66666666666666,19 de enero
+2,Honduras,102,89.66666666666667,19 de enero
+2,Nicaragua,38,34.0,19 de enero
+2,Panamá,113,73.33333333333333,19 de enero
+2,Perú,477,436.3333333333333,19 de enero
+2,Paraguay,10,7.5,19 de enero
+2,El Salvador,259,253.33333333333334,19 de enero
+2,Uruguay,74,47.333333333333336,19 de enero
+2,Venezuela,2019,1606.0,19 de enero
+3,Argentina,430,427.6666666666667,26 de enero
+3,Bolivia,11,5.666666666666667,26 de enero
+3,Brasil,7524,5792.666666666667,26 de enero
+3,Chile,443,440.6666666666667,26 de enero
+3,Colombia,724,552.3333333333334,26 de enero
+3,Costa Rica,101,99.0,26 de enero
+3,Rep. Dominicana,46,35.0,26 de enero
+3,Ecuador,292,300.0,26 de enero
+3,Guatemala,192,181.0,26 de enero
+3,Honduras,138,122.0,26 de enero
+3,Nicaragua,52,46.666666666666664,26 de enero
+3,Panamá,86,92.33333333333333,26 de enero
+3,Perú,437,495.6666666666667,26 de enero
+3,Paraguay,14,9.666666666666666,26 de enero
+3,El Salvador,289,298.3333333333333,26 de enero
+3,Uruguay,75,62.666666666666664,26 de enero
+3,Venezuela,2350,2237.3333333333335,26 de enero
+4,Argentina,925,603.6666666666666,2 de febrero
+4,Bolivia,5,6.666666666666667,2 de febrero
+4,Brasil,9090,7860.333333333333,2 de febrero
+4,Chile,1673,844.3333333333334,2 de febrero
+4,Colombia,1974,1115.3333333333333,2 de febrero
+4,Costa Rica,111,101.33333333333333,2 de febrero
+4,Rep. Dominicana,83,55.333333333333336,2 de febrero
+4,Ecuador,233,269.3333333333333,2 de febrero
+4,Guatemala,286,210.33333333333334,2 de febrero
+4,Honduras,188,142.66666666666666,2 de febrero
+4,Nicaragua,35,41.666666666666664,2 de febrero
+4,Panamá,93,97.33333333333333,2 de febrero
+4,Perú,1200,704.6666666666666,2 de febrero
+4,Paraguay,11,11.666666666666666,2 de febrero
+4,El Salvador,226,258.0,2 de febrero
+4,Uruguay,90,79.66666666666667,2 de febrero
+4,Venezuela,2191,2186.6666666666665,2 de febrero
+5,Argentina,3883,1746.0,9 de febrero
+5,Bolivia,164,60.0,9 de febrero
+5,Brasil,3638,6750.666666666667,9 de febrero
+5,Chile,4708,2274.6666666666665,9 de febrero
+5,Colombia,9025,3907.6666666666665,9 de febrero
+5,Costa Rica,431,214.33333333333334,9 de febrero
+5,Rep. Dominicana,117,82.0,9 de febrero
+5,Ecuador,570,365.0,9 de febrero
+5,Guatemala,1577,685.0,9 de febrero
+5,Honduras,419,248.33333333333334,9 de febrero
+5,Nicaragua,50,45.666666666666664,9 de febrero
+5,Panamá,177,118.66666666666667,9 de febrero
+5,Perú,9370,3669.0,9 de febrero
+5,Paraguay,101,42.0,9 de febrero
+5,El Salvador,995,503.3333333333333,9 de febrero
+5,Uruguay,330,165.0,9 de febrero
+5,Venezuela,2557,2366.0,9 de febrero
+6,Argentina,5191,3333.0,16 de febrero
+6,Bolivia,24,64.33333333333333,16 de febrero
+6,Brasil,6292,6340.0,16 de febrero
+6,Chile,5274,3885.0,16 de febrero
+6,Colombia,18637,9878.666666666666,16 de febrero
+6,Costa Rica,531,357.6666666666667,16 de febrero
+6,Rep. Dominicana,35,78.33333333333333,16 de febrero
+6,Ecuador,792,531.6666666666666,16 de febrero
+6,Guatemala,2171,1344.6666666666667,16 de febrero
+6,Honduras,441,349.3333333333333,16 de febrero
+6,Nicaragua,114,66.33333333333333,16 de febrero
+6,Panamá,129,133.0,16 de febrero
+6,Perú,15178,8582.666666666666,16 de febrero
+6,Paraguay,19,43.666666666666664,16 de febrero
+6,El Salvador,1329,850.0,16 de febrero
+6,Uruguay,375,265.0,16 de febrero
+6,Venezuela,2646,2464.6666666666665,16 de febrero
+7,Bolivia,8,65.33333333333333,23 de febrero
+7,Brasil,8738,6222.666666666667,23 de febrero
+7,Chile,1,3327.6666666666665,23 de febrero
+7,Colombia,835,9499.0,23 de febrero
+7,Costa Rica,73,345.0,23 de febrero
+7,Rep. Dominicana,53,68.33333333333333,23 de febrero
+7,Ecuador,250,537.3333333333334,23 de febrero
+7,Guatemala,168,1305.3333333333333,23 de febrero
+7,Honduras,135,331.6666666666667,23 de febrero
+7,Nicaragua,52,72.0,23 de febrero
+7,Panamá,75,127.0,23 de febrero
+7,Paraguay,4,41.333333333333336,23 de febrero
+7,El Salvador,231,851.6666666666666,23 de febrero
+7,Uruguay,66,257.0,23 de febrero
+7,Venezuela,2306,2503.0,23 de febrero
+8,Argentina,203,3092.3333333333335,1 de marzo
+8,Bolivia,1,11.0,1 de marzo
+8,Brasil,4588,6539.333333333333,1 de marzo
+8,Chile,195,1823.3333333333333,1 de marzo
+8,Colombia,2527,7333.0,1 de marzo
+8,Costa Rica,92,232.0,1 de marzo
+8,Rep. Dominicana,24,37.333333333333336,1 de marzo
+8,Ecuador,157,399.6666666666667,1 de marzo
+8,Guatemala,204,847.6666666666666,1 de marzo
+8,Honduras,110,228.66666666666666,1 de marzo
+8,Nicaragua,38,68.0,1 de marzo
+8,Panamá,67,90.33333333333333,1 de marzo
+8,Paraguay,9,10.666666666666666,1 de marzo
+8,El Salvador,226,595.3333333333334,1 de marzo
+8,Uruguay,57,166.0,1 de marzo
+8,Venezuela,1523,2158.3333333333335,1 de marzo
+9,Argentina,1984,2459.3333333333335,8 de marzo
+9,Bolivia,4,4.333333333333333,8 de marzo
+9,Brasil,4332,5886.0,8 de marzo
+9,Chile,1125,440.3333333333333,8 de marzo
+9,Colombia,14646,6002.666666666667,8 de marzo
+9,Costa Rica,272,145.66666666666666,8 de marzo
+9,Rep. Dominicana,48,41.666666666666664,8 de marzo
+9,Ecuador,388,265.0,8 de marzo
+9,Guatemala,891,421.0,8 de marzo
+9,Honduras,253,166.0,8 de marzo
+9,Nicaragua,48,46.0,8 de marzo
+9,Panamá,110,84.0,8 de marzo
+9,Perú,80,8209.333333333334,8 de marzo
+9,Paraguay,21,11.333333333333334,8 de marzo
+9,El Salvador,737,398.0,8 de marzo
+9,Uruguay,212,111.66666666666667,8 de marzo
+9,Venezuela,2726,2185.0,8 de marzo
+10,Argentina,7291,3159.3333333333335,15 de marzo
+10,Bolivia,121,42.0,15 de marzo
+10,Brasil,3894,4271.333333333333,15 de marzo
+10,Chile,3663,1661.0,15 de marzo
+10,Colombia,31276,16149.666666666666,15 de marzo
+10,Costa Rica,368,244.0,15 de marzo
+10,Rep. Dominicana,35,35.666666666666664,15 de marzo
+10,Ecuador,478,341.0,15 de marzo
+10,Guatemala,1626,907.0,15 de marzo
+10,Honduras,279,214.0,15 de marzo
+10,Nicaragua,106,64.0,15 de marzo
+10,Panamá,76,84.33333333333333,15 de marzo
+10,Perú,6448,7235.333333333333,15 de marzo
+10,Paraguay,58,29.333333333333332,15 de marzo
+10,El Salvador,798,587.0,15 de marzo
+10,Uruguay,266,178.33333333333334,15 de marzo
+10,Venezuela,2503,2250.6666666666665,15 de marzo
+11,Argentina,801,3358.6666666666665,22 de marzo
+11,Bolivia,12,45.666666666666664,22 de marzo
+11,Brasil,6471,4899.0,22 de marzo
+11,Chile,5640,3476.0,22 de marzo
+11,Colombia,15275,20399.0,22 de marzo
+11,Costa Rica,183,274.3333333333333,22 de marzo
+11,Rep. Dominicana,76,53.0,22 de marzo
+11,Ecuador,133,333.0,22 de marzo
+11,Guatemala,633,1050.0,22 de marzo
+11,Honduras,65,199.0,22 de marzo
+11,Nicaragua,29,61.0,22 de marzo
+11,Panamá,35,73.66666666666667,22 de marzo
+11,Paraguay,15,31.333333333333332,22 de marzo
+11,El Salvador,391,642.0,22 de marzo
+11,Uruguay,93,190.33333333333334,22 de marzo
+11,Venezuela,543,1924.0,22 de marzo
+12,Argentina,4871,4321.0,29 de marzo
+12,Brasil,4561,4975.333333333333,29 de marzo
+12,Chile,64,3122.3333333333335,29 de marzo
+12,Colombia,30475,25675.333333333332,29 de marzo
+12,Costa Rica,30,193.66666666666666,29 de marzo
+12,Rep. Dominicana,2,37.666666666666664,29 de marzo
+12,Ecuador,32,214.33333333333334,29 de marzo
+12,Guatemala,68,775.6666666666666,29 de marzo
+12,Honduras,32,125.33333333333333,29 de marzo
+12,Nicaragua,13,49.333333333333336,29 de marzo
+12,Panamá,23,44.666666666666664,29 de marzo
+12,Paraguay,5,26.0,29 de marzo
+12,El Salvador,38,409.0,29 de marzo
+12,Uruguay,21,126.66666666666667,29 de marzo
+12,Venezuela,448,1164.6666666666667,29 de marzo
+13,Argentina,5249,3640.3333333333335,5 de abril
+13,Bolivia,6,46.333333333333336,5 de abril
+13,Brasil,6601,5877.666666666667,5 de abril
+13,Chile,1783,2495.6666666666665,5 de abril
+13,Colombia,8909,18219.666666666668,5 de abril
+13,Costa Rica,120,111.0,5 de abril
+13,Rep. Dominicana,5,27.666666666666668,5 de abril
+13,Ecuador,74,79.66666666666667,5 de abril
+13,Guatemala,519,406.6666666666667,5 de abril
+13,Honduras,98,65.0,5 de abril
+13,Nicaragua,24,22.0,5 de abril
+13,Panamá,8,22.0,5 de abril
+13,Perú,2523,3017.0,5 de abril
+13,Paraguay,12,10.666666666666666,5 de abril
+13,El Salvador,249,226.0,5 de abril
+13,Uruguay,120,78.0,5 de abril
+13,Venezuela,342,444.3333333333333,5 de abril
+14,Argentina,2619,4246.333333333333,12 de abril
+14,Bolivia,4,7.333333333333333,12 de abril
+14,Brasil,3821,4994.333333333333,12 de abril
+14,Chile,984,943.6666666666666,12 de abril
+14,Colombia,3882,14422.0,12 de abril
+14,Costa Rica,39,63.0,12 de abril
+14,Rep. Dominicana,98,35.0,12 de abril
+14,Ecuador,42,49.333333333333336,12 de abril
+14,Guatemala,122,236.33333333333334,12 de abril
+14,Honduras,28,52.666666666666664,12 de abril
+14,Nicaragua,103,46.666666666666664,12 de abril
+14,Panamá,9,13.333333333333334,12 de abril
+14,Perú,335,3102.0,12 de abril
+14,Paraguay,98,38.333333333333336,12 de abril
+14,El Salvador,69,118.66666666666667,12 de abril
+14,Uruguay,28,56.333333333333336,12 de abril
+14,Venezuela,452,414.0,12 de abril
+15,Argentina,1675,3181.0,19 de abril
+15,Bolivia,188,66.0,19 de abril
+15,Brasil,3349,4590.333333333333,19 de abril
+15,Chile,584,1117.0,19 de abril
+15,Colombia,2508,5099.666666666667,19 de abril
+15,Costa Rica,102,87.0,19 de abril
+15,Rep. Dominicana,10,37.666666666666664,19 de abril
+15,Ecuador,73,63.0,19 de abril
+15,Guatemala,238,293.0,19 de abril
+15,Honduras,31,52.333333333333336,19 de abril
+15,Nicaragua,22,49.666666666666664,19 de abril
+15,Panamá,9,8.666666666666666,19 de abril
+15,Perú,880,1246.0,19 de abril
+15,Paraguay,10,40.0,19 de abril
+15,El Salvador,111,143.0,19 de abril
+15,Uruguay,52,66.66666666666667,19 de abril
+15,Venezuela,444,412.6666666666667,19 de abril
+16,Argentina,4223,2839.0,26 de abril
+16,Bolivia,5,65.66666666666667,26 de abril
+16,Brasil,2414,3194.6666666666665,26 de abril
+16,Chile,1906,1158.0,26 de abril
+16,Colombia,10030,5473.333333333333,26 de abril
+16,Costa Rica,70,70.33333333333333,26 de abril
+16,Rep. Dominicana,12,40.0,26 de abril
+16,Ecuador,52,55.666666666666664,26 de abril
+16,Guatemala,226,195.33333333333334,26 de abril
+16,Honduras,80,46.333333333333336,26 de abril
+16,Nicaragua,21,48.666666666666664,26 de abril
+16,Panamá,15,11.0,26 de abril
+16,Perú,230,481.6666666666667,26 de abril
+16,Paraguay,11,39.666666666666664,26 de abril
+16,El Salvador,117,99.0,26 de abril
+16,Uruguay,56,45.333333333333336,26 de abril
+16,Venezuela,429,441.6666666666667,26 de abril
+17,Argentina,2942,2946.6666666666665,3 de mayo
+17,Bolivia,3,65.33333333333333,3 de mayo
+17,Brasil,5892,3885.0,3 de mayo
+17,Chile,1090,1193.3333333333333,3 de mayo
+17,Colombia,4308,5615.333333333333,3 de mayo
+17,Costa Rica,78,83.33333333333333,3 de mayo
+17,Rep. Dominicana,14,12.0,3 de mayo
+17,Ecuador,66,63.666666666666664,3 de mayo
+17,Guatemala,285,249.66666666666666,3 de mayo
+17,Honduras,52,54.333333333333336,3 de mayo
+17,Nicaragua,56,33.0,3 de mayo
+17,Panamá,15,13.0,3 de mayo
+17,Perú,795,635.0,3 de mayo
+17,El Salvador,155,127.66666666666667,3 de mayo
+17,Uruguay,62,56.666666666666664,3 de mayo
+17,Venezuela,443,438.6666666666667,3 de mayo
+18,Argentina,1885,3016.6666666666665,10 de mayo
+18,Bolivia,230,79.33333333333333,10 de mayo
+18,Brasil,4422,4242.666666666667,10 de mayo
+18,Chile,1208,1401.3333333333333,10 de mayo
+18,Colombia,4908,6415.333333333333,10 de mayo
+18,Costa Rica,102,83.33333333333333,10 de mayo
+18,Rep. Dominicana,128,51.333333333333336,10 de mayo
+18,Ecuador,79,65.66666666666667,10 de mayo
+18,Guatemala,277,262.6666666666667,10 de mayo
+18,Honduras,52,61.333333333333336,10 de mayo
+18,Nicaragua,132,69.66666666666667,10 de mayo
+18,Panamá,23,17.666666666666668,10 de mayo
+18,Perú,1109,711.3333333333334,10 de mayo
+18,Paraguay,118,46.333333333333336,10 de mayo
+18,El Salvador,130,134.0,10 de mayo
+18,Uruguay,86,68.0,10 de mayo
+18,Venezuela,768,546.6666666666666,10 de mayo
+19,Argentina,841,1889.3333333333333,17 de mayo
+19,Brasil,1915,4076.3333333333335,17 de mayo
+19,Chile,1038,1112.0,17 de mayo
+19,Colombia,5499,4905.0,17 de mayo
+19,Costa Rica,88,89.33333333333333,17 de mayo
+19,Rep. Dominicana,15,52.333333333333336,17 de mayo
+19,Ecuador,87,77.33333333333333,17 de mayo
+19,Guatemala,307,289.6666666666667,17 de mayo
+19,Honduras,49,51.0,17 de mayo
+19,Nicaragua,24,70.66666666666667,17 de mayo
+19,Panamá,31,23.0,17 de mayo
+19,Perú,1723,1209.0,17 de mayo
+19,Paraguay,1,43.333333333333336,17 de mayo
+19,El Salvador,104,129.66666666666666,17 de mayo
+19,Uruguay,62,70.0,17 de mayo
+19,Venezuela,765,658.6666666666666,17 de mayo
+20,Argentina,810,1178.6666666666667,24 de mayo
+20,Bolivia,4,79.0,24 de mayo
+20,Brasil,2803,3046.6666666666665,24 de mayo
+20,Chile,855,1033.6666666666667,24 de mayo
+20,Colombia,5177,5194.666666666667,24 de mayo
+20,Costa Rica,82,90.66666666666667,24 de mayo
+20,Rep. Dominicana,5,49.333333333333336,24 de mayo
+20,Ecuador,76,80.66666666666667,24 de mayo
+20,Guatemala,234,272.6666666666667,24 de mayo
+20,Honduras,36,45.666666666666664,24 de mayo
+20,Nicaragua,24,60.0,24 de mayo
+20,Panamá,21,25.0,24 de mayo
+20,Perú,1649,1493.6666666666667,24 de mayo
+20,Paraguay,6,41.666666666666664,24 de mayo
+20,El Salvador,129,121.0,24 de mayo
+20,Uruguay,61,69.66666666666667,24 de mayo
+20,Venezuela,758,763.6666666666666,24 de mayo
+21,Argentina,900,850.3333333333334,31 de mayo
+21,Bolivia,1,78.33333333333333,31 de mayo
+21,Brasil,3603,2773.6666666666665,31 de mayo
+21,Chile,1079,990.6666666666666,31 de mayo
+21,Colombia,4931,5202.333333333333,31 de mayo
+21,Costa Rica,114,94.66666666666667,31 de mayo
+21,Rep. Dominicana,14,11.333333333333334,31 de mayo
+21,Ecuador,75,79.33333333333333,31 de mayo
+21,Guatemala,294,278.3333333333333,31 de mayo
+21,Honduras,87,57.333333333333336,31 de mayo
+21,Nicaragua,12,20.0,31 de mayo
+21,Panamá,39,30.333333333333332,31 de mayo
+21,Perú,2083,1818.3333333333333,31 de mayo
+21,El Salvador,101,111.33333333333333,31 de mayo
+21,Uruguay,69,64.0,31 de mayo
+21,Venezuela,742,755.0,31 de mayo
+22,Argentina,1016,908.6666666666666,7 de junio
+22,Bolivia,234,79.66666666666667,7 de junio
+22,Brasil,6078,4161.333333333333,7 de junio
+22,Chile,1317,1083.6666666666667,7 de junio
+22,Colombia,6869,5659.0,7 de junio
+22,Costa Rica,111,102.33333333333333,7 de junio
+22,Rep. Dominicana,12,10.333333333333334,7 de junio
+22,Ecuador,126,92.33333333333333,7 de junio
+22,Guatemala,413,313.6666666666667,7 de junio
+22,Honduras,72,65.0,7 de junio
+22,Nicaragua,145,60.333333333333336,7 de junio
+22,Panamá,50,36.666666666666664,7 de junio
+22,Perú,3045,2259.0,7 de junio
+22,Paraguay,114,40.333333333333336,7 de junio
+22,El Salvador,146,125.33333333333333,7 de junio
+22,Uruguay,90,73.33333333333333,7 de junio
+22,Venezuela,1038,846.0,7 de junio
+23,Argentina,995,970.3333333333334,14 de junio
+23,Bolivia,8,81.0,14 de junio
+23,Brasil,2990,4223.666666666667,14 de junio
+23,Chile,1388,1261.3333333333333,14 de junio
+23,Colombia,5647,5815.666666666667,14 de junio
+23,Costa Rica,133,119.33333333333333,14 de junio
+23,Rep. Dominicana,147,57.666666666666664,14 de junio
+23,Ecuador,139,113.33333333333333,14 de junio
+23,Guatemala,245,317.3333333333333,14 de junio
+23,Honduras,71,76.66666666666667,14 de junio
+23,Nicaragua,28,61.666666666666664,14 de junio
+23,Panamá,27,38.666666666666664,14 de junio
+23,Perú,2376,2501.3333333333335,14 de junio
+23,Paraguay,4,41.333333333333336,14 de junio
+23,El Salvador,161,136.0,14 de junio
+23,Uruguay,70,76.33333333333333,14 de junio
+23,Venezuela,1245,1008.3333333333334,14 de junio
+24,Argentina,760,923.6666666666666,21 de junio
+24,Bolivia,140,127.33333333333333,21 de junio
+24,Brasil,2997,4021.6666666666665,21 de junio
+24,Chile,1583,1429.3333333333333,21 de junio
+24,Colombia,4984,5833.333333333333,21 de junio
+24,Costa Rica,94,112.66666666666667,21 de junio
+24,Rep. Dominicana,22,60.333333333333336,21 de junio
+24,Ecuador,113,126.0,21 de junio
+24,Guatemala,276,311.3333333333333,21 de junio
+24,Honduras,70,71.0,21 de junio
+24,Nicaragua,95,89.33333333333333,21 de junio
+24,Panamá,19,32.0,21 de junio
+24,Perú,2607,2676.0,21 de junio
+24,Paraguay,75,64.33333333333333,21 de junio
+24,El Salvador,178,161.66666666666666,21 de junio
+24,Uruguay,62,74.0,21 de junio
+24,Venezuela,1101,1128.0,21 de junio
