@@ -10,9 +10,9 @@ Argentina,Abril,Por encima de la mediana salarial,1143
 Argentina,Mayo,Por debajo de la mediana salarial,235
 Argentina,Mayo,Por encima de la mediana salarial,368
 Argentina,Junio,Por debajo de la mediana salarial,243
-Argentina,Junio,Por encima de la mediana salarial,353
-Argentina,Julio,Por debajo de la mediana salarial,26
-Argentina,Julio,Por encima de la mediana salarial,38
+Argentina,Junio,Por encima de la mediana salarial,351
+Argentina,Julio,Por debajo de la mediana salarial,95
+Argentina,Julio,Por encima de la mediana salarial,115
 Bolivia,Enero,Por debajo de la mediana salarial,1
 Bolivia,Enero,Por encima de la mediana salarial,5
 Bolivia,Febrero,Por debajo de la mediana salarial,2
@@ -26,19 +26,19 @@ Bolivia,Junio,Por debajo de la mediana salarial,1
 Bolivia,Junio,Por encima de la mediana salarial,12
 Bolivia,Julio,Por encima de la mediana salarial,3
 Brasil,Enero,Por debajo de la mediana salarial,5223
-Brasil,Enero,Por encima de la mediana salarial,7564
-Brasil,Febrero,Por debajo de la mediana salarial,3151
-Brasil,Febrero,Por encima de la mediana salarial,8437
-Brasil,Marzo,Por debajo de la mediana salarial,2606
-Brasil,Marzo,Por encima de la mediana salarial,8782
+Brasil,Enero,Por encima de la mediana salarial,7576
+Brasil,Febrero,Por debajo de la mediana salarial,3198
+Brasil,Febrero,Por encima de la mediana salarial,8678
+Brasil,Marzo,Por debajo de la mediana salarial,2678
+Brasil,Marzo,Por encima de la mediana salarial,9151
 Brasil,Abril,Por debajo de la mediana salarial,1861
-Brasil,Abril,Por encima de la mediana salarial,7181
+Brasil,Abril,Por encima de la mediana salarial,7218
 Brasil,Mayo,Por debajo de la mediana salarial,1899
-Brasil,Mayo,Por encima de la mediana salarial,6967
-Brasil,Junio,Por debajo de la mediana salarial,2417
-Brasil,Junio,Por encima de la mediana salarial,8043
-Brasil,Julio,Por debajo de la mediana salarial,766
-Brasil,Julio,Por encima de la mediana salarial,2510
+Brasil,Mayo,Por encima de la mediana salarial,6986
+Brasil,Junio,Por debajo de la mediana salarial,2552
+Brasil,Junio,Por encima de la mediana salarial,8555
+Brasil,Julio,Por debajo de la mediana salarial,937
+Brasil,Julio,Por encima de la mediana salarial,3039
 Chile,Enero,Por debajo de la mediana salarial,600
 Chile,Enero,Por encima de la mediana salarial,690
 Chile,Febrero,Por debajo de la mediana salarial,2894
@@ -51,8 +51,8 @@ Chile,Mayo,Por debajo de la mediana salarial,1082
 Chile,Mayo,Por encima de la mediana salarial,1182
 Chile,Junio,Por debajo de la mediana salarial,1680
 Chile,Junio,Por encima de la mediana salarial,1806
-Chile,Julio,Por debajo de la mediana salarial,94
-Chile,Julio,Por encima de la mediana salarial,99
+Chile,Julio,Por debajo de la mediana salarial,435
+Chile,Julio,Por encima de la mediana salarial,471
 Colombia,Enero,Por debajo de la mediana salarial,1085
 Colombia,Enero,Por encima de la mediana salarial,1127
 Colombia,Febrero,Por debajo de la mediana salarial,11978
@@ -63,10 +63,10 @@ Colombia,Abril,Por debajo de la mediana salarial,9487
 Colombia,Abril,Por encima de la mediana salarial,10169
 Colombia,Mayo,Por debajo de la mediana salarial,7744
 Colombia,Mayo,Por encima de la mediana salarial,8103
-Colombia,Junio,Por debajo de la mediana salarial,9885
+Colombia,Junio,Por debajo de la mediana salarial,9888
 Colombia,Junio,Por encima de la mediana salarial,10122
-Colombia,Julio,Por debajo de la mediana salarial,993
-Colombia,Julio,Por encima de la mediana salarial,1002
+Colombia,Julio,Por debajo de la mediana salarial,4293
+Colombia,Julio,Por encima de la mediana salarial,4328
 Costa Rica,Enero,Por debajo de la mediana salarial,67
 Costa Rica,Enero,Por encima de la mediana salarial,84
 Costa Rica,Febrero,Por debajo de la mediana salarial,217
@@ -79,8 +79,8 @@ Costa Rica,Mayo,Por debajo de la mediana salarial,70
 Costa Rica,Mayo,Por encima de la mediana salarial,95
 Costa Rica,Junio,Por debajo de la mediana salarial,81
 Costa Rica,Junio,Por encima de la mediana salarial,113
-Costa Rica,Julio,Por debajo de la mediana salarial,5
-Costa Rica,Julio,Por encima de la mediana salarial,7
+Costa Rica,Julio,Por debajo de la mediana salarial,23
+Costa Rica,Julio,Por encima de la mediana salarial,30
 Ecuador,Enero,Por debajo de la mediana salarial,265
 Ecuador,Enero,Por encima de la mediana salarial,370
 Ecuador,Febrero,Por debajo de la mediana salarial,395
@@ -93,8 +93,8 @@ Ecuador,Mayo,Por debajo de la mediana salarial,68
 Ecuador,Mayo,Por encima de la mediana salarial,78
 Ecuador,Junio,Por debajo de la mediana salarial,106
 Ecuador,Junio,Por encima de la mediana salarial,169
-Ecuador,Julio,Por debajo de la mediana salarial,9
-Ecuador,Julio,Por encima de la mediana salarial,33
+Ecuador,Julio,Por debajo de la mediana salarial,39
+Ecuador,Julio,Por encima de la mediana salarial,75
 El Salvador,Enero,Por debajo de la mediana salarial,297
 El Salvador,Enero,Por encima de la mediana salarial,361
 El Salvador,Febrero,Por debajo de la mediana salarial,618
@@ -107,8 +107,8 @@ El Salvador,Mayo,Por debajo de la mediana salarial,78
 El Salvador,Mayo,Por encima de la mediana salarial,114
 El Salvador,Junio,Por debajo de la mediana salarial,128
 El Salvador,Junio,Por encima de la mediana salarial,191
-El Salvador,Julio,Por debajo de la mediana salarial,17
-El Salvador,Julio,Por encima de la mediana salarial,22
+El Salvador,Julio,Por debajo de la mediana salarial,74
+El Salvador,Julio,Por encima de la mediana salarial,91
 Guatemala,Enero,Por debajo de la mediana salarial,202
 Guatemala,Enero,Por encima de la mediana salarial,274
 Guatemala,Febrero,Por debajo de la mediana salarial,1110
@@ -121,8 +121,8 @@ Guatemala,Mayo,Por debajo de la mediana salarial,277
 Guatemala,Mayo,Por encima de la mediana salarial,331
 Guatemala,Junio,Por debajo de la mediana salarial,347
 Guatemala,Junio,Por encima de la mediana salarial,423
-Guatemala,Julio,Por debajo de la mediana salarial,34
-Guatemala,Julio,Por encima de la mediana salarial,36
+Guatemala,Julio,Por debajo de la mediana salarial,134
+Guatemala,Julio,Por encima de la mediana salarial,140
 Honduras,Enero,Por debajo de la mediana salarial,136
 Honduras,Enero,Por encima de la mediana salarial,171
 Honduras,Febrero,Por debajo de la mediana salarial,237
@@ -135,8 +135,8 @@ Honduras,Mayo,Por debajo de la mediana salarial,35
 Honduras,Mayo,Por encima de la mediana salarial,60
 Honduras,Junio,Por debajo de la mediana salarial,48
 Honduras,Junio,Por encima de la mediana salarial,74
-Honduras,Julio,Por debajo de la mediana salarial,6
-Honduras,Julio,Por encima de la mediana salarial,15
+Honduras,Julio,Por debajo de la mediana salarial,20
+Honduras,Julio,Por encima de la mediana salarial,36
 Nicaragua,Enero,Por debajo de la mediana salarial,35
 Nicaragua,Enero,Por encima de la mediana salarial,55
 Nicaragua,Febrero,Por debajo de la mediana salarial,24
@@ -149,7 +149,8 @@ Nicaragua,Mayo,Por debajo de la mediana salarial,10
 Nicaragua,Mayo,Por encima de la mediana salarial,20
 Nicaragua,Junio,Por debajo de la mediana salarial,12
 Nicaragua,Junio,Por encima de la mediana salarial,35
-Nicaragua,Julio,Por encima de la mediana salarial,1
+Nicaragua,Julio,Por debajo de la mediana salarial,4
+Nicaragua,Julio,Por encima de la mediana salarial,15
 Panamá,Enero,Por debajo de la mediana salarial,89
 Panamá,Enero,Por encima de la mediana salarial,114
 Panamá,Febrero,Por debajo de la mediana salarial,115
@@ -162,8 +163,8 @@ Panamá,Mayo,Por debajo de la mediana salarial,21
 Panamá,Mayo,Por encima de la mediana salarial,33
 Panamá,Junio,Por debajo de la mediana salarial,32
 Panamá,Junio,Por encima de la mediana salarial,56
-Panamá,Julio,Por debajo de la mediana salarial,2
-Panamá,Julio,Por encima de la mediana salarial,14
+Panamá,Julio,Por debajo de la mediana salarial,10
+Panamá,Julio,Por encima de la mediana salarial,27
 Paraguay,Enero,Por encima de la mediana salarial,6
 Paraguay,Febrero,Por encima de la mediana salarial,3
 Paraguay,Marzo,Por encima de la mediana salarial,6
@@ -180,12 +181,12 @@ Perú,Marzo,Por debajo de la mediana salarial,1092
 Perú,Marzo,Por encima de la mediana salarial,1122
 Perú,Abril,Por debajo de la mediana salarial,593
 Perú,Abril,Por encima de la mediana salarial,653
-Perú,Mayo,Por debajo de la mediana salarial,886
-Perú,Mayo,Por encima de la mediana salarial,1078
-Perú,Junio,Por debajo de la mediana salarial,1594
-Perú,Junio,Por encima de la mediana salarial,1744
-Perú,Julio,Por debajo de la mediana salarial,204
-Perú,Julio,Por encima de la mediana salarial,226
+Perú,Mayo,Por debajo de la mediana salarial,884
+Perú,Mayo,Por encima de la mediana salarial,1077
+Perú,Junio,Por debajo de la mediana salarial,1592
+Perú,Junio,Por encima de la mediana salarial,1738
+Perú,Julio,Por debajo de la mediana salarial,557
+Perú,Julio,Por encima de la mediana salarial,604
 Rep. Dominicana,Enero,Por debajo de la mediana salarial,43
 Rep. Dominicana,Enero,Por encima de la mediana salarial,67
 Rep. Dominicana,Febrero,Por debajo de la mediana salarial,25
@@ -198,8 +199,8 @@ Rep. Dominicana,Mayo,Por debajo de la mediana salarial,6
 Rep. Dominicana,Mayo,Por encima de la mediana salarial,19
 Rep. Dominicana,Junio,Por debajo de la mediana salarial,32
 Rep. Dominicana,Junio,Por encima de la mediana salarial,50
-Rep. Dominicana,Julio,Por debajo de la mediana salarial,20
-Rep. Dominicana,Julio,Por encima de la mediana salarial,33
+Rep. Dominicana,Julio,Por debajo de la mediana salarial,27
+Rep. Dominicana,Julio,Por encima de la mediana salarial,43
 Uruguay,Enero,Por debajo de la mediana salarial,41
 Uruguay,Enero,Por encima de la mediana salarial,53
 Uruguay,Febrero,Por debajo de la mediana salarial,122
@@ -212,8 +213,8 @@ Uruguay,Mayo,Por debajo de la mediana salarial,26
 Uruguay,Mayo,Por encima de la mediana salarial,60
 Uruguay,Junio,Por debajo de la mediana salarial,33
 Uruguay,Junio,Por encima de la mediana salarial,80
-Uruguay,Julio,Por debajo de la mediana salarial,4
-Uruguay,Julio,Por encima de la mediana salarial,5
+Uruguay,Julio,Por debajo de la mediana salarial,12
+Uruguay,Julio,Por encima de la mediana salarial,20
 Venezuela,Enero,Por debajo de la mediana salarial,1740
 Venezuela,Enero,Por encima de la mediana salarial,2275
 Venezuela,Febrero,Por debajo de la mediana salarial,1572
@@ -226,5 +227,5 @@ Venezuela,Mayo,Por debajo de la mediana salarial,386
 Venezuela,Mayo,Por encima de la mediana salarial,749
 Venezuela,Junio,Por debajo de la mediana salarial,734
 Venezuela,Junio,Por encima de la mediana salarial,1240
-Venezuela,Julio,Por debajo de la mediana salarial,35
-Venezuela,Julio,Por encima de la mediana salarial,150
+Venezuela,Julio,Por debajo de la mediana salarial,227
+Venezuela,Julio,Por encima de la mediana salarial,477
