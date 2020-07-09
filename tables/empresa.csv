@@ -59,6 +59,21 @@ BairesDev,Argentina,Febrero,57
 Consultores de Empresas,Argentina,Febrero,48
 ManpowerGroup,Argentina,Febrero,47
 Bayton,Argentina,Febrero,36
+ADN - Recursos Humanos,Argentina,Julio,55
+ADN - Recursos Humanos,Argentina,Julio,17
+Solvens Servicios Especializados,Argentina,Julio,11
+Remax Express,Argentina,Julio,10
+Digital HR,Argentina,Julio,8
+IMPLEMENTAR Consultores  SRL,Argentina,Julio,6
+Adecco Argentina S.A.,Argentina,Julio,5
+Consultores de Empresas,Argentina,Julio,5
+Ecosistemas,Argentina,Julio,5
+IMPLEMENTAR Consultores  SRL,Argentina,Julio,5
+PLC - Proyecto Laboral Consultores,Argentina,Julio,5
+Suizo Argentina S.A.,Argentina,Julio,5
+Adecco Argentina S.A.,Argentina,Julio,4
+CYPSA  Consultora de Recursos Humanos,Argentina,Julio,4
+PAE Argentina,Argentina,Julio,4
 ADN - Recursos Humanos,Argentina,Junio,61
 ADN - Recursos Humanos,Argentina,Junio,56
 ADN - Recursos Humanos,Argentina,Junio,48
@@ -73,7 +88,7 @@ ADN - Recursos Humanos,Argentina,Junio,29
 ADN - Recursos Humanos,Argentina,Junio,27
 ADN - Recursos Humanos,Argentina,Junio,26
 ADN - Recursos Humanos,Argentina,Junio,25
-BairesDev,Argentina,Junio,25
+ADN - Recursos Humanos,Argentina,Junio,25
 ADN - Recursos Humanos,Argentina,Marzo,148
 ADN - Recursos Humanos,Argentina,Marzo,136
 ADN - Recursos Humanos,Argentina,Marzo,92
@@ -197,19 +212,19 @@ Pacific Credit Rating,Bolivia,Julio,1
 Universidad Privada Boliviana,Bolivia,Julio,1
 BairesDev SA,Bolivia,Junio,230
 BairesDev SA,Bolivia,Junio,136
+BairesDev SA,Bolivia,Junio,96
 BairesDev SA,Bolivia,Junio,80
+BairesDev SA,Bolivia,Junio,38
 BairesDev SA,Bolivia,Junio,4
 Oktana,Bolivia,Junio,3
 Oktana,Bolivia,Junio,3
 OA BOLIVIA SRL,Bolivia,Junio,2
 Oktana,Bolivia,Junio,2
 Oktana,Bolivia,Junio,2
+Oktana,Bolivia,Junio,2
+ARGUILEA SC,Bolivia,Junio,1
 ARGUILEA SC,Bolivia,Junio,1
 AUXILIARES ALTEA,Bolivia,Junio,1
-Corefix,Bolivia,Junio,1
-Corefix,Bolivia,Junio,1
-Corefix,Bolivia,Junio,1
-Corefix,Bolivia,Junio,1
 BairesDev SA,Bolivia,Marzo,116
 BairesDev SA,Bolivia,Marzo,4
 Oktana,Bolivia,Marzo,3
@@ -335,6 +350,7 @@ LABORAL RECURSOS HUMANOS,Brasil,Febrero,18
 VERISURE BRASIL,Brasil,Febrero,18
 AGÊNCIA EUPHORIA,Brasil,Febrero,17
 Empresa com nome confidencial,Brasil,Febrero,17
+Empresa com nome confidencial,Brasil,Julio,79
 Empresa com nome confidencial,Brasil,Julio,15
 Empresa com nome confidencial,Brasil,Julio,7
 APICE BRASIL CONSULTORIA,Brasil,Julio,6
@@ -349,7 +365,6 @@ All Net,Brasil,Julio,5
 All Net,Brasil,Julio,5
 DREAM FITNESS,Brasil,Julio,5
 Empresa com nome confidencial,Brasil,Julio,5
-MAJOR BS,Brasil,Julio,5
 Empresa com nome confidencial,Brasil,Junio,252
 Empresa com nome confidencial,Brasil,Junio,126
 Empresa com nome confidencial,Brasil,Junio,41
@@ -362,9 +377,9 @@ Empresa com nome confidencial,Brasil,Junio,8
 Empresa com nome confidencial,Brasil,Junio,8
 Empresa com nome confidencial,Brasil,Junio,7
 Empresa com nome confidencial,Brasil,Junio,7
+Empresa com nome confidencial,Brasil,Junio,7
 GRUPO BIG,Brasil,Junio,7
 ATENTO BRASIL. (M),Brasil,Junio,6
-ATS,Brasil,Junio,6
 Empresa com nome confidencial,Brasil,Marzo,565
 Empresa com nome confidencial,Brasil,Marzo,19
 Empresa com nome confidencial,Brasil,Marzo,19
@@ -384,8 +399,8 @@ Empresa com nome confidencial,Brasil,Mayo,203
 Empresa com nome confidencial,Brasil,Mayo,165
 Empresa com nome confidencial,Brasil,Mayo,44
 Empresa com nome confidencial,Brasil,Mayo,10
+Empresa com nome confidencial,Brasil,Mayo,9
 Empresa com nome confidencial,Brasil,Mayo,8
-Empresa com nome confidencial,Brasil,Mayo,7
 Empresa com nome confidencial,Brasil,Mayo,7
 Empresa com nome confidencial,Brasil,Mayo,7
 Empresa com nome confidencial,Brasil,Mayo,7
@@ -500,7 +515,21 @@ Adecco Chile,Chile,Febrero,98
 ECR GROUP,Chile,Febrero,91
 Cygnus,Chile,Febrero,82
 ECR GROUP,Chile,Febrero,80
-CTBJ Company pck,Chile,Julio,1
+XinerLink,Chile,Julio,60
+Verisure,Chile,Julio,15
+XinerLink,Chile,Julio,13
+Adecco Chile,Chile,Julio,12
+Adecco Chile,Chile,Julio,10
+Grupo Norte Chile - Servicios de Aseo y Outsoursing,Chile,Julio,7
+Atcom,Chile,Julio,6
+IT People S.A.,Chile,Julio,5
+Alcansa,Chile,Julio,4
+Aplicaciones Computacionales SPA,Chile,Julio,4
+BCTecnología,Chile,Julio,4
+Burô Temps,Chile,Julio,4
+CGS,Chile,Julio,4
+Cygnus,Chile,Julio,4
+ECR GROUP,Chile,Julio,4
 XinerLink,Chile,Junio,134
 XinerLink,Chile,Junio,117
 XinerLink,Chile,Junio,99
@@ -513,9 +542,9 @@ XinerLink,Chile,Junio,74
 Adecco Chile,Chile,Junio,71
 XinerLink,Chile,Junio,65
 XinerLink,Chile,Junio,56
+XinerLink,Chile,Junio,54
 XinerLink,Chile,Junio,48
 XinerLink,Chile,Junio,46
-XinerLink,Chile,Junio,43
 XinerLink,Chile,Marzo,422
 XinerLink,Chile,Marzo,214
 XinerLink,Chile,Marzo,166
@@ -647,21 +676,36 @@ MISION TEMPORAL,Colombia,Febrero,167
 JOBANDTALENT CO S A S,Colombia,Febrero,163
 MANPOWER PROFESSIONAL LTDA,Colombia,Febrero,163
 ATENTO S.A.,Colombia,Febrero,162
+MANPOWER PROFESSIONAL LTDA,Colombia,Julio,98
+ACTIVOS S A S,Colombia,Julio,69
+Emtelco CX & BPO,Colombia,Julio,66
+ATENTO S.A.,Colombia,Julio,46
+Adecco Colombia S.A.,Colombia,Julio,43
+MANPOWER PROFESSIONAL LTDA,Colombia,Julio,36
+ATENTO S.A.,Colombia,Julio,31
+Teleperformance Colombia,Colombia,Julio,31
+ACTIVOS S A S,Colombia,Julio,30
+Eficacia,Colombia,Julio,28
+Grupo Accion Plus,Colombia,Julio,26
+Redes Humanas,Colombia,Julio,25
+SUMMAR TEMPORALES SAS,Colombia,Julio,24
+Adecco Colombia S.A.,Colombia,Julio,20
+Emtelco CX & BPO,Colombia,Julio,18
 BairesDev,Colombia,Junio,129
 MANPOWER PROFESSIONAL LTDA,Colombia,Junio,83
+BairesDev,Colombia,Junio,77
+MANPOWER PROFESSIONAL LTDA,Colombia,Junio,77
 MANPOWER PROFESSIONAL LTDA,Colombia,Junio,74
 MANPOWER PROFESSIONAL LTDA,Colombia,Junio,72
+MANPOWER PROFESSIONAL LTDA,Colombia,Junio,72
 MANPOWER PROFESSIONAL LTDA,Colombia,Junio,70
+BairesDev,Colombia,Junio,67
 Eficacia,Colombia,Junio,67
+ACTIVOS S A S,Colombia,Junio,64
+ACTIVOS S A S,Colombia,Junio,63
 ATENTO S.A.,Colombia,Junio,63
 Grupo Accion Plus,Colombia,Junio,63
 ACTIVOS S A S,Colombia,Junio,61
-ACTIVOS S A S,Colombia,Junio,59
-MANPOWER PROFESSIONAL LTDA,Colombia,Junio,56
-ACTIVOS S A S,Colombia,Junio,53
-Adecco Colombia S.A.,Colombia,Junio,52
-Eficacia,Colombia,Junio,51
-Emtelco CX & BPO,Colombia,Junio,51
 MANPOWER PROFESSIONAL LTDA,Colombia,Marzo,456
 MANPOWER PROFESSIONAL LTDA,Colombia,Marzo,420
 MANPOWER PROFESSIONAL LTDA,Colombia,Marzo,414
@@ -782,8 +826,24 @@ Job Solutions,Costa Rica,Febrero,14
 Job Solutions,Costa Rica,Febrero,13
 WALMART,Costa Rica,Febrero,11
 AN Global,Costa Rica,Febrero,8
+Gestionadora Internacional  Servicredito Sociedad Anonima,Costa Rica,Julio,2
+Tigo,Costa Rica,Julio,2
+WALMART,Costa Rica,Julio,2
+01Zero Group,Costa Rica,Julio,1
+AMT Arquitectura Montajes Técnicos,Costa Rica,Julio,1
+Asesoría en Reclutamiento & Selección,Costa Rica,Julio,1
+Cialusa Jardines,Costa Rica,Julio,1
+Ciamesa - Polymer - American Brands,Costa Rica,Julio,1
+Contratación Selectiva,Costa Rica,Julio,1
+FUENTES DE EMPLEO SOCIEDAD ANONIMA,Costa Rica,Julio,1
+Galeon Technology Solutions S. A.,Costa Rica,Julio,1
+HVA Nutrición Animal S.A,Costa Rica,Julio,1
+INNTECI INNOVACION SOCIEDAD DE RESPONSABILIDAD LIMITADA,Costa Rica,Julio,1
+Innova,Costa Rica,Julio,1
+Isthmus Costa Rica,Costa Rica,Julio,1
 Asembis,Costa Rica,Junio,11
 WALMART,Costa Rica,Junio,7
+WALMART,Costa Rica,Junio,6
 WALMART,Costa Rica,Junio,6
 Ferromax S.A.,Costa Rica,Junio,5
 KleeGlobal,Costa Rica,Junio,5
@@ -795,7 +855,6 @@ WALMART,Costa Rica,Junio,4
 Asembis,Costa Rica,Junio,3
 BairesDev SA,Costa Rica,Junio,3
 Empresas Berthier EBI de Costa Rica S.A.,Costa Rica,Junio,3
-Manpower Costa Rica,Costa Rica,Junio,3
 Manpower Costa Rica,Costa Rica,Junio,3
 WALMART,Costa Rica,Marzo,21
 WALMART,Costa Rica,Marzo,17
@@ -940,28 +999,28 @@ Clínica Dominicana S. A.,Rep. Dominicana,Febrero,2
 "Agencia de empleo ""Orion""",Rep. Dominicana,Julio,2
 "Agencia de empleo ""Orion""",Rep. Dominicana,Julio,2
 "Agencia de empleo ""Orion""",Rep. Dominicana,Julio,2
+"Agencia de empleo ""Orion""",Rep. Dominicana,Julio,2
 Conduent,Rep. Dominicana,Julio,2
 Conduent,Rep. Dominicana,Julio,2
+D&C Consulting,Rep. Dominicana,Julio,2
 Hunter del Caribe,Rep. Dominicana,Julio,2
 Hunter del Caribe,Rep. Dominicana,Julio,2
 Hunter del Caribe,Rep. Dominicana,Julio,2
-Hunter del Caribe,Rep. Dominicana,Julio,2
-Transfertec,Rep. Dominicana,Julio,2
+BairesDev SA,Rep. Dominicana,Junio,68
 BairesDev SA,Rep. Dominicana,Junio,57
 BairesDev SA,Rep. Dominicana,Junio,39
+BairesDev SA,Rep. Dominicana,Junio,36
 BairesDev SA,Rep. Dominicana,Junio,18
 "Agencia de empleo ""Orion""",Rep. Dominicana,Junio,9
 D&C Consulting,Rep. Dominicana,Junio,8
 Hunter del Caribe,Rep. Dominicana,Junio,7
 "Agencia de empleo ""Orion""",Rep. Dominicana,Junio,6
+"Agencia de empleo ""Orion""",Rep. Dominicana,Junio,6
 "Agencia de empleo ""Orion""",Rep. Dominicana,Junio,5
 "Gerencia Dominicana, SRL. - Santiago, Rep. Dom.",Rep. Dominicana,Junio,5
+"Agencia de empleo ""Orion""",Rep. Dominicana,Junio,4
 A&H Industrial S.R.L.,Rep. Dominicana,Junio,3
 "CENTRO MEDICO SALUD INTEGRAL, CEMESIN S.R.L",Rep. Dominicana,Junio,3
-Mercointer SRL,Rep. Dominicana,Junio,3
-"Agencia de empleo ""Orion""",Rep. Dominicana,Junio,2
-D&C Consulting,Rep. Dominicana,Junio,2
-FELESA,Rep. Dominicana,Junio,2
 BairesDev SA,Rep. Dominicana,Marzo,37
 BairesDev SA,Rep. Dominicana,Marzo,21
 "Agencia de empleo ""Orion""",Rep. Dominicana,Marzo,6
@@ -1097,9 +1156,26 @@ Fullcarga Multinacional de Transacciones Electrónicas,Ecuador,Febrero,5
 Italimentos Cía. Ltda.,Ecuador,Febrero,5
 Phytopharma,Ecuador,Febrero,5
 AINSA S.A,Ecuador,Febrero,4
+Estrategias & Mercado S.A.,Ecuador,Julio,3
+Experteam Cía. Ltda.,Ecuador,Julio,3
+In. Planet,Ecuador,Julio,3
+Instituto Superior  Tecnológico Manuel Lezaeta Acharán,Ecuador,Julio,3
+Mulrosas Cia. Ltda.,Ecuador,Julio,3
+COLORDESIGN COLORACION CAPILAR,Ecuador,Julio,2
+Compumaib.Cia.Ltda.,Ecuador,Julio,2
+DDP Logistics DDP SA,Ecuador,Julio,2
+DIMONGREEN S.A.,Ecuador,Julio,2
+Fast Provider,Ecuador,Julio,2
+Fhalconfood,Ecuador,Julio,2
+HANSEL & GRETEL,Ecuador,Julio,2
+Orden Hospitalaria San Juan de Dios en el Ecuador,Ecuador,Julio,2
+Qualitylines,Ecuador,Julio,2
+ASISERVY S.A.,Ecuador,Julio,1
 BairesDev SA,Ecuador,Junio,5
 VELARK ARQUITECTURA TEXTIL,Ecuador,Junio,5
 COOPERATIVA DE AHORRO Y CREDITO EDUCADORES PRIMARIOS DEL COTOPAXI,Ecuador,Junio,4
+INDUSTRIAL PAPELERA ECUATORIANA S.A,Ecuador,Junio,4
+Indian Motos S. A.,Ecuador,Junio,4
 Estrategias & Mercado S.A.,Ecuador,Junio,3
 Metrored,Ecuador,Junio,3
 Naturisa S.A.,Ecuador,Junio,3
@@ -1108,10 +1184,8 @@ PARTESCAT,Ecuador,Junio,3
 Ultrasistemas Cía. Ltda.,Ecuador,Junio,3
 WINTER WATER,Ecuador,Junio,3
 AMA AMÉRICA S.A. EMPRESA DE SEGUROS,Ecuador,Junio,2
+ASISERVY S.A.,Ecuador,Junio,2
 Agua Linda Superior S.A,Ecuador,Junio,2
-Assel Cia. Ltda.,Ecuador,Junio,2
-BLUECHIP S.A,Ecuador,Junio,2
-CHALLENGER INDUSTRIAL,Ecuador,Junio,2
 Estrategias & Mercado S.A.,Ecuador,Marzo,6
 Estrategias & Mercado S.A.,Ecuador,Marzo,6
 BairesDev SA,Ecuador,Marzo,5
@@ -1232,6 +1306,21 @@ CENTRACOM,Guatemala,Febrero,26
 BANCO AZTECA DE GUATEMALA,Guatemala,Febrero,25
 Global People,Guatemala,Febrero,25
 BMC Jobs,Guatemala,Febrero,24
+CENTRACOM,Guatemala,Julio,13
+DISTRIBUIDORA GALAXY,Guatemala,Julio,6
+DISTRIBUIDORA GALCASA SUR,Guatemala,Julio,3
+GTA,Guatemala,Julio,3
+RECLUTAMIENTO NARANJA,Guatemala,Julio,3
+Acceso Financiero,Guatemala,Julio,2
+BANCO DE LOS TRABAJADORES,Guatemala,Julio,2
+CENTRACOM,Guatemala,Julio,2
+Ferromax,Guatemala,Julio,2
+Grupo STT,Guatemala,Julio,2
+Olmeca,Guatemala,Julio,2
+"RHCorp, S.A.",Guatemala,Julio,2
+"RHCorp, S.A.",Guatemala,Julio,2
+Worken,Guatemala,Julio,2
+".Compartamos, S.A.",Guatemala,Julio,1
 CENTRACOM,Guatemala,Junio,11
 Centros Hospitalarios La Paz,Guatemala,Junio,11
 "ADMINISTRADORA CENTROAMERICANA DE TALENTOS, SOCIEDAD ANONIMA",Guatemala,Junio,9
@@ -1367,21 +1456,34 @@ Grupo FARSIMAN,Honduras,Febrero,10
 BairesDev SA,Honduras,Febrero,9
 Instituto para el Desarrollo Hondureño,Honduras,Febrero,9
 AGENCIA DE EMPLEO PRIVADA J Y C,Honduras,Febrero,8
+"OUTSOURCE, S.A. DE C.V.",Honduras,Julio,8
+Corporacion Industrial de Sula,Honduras,Julio,2
+FOMPAC DISPOSABLES,Honduras,Julio,2
+Frito Lay Honduras - Pepsico,Honduras,Julio,2
+"Procesadora de Metales, S.A.",Honduras,Julio,2
+Proval,Honduras,Julio,2
+ABC School Supply,Honduras,Julio,1
+Alimentos de Cortes,Honduras,Julio,1
+Cisolution,Honduras,Julio,1
+Cisolution,Honduras,Julio,1
+EMCO Corporación,Honduras,Julio,1
+Eyl Comercial,Honduras,Julio,1
+PROAGRO,Honduras,Julio,1
 BairesDev SA,Honduras,Junio,10
 BairesDev SA,Honduras,Junio,10
 BairesDev SA,Honduras,Junio,10
+AGENCIA DE EMPLEO PRIVADA J Y C,Honduras,Junio,7
+BairesDev SA,Honduras,Junio,7
 BairesDev SA,Honduras,Junio,7
 EPS Plus,Honduras,Junio,7
 Eyl Comercial,Honduras,Junio,7
 MUNDO LABORAL,Honduras,Junio,6
 BairesDev SA,Honduras,Junio,5
 Calaham Group,Honduras,Junio,4
+Finlay,Honduras,Junio,4
 Grupo Ferromax,Honduras,Junio,4
 Tecnologia y Servicios Multiples,Honduras,Junio,4
 AGENCIA DE EMPLEO PRIVADA J Y C,Honduras,Junio,3
-Anduro Manufacturing,Honduras,Junio,3
-Cisolution,Honduras,Junio,3
-Corporación Nacional de Empleos S. de R. L,Honduras,Junio,3
 BairesDev SA,Honduras,Marzo,50
 Manpower Professional,Honduras,Marzo,14
 BairesDev SA,Honduras,Marzo,8
@@ -1517,8 +1619,15 @@ Texhong Winnitex,Nicaragua,Febrero,3
 3JUCOMERCIAL,Nicaragua,Febrero,2
 3JUCOMERCIAL,Nicaragua,Febrero,2
 AXXIS SYSTEMS,Nicaragua,Febrero,2
+3JUCOMERCIAL,Nicaragua,Julio,2
+CMASH,Nicaragua,Julio,1
+Desarrollo Profesional y Empresarial (Dpesa),Nicaragua,Julio,1
+Globex,Nicaragua,Julio,1
+Solternic,Nicaragua,Julio,1
 BairesDev SA,Nicaragua,Junio,114
 BairesDev SA,Nicaragua,Junio,69
+BairesDev SA,Nicaragua,Junio,68
+BairesDev SA,Nicaragua,Junio,37
 Incasur sl,Nicaragua,Junio,7
 Nestrix Corporation,Nicaragua,Junio,5
 Ferromáx S.A,Nicaragua,Junio,4
@@ -1526,12 +1635,10 @@ Ferromáx S.A,Nicaragua,Junio,4
 Nestrix Corporation,Nicaragua,Junio,3
 Nestrix Corporation,Nicaragua,Junio,3
 "Super Farmacia Xolotlan S,A",Nicaragua,Junio,3
+.Nicaragua Talento Humano,Nicaragua,Junio,2
 3JUCOMERCIAL,Nicaragua,Junio,2
 3JUCOMERCIAL,Nicaragua,Junio,2
-AXXIS SYSTEMS,Nicaragua,Junio,2
-Clean Internacional,Nicaragua,Junio,2
-Corporación Dinant,Nicaragua,Junio,2
-Grupo de Comercializacion Mexico,Nicaragua,Junio,2
+3JUCOMERCIAL,Nicaragua,Junio,2
 BairesDev SA,Nicaragua,Marzo,58
 Ferromáx S.A,Nicaragua,Marzo,5
 Celistics,Nicaragua,Marzo,4
@@ -1655,6 +1762,10 @@ PANAJOBS,Panamá,Febrero,4
 "Centro Industrial, S.A.",Panamá,Febrero,3
 Soluciones de microfinanzas S.A,Panamá,Julio,4
 Soluciones de microfinanzas S.A,Panamá,Julio,3
+PROYECTO STAFFING,Panamá,Julio,2
+Atento Panama,Panamá,Julio,1
+"Laboratorios Rigar, S. A.",Panamá,Julio,1
+"Laboratorios Rigar, S. A.",Panamá,Julio,1
 "Servicios Delgado, S.A.",Panamá,Julio,1
 "Servicios Delgado, S.A.",Panamá,Julio,1
 Soluciones de microfinanzas S.A,Panamá,Julio,1
@@ -1676,7 +1787,7 @@ Degusta Panama,Panamá,Junio,2
 "Eulen Panamá de Servicios, S.A.",Panamá,Junio,2
 "Eulen Panamá de Servicios, S.A.",Panamá,Junio,2
 GETECSA PANAMA,Panamá,Junio,2
-International Brands America S.A,Panamá,Junio,2
+GETECSA PANAMA,Panamá,Junio,2
 3TECH LATIN AMERICA,Panamá,Marzo,5
 "Advertising and Promotion de Panamá, S.A.",Panamá,Marzo,4
 Ja Recursos,Panamá,Marzo,4
@@ -1812,6 +1923,21 @@ TAWA CONSULTING S.A.C.,Perú,Febrero,126
 TAWA CONSULTING S.A.C.,Perú,Febrero,116
 TAWA CONSULTING S.A.C.,Perú,Febrero,114
 Buró Group,Perú,Febrero,110
+EULEN del Perú,Perú,Julio,71
+InkaFarma,Perú,Julio,45
+Manpower,Perú,Julio,35
+TAWA CONSULTING S.A.C.,Perú,Julio,29
+Manpower,Perú,Julio,27
+EULEN del Perú,Perú,Julio,24
+MDY Contact Center,Perú,Julio,21
+Adecco Perú S.A.,Perú,Julio,15
+Overall Strategy,Perú,Julio,15
+TAWA CONSULTING S.A.C.,Perú,Julio,15
+Sef Peru Holding SAC,Perú,Julio,13
+Comdata Group,Perú,Julio,12
+Adecco Perú S.A.,Perú,Julio,11
+InkaFarma,Perú,Julio,11
+MDY Contact Center,Perú,Julio,11
 EULEN del Perú,Perú,Junio,61
 Manpower,Perú,Junio,56
 EULEN del Perú,Perú,Junio,53
@@ -1821,12 +1947,12 @@ Manpower,Perú,Junio,51
 BairesDev SA,Perú,Junio,50
 EULEN del Perú,Perú,Junio,50
 EULEN del Perú,Perú,Junio,49
-EULEN del Perú,Perú,Junio,44
 EULEN del Perú,Perú,Junio,43
 EULEN del Perú,Perú,Junio,41
 TAWA CONSULTING S.A.C.,Perú,Junio,40
-InkaFarma,Perú,Junio,39
 TAWA CONSULTING S.A.C.,Perú,Junio,38
+EULEN del Perú,Perú,Junio,37
+InkaFarma,Perú,Junio,36
 Manpower,Perú,Marzo,160
 Adecco Perú S.A.,Perú,Marzo,120
 Buró Group,Perú,Marzo,89
@@ -1969,11 +2095,15 @@ Perfecta Automotores SA,Paraguay,Julio,2
 A V,Paraguay,Julio,1
 Corallo Aberturas,Paraguay,Julio,1
 GS TRADING IMPORT EXPORT S.R.L.,Paraguay,Julio,1
+Oportunidades Laborales Paraguay,Paraguay,Julio,1
 Regus,Paraguay,Julio,1
 SERLET SERVICIOS AUXILIARES,Paraguay,Julio,1
 BairesDev SA,Paraguay,Junio,113
 BairesDev SA,Paraguay,Junio,69
+BairesDev SA,Paraguay,Junio,68
+BairesDev SA,Paraguay,Junio,37
 Oktana,Paraguay,Junio,5
+Gestion Consultores,Paraguay,Junio,2
 Oktana,Paraguay,Junio,2
 Perfecta Automotores SA,Paraguay,Junio,2
 Time Management,Paraguay,Junio,2
@@ -1983,8 +2113,6 @@ CASA BOLLER S.A,Paraguay,Junio,1
 Gisela Seifart Consultora,Paraguay,Junio,1
 Perfecta Automotores SA,Paraguay,Junio,1
 SERLET SERVICIOS AUXILIARES,Paraguay,Junio,1
-Scopic Software LLC,Paraguay,Junio,1
-fire Master,Paraguay,Junio,1
 BairesDev SA,Paraguay,Marzo,48
 BairesDev SA,Paraguay,Marzo,11
 Grupo JLJ Empresas,Paraguay,Marzo,4
@@ -2114,9 +2242,26 @@ Almacenes Vidri,El Salvador,Febrero,15
 Global Outsourcing S.A. DE C.V.,El Salvador,Febrero,15
 INTEGRAL WORKERS,El Salvador,Febrero,15
 INTEGRAL WORKERS,El Salvador,Febrero,15
+Manpower Group,El Salvador,Julio,4
+INDUSTRIAS JOVIDA S.A. DE C.V.,El Salvador,Julio,3
+"SAVONA, S.A DE C.V",El Salvador,Julio,3
+SIGMA ALIMENTOS EL SALVADOR,El Salvador,Julio,3
+"Cek de Centroamerica (El Salvador), S.A.",El Salvador,Julio,2
+FOSFOROS DE EL SALVADOR,El Salvador,Julio,2
+GRUPO BORTEX  S.A. DE C.V.,El Salvador,Julio,2
+"INVERSIONES GLOBALES DE DESARROLLO, S.A. DE C.V.",El Salvador,Julio,2
+Outsource s.a. de c.v.,El Salvador,Julio,2
+Ransa,El Salvador,Julio,2
+TOMZA GAS DE EL SALVADOR SA DE CV,El Salvador,Julio,2
+Transportes CALPI,El Salvador,Julio,2
+.Centro Ginecologico,El Salvador,Julio,1
+ASISCORP,El Salvador,Julio,1
+ASOCIACION DEMOGRAFICA SALVADOREÑA/PRO-FAMILIA,El Salvador,Julio,1
 Corporación Multi Inversiones,El Salvador,Junio,14
 The People Company,El Salvador,Junio,8
+BSCI,El Salvador,Junio,5
 Manpower Group,El Salvador,Junio,5
+BANCO ABANK S.A.,El Salvador,Junio,4
 CODOSAT El Salvador,El Salvador,Junio,4
 Corporación Multi Inversiones,El Salvador,Junio,4
 "PLIRET, S.A de C.V",El Salvador,Junio,4
@@ -2127,8 +2272,6 @@ Ac Talentos S.A.,El Salvador,Junio,3
 "Aire Standard, S.A. de C.V.",El Salvador,Junio,3
 BairesDev SA,El Salvador,Junio,3
 C&S,El Salvador,Junio,3
-C&S,El Salvador,Junio,3
-Celular Boutique,El Salvador,Junio,3
 Global Outsourcing S.A. DE C.V.,El Salvador,Marzo,20
 Global Outsourcing S.A. DE C.V.,El Salvador,Marzo,20
 Corporación Multi Inversiones,El Salvador,Marzo,19
@@ -2249,22 +2392,36 @@ Advice,Uruguay,Febrero,9
 BairesDev,Uruguay,Febrero,8
 Advice,Uruguay,Febrero,7
 Oktana,Uruguay,Febrero,7
+BairesDev,Uruguay,Julio,7
+Manpower Group,Uruguay,Julio,3
 Manpower Group,Uruguay,Julio,2
+Manpower Group,Uruguay,Julio,2
+procesos y personas,Uruguay,Julio,2
+AT innovando juntos,Uruguay,Julio,1
+Academia Bernoulli,Uruguay,Julio,1
+Adecco,Uruguay,Julio,1
+Círculo Informático Parque Batlle,Uruguay,Julio,1
+Eventuales Consultora,Uruguay,Julio,1
+Fedilen,Uruguay,Julio,1
+Fedilen,Uruguay,Julio,1
+Florencia Caballero Techera,Uruguay,Julio,1
+MO&PC Uruguay,Uruguay,Julio,1
+Paloma,Uruguay,Julio,1
 BairesDev,Uruguay,Junio,20
 BairesDev,Uruguay,Junio,11
 BairesDev,Uruguay,Junio,10
 Manpower Group,Uruguay,Junio,10
+BairesDev,Uruguay,Junio,9
+Manpower Group,Uruguay,Junio,9
+Manpower Group,Uruguay,Junio,8
 Manpower Group,Uruguay,Junio,7
 Manpower Group,Uruguay,Junio,7
+Manpower Group,Uruguay,Junio,6
 Manpower Group,Uruguay,Junio,6
 Manpower Group,Uruguay,Junio,6
 DCA Servicio Profesional,Uruguay,Junio,5
 Manpower Group,Uruguay,Junio,4
 Manpower Group,Uruguay,Junio,4
-Estilo SRL,Uruguay,Junio,3
-Manpower Group,Uruguay,Junio,3
-Manpower Group,Uruguay,Junio,3
-Manpower Group,Uruguay,Junio,3
 BairesDev,Uruguay,Marzo,27
 Manpower Group,Uruguay,Marzo,22
 Manpower Group,Uruguay,Marzo,21
@@ -2399,26 +2556,29 @@ Directa Group,Venezuela,Febrero,25
 INVERSIONES WGS 2016,Venezuela,Febrero,25
 AUTOPARTS ULTRA SED C.A,Venezuela,Febrero,24
 "Creaciones Sol Radiante, C.A.",Venezuela,Febrero,24
+"Okimport,c.a",Venezuela,Julio,30
+Promotora Tántalo,Venezuela,Julio,19
+Distribuidora de Repuestos Valero C.A,Venezuela,Julio,13
 Directa Group,Venezuela,Julio,10
 Directa Group,Venezuela,Julio,9
+Desarrollos Informaticos SHM S.L.,Venezuela,Julio,8
+Distribuidora de Repuestos Valero C.A,Venezuela,Julio,8
 Directa Group,Venezuela,Julio,7
+Evalero1 C.A.,Venezuela,Julio,6
+"Evolución Estrategica Consultores, C.A",Venezuela,Julio,6
+"Invensi, c.a",Venezuela,Julio,6
+"La Lucha, c.a",Venezuela,Julio,6
+Planta de Hielo Terepaima C.A,Venezuela,Julio,6
 Directa Group,Venezuela,Julio,5
-Directa Group,Venezuela,Julio,4
-Directa Group,Venezuela,Julio,4
-Directa Group,Venezuela,Julio,4
-Directa Group,Venezuela,Julio,4
-Directa Group,Venezuela,Julio,4
-Directa Group,Venezuela,Julio,4
-Directa Group,Venezuela,Julio,4
-Directa Group,Venezuela,Julio,3
-Directa Group,Venezuela,Julio,3
-Directa Group,Venezuela,Julio,3
-Directa Group,Venezuela,Julio,3
+INVERSIONES WGS 2016,Venezuela,Julio,5
 BairesDev SA,Venezuela,Junio,134
 BairesDev SA,Venezuela,Junio,96
 BairesDev SA,Venezuela,Junio,73
+BairesDev SA,Venezuela,Junio,55
+BairesDev SA,Venezuela,Junio,52
 Neo Sepelios,Venezuela,Junio,24
 BairesDev SA,Venezuela,Junio,22
+Neo Sepelios,Venezuela,Junio,22
 Distribuidora Full Brake II c.a,Venezuela,Junio,18
 Inversiones Tornillos Serrano c.a,Venezuela,Junio,17
 Promotora Tántalo,Venezuela,Junio,17
@@ -2426,9 +2586,6 @@ INVERSIONES WGS 2016,Venezuela,Junio,14
 Sinergia Consultores Interales ca,Venezuela,Junio,14
 "Drogueria biomedic lab centro,c.a",Venezuela,Junio,13
 AUTOMOTRIZ RICHARD C.A.,Venezuela,Junio,12
-Cauchos La Mundial,Venezuela,Junio,11
-Cauchos La Mundial,Venezuela,Junio,11
-Hispanos Soluciones,Venezuela,Junio,10
 BairesDev SA,Venezuela,Marzo,148
 Neo Sepelios,Venezuela,Marzo,72
 1BC,Venezuela,Marzo,42

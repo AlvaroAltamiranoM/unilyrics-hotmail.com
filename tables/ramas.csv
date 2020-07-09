@@ -59,6 +59,10 @@ Agricultura / Pesca / Ganadería,Argentina,Junio,1
 Agricultura / Pesca / Ganadería,Argentina,Junio,1
 Agricultura / Pesca / Ganadería,Argentina,Junio,1
 Agricultura / Pesca / Ganadería,Argentina,Junio,1
+Agricultura / Pesca / Ganadería,Argentina,Junio,1
+Agricultura / Pesca / Ganadería,Argentina,Junio,4
+Agricultura / Pesca / Ganadería,Argentina,Junio,2
+Agricultura / Pesca / Ganadería,Argentina,Julio,1
 Agricultura / Pesca / Ganadería,Chile,Enero,2
 Agricultura / Pesca / Ganadería,Chile,Enero,1
 Agricultura / Pesca / Ganadería,Chile,Enero,2
@@ -233,6 +237,12 @@ Agricultura / Pesca / Ganadería,Colombia,Junio,3
 Agricultura / Pesca / Ganadería,Colombia,Junio,4
 Agricultura / Pesca / Ganadería,Colombia,Junio,11
 Agricultura / Pesca / Ganadería,Colombia,Junio,4
+Agricultura / Pesca / Ganadería,Colombia,Junio,3
+Agricultura / Pesca / Ganadería,Colombia,Junio,1
+Agricultura / Pesca / Ganadería,Colombia,Junio,2
+Agricultura / Pesca / Ganadería,Colombia,Junio,9
+Agricultura / Pesca / Ganadería,Colombia,Julio,11
+Agricultura / Pesca / Ganadería,Colombia,Julio,10
 Construcción / obras,Argentina,Enero,1
 Construcción / obras,Argentina,Enero,6
 Construcción / obras,Argentina,Enero,2
@@ -327,7 +337,7 @@ Construcción / obras,Argentina,Junio,2
 Construcción / obras,Argentina,Junio,4
 Construcción / obras,Argentina,Junio,2
 Construcción / obras,Argentina,Junio,5
-Construcción / obras,Argentina,Junio,1
+Construcción / obras,Argentina,Junio,2
 Construcción / obras,Argentina,Junio,6
 Construcción / obras,Argentina,Junio,1
 Construcción / obras,Argentina,Junio,2
@@ -338,6 +348,11 @@ Construcción / obras,Argentina,Junio,1
 Construcción / obras,Argentina,Junio,3
 Construcción / obras,Argentina,Junio,1
 Construcción / obras,Argentina,Junio,5
+Construcción / obras,Argentina,Junio,1
+Construcción / obras,Argentina,Junio,4
+Construcción / obras,Argentina,Junio,4
+Construcción / obras,Argentina,Julio,6
+Construcción / obras,Argentina,Julio,2
 Construcción / obras,Chile,Enero,4
 Construcción / obras,Chile,Enero,8
 Construcción / obras,Chile,Enero,12
@@ -443,6 +458,12 @@ Construcción / obras,Chile,Junio,2
 Construcción / obras,Chile,Junio,7
 Construcción / obras,Chile,Junio,3
 Construcción / obras,Chile,Junio,3
+Construcción / obras,Chile,Junio,2
+Construcción / obras,Chile,Junio,3
+Construcción / obras,Chile,Junio,1
+Construcción / obras,Chile,Junio,3
+Construcción / obras,Chile,Julio,1
+Construcción / obras,Chile,Julio,5
 Construcción / obras,Colombia,Enero,1
 Construcción / obras,Colombia,Enero,2
 Construcción / obras,Colombia,Enero,4
@@ -586,7 +607,12 @@ Construcción / obras,Colombia,Junio,2
 Construcción / obras,Colombia,Junio,4
 Construcción / obras,Colombia,Junio,14
 Construcción / obras,Colombia,Junio,29
-Construcción / obras,Colombia,Junio,4
+Construcción / obras,Colombia,Junio,18
+Construcción / obras,Colombia,Junio,22
+Construcción / obras,Colombia,Junio,1
+Construcción / obras,Colombia,Junio,18
+Construcción / obras,Colombia,Julio,23
+Construcción / obras,Colombia,Julio,15
 De 1 a 10 trabajadores,Argentina,Enero,1
 De 1 a 10 trabajadores,Argentina,Enero,1
 De 1 a 10 trabajadores,Argentina,Enero,1
@@ -611,6 +637,7 @@ De 1 a 10 trabajadores,Argentina,Junio,1
 De 1 a 10 trabajadores,Argentina,Junio,4
 De 1 a 10 trabajadores,Argentina,Junio,1
 De 1 a 10 trabajadores,Argentina,Junio,1
+De 1 a 10 trabajadores,Argentina,Junio,2
 De 1 a 10 trabajadores,Chile,Enero,1
 De 1 a 10 trabajadores,Chile,Enero,1
 De 1 a 10 trabajadores,Chile,Enero,2
@@ -624,6 +651,7 @@ De 1 a 10 trabajadores,Chile,Abril,1
 De 1 a 10 trabajadores,Chile,Mayo,1
 De 1 a 10 trabajadores,Chile,Junio,1
 De 1 a 10 trabajadores,Chile,Junio,1
+De 1 a 10 trabajadores,Chile,Julio,1
 De 1 a 5 trabajadores,Colombia,Enero,1
 De 1 a 5 trabajadores,Colombia,Enero,1
 De 1 a 5 trabajadores,Colombia,Febrero,1
@@ -657,6 +685,7 @@ De 1 a 5 trabajadores,Colombia,Junio,2
 De 1 a 5 trabajadores,Colombia,Junio,1
 De 1 a 5 trabajadores,Colombia,Junio,2
 De 1 a 5 trabajadores,Colombia,Junio,1
+De 1 a 5 trabajadores,Colombia,Junio,1
 De 101 a 250 trabajadores,Colombia,Febrero,1
 De 101 a 250 trabajadores,Colombia,Febrero,1
 De 101 a 250 trabajadores,Colombia,Febrero,2
@@ -670,6 +699,7 @@ De 101 a 250 trabajadores,Colombia,Marzo,2
 De 101 a 250 trabajadores,Colombia,Marzo,1
 De 101 a 250 trabajadores,Colombia,Abril,2
 De 101 a 250 trabajadores,Colombia,Abril,1
+De 101 a 250 trabajadores,Colombia,Junio,1
 De 101 a 250 trabajadores,Colombia,Junio,1
 De 101 a 250 trabajadores,Colombia,Junio,1
 De 101 a 250 trabajadores,Colombia,Junio,1
@@ -703,6 +733,8 @@ De 11 a 50 trabajadores,Argentina,Junio,1
 De 11 a 50 trabajadores,Argentina,Junio,4
 De 11 a 50 trabajadores,Argentina,Junio,1
 De 11 a 50 trabajadores,Argentina,Junio,3
+De 11 a 50 trabajadores,Argentina,Junio,2
+De 11 a 50 trabajadores,Argentina,Julio,1
 De 11 a 50 trabajadores,Chile,Enero,2
 De 11 a 50 trabajadores,Chile,Enero,1
 De 11 a 50 trabajadores,Chile,Febrero,1
@@ -728,6 +760,8 @@ De 11 a 50 trabajadores,Chile,Junio,5
 De 11 a 50 trabajadores,Chile,Junio,5
 De 11 a 50 trabajadores,Chile,Junio,1
 De 11 a 50 trabajadores,Chile,Junio,5
+De 11 a 50 trabajadores,Chile,Junio,10
+De 11 a 50 trabajadores,Chile,Julio,3
 De 11 a 50 trabajadores,Colombia,Enero,1
 De 11 a 50 trabajadores,Colombia,Enero,1
 De 11 a 50 trabajadores,Colombia,Enero,1
@@ -795,6 +829,10 @@ De 11 a 50 trabajadores,Colombia,Junio,2
 De 11 a 50 trabajadores,Colombia,Junio,3
 De 11 a 50 trabajadores,Colombia,Junio,6
 De 11 a 50 trabajadores,Colombia,Junio,3
+De 11 a 50 trabajadores,Colombia,Junio,1
+De 11 a 50 trabajadores,Colombia,Junio,12
+De 11 a 50 trabajadores,Colombia,Junio,12
+De 11 a 50 trabajadores,Colombia,Julio,10
 De 201 a 500 trabajadores,Argentina,Febrero,1
 De 201 a 500 trabajadores,Argentina,Marzo,1
 De 201 a 500 trabajadores,Argentina,Marzo,1
@@ -826,6 +864,8 @@ De 51 a 100 trabajadores,Colombia,Mayo,1
 De 51 a 100 trabajadores,Colombia,Mayo,3
 De 51 a 100 trabajadores,Colombia,Junio,1
 De 51 a 100 trabajadores,Colombia,Junio,1
+De 51 a 100 trabajadores,Colombia,Junio,1
+De 51 a 100 trabajadores,Colombia,Junio,1
 De 51 a 200 trabajadores,Argentina,Enero,1
 De 51 a 200 trabajadores,Argentina,Enero,1
 De 51 a 200 trabajadores,Argentina,Enero,1
@@ -846,6 +886,7 @@ De 51 a 200 trabajadores,Argentina,Mayo,2
 De 51 a 200 trabajadores,Argentina,Junio,1
 De 51 a 200 trabajadores,Argentina,Junio,1
 De 51 a 200 trabajadores,Argentina,Junio,2
+De 51 a 200 trabajadores,Argentina,Julio,1
 De 51 a 200 trabajadores,Chile,Enero,1
 De 51 a 200 trabajadores,Chile,Enero,2
 De 51 a 200 trabajadores,Chile,Febrero,1
@@ -965,6 +1006,9 @@ Educación,Argentina,Junio,1
 Educación,Argentina,Junio,36
 Educación,Argentina,Junio,1
 Educación,Argentina,Junio,2
+Educación,Argentina,Junio,12
+Educación,Argentina,Junio,11
+Educación,Argentina,Julio,7
 Educación,Chile,Enero,2
 Educación,Chile,Enero,2
 Educación,Chile,Enero,3
@@ -1063,7 +1107,11 @@ Educación,Chile,Junio,4
 Educación,Chile,Junio,4
 Educación,Chile,Junio,3
 Educación,Chile,Junio,3
-Educación,Chile,Junio,1
+Educación,Chile,Junio,2
+Educación,Chile,Junio,3
+Educación,Chile,Junio,2
+Educación,Chile,Julio,2
+Educación,Chile,Julio,3
 Educación,Colombia,Enero,1
 Educación,Colombia,Enero,4
 Educación,Colombia,Enero,1
@@ -1212,8 +1260,15 @@ Educación,Colombia,Junio,11
 Educación,Colombia,Junio,13
 Educación,Colombia,Junio,14
 Educación,Colombia,Junio,6
-Educación,Colombia,Junio,14
-Educación,Colombia,Junio,5
+Educación,Colombia,Junio,15
+Educación,Colombia,Junio,10
+Educación,Colombia,Junio,8
+Educación,Colombia,Junio,8
+Educación,Colombia,Junio,1
+Educación,Colombia,Junio,2
+Educación,Colombia,Junio,31
+Educación,Colombia,Julio,12
+Educación,Colombia,Julio,6
 Energía,Colombia,Enero,1
 Energía,Colombia,Enero,1
 Energía,Colombia,Enero,1
@@ -1341,6 +1396,11 @@ Energía,Colombia,Junio,1
 Energía,Colombia,Junio,1
 Energía,Colombia,Junio,10
 Energía,Colombia,Junio,7
+Energía,Colombia,Junio,3
+Energía,Colombia,Junio,4
+Energía,Colombia,Junio,5
+Energía,Colombia,Julio,2
+Energía,Colombia,Julio,5
 Energía / Minería,Argentina,Enero,1
 Energía / Minería,Argentina,Enero,1
 Energía / Minería,Argentina,Enero,1
@@ -1367,6 +1427,8 @@ Energía / Minería,Argentina,Junio,1
 Energía / Minería,Argentina,Junio,2
 Energía / Minería,Argentina,Junio,1
 Energía / Minería,Argentina,Junio,2
+Energía / Minería,Argentina,Junio,1
+Energía / Minería,Argentina,Junio,1
 Energía / Minería,Argentina,Junio,1
 Energía / Minería,Chile,Enero,1
 Energía / Minería,Chile,Enero,2
@@ -1480,6 +1542,7 @@ Entretenimiento / Deportes,Chile,Abril,2
 Entretenimiento / Deportes,Chile,Abril,1
 Entretenimiento / Deportes,Chile,Mayo,2
 Entretenimiento / Deportes,Chile,Mayo,1
+Entretenimiento / Deportes,Chile,Junio,1
 Entretenimiento / Deportes,Colombia,Enero,1
 Entretenimiento / Deportes,Colombia,Enero,1
 Entretenimiento / Deportes,Colombia,Enero,1
@@ -1571,7 +1634,12 @@ Entretenimiento / Deportes,Colombia,Junio,2
 Entretenimiento / Deportes,Colombia,Junio,1
 Entretenimiento / Deportes,Colombia,Junio,2
 Entretenimiento / Deportes,Colombia,Junio,2
-Entretenimiento / Deportes,Colombia,Junio,1
+Entretenimiento / Deportes,Colombia,Junio,2
+Entretenimiento / Deportes,Colombia,Junio,5
+Entretenimiento / Deportes,Colombia,Junio,2
+Entretenimiento / Deportes,Colombia,Junio,2
+Entretenimiento / Deportes,Colombia,Julio,2
+Entretenimiento / Deportes,Colombia,Julio,2
 Fabricación,Argentina,Enero,4
 Fabricación,Argentina,Enero,5
 Fabricación,Argentina,Enero,7
@@ -1693,7 +1761,12 @@ Fabricación,Argentina,Junio,6
 Fabricación,Argentina,Junio,11
 Fabricación,Argentina,Junio,9
 Fabricación,Argentina,Junio,4
-Fabricación,Argentina,Junio,1
+Fabricación,Argentina,Junio,9
+Fabricación,Argentina,Junio,6
+Fabricación,Argentina,Junio,11
+Fabricación,Argentina,Junio,2
+Fabricación,Argentina,Julio,7
+Fabricación,Argentina,Julio,7
 Fabricación,Chile,Enero,5
 Fabricación,Chile,Enero,10
 Fabricación,Chile,Enero,1
@@ -1786,6 +1859,9 @@ Fabricación,Chile,Junio,2
 Fabricación,Chile,Junio,2
 Fabricación,Chile,Junio,4
 Fabricación,Chile,Junio,1
+Fabricación,Chile,Junio,1
+Fabricación,Chile,Junio,1
+Fabricación,Chile,Julio,6
 Fabricación,Colombia,Enero,1
 Fabricación,Colombia,Enero,3
 Fabricación,Colombia,Enero,1
@@ -1934,8 +2010,15 @@ Fabricación,Colombia,Junio,18
 Fabricación,Colombia,Junio,3
 Fabricación,Colombia,Junio,8
 Fabricación,Colombia,Junio,33
-Fabricación,Colombia,Junio,32
-Fabricación,Colombia,Junio,8
+Fabricación,Colombia,Junio,33
+Fabricación,Colombia,Junio,16
+Fabricación,Colombia,Junio,24
+Fabricación,Colombia,Junio,5
+Fabricación,Colombia,Junio,2
+Fabricación,Colombia,Junio,3
+Fabricación,Colombia,Junio,34
+Fabricación,Colombia,Julio,30
+Fabricación,Colombia,Julio,13
 Finanzas / Banca,Argentina,Enero,4
 Finanzas / Banca,Argentina,Enero,3
 Finanzas / Banca,Argentina,Enero,3
@@ -2015,6 +2098,11 @@ Finanzas / Banca,Argentina,Junio,2
 Finanzas / Banca,Argentina,Junio,1
 Finanzas / Banca,Argentina,Junio,1
 Finanzas / Banca,Argentina,Junio,1
+Finanzas / Banca,Argentina,Junio,1
+Finanzas / Banca,Argentina,Junio,1
+Finanzas / Banca,Argentina,Junio,3
+Finanzas / Banca,Argentina,Julio,3
+Finanzas / Banca,Argentina,Julio,1
 Finanzas / Banca,Chile,Enero,2
 Finanzas / Banca,Chile,Enero,1
 Finanzas / Banca,Chile,Enero,2
@@ -2090,6 +2178,10 @@ Finanzas / Banca,Chile,Junio,3
 Finanzas / Banca,Chile,Junio,4
 Finanzas / Banca,Chile,Junio,7
 Finanzas / Banca,Chile,Junio,1
+Finanzas / Banca,Chile,Junio,1
+Finanzas / Banca,Chile,Junio,1
+Finanzas / Banca,Chile,Julio,4
+Finanzas / Banca,Chile,Julio,2
 Finanzas / Banca,Colombia,Enero,1
 Finanzas / Banca,Colombia,Enero,1
 Finanzas / Banca,Colombia,Enero,1
@@ -2225,7 +2317,12 @@ Finanzas / Banca,Colombia,Junio,5
 Finanzas / Banca,Colombia,Junio,3
 Finanzas / Banca,Colombia,Junio,15
 Finanzas / Banca,Colombia,Junio,29
-Finanzas / Banca,Colombia,Junio,4
+Finanzas / Banca,Colombia,Junio,9
+Finanzas / Banca,Colombia,Junio,14
+Finanzas / Banca,Colombia,Junio,2
+Finanzas / Banca,Colombia,Junio,8
+Finanzas / Banca,Colombia,Julio,25
+Finanzas / Banca,Colombia,Julio,12
 Gobierno / No Lucro,Argentina,Enero,1
 Gobierno / No Lucro,Argentina,Enero,1
 Gobierno / No Lucro,Argentina,Febrero,1
@@ -2389,6 +2486,11 @@ Gobierno / No Lucro,Colombia,Junio,5
 Gobierno / No Lucro,Colombia,Junio,1
 Gobierno / No Lucro,Colombia,Junio,6
 Gobierno / No Lucro,Colombia,Junio,2
+Gobierno / No Lucro,Colombia,Junio,2
+Gobierno / No Lucro,Colombia,Junio,1
+Gobierno / No Lucro,Colombia,Junio,5
+Gobierno / No Lucro,Colombia,Julio,7
+Gobierno / No Lucro,Colombia,Julio,2
 Hostelería / Turismo,Argentina,Enero,4
 Hostelería / Turismo,Argentina,Enero,11
 Hostelería / Turismo,Argentina,Enero,3
@@ -2487,6 +2589,12 @@ Hostelería / Turismo,Argentina,Junio,1
 Hostelería / Turismo,Argentina,Junio,5
 Hostelería / Turismo,Argentina,Junio,1
 Hostelería / Turismo,Argentina,Junio,1
+Hostelería / Turismo,Argentina,Junio,1
+Hostelería / Turismo,Argentina,Junio,1
+Hostelería / Turismo,Argentina,Junio,1
+Hostelería / Turismo,Argentina,Junio,1
+Hostelería / Turismo,Argentina,Julio,1
+Hostelería / Turismo,Argentina,Julio,1
 Hostelería / Turismo,Chile,Enero,4
 Hostelería / Turismo,Chile,Enero,5
 Hostelería / Turismo,Chile,Enero,2
@@ -2581,6 +2689,9 @@ Hostelería / Turismo,Chile,Junio,3
 Hostelería / Turismo,Chile,Junio,2
 Hostelería / Turismo,Chile,Junio,1
 Hostelería / Turismo,Chile,Junio,2
+Hostelería / Turismo,Chile,Junio,1
+Hostelería / Turismo,Chile,Junio,2
+Hostelería / Turismo,Chile,Julio,1
 Hostelería / Turismo,Colombia,Enero,1
 Hostelería / Turismo,Colombia,Enero,1
 Hostelería / Turismo,Colombia,Enero,3
@@ -2709,7 +2820,7 @@ Hostelería / Turismo,Colombia,Junio,11
 Hostelería / Turismo,Colombia,Junio,13
 Hostelería / Turismo,Colombia,Junio,6
 Hostelería / Turismo,Colombia,Junio,3
-Hostelería / Turismo,Colombia,Junio,1
+Hostelería / Turismo,Colombia,Junio,2
 Hostelería / Turismo,Colombia,Junio,8
 Hostelería / Turismo,Colombia,Junio,20
 Hostelería / Turismo,Colombia,Junio,6
@@ -2718,7 +2829,12 @@ Hostelería / Turismo,Colombia,Junio,1
 Hostelería / Turismo,Colombia,Junio,7
 Hostelería / Turismo,Colombia,Junio,2
 Hostelería / Turismo,Colombia,Junio,8
+Hostelería / Turismo,Colombia,Junio,4
+Hostelería / Turismo,Colombia,Junio,7
 Hostelería / Turismo,Colombia,Junio,1
+Hostelería / Turismo,Colombia,Junio,10
+Hostelería / Turismo,Colombia,Julio,19
+Hostelería / Turismo,Colombia,Julio,9
 Informática / Hardware,Argentina,Enero,1
 Informática / Hardware,Argentina,Enero,2
 Informática / Hardware,Argentina,Enero,2
@@ -2778,6 +2894,9 @@ Informática / Hardware,Argentina,Junio,2
 Informática / Hardware,Argentina,Junio,3
 Informática / Hardware,Argentina,Junio,1
 Informática / Hardware,Argentina,Junio,1
+Informática / Hardware,Argentina,Junio,1
+Informática / Hardware,Argentina,Junio,1
+Informática / Hardware,Argentina,Julio,1
 Informática / Hardware,Chile,Enero,4
 Informática / Hardware,Chile,Enero,5
 Informática / Hardware,Chile,Enero,4
@@ -2882,7 +3001,11 @@ Informática / Hardware,Chile,Junio,2
 Informática / Hardware,Chile,Junio,2
 Informática / Hardware,Chile,Junio,7
 Informática / Hardware,Chile,Junio,2
-Informática / Hardware,Chile,Junio,2
+Informática / Hardware,Chile,Junio,3
+Informática / Hardware,Chile,Junio,3
+Informática / Hardware,Chile,Junio,4
+Informática / Hardware,Chile,Julio,5
+Informática / Hardware,Chile,Julio,6
 Informática / Hardware,Colombia,Enero,1
 Informática / Hardware,Colombia,Enero,1
 Informática / Hardware,Colombia,Enero,2
@@ -2984,7 +3107,9 @@ Informática / Hardware,Colombia,Junio,1
 Informática / Hardware,Colombia,Junio,3
 Informática / Hardware,Colombia,Junio,1
 Informática / Hardware,Colombia,Junio,6
-Informática / Hardware,Colombia,Junio,1
+Informática / Hardware,Colombia,Junio,4
+Informática / Hardware,Colombia,Junio,2
+Informática / Hardware,Colombia,Junio,5
 Informática / Software,Argentina,Enero,3
 Informática / Software,Argentina,Enero,6
 Informática / Software,Argentina,Enero,8
@@ -3117,7 +3242,13 @@ Informática / Software,Argentina,Junio,2
 Informática / Software,Argentina,Junio,17
 Informática / Software,Argentina,Junio,19
 Informática / Software,Argentina,Junio,18
-Informática / Software,Argentina,Junio,4
+Informática / Software,Argentina,Junio,12
+Informática / Software,Argentina,Junio,25
+Informática / Software,Argentina,Junio,13
+Informática / Software,Argentina,Junio,22
+Informática / Software,Argentina,Junio,21
+Informática / Software,Argentina,Julio,16
+Informática / Software,Argentina,Julio,21
 Informática / Software,Chile,Enero,1
 Informática / Software,Chile,Enero,8
 Informática / Software,Chile,Enero,11
@@ -3247,6 +3378,11 @@ Informática / Software,Chile,Junio,1
 Informática / Software,Chile,Junio,6
 Informática / Software,Chile,Junio,5
 Informática / Software,Chile,Junio,11
+Informática / Software,Chile,Junio,6
+Informática / Software,Chile,Junio,1
+Informática / Software,Chile,Junio,18
+Informática / Software,Chile,Julio,12
+Informática / Software,Chile,Julio,8
 Informática / Software,Colombia,Enero,2
 Informática / Software,Colombia,Enero,2
 Informática / Software,Colombia,Enero,2
@@ -3393,7 +3529,13 @@ Informática / Software,Colombia,Junio,1
 Informática / Software,Colombia,Junio,8
 Informática / Software,Colombia,Junio,40
 Informática / Software,Colombia,Junio,29
-Informática / Software,Colombia,Junio,5
+Informática / Software,Colombia,Junio,21
+Informática / Software,Colombia,Junio,11
+Informática / Software,Colombia,Junio,2
+Informática / Software,Colombia,Junio,77
+Informática / Software,Colombia,Junio,98
+Informática / Software,Colombia,Julio,36
+Informática / Software,Colombia,Julio,19
 Internet,Argentina,Enero,1
 Internet,Argentina,Enero,1
 Internet,Argentina,Enero,1
@@ -3453,6 +3595,9 @@ Internet,Argentina,Junio,1
 Internet,Argentina,Junio,2
 Internet,Argentina,Junio,1
 Internet,Argentina,Junio,1
+Internet,Argentina,Junio,5
+Internet,Argentina,Julio,1
+Internet,Argentina,Julio,1
 Internet,Chile,Enero,2
 Internet,Chile,Enero,1
 Internet,Chile,Febrero,1
@@ -3465,6 +3610,8 @@ Internet,Chile,Mayo,1
 Internet,Chile,Mayo,1
 Internet,Chile,Junio,1
 Internet,Chile,Junio,1
+Internet,Chile,Junio,1
+Internet,Chile,Julio,1
 Internet,Colombia,Enero,1
 Internet,Colombia,Enero,2
 Internet,Colombia,Enero,1
@@ -3554,6 +3701,9 @@ Internet,Colombia,Junio,1
 Internet,Colombia,Junio,2
 Internet,Colombia,Junio,2
 Internet,Colombia,Junio,3
+Internet,Colombia,Junio,6
+Internet,Colombia,Junio,1
+Internet,Colombia,Julio,1
 Legal / Asesoría,Argentina,Enero,1
 Legal / Asesoría,Argentina,Enero,3
 Legal / Asesoría,Argentina,Enero,2
@@ -3670,6 +3820,7 @@ Legal / Asesoría,Chile,Junio,1
 Legal / Asesoría,Chile,Junio,1
 Legal / Asesoría,Chile,Junio,1
 Legal / Asesoría,Chile,Junio,1
+Legal / Asesoría,Chile,Julio,1
 Legal / Asesoría,Colombia,Enero,2
 Legal / Asesoría,Colombia,Enero,1
 Legal / Asesoría,Colombia,Enero,1
@@ -3794,14 +3945,19 @@ Legal / Asesoría,Colombia,Junio,19
 Legal / Asesoría,Colombia,Junio,1
 Legal / Asesoría,Colombia,Junio,11
 Legal / Asesoría,Colombia,Junio,8
-Legal / Asesoría,Colombia,Junio,8
+Legal / Asesoría,Colombia,Junio,9
 Legal / Asesoría,Colombia,Junio,9
 Legal / Asesoría,Colombia,Junio,1
 Legal / Asesoría,Colombia,Junio,3
 Legal / Asesoría,Colombia,Junio,1
 Legal / Asesoría,Colombia,Junio,10
 Legal / Asesoría,Colombia,Junio,3
-Legal / Asesoría,Colombia,Junio,3
+Legal / Asesoría,Colombia,Junio,9
+Legal / Asesoría,Colombia,Junio,8
+Legal / Asesoría,Colombia,Junio,2
+Legal / Asesoría,Colombia,Junio,20
+Legal / Asesoría,Colombia,Julio,11
+Legal / Asesoría,Colombia,Julio,3
 Materias Primas,Argentina,Enero,1
 Materias Primas,Argentina,Enero,2
 Materias Primas,Argentina,Enero,1
@@ -3838,6 +3994,8 @@ Materias Primas,Argentina,Junio,2
 Materias Primas,Argentina,Junio,1
 Materias Primas,Argentina,Junio,1
 Materias Primas,Argentina,Junio,3
+Materias Primas,Argentina,Junio,1
+Materias Primas,Argentina,Julio,1
 Materias Primas,Chile,Enero,1
 Materias Primas,Chile,Enero,1
 Materias Primas,Chile,Enero,2
@@ -3976,6 +4134,11 @@ Materias Primas,Colombia,Junio,1
 Materias Primas,Colombia,Junio,2
 Materias Primas,Colombia,Junio,2
 Materias Primas,Colombia,Junio,3
+Materias Primas,Colombia,Junio,1
+Materias Primas,Colombia,Junio,1
+Materias Primas,Colombia,Junio,1
+Materias Primas,Colombia,Julio,3
+Materias Primas,Colombia,Julio,2
 Medios de Comunicación,Argentina,Enero,3
 Medios de Comunicación,Argentina,Enero,2
 Medios de Comunicación,Argentina,Enero,1
@@ -4010,6 +4173,8 @@ Medios de Comunicación,Argentina,Junio,1
 Medios de Comunicación,Argentina,Junio,1
 Medios de Comunicación,Argentina,Junio,2
 Medios de Comunicación,Argentina,Junio,1
+Medios de Comunicación,Argentina,Junio,1
+Medios de Comunicación,Argentina,Julio,1
 Medios de Comunicación,Chile,Enero,1
 Medios de Comunicación,Chile,Enero,1
 Medios de Comunicación,Chile,Enero,1
@@ -4062,6 +4227,9 @@ Medios de Comunicación,Chile,Junio,2
 Medios de Comunicación,Chile,Junio,1
 Medios de Comunicación,Chile,Junio,1
 Medios de Comunicación,Chile,Junio,4
+Medios de Comunicación,Chile,Junio,1
+Medios de Comunicación,Chile,Julio,2
+Medios de Comunicación,Chile,Julio,3
 Medios de Comunicación,Colombia,Enero,1
 Medios de Comunicación,Colombia,Enero,1
 Medios de Comunicación,Colombia,Enero,4
@@ -4141,6 +4309,9 @@ Medios de Comunicación,Colombia,Junio,1
 Medios de Comunicación,Colombia,Junio,2
 Medios de Comunicación,Colombia,Junio,1
 Medios de Comunicación,Colombia,Junio,1
+Medios de Comunicación,Colombia,Junio,1
+Medios de Comunicación,Colombia,Junio,1
+Medios de Comunicación,Colombia,Junio,1
 Más de 1000 trabajadores,Argentina,Enero,1
 Más de 1000 trabajadores,Chile,Mayo,1
 Más de 1000 trabajadores,Chile,Junio,1
@@ -4197,6 +4368,7 @@ Otros,Colombia,Marzo,2
 Otros,Colombia,Marzo,2
 Otros,Colombia,Abril,1
 Otros,Colombia,Abril,1
+Otros,Colombia,Junio,1
 Otros,Colombia,Junio,1
 Publicidad / RRPP,Argentina,Enero,1
 Publicidad / RRPP,Argentina,Enero,1
@@ -4280,6 +4452,11 @@ Publicidad / RRPP,Argentina,Junio,2
 Publicidad / RRPP,Argentina,Junio,1
 Publicidad / RRPP,Argentina,Junio,1
 Publicidad / RRPP,Argentina,Junio,4
+Publicidad / RRPP,Argentina,Junio,1
+Publicidad / RRPP,Argentina,Junio,1
+Publicidad / RRPP,Argentina,Junio,1
+Publicidad / RRPP,Argentina,Julio,1
+Publicidad / RRPP,Argentina,Julio,1
 Publicidad / RRPP,Chile,Enero,3
 Publicidad / RRPP,Chile,Enero,1
 Publicidad / RRPP,Chile,Enero,5
@@ -4353,6 +4530,11 @@ Publicidad / RRPP,Chile,Junio,2
 Publicidad / RRPP,Chile,Junio,3
 Publicidad / RRPP,Chile,Junio,1
 Publicidad / RRPP,Chile,Junio,3
+Publicidad / RRPP,Chile,Junio,1
+Publicidad / RRPP,Chile,Junio,1
+Publicidad / RRPP,Chile,Junio,6
+Publicidad / RRPP,Chile,Julio,1
+Publicidad / RRPP,Chile,Julio,1
 Publicidad / RRPP,Colombia,Enero,1
 Publicidad / RRPP,Colombia,Enero,5
 Publicidad / RRPP,Colombia,Enero,7
@@ -4492,7 +4674,11 @@ Publicidad / RRPP,Colombia,Junio,9
 Publicidad / RRPP,Colombia,Junio,1
 Publicidad / RRPP,Colombia,Junio,7
 Publicidad / RRPP,Colombia,Junio,18
-Publicidad / RRPP,Colombia,Junio,1
+Publicidad / RRPP,Colombia,Junio,8
+Publicidad / RRPP,Colombia,Junio,5
+Publicidad / RRPP,Colombia,Junio,9
+Publicidad / RRPP,Colombia,Julio,10
+Publicidad / RRPP,Colombia,Julio,7
 Salud / Medicina,Argentina,Enero,5
 Salud / Medicina,Argentina,Enero,6
 Salud / Medicina,Argentina,Enero,6
@@ -4617,7 +4803,12 @@ Salud / Medicina,Argentina,Junio,9
 Salud / Medicina,Argentina,Junio,13
 Salud / Medicina,Argentina,Junio,9
 Salud / Medicina,Argentina,Junio,7
-Salud / Medicina,Argentina,Junio,1
+Salud / Medicina,Argentina,Junio,6
+Salud / Medicina,Argentina,Junio,16
+Salud / Medicina,Argentina,Junio,10
+Salud / Medicina,Argentina,Junio,10
+Salud / Medicina,Argentina,Julio,10
+Salud / Medicina,Argentina,Julio,9
 Salud / Medicina,Chile,Enero,3
 Salud / Medicina,Chile,Enero,4
 Salud / Medicina,Chile,Enero,4
@@ -4729,6 +4920,11 @@ Salud / Medicina,Chile,Junio,1
 Salud / Medicina,Chile,Junio,8
 Salud / Medicina,Chile,Junio,6
 Salud / Medicina,Chile,Junio,3
+Salud / Medicina,Chile,Junio,2
+Salud / Medicina,Chile,Junio,4
+Salud / Medicina,Chile,Junio,1
+Salud / Medicina,Chile,Julio,2
+Salud / Medicina,Chile,Julio,4
 Salud / Medicina,Colombia,Enero,4
 Salud / Medicina,Colombia,Enero,6
 Salud / Medicina,Colombia,Enero,4
@@ -4887,7 +5083,14 @@ Salud / Medicina,Colombia,Junio,7
 Salud / Medicina,Colombia,Junio,10
 Salud / Medicina,Colombia,Junio,66
 Salud / Medicina,Colombia,Junio,56
-Salud / Medicina,Colombia,Junio,8
+Salud / Medicina,Colombia,Junio,28
+Salud / Medicina,Colombia,Junio,42
+Salud / Medicina,Colombia,Junio,16
+Salud / Medicina,Colombia,Junio,4
+Salud / Medicina,Colombia,Junio,6
+Salud / Medicina,Colombia,Junio,66
+Salud / Medicina,Colombia,Julio,70
+Salud / Medicina,Colombia,Julio,44
 Servicios Profesionales,Argentina,Enero,8
 Servicios Profesionales,Argentina,Enero,5
 Servicios Profesionales,Argentina,Enero,7
@@ -5023,6 +5226,12 @@ Servicios Profesionales,Argentina,Junio,30
 Servicios Profesionales,Argentina,Junio,14
 Servicios Profesionales,Argentina,Junio,21
 Servicios Profesionales,Argentina,Junio,6
+Servicios Profesionales,Argentina,Junio,10
+Servicios Profesionales,Argentina,Junio,1
+Servicios Profesionales,Argentina,Junio,18
+Servicios Profesionales,Argentina,Junio,13
+Servicios Profesionales,Argentina,Julio,28
+Servicios Profesionales,Argentina,Julio,15
 Servicios Profesionales,Chile,Enero,3
 Servicios Profesionales,Chile,Enero,21
 Servicios Profesionales,Chile,Enero,13
@@ -5153,7 +5362,12 @@ Servicios Profesionales,Chile,Junio,10
 Servicios Profesionales,Chile,Junio,13
 Servicios Profesionales,Chile,Junio,14
 Servicios Profesionales,Chile,Junio,20
-Servicios Profesionales,Chile,Junio,10
+Servicios Profesionales,Chile,Junio,13
+Servicios Profesionales,Chile,Junio,9
+Servicios Profesionales,Chile,Junio,1
+Servicios Profesionales,Chile,Junio,23
+Servicios Profesionales,Chile,Julio,29
+Servicios Profesionales,Chile,Julio,6
 Servicios Profesionales,Colombia,Enero,1
 Servicios Profesionales,Colombia,Enero,4
 Servicios Profesionales,Colombia,Enero,6
@@ -5314,10 +5528,17 @@ Servicios Profesionales,Colombia,Junio,124
 Servicios Profesionales,Colombia,Junio,94
 Servicios Profesionales,Colombia,Junio,17
 Servicios Profesionales,Colombia,Junio,1
-Servicios Profesionales,Colombia,Junio,23
+Servicios Profesionales,Colombia,Junio,24
 Servicios Profesionales,Colombia,Junio,103
 Servicios Profesionales,Colombia,Junio,85
-Servicios Profesionales,Colombia,Junio,28
+Servicios Profesionales,Colombia,Junio,90
+Servicios Profesionales,Colombia,Junio,56
+Servicios Profesionales,Colombia,Junio,8
+Servicios Profesionales,Colombia,Junio,1
+Servicios Profesionales,Colombia,Junio,4
+Servicios Profesionales,Colombia,Junio,104
+Servicios Profesionales,Colombia,Julio,113
+Servicios Profesionales,Colombia,Julio,51
 Telecomunicaciones,Argentina,Enero,3
 Telecomunicaciones,Argentina,Enero,4
 Telecomunicaciones,Argentina,Enero,1
@@ -5422,6 +5643,11 @@ Telecomunicaciones,Argentina,Junio,5
 Telecomunicaciones,Argentina,Junio,1
 Telecomunicaciones,Argentina,Junio,6
 Telecomunicaciones,Argentina,Junio,2
+Telecomunicaciones,Argentina,Junio,1
+Telecomunicaciones,Argentina,Junio,2
+Telecomunicaciones,Argentina,Junio,1
+Telecomunicaciones,Argentina,Julio,1
+Telecomunicaciones,Argentina,Julio,2
 Telecomunicaciones,Chile,Enero,2
 Telecomunicaciones,Chile,Enero,2
 Telecomunicaciones,Chile,Enero,4
@@ -5542,6 +5768,12 @@ Telecomunicaciones,Chile,Junio,4
 Telecomunicaciones,Chile,Junio,5
 Telecomunicaciones,Chile,Junio,9
 Telecomunicaciones,Chile,Junio,4
+Telecomunicaciones,Chile,Junio,2
+Telecomunicaciones,Chile,Junio,1
+Telecomunicaciones,Chile,Junio,3
+Telecomunicaciones,Chile,Junio,4
+Telecomunicaciones,Chile,Julio,7
+Telecomunicaciones,Chile,Julio,4
 Telecomunicaciones,Colombia,Enero,1
 Telecomunicaciones,Colombia,Enero,1
 Telecomunicaciones,Colombia,Enero,1
@@ -5694,14 +5926,21 @@ Telecomunicaciones,Colombia,Junio,3
 Telecomunicaciones,Colombia,Junio,25
 Telecomunicaciones,Colombia,Junio,136
 Telecomunicaciones,Colombia,Junio,161
-Telecomunicaciones,Colombia,Junio,201
+Telecomunicaciones,Colombia,Junio,202
 Telecomunicaciones,Colombia,Junio,58
 Telecomunicaciones,Colombia,Junio,4
 Telecomunicaciones,Colombia,Junio,3
 Telecomunicaciones,Colombia,Junio,25
 Telecomunicaciones,Colombia,Junio,124
 Telecomunicaciones,Colombia,Junio,160
-Telecomunicaciones,Colombia,Junio,61
+Telecomunicaciones,Colombia,Junio,100
+Telecomunicaciones,Colombia,Junio,68
+Telecomunicaciones,Colombia,Junio,17
+Telecomunicaciones,Colombia,Junio,4
+Telecomunicaciones,Colombia,Junio,35
+Telecomunicaciones,Colombia,Junio,115
+Telecomunicaciones,Colombia,Julio,141
+Telecomunicaciones,Colombia,Julio,144
 Transporte,Colombia,Enero,2
 Transporte,Colombia,Enero,7
 Transporte,Colombia,Enero,1
@@ -5845,8 +6084,8 @@ Transporte,Colombia,Junio,3
 Transporte,Colombia,Junio,27
 Transporte,Colombia,Junio,37
 Transporte,Colombia,Junio,27
-Transporte,Colombia,Junio,14
-Transporte,Colombia,Junio,21
+Transporte,Colombia,Junio,15
+Transporte,Colombia,Junio,22
 Transporte,Colombia,Junio,8
 Transporte,Colombia,Junio,1
 Transporte,Colombia,Junio,31
@@ -5858,7 +6097,14 @@ Transporte,Colombia,Junio,1
 Transporte,Colombia,Junio,7
 Transporte,Colombia,Junio,34
 Transporte,Colombia,Junio,28
-Transporte,Colombia,Junio,5
+Transporte,Colombia,Junio,16
+Transporte,Colombia,Junio,29
+Transporte,Colombia,Junio,3
+Transporte,Colombia,Junio,1
+Transporte,Colombia,Junio,10
+Transporte,Colombia,Junio,38
+Transporte,Colombia,Julio,40
+Transporte,Colombia,Julio,12
 Transporte / Logística,Argentina,Enero,1
 Transporte / Logística,Argentina,Enero,1
 Transporte / Logística,Argentina,Enero,2
@@ -5965,7 +6211,12 @@ Transporte / Logística,Argentina,Junio,1
 Transporte / Logística,Argentina,Junio,4
 Transporte / Logística,Argentina,Junio,1
 Transporte / Logística,Argentina,Junio,1
-Transporte / Logística,Argentina,Junio,1
+Transporte / Logística,Argentina,Junio,2
+Transporte / Logística,Argentina,Junio,3
+Transporte / Logística,Argentina,Junio,4
+Transporte / Logística,Argentina,Junio,2
+Transporte / Logística,Argentina,Julio,3
+Transporte / Logística,Argentina,Julio,3
 Transporte / Logística,Chile,Enero,6
 Transporte / Logística,Chile,Enero,6
 Transporte / Logística,Chile,Enero,11
@@ -6068,6 +6319,10 @@ Transporte / Logística,Chile,Junio,3
 Transporte / Logística,Chile,Junio,6
 Transporte / Logística,Chile,Junio,4
 Transporte / Logística,Chile,Junio,4
+Transporte / Logística,Chile,Junio,6
+Transporte / Logística,Chile,Junio,2
+Transporte / Logística,Chile,Julio,1
+Transporte / Logística,Chile,Julio,4
 Venta al consumidor,Argentina,Enero,11
 Venta al consumidor,Argentina,Enero,11
 Venta al consumidor,Argentina,Enero,1
@@ -6195,9 +6450,15 @@ Venta al consumidor,Argentina,Junio,10
 Venta al consumidor,Argentina,Junio,7
 Venta al consumidor,Argentina,Junio,6
 Venta al consumidor,Argentina,Junio,1
-Venta al consumidor,Argentina,Junio,11
+Venta al consumidor,Argentina,Junio,12
 Venta al consumidor,Argentina,Junio,10
 Venta al consumidor,Argentina,Junio,7
+Venta al consumidor,Argentina,Junio,4
+Venta al consumidor,Argentina,Junio,4
+Venta al consumidor,Argentina,Junio,11
+Venta al consumidor,Argentina,Junio,12
+Venta al consumidor,Argentina,Julio,5
+Venta al consumidor,Argentina,Julio,9
 Venta al consumidor,Chile,Enero,1
 Venta al consumidor,Chile,Enero,7
 Venta al consumidor,Chile,Enero,12
@@ -6318,6 +6579,11 @@ Venta al consumidor,Chile,Junio,1
 Venta al consumidor,Chile,Junio,6
 Venta al consumidor,Chile,Junio,3
 Venta al consumidor,Chile,Junio,7
+Venta al consumidor,Chile,Junio,4
+Venta al consumidor,Chile,Junio,1
+Venta al consumidor,Chile,Junio,4
+Venta al consumidor,Chile,Julio,3
+Venta al consumidor,Chile,Julio,4
 Venta al consumidor,Colombia,Enero,12
 Venta al consumidor,Colombia,Enero,6
 Venta al consumidor,Colombia,Enero,7
@@ -6475,7 +6741,13 @@ Venta al consumidor,Colombia,Junio,12
 Venta al consumidor,Colombia,Junio,4
 Venta al consumidor,Colombia,Junio,97
 Venta al consumidor,Colombia,Junio,56
-Venta al consumidor,Colombia,Junio,4
+Venta al consumidor,Colombia,Junio,20
+Venta al consumidor,Colombia,Junio,50
+Venta al consumidor,Colombia,Junio,10
+Venta al consumidor,Colombia,Junio,5
+Venta al consumidor,Colombia,Junio,57
+Venta al consumidor,Colombia,Julio,53
+Venta al consumidor,Colombia,Julio,26
 Venta al por mayor,Argentina,Enero,2
 Venta al por mayor,Argentina,Enero,5
 Venta al por mayor,Argentina,Enero,1
@@ -6575,6 +6847,10 @@ Venta al por mayor,Argentina,Junio,1
 Venta al por mayor,Argentina,Junio,3
 Venta al por mayor,Argentina,Junio,3
 Venta al por mayor,Argentina,Junio,4
+Venta al por mayor,Argentina,Junio,1
+Venta al por mayor,Argentina,Junio,5
+Venta al por mayor,Argentina,Junio,1
+Venta al por mayor,Argentina,Julio,2
 Venta al por mayor,Chile,Enero,3
 Venta al por mayor,Chile,Enero,4
 Venta al por mayor,Chile,Enero,1
@@ -6658,6 +6934,10 @@ Venta al por mayor,Chile,Junio,4
 Venta al por mayor,Chile,Junio,1
 Venta al por mayor,Chile,Junio,1
 Venta al por mayor,Chile,Junio,2
+Venta al por mayor,Chile,Junio,1
+Venta al por mayor,Chile,Junio,5
+Venta al por mayor,Chile,Julio,6
+Venta al por mayor,Chile,Julio,3
 Venta al por mayor,Colombia,Enero,2
 Venta al por mayor,Colombia,Enero,1
 Venta al por mayor,Colombia,Enero,3
@@ -6798,4 +7078,10 @@ Venta al por mayor,Colombia,Junio,10
 Venta al por mayor,Colombia,Junio,2
 Venta al por mayor,Colombia,Junio,9
 Venta al por mayor,Colombia,Junio,13
+Venta al por mayor,Colombia,Junio,6
+Venta al por mayor,Colombia,Junio,17
+Venta al por mayor,Colombia,Junio,2
 Venta al por mayor,Colombia,Junio,3
+Venta al por mayor,Colombia,Junio,20
+Venta al por mayor,Colombia,Julio,12
+Venta al por mayor,Colombia,Julio,7
