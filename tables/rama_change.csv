@@ -1,0 +1,391 @@
+pais,fecha_online,rama_de_actividad,conteo,id,growth
+Argentina,Enero,Legal / Asesoría,18,9,157.14285714285717
+Argentina,Enero,Informática / Hardware,12,6,100.0
+Argentina,Enero,Medios de Comunicación,8,11,100.0
+Argentina,Enero,Hostelería / Turismo,21,5,90.90909090909092
+Argentina,Enero,Materias Primas,8,10,60.00000000000001
+Argentina,Enero,Construcción / obras,22,1,57.14285714285714
+Argentina,Enero,Venta al por mayor,21,18,50.0
+Argentina,Enero,Fabricación,22,3,22.222222222222232
+Argentina,Enero,Finanzas / Banca,13,4,18.181818181818187
+Argentina,Enero,Venta al consumidor,26,17,18.181818181818187
+Argentina,Enero,Transporte / Logística,21,16,16.666666666666675
+Argentina,Enero,Educación,19,2,11.764705882352944
+Argentina,Enero,Agricultura / Pesca / Ganadería,10,0,11.111111111111116
+Argentina,Enero,Telecomunicaciones,17,15,6.25
+Argentina,Enero,Salud / Medicina,23,13,4.545454545454541
+Argentina,Enero,Servicios Profesionales,22,14,0.0
+Argentina,Enero,Informática / Software,21,7,-12.5
+Argentina,Enero,Publicidad / RRPP,12,12,-19.999999999999996
+Argentina,Enero,Internet,9,8,-25.0
+Argentina,Febrero,De 1 a 10 trabajadores,7,19,75.0
+Argentina,Febrero,Publicidad / RRPP,14,12,16.666666666666675
+Argentina,Febrero,Internet,9,8,0.0
+Argentina,Febrero,Materias Primas,8,10,0.0
+Argentina,Febrero,Informática / Hardware,11,6,-8.333333333333337
+Argentina,Febrero,Agricultura / Pesca / Ganadería,9,0,-9.999999999999998
+Argentina,Febrero,Finanzas / Banca,11,4,-15.384615384615385
+Argentina,Febrero,Telecomunicaciones,14,15,-17.647058823529417
+Argentina,Febrero,Hostelería / Turismo,17,5,-19.047619047619047
+Argentina,Febrero,Educación,15,2,-21.052631578947366
+Argentina,Febrero,Fabricación,17,3,-22.72727272727273
+Argentina,Febrero,Servicios Profesionales,17,14,-22.72727272727273
+Argentina,Febrero,Informática / Software,16,7,-23.809523809523814
+Argentina,Febrero,Medios de Comunicación,6,11,-25.0
+Argentina,Febrero,Salud / Medicina,16,13,-30.434782608695656
+Argentina,Febrero,Transporte / Logística,14,16,-33.333333333333336
+Argentina,Febrero,Venta al consumidor,17,17,-34.61538461538461
+Argentina,Febrero,Entretenimiento / Deportes,8,22,-38.46153846153846
+Argentina,Febrero,Construcción / obras,13,1,-40.90909090909091
+Argentina,Febrero,Legal / Asesoría,10,9,-44.44444444444444
+Argentina,Febrero,Energía / Minería,5,21,-44.44444444444444
+Argentina,Febrero,Venta al por mayor,11,18,-47.61904761904761
+Argentina,Julio,Venta al por mayor,6,18,-45.45454545454546
+Argentina,Julio,Informática / Software,8,7,-50.0
+Argentina,Julio,Salud / Medicina,8,13,-50.0
+Argentina,Julio,Servicios Profesionales,8,14,-52.94117647058824
+Argentina,Julio,Finanzas / Banca,5,4,-54.54545454545454
+Argentina,Julio,Internet,4,8,-55.55555555555556
+Argentina,Julio,Publicidad / RRPP,6,12,-57.14285714285714
+Argentina,Julio,Telecomunicaciones,6,15,-57.14285714285714
+Argentina,Julio,Transporte / Logística,6,16,-57.14285714285714
+Argentina,Julio,Fabricación,7,3,-58.82352941176471
+Argentina,Julio,Hostelería / Turismo,7,5,-58.82352941176471
+Argentina,Julio,Venta al consumidor,7,17,-58.82352941176471
+Argentina,Julio,Construcción / obras,5,1,-61.53846153846154
+Argentina,Julio,Informática / Hardware,4,6,-63.63636363636363
+Argentina,Julio,Educación,5,2,-66.66666666666667
+Argentina,Julio,Legal / Asesoría,3,9,-70.0
+Argentina,Junio,Construcción / obras,20,1,300.0
+Argentina,Junio,Legal / Asesoría,11,9,266.66666666666663
+Argentina,Junio,Transporte / Logística,21,16,250.0
+Argentina,Junio,Telecomunicaciones,21,15,250.0
+Argentina,Junio,Educación,17,2,240.0
+Argentina,Junio,Venta al consumidor,23,17,228.57142857142856
+Argentina,Junio,Informática / Software,26,7,225.0
+Argentina,Junio,Informática / Hardware,13,6,225.0
+Argentina,Junio,Venta al por mayor,19,18,216.66666666666666
+Argentina,Junio,Fabricación,22,3,214.28571428571428
+Argentina,Junio,Servicios Profesionales,25,14,212.5
+Argentina,Junio,Finanzas / Banca,14,4,179.99999999999997
+Argentina,Junio,Salud / Medicina,22,13,175.0
+Argentina,Junio,Publicidad / RRPP,15,12,150.0
+Argentina,Junio,Hostelería / Turismo,15,5,114.28571428571428
+Argentina,Junio,Internet,8,8,100.0
+Argentina,Junio,Energía / Minería,8,21,60.00000000000001
+Argentina,Junio,Agricultura / Pesca / Ganadería,14,0,55.55555555555556
+Argentina,Junio,Medios de Comunicación,6,11,0.0
+Argentina,Junio,De 51 a 200 trabajadores,3,20,0.0
+Argentina,Junio,De 1 a 10 trabajadores,5,19,-28.57142857142857
+Argentina,Junio,Materias Primas,5,10,-37.5
+Argentina,Junio,Entretenimiento / Deportes,4,22,-50.0
+Argentina,Marzo,Entretenimiento / Deportes,13,22,225.0
+Argentina,Marzo,De 51 a 200 trabajadores,6,20,100.0
+Argentina,Marzo,Materias Primas,9,10,80.0
+Argentina,Marzo,Internet,14,8,75.0
+Argentina,Marzo,Hostelería / Turismo,25,5,66.66666666666667
+Argentina,Marzo,Publicidad / RRPP,21,12,39.99999999999999
+Argentina,Marzo,Otros,4,23,33.33333333333333
+Argentina,Marzo,Medios de Comunicación,8,11,33.33333333333333
+Argentina,Marzo,Legal / Asesoría,14,9,27.27272727272727
+Argentina,Marzo,Fabricación,27,3,22.72727272727273
+Argentina,Marzo,Finanzas / Banca,17,4,21.42857142857142
+Argentina,Marzo,Venta al por mayor,23,18,21.052631578947366
+Argentina,Marzo,Educación,20,2,17.647058823529417
+Argentina,Marzo,Gobierno / No Lucro,8,24,14.28571428571428
+Argentina,Marzo,Venta al consumidor,26,17,13.043478260869556
+Argentina,Marzo,Servicios Profesionales,28,14,12.00000000000001
+Argentina,Marzo,Salud / Medicina,24,13,9.090909090909083
+Argentina,Marzo,Informática / Hardware,14,6,7.692307692307687
+Argentina,Marzo,Construcción / obras,21,1,5.000000000000004
+Argentina,Marzo,Telecomunicaciones,21,15,0.0
+Argentina,Marzo,Transporte / Logística,21,16,0.0
+Argentina,Marzo,Informática / Software,26,7,0.0
+Argentina,Marzo,De 1 a 10 trabajadores,5,19,0.0
+Argentina,Marzo,Agricultura / Pesca / Ganadería,13,0,-7.14285714285714
+Argentina,Marzo,Energía / Minería,3,21,-62.5
+Argentina,Mayo,Energía / Minería,3,21,0.0
+Argentina,Mayo,Finanzas / Banca,16,4,-5.882352941176472
+Argentina,Mayo,Informática / Software,24,7,-7.692307692307687
+Argentina,Mayo,Servicios Profesionales,25,14,-10.71428571428571
+Argentina,Mayo,Salud / Medicina,21,13,-12.5
+Argentina,Mayo,Construcción / obras,18,1,-14.28571428571429
+Argentina,Mayo,Telecomunicaciones,18,15,-14.28571428571429
+Argentina,Mayo,Venta al consumidor,20,17,-23.076923076923073
+Argentina,Mayo,Transporte / Logística,15,16,-28.57142857142857
+Argentina,Mayo,Fabricación,19,3,-29.629629629629626
+Argentina,Mayo,De 51 a 200 trabajadores,4,20,-33.333333333333336
+Argentina,Mayo,Agricultura / Pesca / Ganadería,8,0,-38.46153846153846
+Argentina,Mayo,Venta al por mayor,14,18,-39.13043478260869
+Argentina,Mayo,De 1 a 10 trabajadores,3,19,-40.0
+Argentina,Mayo,Internet,8,8,-42.85714285714286
+Argentina,Mayo,Legal / Asesoría,8,9,-42.85714285714286
+Argentina,Mayo,Educación,11,2,-44.99999999999999
+Argentina,Mayo,Hostelería / Turismo,13,5,-48.0
+Argentina,Mayo,Publicidad / RRPP,8,12,-61.904761904761905
+Argentina,Mayo,Medios de Comunicación,3,11,-62.5
+Argentina,Mayo,Informática / Hardware,5,6,-64.28571428571428
+Argentina,Mayo,Entretenimiento / Deportes,3,22,-76.92307692307692
+Chile,Enero,Entretenimiento / Deportes,10,28,233.33333333333334
+Chile,Enero,Publicidad / RRPP,16,37,166.66666666666666
+Chile,Enero,Venta al por mayor,20,43,122.22222222222223
+Chile,Enero,Gobierno / No Lucro,16,31,77.77777777777777
+Chile,Enero,Fabricación,21,29,75.0
+Chile,Enero,Construcción / obras,22,26,69.23076923076923
+Chile,Enero,Hostelería / Turismo,20,32,33.33333333333333
+Chile,Enero,Educación,16,27,33.33333333333333
+Chile,Enero,Transporte / Logística,21,41,31.25
+Chile,Enero,Informática / Hardware,22,33,15.789473684210531
+Chile,Enero,Medios de Comunicación,8,36,14.28571428571428
+Chile,Enero,Telecomunicaciones,24,40,14.28571428571428
+Chile,Enero,Venta al consumidor,22,42,4.761904761904767
+Chile,Enero,Salud / Medicina,19,38,0.0
+Chile,Enero,Servicios Profesionales,23,39,0.0
+Chile,Enero,Materias Primas,7,35,0.0
+Chile,Enero,Informática / Software,22,34,-4.347826086956519
+Chile,Enero,Finanzas / Banca,7,30,-46.15384615384615
+Chile,Febrero,Finanzas / Banca,13,30,85.71428571428572
+Chile,Febrero,Medios de Comunicación,12,36,50.0
+Chile,Febrero,Energía / Minería,11,46,10.000000000000009
+Chile,Febrero,Publicidad / RRPP,14,37,-12.5
+Chile,Febrero,Educación,14,27,-12.5
+Chile,Febrero,Otros,5,48,-16.666666666666664
+Chile,Febrero,Transporte / Logística,17,41,-19.047619047619047
+Chile,Febrero,Hostelería / Turismo,16,32,-19.999999999999996
+Chile,Febrero,Venta al consumidor,17,42,-22.72727272727273
+Chile,Febrero,Informática / Software,17,34,-22.72727272727273
+Chile,Febrero,Legal / Asesoría,10,47,-23.076923076923073
+Chile,Febrero,Fabricación,15,29,-28.57142857142857
+Chile,Febrero,Telecomunicaciones,17,40,-29.166666666666664
+Chile,Febrero,Servicios Profesionales,16,39,-30.434782608695656
+Chile,Febrero,Salud / Medicina,13,38,-31.57894736842105
+Chile,Febrero,Agricultura / Pesca / Ganadería,6,44,-33.333333333333336
+Chile,Febrero,Construcción / obras,14,26,-36.36363636363637
+Chile,Febrero,Venta al por mayor,12,43,-40.0
+Chile,Febrero,Informática / Hardware,13,33,-40.90909090909091
+Chile,Febrero,Materias Primas,4,35,-42.85714285714286
+Chile,Febrero,Gobierno / No Lucro,7,31,-56.25
+Chile,Febrero,Entretenimiento / Deportes,4,28,-60.0
+Chile,Julio,Materias Primas,3,35,-25.0
+Chile,Julio,Gobierno / No Lucro,4,31,-42.85714285714286
+Chile,Julio,Informática / Hardware,7,33,-46.15384615384615
+Chile,Julio,Agricultura / Pesca / Ganadería,3,44,-50.0
+Chile,Julio,Servicios Profesionales,8,39,-50.0
+Chile,Julio,Medios de Comunicación,6,36,-50.0
+Chile,Julio,Construcción / obras,7,26,-50.0
+Chile,Julio,Venta al por mayor,6,43,-50.0
+Chile,Julio,Educación,7,27,-50.0
+Chile,Julio,Finanzas / Banca,6,30,-53.84615384615385
+Chile,Julio,Salud / Medicina,6,38,-53.84615384615385
+Chile,Julio,Publicidad / RRPP,6,37,-57.14285714285714
+Chile,Julio,Informática / Software,7,34,-58.82352941176471
+Chile,Julio,Telecomunicaciones,7,40,-58.82352941176471
+Chile,Julio,Venta al consumidor,7,42,-58.82352941176471
+Chile,Julio,Legal / Asesoría,4,47,-60.0
+Chile,Julio,Hostelería / Turismo,5,32,-68.75
+Chile,Julio,Transporte / Logística,5,41,-70.58823529411764
+Chile,Julio,Fabricación,4,29,-73.33333333333334
+Chile,Junio,Fabricación,16,29,300.0
+Chile,Junio,Transporte / Logística,20,41,300.0
+Chile,Junio,Salud / Medicina,22,38,266.66666666666663
+Chile,Junio,Finanzas / Banca,19,30,216.66666666666666
+Chile,Junio,Educación,22,27,214.28571428571428
+Chile,Junio,Informática / Software,22,34,214.28571428571428
+Chile,Junio,Venta al consumidor,21,42,200.0
+Chile,Junio,Construcción / obras,21,26,200.0
+Chile,Junio,Telecomunicaciones,21,40,200.0
+Chile,Junio,Informática / Hardware,20,33,185.71428571428572
+Chile,Junio,Venta al por mayor,17,43,183.33333333333334
+Chile,Junio,Servicios Profesionales,22,39,175.0
+Chile,Junio,Publicidad / RRPP,15,37,150.0
+Chile,Junio,Hostelería / Turismo,12,32,140.0
+Chile,Junio,Agricultura / Pesca / Ganadería,7,44,133.33333333333334
+Chile,Junio,Medios de Comunicación,14,36,133.33333333333334
+Chile,Junio,Gobierno / No Lucro,9,31,125.0
+Chile,Junio,Legal / Asesoría,6,47,50.0
+Chile,Junio,Materias Primas,4,35,33.33333333333333
+Chile,Junio,Energía / Minería,7,46,-36.36363636363637
+Chile,Junio,Otros,3,48,-40.0
+Chile,Marzo,Hostelería / Turismo,20,32,66.66666666666667
+Chile,Marzo,Legal / Asesoría,10,47,66.66666666666667
+Chile,Marzo,Materias Primas,6,35,50.0
+Chile,Marzo,Energía / Minería,10,46,42.85714285714286
+Chile,Marzo,Otros,4,48,33.33333333333333
+Chile,Marzo,Fabricación,20,29,25.0
+Chile,Marzo,Servicios Profesionales,26,39,18.181818181818187
+Chile,Marzo,Construcción / obras,23,26,9.523809523809534
+Chile,Marzo,Publicidad / RRPP,16,37,6.666666666666665
+Chile,Marzo,Venta al consumidor,22,42,4.761904761904767
+Chile,Marzo,Telecomunicaciones,22,40,4.761904761904767
+Chile,Marzo,Informática / Software,23,34,4.545454545454541
+Chile,Marzo,Agricultura / Pesca / Ganadería,7,44,0.0
+Chile,Marzo,Internet,3,49,0.0
+Chile,Marzo,Entretenimiento / Deportes,4,28,0.0
+Chile,Marzo,Salud / Medicina,20,38,-9.090909090909093
+Chile,Marzo,Venta al por mayor,15,43,-11.764705882352944
+Chile,Marzo,Informática / Hardware,17,33,-15.000000000000002
+Chile,Marzo,Transporte / Logística,17,41,-15.000000000000002
+Chile,Marzo,Educación,18,27,-18.181818181818176
+Chile,Marzo,Medios de Comunicación,11,36,-21.42857142857143
+Chile,Marzo,Gobierno / No Lucro,7,31,-22.22222222222222
+Chile,Marzo,Finanzas / Banca,12,30,-36.8421052631579
+Chile,Mayo,Materias Primas,7,35,16.666666666666675
+Chile,Mayo,Agricultura / Pesca / Ganadería,8,44,14.28571428571428
+Chile,Mayo,Informática / Software,25,34,8.695652173913038
+Chile,Mayo,Finanzas / Banca,13,30,8.333333333333325
+Chile,Mayo,Educación,19,27,5.555555555555558
+Chile,Mayo,Salud / Medicina,21,38,5.000000000000004
+Chile,Mayo,Gobierno / No Lucro,7,31,0.0
+Chile,Mayo,Informática / Hardware,16,33,-5.882352941176472
+Chile,Mayo,Servicios Profesionales,24,39,-7.692307692307687
+Chile,Mayo,Venta al consumidor,20,42,-9.090909090909093
+Chile,Mayo,Telecomunicaciones,19,40,-13.636363636363635
+Chile,Mayo,Venta al por mayor,12,43,-19.999999999999996
+Chile,Mayo,Transporte / Logística,13,41,-23.529411764705888
+Chile,Mayo,Legal / Asesoría,7,47,-30.000000000000004
+Chile,Mayo,Construcción / obras,16,26,-30.434782608695656
+Chile,Mayo,Hostelería / Turismo,13,32,-35.0
+Chile,Mayo,Energía / Minería,6,46,-40.0
+Chile,Mayo,Publicidad / RRPP,9,37,-43.75
+Chile,Mayo,Fabricación,10,29,-50.0
+Colombia,Enero,Entretenimiento / Deportes,14,54,250.0
+Colombia,Enero,Internet,13,61,18.181818181818187
+Colombia,Enero,Informática / Hardware,13,59,18.181818181818187
+Colombia,Enero,Transporte,25,69,4.166666666666674
+Colombia,Enero,Fabricación,25,55,4.166666666666674
+Colombia,Enero,Hostelería / Turismo,22,58,0.0
+Colombia,Enero,Educación,24,52,0.0
+Colombia,Enero,Legal / Asesoría,19,62,-5.000000000000004
+Colombia,Enero,Venta al por mayor,19,71,-5.000000000000004
+Colombia,Enero,Energía,17,53,-5.555555555555558
+Colombia,Enero,Informática / Software,22,60,-12.0
+Colombia,Enero,Venta al consumidor,23,70,-14.814814814814813
+Colombia,Enero,Construcción / obras,21,51,-16.000000000000004
+Colombia,Enero,Materias Primas,14,63,-17.647058823529417
+Colombia,Enero,Servicios Profesionales,23,67,-17.85714285714286
+Colombia,Enero,Publicidad / RRPP,18,65,-21.739130434782606
+Colombia,Enero,Salud / Medicina,21,66,-25.0
+Colombia,Enero,Telecomunicaciones,20,68,-31.034482758620683
+Colombia,Enero,Finanzas / Banca,16,56,-33.333333333333336
+Colombia,Enero,Agricultura / Pesca / Ganadería,15,50,-42.307692307692314
+Colombia,Enero,Medios de Comunicación,5,64,-50.0
+Colombia,Enero,Gobierno / No Lucro,4,57,-71.42857142857143
+Colombia,Febrero,Gobierno / No Lucro,15,57,275.0
+Colombia,Febrero,Medios de Comunicación,16,64,220.00000000000003
+Colombia,Febrero,De 51 a 100 trabajadores,6,72,100.0
+Colombia,Febrero,Informática / Hardware,21,59,61.53846153846154
+Colombia,Febrero,Agricultura / Pesca / Ganadería,24,50,60.00000000000001
+Colombia,Febrero,Finanzas / Banca,24,56,50.0
+Colombia,Febrero,Materias Primas,20,63,42.85714285714286
+Colombia,Febrero,Internet,18,61,38.46153846153846
+Colombia,Febrero,Venta al por mayor,26,71,36.8421052631579
+Colombia,Febrero,Entretenimiento / Deportes,19,54,35.71428571428572
+Colombia,Febrero,De 6 a 10 trabajadores,4,73,33.33333333333333
+Colombia,Febrero,Publicidad / RRPP,24,65,33.33333333333333
+Colombia,Febrero,Energía,22,53,29.41176470588236
+Colombia,Febrero,Legal / Asesoría,23,62,21.052631578947366
+Colombia,Febrero,Telecomunicaciones,24,68,19.999999999999996
+Colombia,Febrero,Salud / Medicina,25,66,19.047619047619047
+Colombia,Febrero,Construcción / obras,24,51,14.28571428571428
+Colombia,Febrero,Servicios Profesionales,26,67,13.043478260869556
+Colombia,Febrero,Hostelería / Turismo,24,58,9.090909090909083
+Colombia,Febrero,Informática / Software,24,60,9.090909090909083
+Colombia,Febrero,Venta al consumidor,25,70,8.695652173913038
+Colombia,Febrero,Educación,25,52,4.166666666666674
+Colombia,Febrero,Transporte,25,69,0.0
+Colombia,Febrero,Fabricación,24,55,-4.0000000000000036
+Colombia,Julio,Gobierno / No Lucro,6,57,-60.0
+Colombia,Julio,Agricultura / Pesca / Ganadería,9,50,-62.5
+Colombia,Julio,Fabricación,9,55,-62.5
+Colombia,Julio,Telecomunicaciones,9,68,-62.5
+Colombia,Julio,Construcción / obras,9,51,-62.5
+Colombia,Julio,Energía,8,53,-63.63636363636363
+Colombia,Julio,Educación,9,52,-64.0
+Colombia,Julio,Venta al consumidor,9,70,-64.0
+Colombia,Julio,Transporte,9,69,-64.0
+Colombia,Julio,Salud / Medicina,9,66,-64.0
+Colombia,Julio,Materias Primas,7,63,-65.0
+Colombia,Julio,Legal / Asesoría,8,62,-65.21739130434783
+Colombia,Julio,Servicios Profesionales,9,67,-65.38461538461539
+Colombia,Julio,Internet,6,61,-66.66666666666667
+Colombia,Julio,Informática / Software,8,60,-66.66666666666667
+Colombia,Julio,Finanzas / Banca,8,56,-66.66666666666667
+Colombia,Julio,Entretenimiento / Deportes,6,54,-68.42105263157895
+Colombia,Julio,Medios de Comunicación,5,64,-68.75
+Colombia,Julio,Venta al por mayor,8,71,-69.23076923076923
+Colombia,Julio,Publicidad / RRPP,7,65,-70.83333333333333
+Colombia,Julio,Hostelería / Turismo,7,58,-70.83333333333333
+Colombia,Julio,Informática / Hardware,4,59,-80.95238095238095
+Colombia,Junio,Informática / Hardware,18,59,350.0
+Colombia,Junio,Medios de Comunicación,18,64,260.0
+Colombia,Junio,Publicidad / RRPP,24,65,242.85714285714283
+Colombia,Junio,Telecomunicaciones,30,68,233.33333333333334
+Colombia,Junio,Servicios Profesionales,30,67,233.33333333333334
+Colombia,Junio,Salud / Medicina,30,66,233.33333333333334
+Colombia,Junio,Gobierno / No Lucro,20,57,233.33333333333334
+Colombia,Junio,Hostelería / Turismo,23,58,228.57142857142856
+Colombia,Junio,Transporte,29,69,222.22222222222223
+Colombia,Junio,Legal / Asesoría,25,62,212.5
+Colombia,Junio,Informática / Software,25,60,212.5
+Colombia,Junio,Venta al por mayor,25,71,212.5
+Colombia,Junio,Fabricación,28,55,211.11111111111111
+Colombia,Junio,Educación,28,52,211.11111111111111
+Colombia,Junio,Venta al consumidor,28,70,211.11111111111111
+Colombia,Junio,Finanzas / Banca,24,56,200.0
+Colombia,Junio,Entretenimiento / Deportes,18,54,200.0
+Colombia,Junio,Energía,24,53,200.0
+Colombia,Junio,Construcción / obras,25,51,177.77777777777777
+Colombia,Junio,Agricultura / Pesca / Ganadería,24,50,166.66666666666666
+Colombia,Junio,Internet,15,61,150.0
+Colombia,Junio,Materias Primas,15,63,114.28571428571428
+Colombia,Junio,De 6 a 10 trabajadores,3,73,-25.0
+Colombia,Junio,De 51 a 100 trabajadores,4,72,-33.333333333333336
+Colombia,Junio,De 101 a 250 trabajadores,4,74,-42.85714285714286
+Colombia,Marzo,De 6 a 10 trabajadores,6,73,100.0
+Colombia,Marzo,Materias Primas,25,63,66.66666666666667
+Colombia,Marzo,Entretenimiento / Deportes,27,54,50.0
+Colombia,Marzo,Informática / Hardware,26,59,44.44444444444444
+Colombia,Marzo,Otros,4,76,33.33333333333333
+Colombia,Marzo,Internet,20,61,33.33333333333333
+Colombia,Marzo,Agricultura / Pesca / Ganadería,31,50,29.166666666666675
+Colombia,Marzo,Medios de Comunicación,23,64,27.777777777777768
+Colombia,Marzo,Hostelería / Turismo,29,58,26.086956521739136
+Colombia,Marzo,Publicidad / RRPP,29,65,20.833333333333325
+Colombia,Marzo,Finanzas / Banca,29,56,20.833333333333325
+Colombia,Marzo,Construcción / obras,30,51,19.999999999999996
+Colombia,Marzo,Informática / Software,30,60,19.999999999999996
+Colombia,Marzo,Gobierno / No Lucro,24,57,19.999999999999996
+Colombia,Marzo,Venta al por mayor,29,71,15.999999999999993
+Colombia,Marzo,Legal / Asesoría,28,62,12.00000000000001
+Colombia,Marzo,Venta al consumidor,31,70,10.71428571428572
+Colombia,Marzo,Energía,26,53,8.333333333333325
+Colombia,Marzo,Fabricación,30,55,7.14285714285714
+Colombia,Marzo,Educación,29,52,3.571428571428581
+Colombia,Marzo,Transporte,30,69,3.4482758620689724
+Colombia,Marzo,Salud / Medicina,31,66,3.3333333333333437
+Colombia,Marzo,Servicios Profesionales,31,67,3.3333333333333437
+Colombia,Marzo,Telecomunicaciones,31,68,3.3333333333333437
+Colombia,Marzo,De 51 a 100 trabajadores,4,72,0.0
+Colombia,Marzo,De 101 a 250 trabajadores,4,74,0.0
+Colombia,Mayo,Telecomunicaciones,31,68,0.0
+Colombia,Mayo,Servicios Profesionales,31,67,0.0
+Colombia,Mayo,Transporte,29,69,-3.3333333333333326
+Colombia,Mayo,Salud / Medicina,29,66,-6.451612903225811
+Colombia,Mayo,Venta al consumidor,28,70,-9.677419354838712
+Colombia,Mayo,Venta al por mayor,26,71,-10.344827586206895
+Colombia,Mayo,Energía,23,53,-11.538461538461542
+Colombia,Mayo,Educación,25,52,-13.793103448275868
+Colombia,Mayo,Informática / Software,25,60,-16.666666666666664
+Colombia,Mayo,Publicidad / RRPP,24,65,-17.24137931034483
+Colombia,Mayo,Fabricación,24,55,-19.999999999999996
+Colombia,Mayo,Finanzas / Banca,22,56,-24.13793103448276
+Colombia,Mayo,Construcción / obras,22,51,-26.66666666666667
+Colombia,Mayo,Hostelería / Turismo,21,58,-27.586206896551722
+Colombia,Mayo,Legal / Asesoría,20,62,-28.57142857142857
+Colombia,Mayo,Internet,14,61,-30.000000000000004
+Colombia,Mayo,Agricultura / Pesca / Ganadería,19,50,-38.70967741935484
+Colombia,Mayo,Materias Primas,15,63,-40.0
+Colombia,Mayo,Gobierno / No Lucro,14,57,-41.666666666666664
+Colombia,Mayo,Informática / Hardware,15,59,-42.307692307692314
+Colombia,Mayo,Entretenimiento / Deportes,13,54,-51.85185185185186
+Colombia,Mayo,Medios de Comunicación,10,64,-56.52173913043479
