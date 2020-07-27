@@ -1,14 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
 import pandas as pd
-import plotly
 import plotly.graph_objs as go
-import random
 import plotly.express as px
 import numpy as np
 
@@ -45,6 +44,12 @@ app.layout = html.Div(children=[
               style={'width': '48%', 'display': 'inline',
                      },
               config = {'displaylogo': False}),
+            
+            dcc.Graph(id='graphregional2',
+              style={'width': '48%', 'display': 'inline',
+                     },
+              config = {'displaylogo': False}),
+
         ]),
 
 html.P(['Fuente: con base en datos descargados de Computrabajo e Infojobs.',
@@ -102,20 +107,6 @@ html.P(['Fuente: con base en datos descargados de Computrabajo e Infojobs.',
                        ' Para más información, consultar: https://www.google.com/covid19/mobility/'],
                             style={'width': '48%', 'display': 'inline-block', 'fontSize': 10,  'marginBottom': 25, 'marginLeft': 5}),        
         
-        html.Div([html.P("Seleccione un mes o grupo de meses:",
-                         style={'marginTop': '2em','marginBottom': '1em',
-                                'display': 'inline-block'})]),
-
-        html.Div([
-            dcc.Dropdown(
-                id='yaxis-column',
-                options=[{'label': i, 'value': i} for i in anuncios_empresa.fecha_online.unique()],
-                placeholder='Seleccione un mes',
-                value = ['Abril','Mayo', 'Junio','Julio'],
-                multi =True),
-                ],
-                 style={'width': '48%', 'display': 'inline',
-                        'marginTop': '1em','marginBottom': '1em'}),
             html.Div([           
             dcc.Graph(id='graph3',
             style={'width': '48%', 'display': 'inline-block'},
@@ -162,17 +153,42 @@ def update_graph0(data1, data2):
         'data':  [data1, data2],
         'layout': dict(
         xaxis={
-            'title': 'Semana (ISO 8601)',
+            'title': '',
             'yanchor': 'bottom', 'showline':True,'showgrid':False,'zeroline': False,
             'linewidth':1.5, 'linecolor':'black', 'showspikes':True},  
         yaxis={
-            'title': 'Número†',
+            'title': 'Número en miles',
             'showline':True, 'showgrid':True,'zeroline': False,
             'linewidth':1.5, 'linecolor':'black', 'showspikes':True},
         title={
             'text': 'Nuevas vacantes publicadas en 17 países de América Latina',
             'xanchor': 'auto',
-            'y': 0.9, 'x':0.01}) }
+            'y': 0.9, 'x':0.07},
+        legend = {
+        'yanchor':'top',
+        'y':0.97,
+        'xanchor': "left",
+        'x': 0.8
+        } ), }
+
+@app.callback(
+    Output('graphregional2', 'figure'),
+    [Input('xaxis-column', 'value')])
+
+def update_graph02(data3):
+        table0 = pd.read_csv(r'table0.csv', encoding='utf-8')
+        fig = px.bar(table0, x="pais", y="growth", color='colorcol', 
+                     color_discrete_map={'no': 'red', 'yes': '#1f77b4'},
+                     template="simple_white",
+                     title={'text': 'Variación % respecto al promedio de anuncios en enero-febrero',
+                         'y': 0.9, 'x': 0.07})
+            
+        fig.update_layout(showlegend=False,
+                        xaxis_title="",
+                        yaxis_title="",
+                        plot_bgcolor='rgba(0,0,0,0)')
+        
+        return  fig
 
         
 @app.callback(
@@ -183,7 +199,6 @@ def update_graph0(data1, data2):
 def update_graph(xaxis_column_name, yaxis_type):
     table4 = pd.read_csv(r'table4.csv', encoding='utf-8')
     table_g = table3.loc[table3['pais']==xaxis_column_name]
-    #table_g['conteo_MA']= table_g['conteo'].rolling(window=3).mean()
     table_g2 = table4.loc[table4['pais']==xaxis_column_name]
     
     if xaxis_column_name == 'Argentina' or xaxis_column_name == 'Chile' or xaxis_column_name == 'Colombia':
@@ -196,7 +211,7 @@ def update_graph(xaxis_column_name, yaxis_type):
         'data':  [data1, data2],
         'layout': dict(
         xaxis={
-            'title': 'Semana (ISO 8601)',
+            'title': '',
             'yanchor': 'bottom', 'showline':True,'showgrid':False,'zeroline': False,
             'linewidth':1.5, 'linecolor':'black', 'showspikes':True},  
         yaxis={
@@ -237,53 +252,6 @@ def update_graph(xaxis_column_name, yaxis_type):
                     'y': 0.9}) }
         
 @app.callback(
-    Output('graph3', 'figure'),
-    [Input('xaxis-column', 'value'),
-     Input('yaxis-column', 'value')])
-        
-def update_graph3(xaxis_column_name, year_value):
-    rama_change = pd.read_csv(r'rama_change.csv', encoding='utf-8')
-    if xaxis_column_name == 'Argentina' or xaxis_column_name == 'Chile' or xaxis_column_name == 'Colombia':
-        table_rama = rama_change.loc[(rama_change['pais']==xaxis_column_name) & rama_change['fecha_online'].
-                        isin(year_value)].sort_values(by='growth', ascending=False)
-        table_rama = pd.pivot_table(table_rama,
-                 index = ['rama_de_actividad', 'pais'],
-                 values=['growth'],
-                 aggfunc={'growth': np.mean},
-                 dropna=True).reset_index().sort_values(by='growth', ascending=False)
-
-        table_rama['growth_aux1'] = table_rama['growth'][:5]
-        table_rama['growth_aux2'] = table_rama['growth'][-5:]
-        table_rama['growth_aux'] = table_rama[['growth_aux1', 'growth_aux2']].astype(str).agg(''.join, axis=1)
-        table_rama['growth_aux'] = table_rama['growth_aux'].str.replace('nan', '')
-        table_rama = table_rama[table_rama['growth_aux']!='']
-        table_rama['growth_aux']  = pd.to_numeric(table_rama['growth_aux'] , errors='coerce')
-
-    else:
-        table_rama=[]
-    
-    fig = px.bar(table_rama, y='rama_de_actividad', x='growth_aux', orientation='h',
-                 template="simple_white", height=450, text='rama_de_actividad',
-                  title={'text': '5 sectores con mayor y menor crecimiento mensual',
-                         'xanchor': 'center',
-                         'y': 0.9, 'x': 0.5})
-
-    fig.update_layout(showlegend=True, uniformtext_minsize=14, uniformtext_mode=False)
-    fig.update_traces(textposition='inside')
-
-    fig.update_layout(
-    xaxis_title="variación porcentual (%)",
-    yaxis_title="Ramas de actividad económica",
-    yaxis={'showticklabels': False},
-    plot_bgcolor='rgba(0,0,0,0)')
-    
-    fig.update_traces(marker_color='#1f77b4', marker_line_color='black',
-                  marker_line_width=1, opacity=0.92)
-
-    return fig
-
-
-@app.callback(
     Output('graph2', 'figure'),
     [Input('xaxis-column', 'value')])
 
@@ -294,8 +262,11 @@ def update_graph2(xaxis_column_name):
                          title={'text': "Media salarial semanal de nuevos anuncios‡", 'x':0.5})
 
     fig.update_xaxes(showline=True, linewidth=1, linecolor='black', showspikes=True)
-    fig.update_yaxes(showspikes=True, showline=True, linewidth=1, linecolor='black')
-
+    aux = table_g['mean'].astype(int)
+    low = aux*.60
+    high = aux*1.45
+    fig.update_yaxes(range=[low.min(),high.max()])
+    
     fig.update_layout(
     xaxis_title="",
     yaxis_title="Moneda local corriente",
@@ -332,42 +303,71 @@ def update_graph4(xaxis_column_name):
     return area
 
 @app.callback(
-    Output('graph5', 'figure'),
-    [Input('xaxis-column', 'value'),
-     Input('yaxis-column', 'value')])
+    Output('graph3', 'figure'),
+    [Input('xaxis-column', 'value')])
         
-def update_graph5(xaxis_column_name, year_value):
-    table3 = anuncios_empresa.loc[(anuncios_empresa['pais']==xaxis_column_name) & anuncios_empresa['fecha_online'].\
-                                  isin(year_value)].sort_values(by='conteo', ascending=False)
-    
-    table3 = pd.pivot_table(table3,
-             index = ['empresa', 'pais'],
-             values=['conteo'],
-             aggfunc={'conteo': np.sum},
-             dropna=True).reset_index().sort_values(by='conteo', ascending=False)
-    table3 = table3.groupby(['pais']).\
-        apply(lambda x: x.nlargest(10, 'conteo')).reset_index(drop=True)
-
-    fig = px.bar(table3, y='empresa', x='conteo', orientation='h',
-                 template="simple_white", height=450, text='empresa',
-                  title={'text': '10 empresas con más anuncios‡',
+def update_graph3(xaxis_column_name):
+    rama_change = pd.read_csv(r'rama_change.csv', encoding='utf-8')
+    if xaxis_column_name == 'Argentina' or xaxis_column_name == 'Chile' or xaxis_column_name == 'Colombia':
+        table_rama = rama_change.loc[rama_change['pais']==xaxis_column_name].\
+        sort_values(by='growth', ascending=False)
+        fig = px.bar(table_rama, y='rama_de_actividad', x='growth', orientation='h',
+                 template="simple_white", height=450, text='rama_de_actividad',
+                  title={'text': 'Sectores de mayor (de)crecimiento % respecto a febrero-marzo',
                          'xanchor': 'center',
                          'y': 0.9, 'x': 0.5})
 
-    fig.update_layout(showlegend=True, uniformtext_minsize=14, uniformtext_mode=False)
-    fig.update_traces(textposition='inside')
-
-    fig.update_layout(
-    xaxis_title="Número de anuncios",
-    yaxis_title="Empresas",
-    yaxis={'showticklabels': False},
-    plot_bgcolor='rgba(0,0,0,0)')
+        fig.update_layout(showlegend=True, uniformtext_minsize=14, uniformtext_mode=False)
+        fig.update_traces(textposition='inside')
     
-    fig.update_traces(marker_color='#1f77b4', marker_line_color='black',
-                  marker_line_width=1, opacity=0.92)
-    
-    return fig
+        fig.update_layout(
+        xaxis_title="variación porcentual (%)",
+        yaxis_title="Ramas de actividad económica",
+        yaxis={'showticklabels': False},
+        plot_bgcolor='rgba(0,0,0,0)')
+        
+        fig.update_traces(marker_color='#1f77b4', marker_line_color='black',
+                      marker_line_width=1, opacity=0.92)
+        return fig
+    else:
+        return {}
 
+    
+
+@app.callback(
+    Output('graph5', 'figure'),
+    [Input('xaxis-column', 'value')])
+        
+def update_graph5(xaxis_column_name):
+    rama_change_2 = pd.read_csv(r'rama_change_2.csv', encoding='utf-8')
+    if xaxis_column_name == 'Argentina' or xaxis_column_name == 'Chile' or xaxis_column_name == 'Colombia':
+        table_rama_2 = rama_change_2.loc[rama_change_2['pais']==xaxis_column_name].\
+        sort_values(by='growth', ascending=False)
+        
+        fig = px.bar(table_rama_2, y='rama_de_actividad', x='growth', orientation='h',
+                 template="simple_white", height=450, text='rama_de_actividad',
+                  title={'text': 'Sectores de mayor (de)crecimiento % respecto al mes anterior',
+                         'xanchor': 'center',
+                         'y': 0.9, 'x': 0.5})
+
+        fig.update_layout(showlegend=True, uniformtext_minsize=14, uniformtext_mode=False)
+        fig.update_traces(textposition='inside')
+    
+        fig.update_layout(
+        xaxis_title="variación porcentual (%)",
+        yaxis_title="Ramas de actividad económica",
+        yaxis={'showticklabels': False},
+        plot_bgcolor='rgba(0,0,0,0)')
+        
+        fig.update_traces(marker_color='#1f77b4', marker_line_color='black',
+                      marker_line_width=1, opacity=0.92)
+        return fig
+    
+    else:
+        return {}
+    
 
 if __name__ == '__main__':
     app.run_server(debug=False)
+
+
