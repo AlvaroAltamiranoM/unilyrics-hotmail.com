@@ -1,0 +1,31 @@
+pais,rama_de_actividad,growth,colorcol
+Argentina,Materias Primas,20.0,yes
+Argentina,Entretenimiento / Deportes,0.0,yes
+Argentina,Finanzas / Banca,-7.142857142857139,no
+Argentina,Hostelería / Turismo,-13.333333333333329,no
+Argentina,Informática / Hardware,-15.384615384615387,no
+Argentina,Fabricación,-18.181818181818173,no
+Argentina,Venta al consumidor,-21.73913043478261,no
+Argentina,Salud / Medicina,-22.727272727272734,no
+Argentina,Educación,-23.529411764705884,no
+Argentina,Servicios Profesionales,-24.0,no
+Chile,Legal / Asesoría,33.333333333333314,yes
+Chile,Hostelería / Turismo,16.66666666666667,yes
+Chile,Agricultura / Pesca / Ganadería,0.0,yes
+Chile,Materias Primas,0.0,yes
+Chile,Medios de Comunicación,-7.142857142857139,no
+Chile,Informática / Hardware,-10.0,no
+Chile,Publicidad / RRPP,-13.333333333333329,no
+Chile,Informática / Software,-13.63636363636364,no
+Chile,Servicios Profesionales,-13.63636363636364,no
+Chile,Venta al por mayor,-17.64705882352942,no
+Colombia,Materias Primas,6.666666666666671,yes
+Colombia,Internet,-6.666666666666671,no
+Colombia,Construcción / obras,-8.0,no
+Colombia,Agricultura / Pesca / Ganadería,-12.5,no
+Colombia,Finanzas / Banca,-16.666666666666657,no
+Colombia,Medios de Comunicación,-16.666666666666657,no
+Colombia,Hostelería / Turismo,-17.391304347826093,no
+Colombia,Venta al por mayor,-20.0,no
+Colombia,Educación,-21.42857142857143,no
+Colombia,Venta al consumidor,-21.42857142857143,no
