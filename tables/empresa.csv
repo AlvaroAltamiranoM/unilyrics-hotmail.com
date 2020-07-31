@@ -64,21 +64,21 @@ adn - recursos humanos,Argentina,Julio,46
 adn - recursos humanos,Argentina,Julio,45
 adn - recursos humanos,Argentina,Julio,42
 adn - recursos humanos,Argentina,Julio,42
+adn - recursos humanos,Argentina,Julio,39
 adn - recursos humanos,Argentina,Julio,36
 latinhire,Argentina,Julio,30
 latinhire,Argentina,Julio,29
+latinhire,Argentina,Julio,29
 adn - recursos humanos,Argentina,Julio,26
 adn - recursos humanos,Argentina,Julio,26
+mvl consulting,Argentina,Julio,26
+bairesdev,Argentina,Julio,25
 bairesdev,Argentina,Julio,25
 bairesdev,Argentina,Julio,25
 bairesdev,Argentina,Julio,24
 adn - recursos humanos,Argentina,Julio,20
 adn - recursos humanos,Argentina,Julio,20
 adn - recursos humanos,Argentina,Julio,19
-adn - recursos humanos,Argentina,Julio,19
-adn - recursos humanos,Argentina,Julio,19
-hv talent,Argentina,Julio,16
-adn - recursos humanos,Argentina,Julio,15
 adn - recursos humanos,Argentina,Junio,61
 adn - recursos humanos,Argentina,Junio,56
 adn - recursos humanos,Argentina,Junio,48
@@ -179,12 +179,16 @@ incasursl,Bolivia,Febrero,1
 oa bolivia srl,Bolivia,Febrero,1
 pacific credit rating,Bolivia,Febrero,1
 pacific credit rating,Bolivia,Febrero,1
+bairesdev sa,Bolivia,Julio,130
 bairesdev sa,Bolivia,Julio,122
 bairesdev sa,Bolivia,Julio,44
 bairesdev sa,Bolivia,Julio,38
 bairesdev sa,Bolivia,Julio,34
 bairesdev sa,Bolivia,Julio,16
+bairesdev sa,Bolivia,Julio,15
 concretec,Bolivia,Julio,2
+gbs centro america,Bolivia,Julio,2
+oktana,Bolivia,Julio,2
 oktana,Bolivia,Julio,2
 oktana,Bolivia,Julio,2
 oktana,Bolivia,Julio,2
@@ -195,10 +199,6 @@ auditool srl,Bolivia,Julio,1
 concretec,Bolivia,Julio,1
 gurusoft,Bolivia,Julio,1
 haussmann consulting,Bolivia,Julio,1
-haussmann consulting,Bolivia,Julio,1
-inducomicc bolivia s.r.l,Bolivia,Julio,1
-jmv sport srl.,Bolivia,Julio,1
-mayeni comercio,Bolivia,Julio,1
 bairesdev sa,Bolivia,Junio,230
 bairesdev sa,Bolivia,Junio,136
 bairesdev sa,Bolivia,Junio,96
@@ -317,6 +317,7 @@ empresa com nome confidencial,Brasil,Julio,196
 empresa com nome confidencial,Brasil,Julio,79
 empresa com nome confidencial,Brasil,Julio,72
 empresa com nome confidencial,Brasil,Julio,71
+empresa com nome confidencial,Brasil,Julio,52
 empresa com nome confidencial,Brasil,Julio,15
 empresa com nome confidencial,Brasil,Julio,11
 empresa com nome confidencial,Brasil,Julio,9
@@ -324,9 +325,8 @@ empresa com nome confidencial,Brasil,Julio,7
 empresa com nome confidencial,Brasil,Julio,7
 empresa com nome confidencial,Brasil,Julio,7
 empresa com nome confidencial,Brasil,Julio,7
+empresa com nome confidencial,Brasil,Julio,7
 apice brasil consultoria,Brasil,Julio,6
-empresa com nome confidencial,Brasil,Julio,6
-empresa com nome confidencial,Brasil,Julio,6
 empresa com nome confidencial,Brasil,Julio,6
 empresa com nome confidencial,Brasil,Julio,6
 empresa com nome confidencial,Brasil,Julio,6
@@ -349,10 +349,10 @@ empresa com nome confidencial,Brasil,Junio,8
 empresa com nome confidencial,Brasil,Junio,7
 empresa com nome confidencial,Brasil,Junio,7
 empresa com nome confidencial,Brasil,Junio,7
+empresa com nome confidencial,Brasil,Junio,7
 grupo big,Brasil,Junio,7
 atento brasil. (m),Brasil,Junio,6
 ats,Brasil,Junio,6
-all net,Brasil,Junio,6
 empresa com nome confidencial,Brasil,Marzo,565
 empresa com nome confidencial,Brasil,Marzo,19
 empresa com nome confidencial,Brasil,Marzo,19
@@ -456,39 +456,39 @@ incosec,Chile,Febrero,49
 xinerlink,Chile,Julio,132
 xinerlink,Chile,Julio,84
 xinerlink,Chile,Julio,69
-xinerlink,Chile,Julio,64
+xinerlink,Chile,Julio,69
 xinerlink,Chile,Julio,60
-xinerlink,Chile,Julio,53
-xinerlink,Chile,Julio,49
+xinerlink,Chile,Julio,59
+progestion chile,Chile,Julio,55
+xinerlink,Chile,Julio,50
 xinerlink,Chile,Julio,47
 xinerlink,Chile,Julio,45
+xinerlink,Chile,Julio,45
 xinerlink,Chile,Julio,44
+xinerlink,Chile,Julio,40
+xinerlink,Chile,Julio,40
 ecr group,Chile,Julio,35
 adecco chile,Chile,Julio,31
+xinerlink,Chile,Julio,29
+xinerlink,Chile,Julio,28
 xinerlink,Chile,Julio,26
 xinerlink,Chile,Julio,25
-xinerlink,Chile,Julio,24
-xinerlink,Chile,Julio,23
-adecco chile,Chile,Julio,22
-adecco chile,Chile,Julio,21
-xinerlink,Chile,Julio,21
-xinerlink,Chile,Julio,19
-xinerlink,Chile,Junio,134
+xinerlink,Chile,Junio,126
 xinerlink,Chile,Junio,117
 xinerlink,Chile,Junio,99
 xinerlink,Chile,Junio,89
 xinerlink,Chile,Junio,88
-xinerlink,Chile,Junio,88
-xinerlink,Chile,Junio,77
 xinerlink,Chile,Junio,76
+xinerlink,Chile,Junio,75
 xinerlink,Chile,Junio,74
 adecco chile,Chile,Junio,71
 xinerlink,Chile,Junio,65
+xinerlink,Chile,Junio,65
 xinerlink,Chile,Junio,56
-xinerlink,Chile,Junio,54
 xinerlink,Chile,Junio,48
-xinerlink,Chile,Junio,46
-xinerlink,Chile,Junio,43
+xinerlink,Chile,Junio,48
+xinerlink,Chile,Junio,45
+xinerlink,Chile,Junio,37
 xinerlink,Chile,Junio,34
 ecr group,Chile,Junio,32
 adecco chile,Chile,Junio,30
@@ -593,26 +593,26 @@ eficacia,Colombia,Febrero,159
 organización servicios y asesorias s.a.s.,Colombia,Febrero,155
 nexarte servicios temporales s.a,Colombia,Febrero,144
 nexarte servicios temporales s.a,Colombia,Febrero,143
+eficacia,Colombia,Julio,110
 manpower professional ltda,Colombia,Julio,98
 jobandtalent co s a s,Colombia,Julio,92
 eficacia,Colombia,Julio,89
+manpower professional ltda,Colombia,Julio,89
 manpower professional ltda,Colombia,Julio,86
 bairesdev,Colombia,Julio,83
 bairesdev,Colombia,Julio,83
 eficacia,Colombia,Julio,82
+eficacia,Colombia,Julio,79
 atento s.a.,Colombia,Julio,77
+emtelco cx & bpo,Colombia,Julio,77
 eficacia,Colombia,Julio,76
+activos s a s,Colombia,Julio,75
 activos s a s,Colombia,Julio,74
 manpower professional ltda,Colombia,Julio,74
 manpower professional ltda,Colombia,Julio,73
 manpower professional ltda,Colombia,Julio,72
 atento s.a.,Colombia,Julio,71
 manpower professional ltda,Colombia,Julio,71
-activos s a s,Colombia,Julio,70
-emtelco cx & bpo,Colombia,Julio,70
-jobandtalent co s a s,Colombia,Julio,70
-manpower professional ltda,Colombia,Julio,70
-activos s a s,Colombia,Julio,69
 bairesdev,Colombia,Junio,129
 manpower professional ltda,Colombia,Junio,83
 bairesdev,Colombia,Junio,77
@@ -739,9 +739,12 @@ walmart,Costa Rica,Julio,7
 importante empresa del sector,Costa Rica,Julio,6
 walmart,Costa Rica,Julio,6
 asembis,Costa Rica,Julio,5
+asembis,Costa Rica,Julio,5
+walmart,Costa Rica,Julio,5
 walmart,Costa Rica,Julio,5
 asembis,Costa Rica,Julio,4
 manpower costa rica,Costa Rica,Julio,4
+walmart,Costa Rica,Julio,4
 walmart,Costa Rica,Julio,4
 walmart,Costa Rica,Julio,4
 bairesdev sa,Costa Rica,Julio,3
@@ -750,9 +753,6 @@ ingeniero consultores roca sociedad anonima,Costa Rica,Julio,3
 walmart,Costa Rica,Julio,3
 walmart,Costa Rica,Julio,3
 yes investments limitada,Costa Rica,Julio,3
-agromeseta s.a.,Costa Rica,Julio,2
-"arista de costa rica, s. a.",Costa Rica,Julio,2
-asembis,Costa Rica,Julio,2
 asembis,Costa Rica,Junio,11
 walmart,Costa Rica,Junio,7
 walmart,Costa Rica,Junio,6
@@ -893,10 +893,13 @@ loto real del cibao,Rep. Dominicana,Febrero,2
 metaconxept,Rep. Dominicana,Febrero,2
 penagos group,Rep. Dominicana,Febrero,2
 rhasesorate,Rep. Dominicana,Febrero,2
+bairesdev sa,Rep. Dominicana,Julio,72
 bairesdev sa,Rep. Dominicana,Julio,69
 bairesdev sa,Rep. Dominicana,Julio,40
 bairesdev sa,Rep. Dominicana,Julio,17
+"agencia de empleo ""orion""",Rep. Dominicana,Julio,16
 "agencia de empleo ""orion""",Rep. Dominicana,Julio,9
+"agencia de empleo ""orion""",Rep. Dominicana,Julio,7
 "agencia de empleo ""orion""",Rep. Dominicana,Julio,7
 "agencia de empleo ""orion""",Rep. Dominicana,Julio,4
 "agencia de empleo ""orion""",Rep. Dominicana,Julio,4
@@ -905,14 +908,11 @@ redvolution latam republica dominicana,Rep. Dominicana,Julio,4
 "agencia de empleo ""orion""",Rep. Dominicana,Julio,3
 "gerencia dominicana, srl. - santiago, rep. dom.",Rep. Dominicana,Julio,3
 laagencia,Rep. Dominicana,Julio,3
+"mr industrias, srl",Rep. Dominicana,Julio,3
 "agencia de empleo ""orion""",Rep. Dominicana,Julio,2
 "agencia de empleo ""orion""",Rep. Dominicana,Julio,2
 "agencia de empleo ""orion""",Rep. Dominicana,Julio,2
 "agencia de empleo ""orion""",Rep. Dominicana,Julio,2
-"agencia de empleo ""orion""",Rep. Dominicana,Julio,2
-bricktown holding srl,Rep. Dominicana,Julio,2
-"centro medico salud integral, cemesin s.r.l",Rep. Dominicana,Julio,2
-conduent,Rep. Dominicana,Julio,2
 bairesdev sa,Rep. Dominicana,Junio,68
 bairesdev sa,Rep. Dominicana,Junio,57
 bairesdev sa,Rep. Dominicana,Junio,39
@@ -1034,25 +1034,25 @@ cpi constructora,Ecuador,Febrero,4
 cegacorp,Ecuador,Febrero,4
 cetec,Ecuador,Febrero,4
 bairesdev sa,Ecuador,Julio,5
+reysol organismo de capacitación y certificación de personas,Ecuador,Julio,5
+segumar sci s a,Ecuador,Julio,5
 wcom,Ecuador,Julio,5
 zeta11 cía. ltda.,Ecuador,Julio,5
 christoph roessner,Ecuador,Julio,4
 complehaus s.a.,Ecuador,Julio,4
 computadores y equipos,Ecuador,Julio,4
 estrategias & mercado s.a.,Ecuador,Julio,4
+fovisp cia. ltda.,Ecuador,Julio,4
 gestión training,Ecuador,Julio,4
 italimentos cía. ltda.,Ecuador,Julio,4
 i-route solutions,Ecuador,Julio,4
+labmac,Ecuador,Julio,4
 ahcorp ecuador cia. ltda.,Ecuador,Julio,3
 bestseller ecuador s.a.,Ecuador,Julio,3
 compumaib.cia.ltda.,Ecuador,Julio,3
 computadores y equipos,Ecuador,Julio,3
 diagnosticar,Ecuador,Julio,3
 estrategias & mercado s.a.,Ecuador,Julio,3
-experteam cía. ltda.,Ecuador,Julio,3
-industrial papelera ecuatoriana s.a,Ecuador,Julio,3
-in. planet,Ecuador,Julio,3
-instituto superior  tecnológico manuel lezaeta acharán,Ecuador,Julio,3
 bairesdev sa,Ecuador,Junio,5
 velark arquitectura textil,Ecuador,Junio,5
 webcreek,Ecuador,Junio,5
@@ -1180,19 +1180,19 @@ centros hospitalarios la paz,Guatemala,Julio,13
 importante empresa del sector,Guatemala,Julio,12
 importante empresa del sector,Guatemala,Julio,12
 importante empresa del sector,Guatemala,Julio,12
+centracom,Guatemala,Julio,10
 serh,Guatemala,Julio,10
 bmc jobs,Guatemala,Julio,9
 importante empresa del sector,Guatemala,Julio,9
 banco azteca de guatemala,Guatemala,Julio,8
 ".compartamos, s.a.",Guatemala,Julio,7
+banco de los trabajadores,Guatemala,Julio,7
 bmc jobs,Guatemala,Julio,7
 importante empresa del sector,Guatemala,Julio,7
 soluciona rh,Guatemala,Julio,7
 "visionfund guatemala, s.a.",Guatemala,Julio,7
 alutech,Guatemala,Julio,6
 bmc jobs,Guatemala,Julio,6
-distribuidora galaxy,Guatemala,Julio,6
-serh,Guatemala,Julio,6
 centracom,Guatemala,Junio,11
 centros hospitalarios la paz,Guatemala,Junio,11
 "administradora centroamericana de talentos, sociedad anonima",Guatemala,Junio,9
@@ -1316,9 +1316,15 @@ manpower professional,Honduras,Febrero,7
 bairesdev sa,Honduras,Julio,13
 bairesdev sa,Honduras,Julio,13
 bairesdev sa,Honduras,Julio,12
+bairesdev sa,Honduras,Julio,12
 "outsource, s.a. de c.v.",Honduras,Julio,8
+dhl honduras sa de cv,Honduras,Julio,5
+grupo farsiman,Honduras,Julio,5
+agencia de empleo privada j y c,Honduras,Julio,4
 grupo financiero ficohsa,Honduras,Julio,4
 grupo lafise honduras,Honduras,Julio,4
+interjuris  abogados,Honduras,Julio,4
+incasur ingenieros consultores,Honduras,Julio,4
 proval,Honduras,Julio,4
 agencia de empleo privada j y c,Honduras,Julio,3
 bairesdev sa,Honduras,Julio,3
@@ -1327,12 +1333,6 @@ evolutions sa,Honduras,Julio,3
 "soluciones empresariales, s. de r. l.",Honduras,Julio,3
 ultracem honduras sa de cv,Honduras,Julio,3
 agencia de empleo privada j y c,Honduras,Julio,2
-agencia de empleo privada j y c,Honduras,Julio,2
-agencia de empleo privada j y c,Honduras,Julio,2
-alutech,Honduras,Julio,2
-beneficio santa rosa s.a de c.v,Honduras,Julio,2
-"clinicas viera, s.a.",Honduras,Julio,2
-cisolution,Honduras,Julio,2
 bairesdev sa,Honduras,Junio,10
 bairesdev sa,Honduras,Junio,10
 bairesdev sa,Honduras,Junio,10
@@ -1453,26 +1453,26 @@ asoc de padres de fam con hijo,Nicaragua,Febrero,2
 bairesdev sa,Nicaragua,Febrero,2
 caravela nicaragua,Nicaragua,Febrero,2
 ferromáx s.a,Nicaragua,Febrero,2
+bairesdev sa,Nicaragua,Julio,72
 bairesdev sa,Nicaragua,Julio,69
 bairesdev sa,Nicaragua,Julio,27
 bairesdev sa,Nicaragua,Julio,17
 bairesdev sa,Nicaragua,Julio,13
 bujia creativa,Nicaragua,Julio,3
 desarrollo profesional y empresarial (dpesa),Nicaragua,Julio,3
+outsourcing solutions,Nicaragua,Julio,3
 3jucomercial,Nicaragua,Julio,2
+bujia creativa,Nicaragua,Julio,2
 clean internacional,Nicaragua,Julio,2
 corporación dinant,Nicaragua,Julio,2
 credicompras,Nicaragua,Julio,2
 dichter y neira,Nicaragua,Julio,2
+ferromáx s.a,Nicaragua,Julio,2
+ideay,Nicaragua,Julio,2
 ideay,Nicaragua,Julio,2
 mercon coffe group,Nicaragua,Julio,2
 tv offer nicaragua,Nicaragua,Julio,2
 .nicaragua talento humano,Nicaragua,Julio,1
-3jucomercial,Nicaragua,Julio,1
-3jucomercial,Nicaragua,Julio,1
-3jucomercial,Nicaragua,Julio,1
-3jucomercial,Nicaragua,Julio,1
-3jucomercial,Nicaragua,Julio,1
 bairesdev sa,Nicaragua,Junio,114
 bairesdev sa,Nicaragua,Junio,69
 bairesdev sa,Nicaragua,Junio,68
@@ -1596,12 +1596,17 @@ pact,Panamá,Febrero,3
 "tiendas de conveniencia, s.a. itag",Panamá,Febrero,3
 componentes el orbe,Panamá,Julio,11
 ja recursos,Panamá,Julio,6
+redvolution internacional s. a,Panamá,Julio,4
 soluciones de microfinanzas s.a,Panamá,Julio,4
 3tech,Panamá,Julio,3
 evolución estrategica consultores,Panamá,Julio,3
 soluciones de microfinanzas s.a,Panamá,Julio,3
+"centro industrial, s.a.",Panamá,Julio,2
+"centro industrial, s.a.",Panamá,Julio,2
 davis human management,Panamá,Julio,2
 "eulen panamá de servicios, s.a.",Panamá,Julio,2
+fundación espacio creativo,Panamá,Julio,2
+fundación espacio creativo,Panamá,Julio,2
 gfi informatica mexico,Panamá,Julio,2
 grupo r&t panamá,Panamá,Julio,2
 infinity medical panama,Panamá,Julio,2
@@ -1609,11 +1614,6 @@ international brands america s.a,Panamá,Julio,2
 proyecto staffing,Panamá,Julio,2
 quid soluciones,Panamá,Julio,2
 rentahouse,Panamá,Julio,2
-rentahouse,Panamá,Julio,2
-3tech,Panamá,Julio,1
-alonzoya,Panamá,Julio,1
-anteater mobile payment,Panamá,Julio,1
-arango consulting,Panamá,Julio,1
 "eulen panamá de servicios, s.a.",Panamá,Junio,6
 telas el contendor,Panamá,Junio,4
 asap panamá ship supplier,Panamá,Junio,3
@@ -1734,26 +1734,26 @@ ng restaurants,Perú,Febrero,106
 manpower,Perú,Febrero,105
 buró group,Perú,Febrero,96
 pae perú s.a.c.,Perú,Febrero,94
-importante empresa del sector,Perú,Julio,72
-importante empresa del sector,Perú,Julio,72
 eulen del perú,Perú,Julio,71
+importante empresa del sector,Perú,Julio,71
+importante empresa del sector,Perú,Julio,71
 eulen del perú,Perú,Julio,70
 importante empresa del sector,Perú,Julio,70
 importante empresa del sector,Perú,Julio,61
 inkafarma,Perú,Julio,45
 eulen del perú,Perú,Julio,43
+eulen del perú,Perú,Julio,43
 eulen del perú,Perú,Julio,42
+manpower,Perú,Julio,42
+adecco perú s.a.,Perú,Julio,38
 tawa consulting s.a.c.,Perú,Julio,37
+eulen del perú,Perú,Julio,36
 manpower,Perú,Julio,35
 manpower,Perú,Julio,33
 eulen del perú,Perú,Julio,32
-eulen del perú,Perú,Julio,32
-eulen del perú,Perú,Julio,31
+tawa consulting s.a.c.,Perú,Julio,32
 mdy contact center,Perú,Julio,30
-manpower,Perú,Julio,30
-bairesdev sa,Perú,Julio,29
-manpower,Perú,Julio,29
-tawa consulting s.a.c.,Perú,Julio,29
+mdy contact center,Perú,Julio,30
 eulen del perú,Perú,Junio,61
 manpower,Perú,Junio,56
 eulen del perú,Perú,Junio,53
@@ -1773,7 +1773,7 @@ inkafarma,Perú,Junio,35
 manpower,Perú,Junio,32
 tawa consulting s.a.c.,Perú,Junio,32
 tawa consulting s.a.c.,Perú,Junio,32
-eulen del perú,Perú,Junio,31
+adecco perú s.a.,Perú,Junio,30
 manpower,Perú,Marzo,160
 adecco perú s.a.,Perú,Marzo,120
 buró group,Perú,Marzo,89
@@ -1877,9 +1877,11 @@ hupi constructora y incorporadora,Paraguay,Febrero,1
 hupi constructora y incorporadora,Paraguay,Febrero,1
 infocasas s.a.,Paraguay,Febrero,1
 infocasas s.a.,Paraguay,Febrero,1
+bairesdev sa,Paraguay,Julio,72
 bairesdev sa,Paraguay,Julio,69
 bairesdev sa,Paraguay,Julio,40
 bairesdev sa,Paraguay,Julio,16
+oktana,Paraguay,Julio,4
 oktana,Paraguay,Julio,4
 stt group paraguay s.a.,Paraguay,Julio,4
 perfecta automotores sa,Paraguay,Julio,3
@@ -1895,8 +1897,6 @@ grupo aloben,Paraguay,Julio,1
 hupi constructora y incorporadora,Paraguay,Julio,1
 icplast srl,Paraguay,Julio,1
 infocasas s.a.,Paraguay,Julio,1
-lincoln sa,Paraguay,Julio,1
-laboratorio express,Paraguay,Julio,1
 bairesdev sa,Paraguay,Junio,113
 bairesdev sa,Paraguay,Junio,69
 bairesdev sa,Paraguay,Junio,68
@@ -2011,6 +2011,7 @@ importante empresa del sector,El Salvador,Julio,6
 codosat el salvador,El Salvador,Julio,5
 grupo stt el salvador sa de c.v,El Salvador,Julio,5
 importante empresa del sector,El Salvador,Julio,5
+corporación multi inversiones,El Salvador,Julio,4
 gsp corp.,El Salvador,Julio,4
 genius sports,El Salvador,Julio,4
 manpower group,El Salvador,Julio,4
@@ -2022,7 +2023,6 @@ celular star s.a de c.v,El Salvador,Julio,3
 "contactos y oportunidades, s.a. de c.v.",El Salvador,Julio,3
 contrataciones el salvador,El Salvador,Julio,3
 corporación multi inversiones,El Salvador,Julio,3
-express wheels,El Salvador,Julio,3
 corporación multi inversiones,El Salvador,Junio,14
 the people company,El Salvador,Junio,8
 bsci,El Salvador,Junio,5
@@ -2147,6 +2147,8 @@ bairesdev,Uruguay,Julio,13
 manpower group,Uruguay,Julio,13
 bairesdev,Uruguay,Julio,12
 bairesdev,Uruguay,Julio,12
+bairesdev,Uruguay,Julio,12
+manpower group,Uruguay,Julio,9
 manpower group,Uruguay,Julio,9
 bairesdev,Uruguay,Julio,7
 manpower group,Uruguay,Julio,7
@@ -2155,14 +2157,12 @@ manpower group,Uruguay,Julio,6
 manpower group,Uruguay,Julio,6
 importante empresa del sector,Uruguay,Julio,4
 manpower group,Uruguay,Julio,4
+manpower group,Uruguay,Julio,4
 coneban sa,Uruguay,Julio,3
 espeicas puras la trinidad,Uruguay,Julio,3
 estilo srl,Uruguay,Julio,3
 importante empresa del sector,Uruguay,Julio,3
 importante empresa del sector,Uruguay,Julio,3
-manpower group,Uruguay,Julio,3
-manpower group,Uruguay,Julio,3
-manpower group,Uruguay,Julio,3
 bairesdev,Uruguay,Junio,20
 bairesdev,Uruguay,Junio,11
 bairesdev,Uruguay,Junio,10
@@ -2298,6 +2298,8 @@ inversiones tornillos serrano c.a,Venezuela,Febrero,20
 directa group,Venezuela,Febrero,19
 directa group,Venezuela,Febrero,18
 bairesdev sa,Venezuela,Julio,96
+bairesdev sa,Venezuela,Julio,58
+bairesdev sa,Venezuela,Julio,55
 "okimport,c.a",Venezuela,Julio,30
 bairesdev sa,Venezuela,Julio,29
 chesterwood,Venezuela,Julio,28
@@ -2314,9 +2316,7 @@ distribuidora full brake ii c.a,Venezuela,Julio,13
 distribuidora de repuestos valero c.a,Venezuela,Julio,13
 "comercializadora rasil c,a",Venezuela,Julio,12
 "gemethca, c.a",Venezuela,Julio,12
-mundo total,Venezuela,Julio,11
-mundo total,Venezuela,Julio,11
-promotora tántalo,Venezuela,Julio,11
+grupo ovejita,Venezuela,Julio,11
 bairesdev sa,Venezuela,Junio,134
 bairesdev sa,Venezuela,Junio,96
 bairesdev sa,Venezuela,Junio,73

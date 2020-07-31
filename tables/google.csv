@@ -8,7 +8,7 @@ date,country_region_code,workplaces_percent_change_from_baseline,pais,semana,fec
 6,do,-5.0,Rep. Dominicana,16 de febrero,6
 6,ec,-1.0,Ecuador,16 de febrero,6
 6,hn,1.0,Honduras,16 de febrero,6
-6,ni,2.5,Nicaragua,16 de febrero,6
+6,ni,1.5,Nicaragua,16 de febrero,6
 6,pa,4.5,Panamá,16 de febrero,6
 6,pe,0.0,Perú,16 de febrero,6
 6,py,0.0,Paraguay,16 de febrero,6
@@ -24,12 +24,12 @@ date,country_region_code,workplaces_percent_change_from_baseline,pais,semana,fec
 7,do,0.2857142857142857,Rep. Dominicana,23 de febrero,7
 7,ec,-7.428571428571429,Ecuador,23 de febrero,7
 7,hn,6.857142857142857,Honduras,23 de febrero,7
-7,ni,8.857142857142858,Nicaragua,23 de febrero,7
-7,pa,-0.5714285714285714,Panamá,23 de febrero,7
+7,ni,7.857142857142857,Nicaragua,23 de febrero,7
+7,pa,-1.5,Panamá,23 de febrero,7
 7,pe,0.5714285714285714,Perú,23 de febrero,7
 7,py,9.857142857142858,Paraguay,23 de febrero,7
 7,sv,4.0,El Salvador,23 de febrero,7
-7,uy,5.0,Uruguay,23 de febrero,7
+7,uy,4.357142857142857,Uruguay,23 de febrero,7
 7,ve,4.857142857142857,Venezuela,23 de febrero,7
 8,ar,-9.428571428571429,Argentina,1 de marzo,8
 8,bo,-12.428571428571429,Bolivia,1 de marzo,8
@@ -40,12 +40,12 @@ date,country_region_code,workplaces_percent_change_from_baseline,pais,semana,fec
 8,do,-7.285714285714286,Rep. Dominicana,1 de marzo,8
 8,ec,-23.571428571428573,Ecuador,1 de marzo,8
 8,hn,7.714285714285714,Honduras,1 de marzo,8
-8,ni,10.428571428571429,Nicaragua,1 de marzo,8
-8,pa,-22.857142857142858,Panamá,1 de marzo,8
+8,ni,9.428571428571429,Nicaragua,1 de marzo,8
+8,pa,-23.714285714285715,Panamá,1 de marzo,8
 8,pe,0.42857142857142855,Perú,1 de marzo,8
 8,py,13.285714285714286,Paraguay,1 de marzo,8
 8,sv,5.0,El Salvador,1 de marzo,8
-8,uy,-9.285714285714286,Uruguay,1 de marzo,8
+8,uy,-11.214285714285714,Uruguay,1 de marzo,8
 8,ve,-10.714285714285714,Venezuela,1 de marzo,8
 9,ar,12.428571428571429,Argentina,8 de marzo,9
 9,bo,15.571428571428571,Bolivia,8 de marzo,9
@@ -56,12 +56,12 @@ date,country_region_code,workplaces_percent_change_from_baseline,pais,semana,fec
 9,do,1.2857142857142858,Rep. Dominicana,8 de marzo,9
 9,ec,-5.142857142857143,Ecuador,8 de marzo,9
 9,hn,8.428571428571429,Honduras,8 de marzo,9
-9,ni,11.285714285714286,Nicaragua,8 de marzo,9
-9,pa,6.142857142857143,Panamá,8 de marzo,9
+9,ni,10.142857142857142,Nicaragua,8 de marzo,9
+9,pa,5.714285714285714,Panamá,8 de marzo,9
 9,pe,2.5714285714285716,Perú,8 de marzo,9
 9,py,15.857142857142858,Paraguay,8 de marzo,9
 9,sv,5.714285714285714,El Salvador,8 de marzo,9
-9,uy,14.428571428571429,Uruguay,8 de marzo,9
+9,uy,13.714285714285714,Uruguay,8 de marzo,9
 9,ve,9.428571428571429,Venezuela,8 de marzo,9
 10,ar,10.0,Argentina,15 de marzo,10
 10,bo,10.285714285714286,Bolivia,15 de marzo,10
@@ -72,12 +72,12 @@ date,country_region_code,workplaces_percent_change_from_baseline,pais,semana,fec
 10,do,-2.0,Rep. Dominicana,15 de marzo,10
 10,ec,-10.714285714285714,Ecuador,15 de marzo,10
 10,hn,4.714285714285714,Honduras,15 de marzo,10
-10,ni,12.142857142857142,Nicaragua,15 de marzo,10
-10,pa,-2.4285714285714284,Panamá,15 de marzo,10
+10,ni,10.928571428571429,Nicaragua,15 de marzo,10
+10,pa,-3.0,Panamá,15 de marzo,10
 10,pe,-0.2857142857142857,Perú,15 de marzo,10
 10,py,5.142857142857143,Paraguay,15 de marzo,10
 10,sv,0.8571428571428571,El Salvador,15 de marzo,10
-10,uy,14.142857142857142,Uruguay,15 de marzo,10
+10,uy,13.428571428571429,Uruguay,15 de marzo,10
 10,ve,7.714285714285714,Venezuela,15 de marzo,10
 11,ar,-32.857142857142854,Argentina,22 de marzo,11
 11,bo,-25.428571428571427,Bolivia,22 de marzo,11
@@ -88,12 +88,12 @@ date,country_region_code,workplaces_percent_change_from_baseline,pais,semana,fec
 11,do,-37.142857142857146,Rep. Dominicana,22 de marzo,11
 11,ec,-65.14285714285714,Ecuador,22 de marzo,11
 11,hn,-62.285714285714285,Honduras,22 de marzo,11
-11,ni,3.2857142857142856,Nicaragua,22 de marzo,11
-11,pa,-34.0,Panamá,22 de marzo,11
+11,ni,1.1428571428571428,Nicaragua,22 de marzo,11
+11,pa,-35.357142857142854,Panamá,22 de marzo,11
 11,pe,-66.42857142857143,Perú,22 de marzo,11
 11,py,-28.0,Paraguay,22 de marzo,11
 11,sv,-29.0,El Salvador,22 de marzo,11
-11,uy,-21.714285714285715,Uruguay,22 de marzo,11
+11,uy,-23.071428571428573,Uruguay,22 de marzo,11
 11,ve,-45.0,Venezuela,22 de marzo,11
 12,ar,-68.14285714285714,Argentina,29 de marzo,12
 12,bo,-78.57142857142857,Bolivia,29 de marzo,12
@@ -104,12 +104,12 @@ date,country_region_code,workplaces_percent_change_from_baseline,pais,semana,fec
 12,do,-69.0,Rep. Dominicana,29 de marzo,12
 12,ec,-78.14285714285714,Ecuador,29 de marzo,12
 12,hn,-65.71428571428571,Honduras,29 de marzo,12
-12,ni,-14.285714285714286,Nicaragua,29 de marzo,12
-12,pa,-65.57142857142857,Panamá,29 de marzo,12
+12,ni,-17.357142857142858,Nicaragua,29 de marzo,12
+12,pa,-67.42857142857143,Panamá,29 de marzo,12
 12,pe,-71.57142857142857,Perú,29 de marzo,12
 12,py,-54.857142857142854,Paraguay,29 de marzo,12
 12,sv,-63.57142857142857,El Salvador,29 de marzo,12
-12,uy,-37.142857142857146,Uruguay,29 de marzo,12
+12,uy,-38.714285714285715,Uruguay,29 de marzo,12
 12,ve,-50.0,Venezuela,29 de marzo,12
 13,ar,-62.857142857142854,Argentina,5 de abril,13
 13,bo,-77.71428571428571,Bolivia,5 de abril,13
@@ -120,12 +120,12 @@ date,country_region_code,workplaces_percent_change_from_baseline,pais,semana,fec
 13,do,-68.42857142857143,Rep. Dominicana,5 de abril,13
 13,ec,-77.0,Ecuador,5 de abril,13
 13,hn,-67.57142857142857,Honduras,5 de abril,13
-13,ni,-15.285714285714286,Nicaragua,5 de abril,13
-13,pa,-73.14285714285714,Panamá,5 de abril,13
+13,ni,-18.142857142857142,Nicaragua,5 de abril,13
+13,pa,-75.07142857142857,Panamá,5 de abril,13
 13,pe,-74.0,Perú,5 de abril,13
 13,py,-46.142857142857146,Paraguay,5 de abril,13
 13,sv,-60.714285714285715,El Salvador,5 de abril,13
-13,uy,-38.714285714285715,Uruguay,5 de abril,13
+13,uy,-40.642857142857146,Uruguay,5 de abril,13
 13,ve,-49.857142857142854,Venezuela,5 de abril,13
 14,ar,-59.57142857142857,Argentina,12 de abril,14
 14,bo,-75.85714285714286,Bolivia,12 de abril,14
@@ -136,12 +136,12 @@ date,country_region_code,workplaces_percent_change_from_baseline,pais,semana,fec
 14,do,-69.85714285714286,Rep. Dominicana,12 de abril,14
 14,ec,-78.71428571428571,Ecuador,12 de abril,14
 14,hn,-68.71428571428571,Honduras,12 de abril,14
-14,ni,-45.42857142857143,Nicaragua,12 de abril,14
-14,pa,-77.71428571428571,Panamá,12 de abril,14
+14,ni,-48.785714285714285,Nicaragua,12 de abril,14
+14,pa,-79.64285714285714,Panamá,12 de abril,14
 14,pe,-78.14285714285714,Perú,12 de abril,14
 14,py,-61.57142857142857,Paraguay,12 de abril,14
 14,sv,-70.85714285714286,El Salvador,12 de abril,14
-14,uy,-49.714285714285715,Uruguay,12 de abril,14
+14,uy,-51.714285714285715,Uruguay,12 de abril,14
 14,ve,-53.714285714285715,Venezuela,12 de abril,14
 15,ar,-51.42857142857143,Argentina,19 de abril,15
 15,bo,-75.28571428571429,Bolivia,19 de abril,15
@@ -152,12 +152,12 @@ date,country_region_code,workplaces_percent_change_from_baseline,pais,semana,fec
 15,do,-64.28571428571429,Rep. Dominicana,19 de abril,15
 15,ec,-75.0,Ecuador,19 de abril,15
 15,hn,-59.57142857142857,Honduras,19 de abril,15
-15,ni,-20.714285714285715,Nicaragua,19 de abril,15
-15,pa,-74.14285714285714,Panamá,19 de abril,15
+15,ni,-22.928571428571427,Nicaragua,19 de abril,15
+15,pa,-75.92857142857143,Panamá,19 de abril,15
 15,pe,-72.42857142857143,Perú,19 de abril,15
 15,py,-41.714285714285715,Paraguay,19 de abril,15
 15,sv,-61.57142857142857,El Salvador,19 de abril,15
-15,uy,-32.57142857142857,Uruguay,19 de abril,15
+15,uy,-34.5,Uruguay,19 de abril,15
 15,ve,-45.285714285714285,Venezuela,19 de abril,15
 16,ar,-48.0,Argentina,26 de abril,16
 16,bo,-73.42857142857143,Bolivia,26 de abril,16
@@ -168,12 +168,12 @@ date,country_region_code,workplaces_percent_change_from_baseline,pais,semana,fec
 16,do,-62.714285714285715,Rep. Dominicana,26 de abril,16
 16,ec,-72.14285714285714,Ecuador,26 de abril,16
 16,hn,-56.857142857142854,Honduras,26 de abril,16
-16,ni,-9.714285714285714,Nicaragua,26 de abril,16
-16,pa,-72.28571428571429,Panamá,26 de abril,16
+16,ni,-12.571428571428571,Nicaragua,26 de abril,16
+16,pa,-74.28571428571429,Panamá,26 de abril,16
 16,pe,-72.28571428571429,Perú,26 de abril,16
 16,py,-36.0,Paraguay,26 de abril,16
 16,sv,-60.0,El Salvador,26 de abril,16
-16,uy,-29.428571428571427,Uruguay,26 de abril,16
+16,uy,-31.071428571428573,Uruguay,26 de abril,16
 16,ve,-43.285714285714285,Venezuela,26 de abril,16
 17,ar,-48.285714285714285,Argentina,3 de mayo,17
 17,bo,-70.71428571428571,Bolivia,3 de mayo,17
@@ -184,12 +184,12 @@ date,country_region_code,workplaces_percent_change_from_baseline,pais,semana,fec
 17,do,-59.142857142857146,Rep. Dominicana,3 de mayo,17
 17,ec,-68.85714285714286,Ecuador,3 de mayo,17
 17,hn,-57.142857142857146,Honduras,3 de mayo,17
-17,ni,-16.0,Nicaragua,3 de mayo,17
-17,pa,-72.57142857142857,Panamá,3 de mayo,17
+17,ni,-19.142857142857142,Nicaragua,3 de mayo,17
+17,pa,-74.57142857142857,Panamá,3 de mayo,17
 17,pe,-71.28571428571429,Perú,3 de mayo,17
 17,py,-36.285714285714285,Paraguay,3 de mayo,17
 17,sv,-59.285714285714285,El Salvador,3 de mayo,17
-17,uy,-34.285714285714285,Uruguay,3 de mayo,17
+17,uy,-35.857142857142854,Uruguay,3 de mayo,17
 17,ve,-41.142857142857146,Venezuela,3 de mayo,17
 18,ar,-38.42857142857143,Argentina,10 de mayo,18
 18,bo,-68.42857142857143,Bolivia,10 de mayo,18
@@ -200,12 +200,12 @@ date,country_region_code,workplaces_percent_change_from_baseline,pais,semana,fec
 18,do,-57.714285714285715,Rep. Dominicana,10 de mayo,18
 18,ec,-61.57142857142857,Ecuador,10 de mayo,18
 18,hn,-53.285714285714285,Honduras,10 de mayo,18
-18,ni,-10.857142857142858,Nicaragua,10 de mayo,18
-18,pa,-68.57142857142857,Panamá,10 de mayo,18
+18,ni,-14.0,Nicaragua,10 de mayo,18
+18,pa,-70.64285714285714,Panamá,10 de mayo,18
 18,pe,-67.71428571428571,Perú,10 de mayo,18
 18,py,-21.857142857142858,Paraguay,10 de mayo,18
 18,sv,-60.285714285714285,El Salvador,10 de mayo,18
-18,uy,-21.285714285714285,Uruguay,10 de mayo,18
+18,uy,-22.857142857142858,Uruguay,10 de mayo,18
 18,ve,-32.57142857142857,Venezuela,10 de mayo,18
 19,ar,-33.285714285714285,Argentina,17 de mayo,19
 19,bo,-63.142857142857146,Bolivia,17 de mayo,19
@@ -216,12 +216,12 @@ date,country_region_code,workplaces_percent_change_from_baseline,pais,semana,fec
 19,do,-53.0,Rep. Dominicana,17 de mayo,19
 19,ec,-59.142857142857146,Ecuador,17 de mayo,19
 19,hn,-50.857142857142854,Honduras,17 de mayo,19
-19,ni,-17.714285714285715,Nicaragua,17 de mayo,19
-19,pa,-63.857142857142854,Panamá,17 de mayo,19
+19,ni,-20.928571428571427,Nicaragua,17 de mayo,19
+19,pa,-66.07142857142857,Panamá,17 de mayo,19
 19,pe,-66.0,Perú,17 de mayo,19
 19,py,-30.0,Paraguay,17 de mayo,19
 19,sv,-61.714285714285715,El Salvador,17 de mayo,19
-19,uy,-19.142857142857142,Uruguay,17 de mayo,19
+19,uy,-20.285714285714285,Uruguay,17 de mayo,19
 19,ve,-32.57142857142857,Venezuela,17 de mayo,19
 20,ar,-31.285714285714285,Argentina,24 de mayo,20
 20,bo,-58.42857142857143,Bolivia,24 de mayo,20
@@ -232,12 +232,12 @@ date,country_region_code,workplaces_percent_change_from_baseline,pais,semana,fec
 20,do,-44.714285714285715,Rep. Dominicana,24 de mayo,20
 20,ec,-53.714285714285715,Ecuador,24 de mayo,20
 20,hn,-48.714285714285715,Honduras,24 de mayo,20
-20,ni,-23.428571428571427,Nicaragua,24 de mayo,20
-20,pa,-60.57142857142857,Panamá,24 de mayo,20
+20,ni,-26.928571428571427,Nicaragua,24 de mayo,20
+20,pa,-62.714285714285715,Panamá,24 de mayo,20
 20,pe,-63.285714285714285,Perú,24 de mayo,20
 20,py,-16.714285714285715,Paraguay,24 de mayo,20
 20,sv,-59.0,El Salvador,24 de mayo,20
-20,uy,-21.428571428571427,Uruguay,24 de mayo,20
+20,uy,-22.785714285714285,Uruguay,24 de mayo,20
 20,ve,-30.142857142857142,Venezuela,24 de mayo,20
 21,ar,-33.285714285714285,Argentina,31 de mayo,21
 21,bo,-53.714285714285715,Bolivia,31 de mayo,21
@@ -248,12 +248,12 @@ date,country_region_code,workplaces_percent_change_from_baseline,pais,semana,fec
 21,do,-37.285714285714285,Rep. Dominicana,31 de mayo,21
 21,ec,-47.57142857142857,Ecuador,31 de mayo,21
 21,hn,-46.857142857142854,Honduras,31 de mayo,21
-21,ni,-25.714285714285715,Nicaragua,31 de mayo,21
-21,pa,-58.142857142857146,Panamá,31 de mayo,21
+21,ni,-29.071428571428573,Nicaragua,31 de mayo,21
+21,pa,-60.214285714285715,Panamá,31 de mayo,21
 21,pe,-58.857142857142854,Perú,31 de mayo,21
 21,py,-10.714285714285714,Paraguay,31 de mayo,21
 21,sv,-57.57142857142857,El Salvador,31 de mayo,21
-21,uy,-15.857142857142858,Uruguay,31 de mayo,21
+21,uy,-17.5,Uruguay,31 de mayo,21
 21,ve,-29.142857142857142,Venezuela,31 de mayo,21
 22,ar,-26.285714285714285,Argentina,7 de junio,22
 22,bo,-47.142857142857146,Bolivia,7 de junio,22
@@ -264,12 +264,12 @@ date,country_region_code,workplaces_percent_change_from_baseline,pais,semana,fec
 22,do,-34.42857142857143,Rep. Dominicana,7 de junio,22
 22,ec,-40.714285714285715,Ecuador,7 de junio,22
 22,hn,-43.285714285714285,Honduras,7 de junio,22
-22,ni,-25.857142857142858,Nicaragua,7 de junio,22
-22,pa,-51.142857142857146,Panamá,7 de junio,22
+22,ni,-28.928571428571427,Nicaragua,7 de junio,22
+22,pa,-53.5,Panamá,7 de junio,22
 22,pe,-56.285714285714285,Perú,7 de junio,22
 22,py,-10.285714285714286,Paraguay,7 de junio,22
 22,sv,-56.42857142857143,El Salvador,7 de junio,22
-22,uy,-13.142857142857142,Uruguay,7 de junio,22
+22,uy,-14.5,Uruguay,7 de junio,22
 22,ve,-22.714285714285715,Venezuela,7 de junio,22
 23,ar,-23.0,Argentina,14 de junio,23
 23,bo,-46.714285714285715,Bolivia,14 de junio,23
@@ -280,12 +280,12 @@ date,country_region_code,workplaces_percent_change_from_baseline,pais,semana,fec
 23,do,-35.0,Rep. Dominicana,14 de junio,23
 23,ec,-36.857142857142854,Ecuador,14 de junio,23
 23,hn,-40.857142857142854,Honduras,14 de junio,23
-23,ni,-23.142857142857142,Nicaragua,14 de junio,23
-23,pa,-51.714285714285715,Panamá,14 de junio,23
+23,ni,-25.714285714285715,Nicaragua,14 de junio,23
+23,pa,-54.57142857142857,Panamá,14 de junio,23
 23,pe,-54.142857142857146,Perú,14 de junio,23
 23,py,-13.285714285714286,Paraguay,14 de junio,23
 23,sv,-50.42857142857143,El Salvador,14 de junio,23
-23,uy,-9.571428571428571,Uruguay,14 de junio,23
+23,uy,-11.285714285714286,Uruguay,14 de junio,23
 23,ve,-22.428571428571427,Venezuela,14 de junio,23
 24,ar,-26.571428571428573,Argentina,21 de junio,24
 24,bo,-44.142857142857146,Bolivia,21 de junio,24
@@ -296,12 +296,12 @@ date,country_region_code,workplaces_percent_change_from_baseline,pais,semana,fec
 24,do,-30.428571428571427,Rep. Dominicana,21 de junio,24
 24,ec,-33.857142857142854,Ecuador,21 de junio,24
 24,hn,-40.857142857142854,Honduras,21 de junio,24
-24,ni,-21.857142857142858,Nicaragua,21 de junio,24
-24,pa,-49.57142857142857,Panamá,21 de junio,24
+24,ni,-24.428571428571427,Nicaragua,21 de junio,24
+24,pa,-52.5,Panamá,21 de junio,24
 24,pe,-51.285714285714285,Perú,21 de junio,24
 24,py,-4.571428571428571,Paraguay,21 de junio,24
 24,sv,-47.714285714285715,El Salvador,21 de junio,24
-24,uy,-13.285714285714286,Uruguay,21 de junio,24
+24,uy,-15.285714285714286,Uruguay,21 de junio,24
 24,ve,-15.285714285714286,Venezuela,21 de junio,24
 25,ar,-24.571428571428573,Argentina,28 de junio,25
 25,bo,-49.714285714285715,Bolivia,28 de junio,25
@@ -312,12 +312,12 @@ date,country_region_code,workplaces_percent_change_from_baseline,pais,semana,fec
 25,do,-30.571428571428573,Rep. Dominicana,28 de junio,25
 25,ec,-35.57142857142857,Ecuador,28 de junio,25
 25,hn,-45.0,Honduras,28 de junio,25
-25,ni,-22.571428571428573,Nicaragua,28 de junio,25
-25,pa,-51.142857142857146,Panamá,28 de junio,25
+25,ni,-24.785714285714285,Nicaragua,28 de junio,25
+25,pa,-53.92857142857143,Panamá,28 de junio,25
 25,pe,-52.0,Perú,28 de junio,25
 25,py,-9.142857142857142,Paraguay,28 de junio,25
 25,sv,-45.142857142857146,El Salvador,28 de junio,25
-25,uy,-10.428571428571429,Uruguay,28 de junio,25
+25,uy,-12.214285714285714,Uruguay,28 de junio,25
 25,ve,-29.428571428571427,Venezuela,28 de junio,25
 26,ar,-25.571428571428573,Argentina,5 de julio,26
 26,bo,-49.0,Bolivia,5 de julio,26
@@ -328,12 +328,12 @@ date,country_region_code,workplaces_percent_change_from_baseline,pais,semana,fec
 26,do,-29.714285714285715,Rep. Dominicana,5 de julio,26
 26,ec,-33.285714285714285,Ecuador,5 de julio,26
 26,hn,-46.57142857142857,Honduras,5 de julio,26
-26,ni,-23.0,Nicaragua,5 de julio,26
-26,pa,-50.57142857142857,Panamá,5 de julio,26
+26,ni,-24.857142857142858,Nicaragua,5 de julio,26
+26,pa,-53.214285714285715,Panamá,5 de julio,26
 26,pe,-47.42857142857143,Perú,5 de julio,26
 26,py,-8.571428571428571,Paraguay,5 de julio,26
 26,sv,-44.57142857142857,El Salvador,5 de julio,26
-26,uy,-8.285714285714286,Uruguay,5 de julio,26
+26,uy,-9.714285714285714,Uruguay,5 de julio,26
 26,ve,-20.857142857142858,Venezuela,5 de julio,26
 27,ar,-32.714285714285715,Argentina,12 de julio,27
 27,bo,-46.857142857142854,Bolivia,12 de julio,27
@@ -344,12 +344,12 @@ date,country_region_code,workplaces_percent_change_from_baseline,pais,semana,fec
 27,do,-30.714285714285715,Rep. Dominicana,12 de julio,27
 27,ec,-33.0,Ecuador,12 de julio,27
 27,hn,-46.857142857142854,Honduras,12 de julio,27
-27,ni,-22.428571428571427,Nicaragua,12 de julio,27
-27,pa,-50.57142857142857,Panamá,12 de julio,27
+27,ni,-24.071428571428573,Nicaragua,12 de julio,27
+27,pa,-53.214285714285715,Panamá,12 de julio,27
 27,pe,-44.0,Perú,12 de julio,27
 27,py,-9.428571428571429,Paraguay,12 de julio,27
 27,sv,-45.285714285714285,El Salvador,12 de julio,27
-27,uy,-6.0,Uruguay,12 de julio,27
+27,uy,-7.428571428571429,Uruguay,12 de julio,27
 27,ve,-27.0,Venezuela,12 de julio,27
 28,ar,-23.714285714285715,Argentina,19 de julio,28
 28,bo,-46.57142857142857,Bolivia,19 de julio,28
@@ -360,26 +360,42 @@ date,country_region_code,workplaces_percent_change_from_baseline,pais,semana,fec
 28,do,-31.571428571428573,Rep. Dominicana,19 de julio,28
 28,ec,-32.714285714285715,Ecuador,19 de julio,28
 28,hn,-46.714285714285715,Honduras,19 de julio,28
-28,ni,-19.857142857142858,Nicaragua,19 de julio,28
-28,pa,-53.285714285714285,Panamá,19 de julio,28
+28,ni,-22.071428571428573,Nicaragua,19 de julio,28
+28,pa,-56.42857142857143,Panamá,19 de julio,28
 28,pe,-42.42857142857143,Perú,19 de julio,28
 28,py,-9.0,Paraguay,19 de julio,28
 28,sv,-43.285714285714285,El Salvador,19 de julio,28
-28,uy,-10.857142857142858,Uruguay,19 de julio,28
+28,uy,-12.357142857142858,Uruguay,19 de julio,28
 28,ve,-19.714285714285715,Venezuela,19 de julio,28
-29,ar,-26.0,Argentina,26 de julio,29
-29,bo,-39.5,Bolivia,26 de julio,29
-29,br,-18.0,Brasil,26 de julio,29
-29,cl,-47.5,Chile,26 de julio,29
-29,co,-54.0,Colombia,26 de julio,29
-29,cr,-39.0,Costa Rica,26 de julio,29
-29,do,-37.0,Rep. Dominicana,26 de julio,29
-29,ec,-41.5,Ecuador,26 de julio,29
-29,hn,-46.0,Honduras,26 de julio,29
-29,ni,-38.0,Nicaragua,26 de julio,29
-29,pa,-51.0,Panamá,26 de julio,29
-29,pe,-46.5,Perú,26 de julio,29
-29,py,-11.5,Paraguay,26 de julio,29
-29,sv,-47.5,El Salvador,26 de julio,29
-29,uy,-12.0,Uruguay,26 de julio,29
-29,ve,-35.0,Venezuela,26 de julio,29
+29,ar,-24.0,Argentina,26 de julio,29
+29,bo,-43.57142857142857,Bolivia,26 de julio,29
+29,br,-13.714285714285714,Brasil,26 de julio,29
+29,cl,-41.142857142857146,Chile,26 de julio,29
+29,co,-40.285714285714285,Colombia,26 de julio,29
+29,cr,-37.285714285714285,Costa Rica,26 de julio,29
+29,do,-34.0,Rep. Dominicana,26 de julio,29
+29,ec,-33.142857142857146,Ecuador,26 de julio,29
+29,hn,-45.285714285714285,Honduras,26 de julio,29
+29,ni,-25.785714285714285,Nicaragua,26 de julio,29
+29,pa,-57.142857142857146,Panamá,26 de julio,29
+29,pe,-41.714285714285715,Perú,26 de julio,29
+29,py,-9.857142857142858,Paraguay,26 de julio,29
+29,sv,-42.142857142857146,El Salvador,26 de julio,29
+29,uy,-14.285714285714286,Uruguay,26 de julio,29
+29,ve,-28.428571428571427,Venezuela,26 de julio,29
+30,ar,-25.0,Argentina,2 de agosto,30
+30,bo,-40.0,Bolivia,2 de agosto,30
+30,br,-16.0,Brasil,2 de agosto,30
+30,cl,-45.0,Chile,2 de agosto,30
+30,co,-38.0,Colombia,2 de agosto,30
+30,cr,-64.0,Costa Rica,2 de agosto,30
+30,do,-38.0,Rep. Dominicana,2 de agosto,30
+30,ec,-41.0,Ecuador,2 de agosto,30
+30,hn,-45.0,Honduras,2 de agosto,30
+30,ni,-21.5,Nicaragua,2 de agosto,30
+30,pa,-50.5,Panamá,2 de agosto,30
+30,pe,-45.0,Perú,2 de agosto,30
+30,py,-11.0,Paraguay,2 de agosto,30
+30,sv,-46.0,El Salvador,2 de agosto,30
+30,uy,-14.5,Uruguay,2 de agosto,30
+30,ve,-29.0,Venezuela,2 de agosto,30
