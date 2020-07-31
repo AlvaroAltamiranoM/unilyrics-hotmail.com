@@ -1,31 +1,31 @@
-pais,rama_de_actividad,growth,colorcol,growth_abs
-Argentina,Informática / Software,-7.692307692307693,no,7.692307692307693
-Argentina,Construcción / obras,-5.0,no,5.0
-Argentina,Telecomunicaciones,-4.761904761904773,no,4.761904761904773
-Argentina,Venta al por mayor,5.263157894736835,yes,5.263157894736835
-Argentina,Educación,5.882352941176478,yes,5.882352941176478
-Argentina,Publicidad / RRPP,6.666666666666671,yes,6.666666666666671
-Argentina,Legal / Asesoría,9.09090909090908,yes,9.09090909090908
-Argentina,Hostelería / Turismo,13.333333333333329,yes,13.333333333333329
-Argentina,Informática / Hardware,15.384615384615373,yes,15.384615384615373
-Argentina,Finanzas / Banca,21.428571428571416,yes,21.428571428571416
-Chile,Transporte / Logística,-25.0,no,25.0
-Chile,Finanzas / Banca,5.263157894736835,yes,5.263157894736835
-Chile,Fabricación,6.25,yes,6.25
-Chile,Servicios Profesionales,9.09090909090908,yes,9.09090909090908
-Chile,Venta al por mayor,11.764705882352942,yes,11.764705882352942
-Chile,Publicidad / RRPP,13.333333333333329,yes,13.333333333333329
-Chile,Informática / Software,13.63636363636364,yes,13.63636363636364
-Chile,Informática / Hardware,14.999999999999986,yes,14.999999999999986
-Chile,Medios de Comunicación,28.571428571428584,yes,28.571428571428584
-Chile,Hostelería / Turismo,50.0,yes,50.0
-Colombia,Legal / Asesoría,-12.0,no,12.0
-Colombia,Educación,7.142857142857139,yes,7.142857142857139
-Colombia,Venta al por mayor,8.0,yes,8.0
-Colombia,Finanzas / Banca,8.333333333333329,yes,8.333333333333329
-Colombia,Medios de Comunicación,11.111111111111114,yes,11.111111111111114
-Colombia,Hostelería / Turismo,13.043478260869563,yes,13.043478260869563
-Colombia,Construcción / obras,15.999999999999986,yes,15.999999999999986
-Colombia,Agricultura / Pesca / Ganadería,16.66666666666667,yes,16.66666666666667
-Colombia,Internet,26.666666666666657,yes,26.666666666666657
-Colombia,Materias Primas,33.333333333333314,yes,33.333333333333314
+pais,rama_de_actividad,growth,colorcol
+Argentina,Medios de Comunicación,-50.0,no
+Argentina,Agricultura / Pesca / Ganadería,-42.85714285714286,no
+Argentina,Energía / Minería,-12.5,no
+Argentina,Informática / Software,-7.692307692307693,no
+Argentina,Construcción / obras,-5.0,no
+Argentina,Hostelería / Turismo,13.333333333333329,yes
+Argentina,Informática / Hardware,15.384615384615373,yes
+Argentina,Materias Primas,20.0,yes
+Argentina,Finanzas / Banca,21.428571428571416,yes
+Argentina,Entretenimiento / Deportes,75.0,yes
+Chile,Energía / Minería,-57.142857142857146,no
+Chile,Transporte / Logística,-25.0,no
+Chile,Gobierno / No Lucro,-11.111111111111114,no
+Chile,Construcción / obras,-4.761904761904773,no
+Chile,Salud / Medicina,4.545454545454547,yes
+Chile,Agricultura / Pesca / Ganadería,14.285714285714278,yes
+Chile,Informática / Hardware,14.999999999999986,yes
+Chile,Medios de Comunicación,28.571428571428584,yes
+Chile,Hostelería / Turismo,50.0,yes
+Chile,Legal / Asesoría,83.33333333333331,yes
+Colombia,Legal / Asesoría,-12.0,no
+Colombia,Entretenimiento / Deportes,-5.555555555555557,no
+Colombia,Gobierno / No Lucro,-5.0,no
+Colombia,Publicidad / RRPP,-4.166666666666657,no
+Colombia,Informática / Software,-4.0,no
+Colombia,Hostelería / Turismo,13.043478260869563,yes
+Colombia,Construcción / obras,15.999999999999986,yes
+Colombia,Agricultura / Pesca / Ganadería,16.66666666666667,yes
+Colombia,Internet,26.666666666666657,yes
+Colombia,Materias Primas,33.333333333333314,yes

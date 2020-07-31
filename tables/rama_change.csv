@@ -1,31 +1,31 @@
-pais,rama_de_actividad,growth,colorcol,growth_abs
-Argentina,Hostelería / Turismo,-19.04761904761905,no,19.04761904761905
-Argentina,Legal / Asesoría,-14.285714285714292,no,14.285714285714292
-Argentina,Construcción / obras,11.764705882352942,yes,11.764705882352942
-Argentina,Informática / Software,14.285714285714278,yes,14.285714285714278
-Argentina,Telecomunicaciones,14.285714285714278,yes,14.285714285714278
-Argentina,Transporte / Logística,14.285714285714278,yes,14.285714285714278
-Argentina,Salud / Medicina,14.999999999999986,yes,14.999999999999986
-Argentina,Venta al por mayor,17.64705882352942,yes,17.64705882352942
-Argentina,Informática / Hardware,20.0,yes,20.0
-Argentina,Finanzas / Banca,21.428571428571416,yes,21.428571428571416
-Chile,Telecomunicaciones,12.820512820512818,yes,12.820512820512818
-Chile,Publicidad / RRPP,13.333333333333329,yes,13.333333333333329
-Chile,Servicios Profesionales,14.285714285714278,yes,14.285714285714278
-Chile,Informática / Software,25.0,yes,25.0
-Chile,Educación,37.5,yes,37.5
-Chile,Salud / Medicina,39.393939393939405,yes,39.393939393939405
-Chile,Venta al por mayor,40.74074074074073,yes,40.74074074074073
-Chile,Informática / Hardware,53.33333333333334,yes,53.33333333333334
-Chile,Medios de Comunicación,56.52173913043478,yes,56.52173913043478
-Chile,Finanzas / Banca,60.0,yes,60.0
-Colombia,Entretenimiento / Deportes,-26.08695652173914,no,26.08695652173914
-Colombia,Informática / Hardware,-19.148936170212778,no,19.148936170212778
-Colombia,Legal / Asesoría,-13.725490196078425,no,13.725490196078425
-Colombia,Publicidad / RRPP,-13.20754716981132,no,13.20754716981132
-Colombia,Informática / Software,-11.111111111111114,no,11.111111111111114
-Colombia,Materias Primas,-11.111111111111114,no,11.111111111111114
-Colombia,Salud / Medicina,7.142857142857139,yes,7.142857142857139
-Colombia,Construcción / obras,7.407407407407419,yes,7.407407407407419
-Colombia,Telecomunicaciones,9.09090909090908,yes,9.09090909090908
-Colombia,Educación,11.111111111111114,yes,11.111111111111114
+pais,rama_de_actividad,growth,colorcol
+Argentina,Gobierno / No Lucro,-60.0,no
+Argentina,Medios de Comunicación,-57.142857142857146,no
+Argentina,Entretenimiento / Deportes,-33.33333333333334,no
+Argentina,Materias Primas,-29.411764705882348,no
+Argentina,Agricultura / Pesca / Ganadería,-27.272727272727266,no
+Argentina,Salud / Medicina,14.999999999999986,yes
+Argentina,Venta al por mayor,17.64705882352942,yes
+Argentina,Informática / Hardware,20.0,yes
+Argentina,Finanzas / Banca,21.428571428571416,yes
+Argentina,Energía / Minería,75.0,yes
+Chile,Energía / Minería,-71.42857142857143,no
+Chile,Entretenimiento / Deportes,-25.0,no
+Chile,Materias Primas,-20.0,no
+Chile,Transporte / Logística,-11.764705882352942,no
+Chile,Fabricación,-2.857142857142861,no
+Chile,Salud / Medicina,39.393939393939405,yes
+Chile,Venta al por mayor,40.74074074074073,yes
+Chile,Informática / Hardware,53.33333333333334,yes
+Chile,Medios de Comunicación,56.52173913043478,yes
+Chile,Finanzas / Banca,60.0,yes
+Colombia,Entretenimiento / Deportes,-26.08695652173914,no
+Colombia,Informática / Hardware,-19.148936170212778,no
+Colombia,Otros,-14.285714285714292,no
+Colombia,Legal / Asesoría,-13.725490196078425,no
+Colombia,Publicidad / RRPP,-13.20754716981132,no
+Colombia,Transporte,5.454545454545439,yes
+Colombia,Salud / Medicina,7.142857142857139,yes
+Colombia,Construcción / obras,7.407407407407419,yes
+Colombia,Telecomunicaciones,9.09090909090908,yes
+Colombia,Educación,11.111111111111114,yes
