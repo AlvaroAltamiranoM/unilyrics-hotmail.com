@@ -383,19 +383,51 @@ date,country_region_code,workplaces_percent_change_from_baseline,pais,semana,fec
 29,sv,-42.142857142857146,El Salvador,26 de julio,29
 29,uy,-14.285714285714286,Uruguay,26 de julio,29
 29,ve,-28.428571428571427,Venezuela,26 de julio,29
-30,ar,-25.0,Argentina,2 de agosto,30
-30,bo,-40.0,Bolivia,2 de agosto,30
-30,br,-16.0,Brasil,2 de agosto,30
-30,cl,-45.0,Chile,2 de agosto,30
-30,co,-38.0,Colombia,2 de agosto,30
-30,cr,-64.0,Costa Rica,2 de agosto,30
+30,ar,-22.571428571428573,Argentina,2 de agosto,30
+30,bo,-43.714285714285715,Bolivia,2 de agosto,30
+30,br,-13.285714285714286,Brasil,2 de agosto,30
+30,cl,-39.857142857142854,Chile,2 de agosto,30
+30,co,-35.285714285714285,Colombia,2 de agosto,30
+30,cr,-38.0,Costa Rica,2 de agosto,30
 30,do,-38.0,Rep. Dominicana,2 de agosto,30
-30,ec,-41.0,Ecuador,2 de agosto,30
-30,hn,-45.0,Honduras,2 de agosto,30
-30,ni,-21.5,Nicaragua,2 de agosto,30
-30,pa,-50.5,Panamá,2 de agosto,30
-30,pe,-45.0,Perú,2 de agosto,30
-30,py,-11.0,Paraguay,2 de agosto,30
-30,sv,-46.0,El Salvador,2 de agosto,30
-30,uy,-14.5,Uruguay,2 de agosto,30
-30,ve,-29.0,Venezuela,2 de agosto,30
+30,ec,-33.142857142857146,Ecuador,2 de agosto,30
+30,hn,-44.285714285714285,Honduras,2 de agosto,30
+30,ni,-22.714285714285715,Nicaragua,2 de agosto,30
+30,pa,-56.642857142857146,Panamá,2 de agosto,30
+30,pe,-45.142857142857146,Perú,2 de agosto,30
+30,py,-9.714285714285714,Paraguay,2 de agosto,30
+30,sv,-41.0,El Salvador,2 de agosto,30
+30,uy,-14.285714285714286,Uruguay,2 de agosto,30
+30,ve,-23.428571428571427,Venezuela,2 de agosto,30
+31,ar,-22.428571428571427,Argentina,9 de agosto,31
+31,bo,-45.857142857142854,Bolivia,9 de agosto,31
+31,br,-10.142857142857142,Brasil,9 de agosto,31
+31,cl,-38.42857142857143,Chile,9 de agosto,31
+31,co,-39.57142857142857,Colombia,9 de agosto,31
+31,cr,-32.0,Costa Rica,9 de agosto,31
+31,do,-34.714285714285715,Rep. Dominicana,9 de agosto,31
+31,ec,-32.142857142857146,Ecuador,9 de agosto,31
+31,hn,-42.857142857142854,Honduras,9 de agosto,31
+31,ni,-20.0,Nicaragua,9 de agosto,31
+31,pa,-56.0,Panamá,9 de agosto,31
+31,pe,-41.714285714285715,Perú,9 de agosto,31
+31,py,-8.857142857142858,Paraguay,9 de agosto,31
+31,sv,-50.42857142857143,El Salvador,9 de agosto,31
+31,uy,-6.214285714285714,Uruguay,9 de agosto,31
+31,ve,-28.0,Venezuela,9 de agosto,31
+32,ar,-24.5,Argentina,16 de agosto,32
+32,bo,-37.5,Bolivia,16 de agosto,32
+32,br,-15.5,Brasil,16 de agosto,32
+32,cl,-43.0,Chile,16 de agosto,32
+32,co,-36.5,Colombia,16 de agosto,32
+32,cr,-37.5,Costa Rica,16 de agosto,32
+32,do,-37.5,Rep. Dominicana,16 de agosto,32
+32,ec,-49.5,Ecuador,16 de agosto,32
+32,hn,-41.5,Honduras,16 de agosto,32
+32,ni,-35.0,Nicaragua,16 de agosto,32
+32,pa,-50.25,Panamá,16 de agosto,32
+32,pe,-45.0,Perú,16 de agosto,32
+32,py,-10.5,Paraguay,16 de agosto,32
+32,sv,-45.0,El Salvador,16 de agosto,32
+32,uy,-2.0,Uruguay,16 de agosto,32
+32,ve,-29.5,Venezuela,16 de agosto,32
