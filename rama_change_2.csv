@@ -1,0 +1,31 @@
+pais,rama_de_actividad,growth,colorcol
+Argentina,Finanzas / Banca,-55.55555555555556,no
+Argentina,Informática / Hardware,-50.0,no
+Argentina,Hostelería / Turismo,-22.222222222222214,no
+Argentina,Fabricación,-16.666666666666657,no
+Argentina,Salud / Medicina,-16.666666666666657,no
+Argentina,Publicidad / RRPP,12.5,yes
+Argentina,Energía / Minería,14.285714285714278,yes
+Argentina,Materias Primas,14.285714285714278,yes
+Argentina,Internet,77.77777777777777,yes
+Argentina,Otros,100.0,yes
+Chile,Legal / Asesoría,-27.272727272727266,no
+Chile,Medios de Comunicación,-26.31578947368422,no
+Chile,Agricultura / Pesca / Ganadería,-25.0,no
+Chile,Informática / Hardware,-25.0,no
+Chile,Educación,-21.73913043478261,no
+Chile,Fabricación,-5.26315789473685,no
+Chile,Venta al por mayor,10.000000000000014,yes
+Chile,Transporte / Logística,25.0,yes
+Chile,Publicidad / RRPP,29.411764705882348,yes
+Chile,Energía / Minería,100.0,yes
+Colombia,Materias Primas,-42.85714285714286,no
+Colombia,Educación,-29.032258064516128,no
+Colombia,Agricultura / Pesca / Ganadería,-24.13793103448276,no
+Colombia,Medios de Comunicación,-23.80952380952381,no
+Colombia,Venta al por mayor,-21.42857142857143,no
+Colombia,Gobierno / No Lucro,-10.0,no
+Colombia,Publicidad / RRPP,-8.333333333333343,no
+Colombia,Entretenimiento / Deportes,-5.26315789473685,no
+Colombia,Informática / Software,-4.0,no
+Colombia,Legal / Asesoría,4.347826086956516,yes
