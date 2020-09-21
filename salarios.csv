@@ -29,7 +29,12 @@ Argentina,22918.796875,19 de julio
 Argentina,24438.596273291925,26 de julio
 Argentina,25727.33950617284,2 de agosto
 Argentina,34008.98237885463,9 de agosto
-Argentina,23345.059523809523,16 de agosto
+Argentina,23355.553359683796,16 de agosto
+Argentina,22863.37992831541,23 de agosto
+Argentina,26217.303370786518,30 de agosto
+Argentina,25604.523287671233,6 de septiembre
+Argentina,26947.939784946237,13 de septiembre
+Argentina,27800.419178082193,20 de septiembre
 Bolivia,3200.0,26 de enero
 Bolivia,4133.0,2 de febrero
 Bolivia,4500.0,9 de febrero
@@ -51,73 +56,88 @@ Bolivia,11111.0,12 de julio
 Bolivia,6000.0,26 de julio
 Bolivia,2713.3333333333335,2 de agosto
 Bolivia,11111.0,16 de agosto
+Bolivia,7305.5,23 de agosto
+Bolivia,6555.5,30 de agosto
+Bolivia,11111.0,6 de septiembre
+Bolivia,4433.25,13 de septiembre
+Bolivia,6666.5,20 de septiembre
 Brasil,1832.881118881119,12 de enero
-Brasil,1662.5981122702435,19 de enero
+Brasil,1727.9794946905895,19 de enero
 Brasil,1689.8179519595449,26 de enero
-Brasil,1740.4796416938111,2 de febrero
+Brasil,1740.3953867028495,2 de febrero
 Brasil,1636.9518703241895,9 de febrero
-Brasil,1714.3220833333332,16 de febrero
+Brasil,1721.191890166028,16 de febrero
 Brasil,1722.5162259615386,23 de febrero
 Brasil,1894.3412675652423,1 de marzo
 Brasil,1681.27059712774,8 de marzo
-Brasil,1876.0343713278496,15 de marzo
-Brasil,1650.9435998038255,22 de marzo
+Brasil,1877.4765120375807,15 de marzo
+Brasil,1648.7752326413745,22 de marzo
 Brasil,1803.0275202780997,29 de marzo
-Brasil,1822.6472279260781,5 de abril
+Brasil,1822.3095238095239,5 de abril
 Brasil,1808.6071538698736,12 de abril
-Brasil,1852.2246197382385,19 de abril
+Brasil,1875.4088639201,19 de abril
 Brasil,1838.7917607223476,26 de abril
-Brasil,1775.3774038461538,3 de mayo
+Brasil,1775.3170536429143,3 de mayo
 Brasil,1743.2839427662957,10 de mayo
-Brasil,1777.0371485943774,17 de mayo
+Brasil,1771.8315926892951,17 de mayo
 Brasil,1902.9242105263158,24 de mayo
-Brasil,1745.4258578431372,31 de mayo
-Brasil,1757.0698750578435,7 de junio
-Brasil,1768.3267736923874,14 de junio
-Brasil,1782.9707547169812,21 de junio
-Brasil,1693.1858594411515,28 de junio
-Brasil,1711.2816722972973,5 de julio
-Brasil,1822.160872313527,12 de julio
-Brasil,1722.9048968029138,19 de julio
-Brasil,1806.3727534148095,26 de julio
-Brasil,1852.110752688172,2 de agosto
-Brasil,1791.9215912366676,9 de agosto
-Brasil,1771.8121488764045,16 de agosto
+Brasil,1744.7080783353733,31 de mayo
+Brasil,1756.99953746531,7 de junio
+Brasil,1768.0957061562337,14 de junio
+Brasil,1780.0914494741655,21 de junio
+Brasil,1692.3102282333052,28 de junio
+Brasil,1710.8835934204976,5 de julio
+Brasil,1822.0956741395642,12 de julio
+Brasil,1757.173531655225,19 de julio
+Brasil,1804.3524794862647,26 de julio
+Brasil,1848.1329068941009,2 de agosto
+Brasil,1787.2110983981693,9 de agosto
+Brasil,1785.6084420994168,16 de agosto
+Brasil,1764.7113594040968,23 de agosto
+Brasil,1812.4940677966101,30 de agosto
+Brasil,1627.6761014029044,6 de septiembre
+Brasil,1857.1972246826099,13 de septiembre
+Brasil,1961.0016823687752,20 de septiembre
 Chile,435091.8947368421,12 de enero
 Chile,394017.0663265306,19 de enero
 Chile,387195.015625,26 de enero
-Chile,413879.64361702127,2 de febrero
-Chile,353546.2724097788,9 de febrero
-Chile,382436.36079759215,16 de febrero
-Chile,383864.81029551954,23 de febrero
+Chile,413766.7005347594,2 de febrero
+Chile,353451.337995338,9 de febrero
+Chile,382472.25875706214,16 de febrero
+Chile,383893.9468491407,23 de febrero
 Chile,417460.21153846156,8 de marzo
-Chile,387865.86296296294,15 de marzo
-Chile,393708.53282223287,22 de marzo
-Chile,379156.5761983471,29 de marzo
+Chile,386960.0856610801,15 de marzo
+Chile,393650.1959654179,22 de marzo
+Chile,379073.43980099505,29 de marzo
 Chile,256972.375,5 de abril
 Chile,376864.4570230608,12 de abril
 Chile,345635.20141342754,19 de abril
 Chile,379961.4578313253,26 de abril
-Chile,389919.08155080216,3 de mayo
+Chile,389181.59919571044,3 de mayo
 Chile,326920.20247933886,10 de mayo
-Chile,345921.98145285936,17 de mayo
-Chile,359412.79526226735,24 de mayo
-Chile,370280.0544217687,31 de mayo
-Chile,367553.4288224956,7 de junio
-Chile,387990.3997233748,14 de junio
-Chile,399107.37333333335,21 de junio
-Chile,393493.4783057851,28 de junio
-Chile,366798.33282674773,5 de julio
-Chile,372550.058287796,12 de julio
-Chile,389430.4935064935,19 de julio
-Chile,391824.9846582985,26 de julio
-Chile,356833.89158345223,2 de agosto
-Chile,355246.7462908012,9 de agosto
-Chile,378698.50167973124,16 de agosto
-Colombia,377172.843373494,12 de enero
+Chile,346217.86356589146,17 de mayo
+Chile,358386.64735945483,24 de mayo
+Chile,370597.0478359909,31 de mayo
+Chile,367973.628113879,7 de junio
+Chile,387820.7666195191,14 de junio
+Chile,399582.28883495147,21 de junio
+Chile,394152.141955836,28 de junio
+Chile,367062.75846153847,5 de julio
+Chile,371763.3898305085,12 de julio
+Chile,389698.2982998454,19 de julio
+Chile,395402.2136498516,26 de julio
+Chile,355966.78301886795,2 de agosto
+Chile,347817.2728873239,9 de agosto
+Chile,379246.0215736041,16 de agosto
+Chile,384971.5457481163,23 de agosto
+Chile,378304.77072120557,30 de agosto
+Chile,386793.9540918164,6 de septiembre
+Chile,391866.9271690944,13 de septiembre
+Chile,376622.9893536122,20 de septiembre
+Colombia,372694.59523809527,12 de enero
 Colombia,356710.05913978495,19 de enero
-Colombia,332206.2361445783,26 de enero
-Colombia,308464.7651376147,2 de febrero
+Colombia,330422.4738095238,26 de enero
+Colombia,310039.6409335727,2 de febrero
 Colombia,342090.59226841724,9 de febrero
 Colombia,367132.43797575415,16 de febrero
 Colombia,366474.2362183755,23 de febrero
@@ -143,9 +163,14 @@ Colombia,318547.9488320356,5 de julio
 Colombia,328896.0260290557,12 de julio
 Colombia,332165.3874187207,19 de julio
 Colombia,314037.584592145,26 de julio
-Colombia,317494.78182788054,2 de agosto
+Colombia,317598.3383111111,2 de agosto
 Colombia,308425.5396314712,9 de agosto
-Colombia,339168.15324293415,16 de agosto
+Colombia,339359.18112036586,16 de agosto
+Colombia,323510.1547537385,23 de agosto
+Colombia,330171.3266432514,30 de agosto
+Colombia,339846.8601598173,6 de septiembre
+Colombia,358763.1045449289,13 de septiembre
+Colombia,362921.94223081885,20 de septiembre
 Costa Rica,338806.5,12 de enero
 Costa Rica,373096.7346938776,19 de enero
 Costa Rica,418920.24324324325,26 de enero
@@ -178,6 +203,11 @@ Costa Rica,396764.6129032258,26 de julio
 Costa Rica,366006.6551724138,2 de agosto
 Costa Rica,401113.36842105264,9 de agosto
 Costa Rica,367506.22222222225,16 de agosto
+Costa Rica,377384.4705882353,23 de agosto
+Costa Rica,375112.85294117645,30 de agosto
+Costa Rica,413145.26829268294,6 de septiembre
+Costa Rica,421012.7042253521,13 de septiembre
+Costa Rica,350993.0961538461,20 de septiembre
 Ecuador,527.7956989247311,12 de enero
 Ecuador,643.2727272727273,19 de enero
 Ecuador,522.8843537414966,26 de enero
@@ -210,6 +240,11 @@ Ecuador,719.1764705882352,26 de julio
 Ecuador,575.7037037037037,2 de agosto
 Ecuador,671.9607843137255,9 de agosto
 Ecuador,508.0617283950617,16 de agosto
+Ecuador,539.546511627907,23 de agosto
+Ecuador,580.4137931034483,30 de agosto
+Ecuador,509.3378378378378,6 de septiembre
+Ecuador,535.0,13 de septiembre
+Ecuador,1129.862745098039,20 de septiembre
 El Salvador,437.5438596491228,12 de enero
 El Salvador,425.88,19 de enero
 El Salvador,427.34285714285716,26 de enero
@@ -242,6 +277,11 @@ El Salvador,501.68367346938777,26 de julio
 El Salvador,483.52525252525254,2 de agosto
 El Salvador,441.7551020408163,9 de agosto
 El Salvador,507.38461538461536,16 de agosto
+El Salvador,413.0366972477064,23 de agosto
+El Salvador,429.9529411764706,30 de agosto
+El Salvador,536.3774834437086,6 de septiembre
+El Salvador,423.65989847715736,13 de septiembre
+El Salvador,422.9248554913295,20 de septiembre
 Guatemala,4604.275862068966,12 de enero
 Guatemala,4484.983193277311,19 de enero
 Guatemala,5142.5368421052635,26 de enero
@@ -272,8 +312,13 @@ Guatemala,5401.838323353293,12 de julio
 Guatemala,4871.726415094339,19 de julio
 Guatemala,5576.738738738739,26 de julio
 Guatemala,5364.708571428571,2 de agosto
-Guatemala,4972.014925373134,9 de agosto
+Guatemala,4951.875,9 de agosto
 Guatemala,5042.502262443439,16 de agosto
+Guatemala,5031.218518518518,23 de agosto
+Guatemala,4439.266094420601,30 de agosto
+Guatemala,5050.9125,6 de septiembre
+Guatemala,4684.083591331269,13 de septiembre
+Guatemala,4721.342975206611,20 de septiembre
 Honduras,20901.96551724138,12 de enero
 Honduras,12154.109375,19 de enero
 Honduras,14739.472727272727,26 de enero
@@ -305,7 +350,12 @@ Honduras,18837.3,19 de julio
 Honduras,13058.25925925926,26 de julio
 Honduras,13526.14705882353,2 de agosto
 Honduras,12521.102564102564,9 de agosto
-Honduras,13265.777777777777,16 de agosto
+Honduras,13327.714285714286,16 de agosto
+Honduras,14519.538461538461,23 de agosto
+Honduras,14166.625,30 de agosto
+Honduras,15386.161290322581,6 de septiembre
+Honduras,14392.163265306122,13 de septiembre
+Honduras,15017.390243902439,20 de septiembre
 Nicaragua,12920.4,12 de enero
 Nicaragua,11538.90909090909,19 de enero
 Nicaragua,10665.947368421053,26 de enero
@@ -338,6 +388,11 @@ Nicaragua,8842.083333333334,26 de julio
 Nicaragua,9033.923076923076,2 de agosto
 Nicaragua,9047.636363636364,9 de agosto
 Nicaragua,10737.285714285714,16 de agosto
+Nicaragua,8951.0,23 de agosto
+Nicaragua,15914.285714285714,30 de agosto
+Nicaragua,11245.916666666666,6 de septiembre
+Nicaragua,7647.705882352941,13 de septiembre
+Nicaragua,9065.133333333333,20 de septiembre
 Panamá,796.6,12 de enero
 Panamá,947.695652173913,19 de enero
 Panamá,970.125,26 de enero
@@ -370,6 +425,11 @@ Panamá,871.8181818181819,26 de julio
 Panamá,11128.23076923077,2 de agosto
 Panamá,1146.6666666666667,9 de agosto
 Panamá,892.1764705882352,16 de agosto
+Panamá,902.5,23 de agosto
+Panamá,1029.7619047619048,30 de agosto
+Panamá,606.3333333333334,6 de septiembre
+Panamá,948.6428571428571,13 de septiembre
+Panamá,1003.7333333333333,20 de septiembre
 Paraguay,4500.0,19 de enero
 Paraguay,11250.0,26 de enero
 Paraguay,2500.0,2 de febrero
@@ -387,34 +447,44 @@ Paraguay,1000.0,19 de julio
 Paraguay,60749.5,26 de julio
 Paraguay,13000.0,9 de agosto
 Paraguay,3707.777777777778,16 de agosto
+Paraguay,68666.66666666667,23 de agosto
+Paraguay,8566.666666666666,30 de agosto
+Paraguay,26000.0,6 de septiembre
+Paraguay,3750.0,13 de septiembre
+Paraguay,8250.0,20 de septiembre
 Perú,1287.58407079646,12 de enero
 Perú,1395.2065217391305,19 de enero
 Perú,1398.4893617021276,26 de enero
 Perú,1493.142857142857,2 de febrero
 Perú,1388.575,9 de febrero
-Perú,1346.416091160221,16 de febrero
-Perú,1332.827274513657,23 de febrero
+Perú,1344.8360428917329,16 de febrero
+Perú,1332.9773666601063,23 de febrero
 Perú,1668.1818181818182,15 de marzo
-Perú,1336.5802698929735,22 de marzo
-Perú,1367.8692810457517,12 de abril
+Perú,1336.5274674115456,22 de marzo
+Perú,1367.267365661861,12 de abril
 Perú,1736.6271186440679,19 de abril
 Perú,1409.3866171003717,26 de abril
 Perú,1706.5277777777778,3 de mayo
-Perú,1525.0849056603774,10 de mayo
+Perú,1524.1333333333334,10 de mayo
 Perú,1537.5188679245282,17 de mayo
 Perú,1477.733905579399,24 de mayo
-Perú,1490.060606060606,31 de mayo
-Perú,1487.413953488372,7 de junio
-Perú,1485.1675734494015,14 de junio
-Perú,1500.967741935484,21 de junio
-Perú,1492.5461441213654,28 de junio
-Perú,1340.3936324167873,5 de julio
-Perú,1482.9247467438495,12 de julio
-Perú,1444.9615384615386,19 de julio
-Perú,1501.5454545454545,26 de julio
-Perú,1419.0604982206405,2 de agosto
-Perú,1379.711175616836,9 de agosto
-Perú,1465.5753086419752,16 de agosto
+Perú,1490.017391304348,31 de mayo
+Perú,1485.8416149068323,7 de junio
+Perú,1482.5652654867256,14 de junio
+Perú,1498.160419790105,21 de junio
+Perú,1485.2552631578947,28 de junio
+Perú,1352.9772382397573,5 de julio
+Perú,1469.08269525268,12 de julio
+Perú,1457.258875739645,19 de julio
+Perú,1495.073469387755,26 de julio
+Perú,1405.8840864440078,2 de agosto
+Perú,1375.1452420701169,9 de agosto
+Perú,1465.404970760234,16 de agosto
+Perú,1451.4626666666666,23 de agosto
+Perú,1407.7285945072697,30 de agosto
+Perú,1553.1238471673255,6 de septiembre
+Perú,1503.6017797552836,13 de septiembre
+Perú,1614.1652892561983,20 de septiembre
 Rep. Dominicana,18345.8,12 de enero
 Rep. Dominicana,28940.666666666668,19 de enero
 Rep. Dominicana,38021.90909090909,26 de enero
@@ -446,6 +516,11 @@ Rep. Dominicana,36409.5,26 de julio
 Rep. Dominicana,18949.130434782608,2 de agosto
 Rep. Dominicana,35807.46428571428,9 de agosto
 Rep. Dominicana,16510.0,16 de agosto
+Rep. Dominicana,37182.857142857145,23 de agosto
+Rep. Dominicana,36490.96666666667,30 de agosto
+Rep. Dominicana,32771.59375,6 de septiembre
+Rep. Dominicana,95976.81481481482,13 de septiembre
+Rep. Dominicana,29751.745762711864,20 de septiembre
 Uruguay,38013.875,12 de enero
 Uruguay,27918.0,19 de enero
 Uruguay,78417.96551724138,26 de enero
@@ -478,6 +553,11 @@ Uruguay,63893.55172413793,26 de julio
 Uruguay,79691.125,2 de agosto
 Uruguay,73817.84,9 de agosto
 Uruguay,70945.09677419355,16 de agosto
+Uruguay,52097.205882352944,23 de agosto
+Uruguay,86798.10344827586,30 de agosto
+Uruguay,52837.0,6 de septiembre
+Uruguay,58689.30434782609,13 de septiembre
+Uruguay,38782.2,20 de septiembre
 Venezuela,179320.85714285713,12 de enero
 Venezuela,146190.33666333667,19 de enero
 Venezuela,159667.83049040512,26 de enero
@@ -508,5 +588,10 @@ Venezuela,142253.1599099099,12 de julio
 Venezuela,213263.44252873564,19 de julio
 Venezuela,160691.29504504506,26 de julio
 Venezuela,111964.0859030837,2 de agosto
-Venezuela,172639.32505175984,9 de agosto
-Venezuela,151612.2700587084,16 de agosto
+Venezuela,172290.89669421487,9 de agosto
+Venezuela,151591.186770428,16 de agosto
+Venezuela,136086.06197654942,23 de agosto
+Venezuela,108738.74749498998,30 de agosto
+Venezuela,144979.70473083196,6 de septiembre
+Venezuela,148115.06853582556,13 de septiembre
+Venezuela,139960.70462046206,20 de septiembre

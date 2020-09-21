@@ -2,7 +2,7 @@ fecha_online,pais,conteo,conteo_MA,semana
 0,Argentina,159,159.0,5 de enero
 0,Brasil,1335,1335.0,5 de enero
 0,Chile,165,165.0,5 de enero
-0,Colombia,86,86.0,5 de enero
+0,Colombia,87,87.0,5 de enero
 0,Costa Rica,15,15.0,5 de enero
 0,Rep. Dominicana,7,7.0,5 de enero
 0,Ecuador,114,114.0,5 de enero
@@ -16,9 +16,9 @@ fecha_online,pais,conteo,conteo_MA,semana
 0,Venezuela,456,456.0,5 de enero
 1,Argentina,397,278.0,12 de enero
 1,Bolivia,2,2.0,12 de enero
-1,Brasil,3849,2592.0,12 de enero
+1,Brasil,5293,3314.0,12 de enero
 1,Chile,462,313.5,12 de enero
-1,Colombia,285,185.5,12 de enero
+1,Colombia,285,186.0,12 de enero
 1,Costa Rica,104,59.5,12 de enero
 1,Rep. Dominicana,22,14.5,12 de enero
 1,Ecuador,325,219.5,12 de enero
@@ -33,9 +33,9 @@ fecha_online,pais,conteo,conteo_MA,semana
 1,Venezuela,2343,1399.5,12 de enero
 2,Argentina,456,337.3333333333333,19 de enero
 2,Bolivia,4,3.0,19 de enero
-2,Brasil,6969,4051.0,19 de enero
-2,Chile,417,348.0,19 de enero
-2,Colombia,648,339.6666666666667,19 de enero
+2,Brasil,6969,4532.333333333333,19 de enero
+2,Chile,416,347.6666666666667,19 de enero
+2,Colombia,656,342.6666666666667,19 de enero
 2,Costa Rica,92,70.33333333333333,19 de enero
 2,Rep. Dominicana,37,22.0,19 de enero
 2,Ecuador,283,240.66666666666666,19 de enero
@@ -50,9 +50,9 @@ fecha_online,pais,conteo,conteo_MA,semana
 2,Venezuela,2019,1606.0,19 de enero
 3,Argentina,430,427.6666666666667,26 de enero
 3,Bolivia,11,5.666666666666667,26 de enero
-3,Brasil,7524,6114.0,26 de enero
-3,Chile,443,440.6666666666667,26 de enero
-3,Colombia,850,594.3333333333334,26 de enero
+3,Brasil,7525,6595.666666666667,26 de enero
+3,Chile,442,440.0,26 de enero
+3,Colombia,871,604.0,26 de enero
 3,Costa Rica,101,99.0,26 de enero
 3,Rep. Dominicana,46,35.0,26 de enero
 3,Ecuador,292,300.0,26 de enero
@@ -67,9 +67,9 @@ fecha_online,pais,conteo,conteo_MA,semana
 3,Venezuela,2350,2237.3333333333335,26 de enero
 4,Argentina,925,603.6666666666666,2 de febrero
 4,Bolivia,5,6.666666666666667,2 de febrero
-4,Brasil,9090,7861.0,2 de febrero
-4,Chile,1672,844.0,2 de febrero
-4,Colombia,1977,1158.3333333333333,2 de febrero
+4,Brasil,9090,7861.333333333333,2 de febrero
+4,Chile,1671,843.0,2 de febrero
+4,Colombia,1977,1168.0,2 de febrero
 4,Costa Rica,111,101.33333333333333,2 de febrero
 4,Rep. Dominicana,83,55.333333333333336,2 de febrero
 4,Ecuador,232,269.0,2 de febrero
@@ -77,16 +77,16 @@ fecha_online,pais,conteo,conteo_MA,semana
 4,Honduras,188,142.66666666666666,2 de febrero
 4,Nicaragua,35,41.666666666666664,2 de febrero
 4,Panamá,93,97.33333333333333,2 de febrero
-4,Perú,1200,704.6666666666666,2 de febrero
+4,Perú,1198,704.0,2 de febrero
 4,Paraguay,11,11.666666666666666,2 de febrero
 4,El Salvador,226,258.0,2 de febrero
 4,Uruguay,90,79.66666666666667,2 de febrero
 4,Venezuela,2191,2186.6666666666665,2 de febrero
 5,Argentina,3883,1746.0,9 de febrero
 5,Bolivia,164,60.0,9 de febrero
-5,Brasil,4257,6957.0,9 de febrero
-5,Chile,4708,2274.3333333333335,9 de febrero
-5,Colombia,9025,3950.6666666666665,9 de febrero
+5,Brasil,5635,7416.666666666667,9 de febrero
+5,Chile,4705,2272.6666666666665,9 de febrero
+5,Colombia,9025,3957.6666666666665,9 de febrero
 5,Costa Rica,431,214.33333333333334,9 de febrero
 5,Rep. Dominicana,117,82.0,9 de febrero
 5,Ecuador,570,364.6666666666667,9 de febrero
@@ -94,15 +94,15 @@ fecha_online,pais,conteo,conteo_MA,semana
 5,Honduras,419,248.33333333333334,9 de febrero
 5,Nicaragua,50,45.666666666666664,9 de febrero
 5,Panamá,177,118.66666666666667,9 de febrero
-5,Perú,9366,3667.6666666666665,9 de febrero
+5,Perú,9353,3662.6666666666665,9 de febrero
 5,Paraguay,101,42.0,9 de febrero
 5,El Salvador,995,503.3333333333333,9 de febrero
 5,Uruguay,330,165.0,9 de febrero
 5,Venezuela,2557,2366.0,9 de febrero
 6,Argentina,5191,3333.0,16 de febrero
 6,Bolivia,24,64.33333333333333,16 de febrero
-6,Brasil,6292,6546.333333333333,16 de febrero
-6,Chile,5272,3884.0,16 de febrero
+6,Brasil,6293,7006.0,16 de febrero
+6,Chile,5263,3879.6666666666665,16 de febrero
 6,Colombia,18638,9880.0,16 de febrero
 6,Costa Rica,531,357.6666666666667,16 de febrero
 6,Rep. Dominicana,35,78.33333333333333,16 de febrero
@@ -111,14 +111,14 @@ fecha_online,pais,conteo,conteo_MA,semana
 6,Honduras,441,349.3333333333333,16 de febrero
 6,Nicaragua,114,66.33333333333333,16 de febrero
 6,Panamá,129,133.0,16 de febrero
-6,Perú,15173,8579.666666666666,16 de febrero
+6,Perú,15154,8568.333333333334,16 de febrero
 6,Paraguay,19,43.666666666666664,16 de febrero
 6,El Salvador,1329,850.0,16 de febrero
 6,Uruguay,375,265.0,16 de febrero
 6,Venezuela,2646,2464.6666666666665,16 de febrero
 7,Bolivia,8,65.33333333333333,23 de febrero
-7,Brasil,8739,6429.333333333333,23 de febrero
-7,Chile,1,3327.0,23 de febrero
+7,Brasil,8739,6889.0,23 de febrero
+7,Chile,1,3323.0,23 de febrero
 7,Colombia,838,9500.333333333334,23 de febrero
 7,Costa Rica,73,345.0,23 de febrero
 7,Rep. Dominicana,53,68.33333333333333,23 de febrero
@@ -133,8 +133,8 @@ fecha_online,pais,conteo,conteo_MA,semana
 7,Venezuela,2306,2503.0,23 de febrero
 8,Argentina,203,3092.3333333333335,1 de marzo
 8,Bolivia,1,11.0,1 de marzo
-8,Brasil,4591,6540.666666666667,1 de marzo
-8,Chile,195,1822.6666666666667,1 de marzo
+8,Brasil,4591,6541.0,1 de marzo
+8,Chile,195,1819.6666666666667,1 de marzo
 8,Colombia,2527,7334.333333333333,1 de marzo
 8,Costa Rica,92,232.0,1 de marzo
 8,Rep. Dominicana,24,37.333333333333336,1 de marzo
@@ -149,8 +149,8 @@ fecha_online,pais,conteo,conteo_MA,semana
 8,Venezuela,1523,2158.3333333333335,1 de marzo
 9,Argentina,1984,2459.3333333333335,8 de marzo
 9,Bolivia,4,4.333333333333333,8 de marzo
-9,Brasil,6144,6491.333333333333,8 de marzo
-9,Chile,1124,440.0,8 de marzo
+9,Brasil,6153,6494.333333333333,8 de marzo
+9,Chile,1121,439.0,8 de marzo
 9,Colombia,14646,6003.666666666667,8 de marzo
 9,Costa Rica,272,145.66666666666666,8 de marzo
 9,Rep. Dominicana,48,41.666666666666664,8 de marzo
@@ -159,15 +159,15 @@ fecha_online,pais,conteo,conteo_MA,semana
 9,Honduras,253,166.0,8 de marzo
 9,Nicaragua,48,46.0,8 de marzo
 9,Panamá,110,84.0,8 de marzo
-9,Perú,80,8206.333333333334,8 de marzo
+9,Perú,80,8195.666666666666,8 de marzo
 9,Paraguay,21,11.333333333333334,8 de marzo
 9,El Salvador,737,398.0,8 de marzo
 9,Uruguay,212,111.66666666666667,8 de marzo
 9,Venezuela,2726,2185.0,8 de marzo
 10,Argentina,7291,3159.3333333333335,15 de marzo
 10,Bolivia,121,42.0,15 de marzo
-10,Brasil,3895,4876.666666666667,15 de marzo
-10,Chile,3660,1659.6666666666667,15 de marzo
+10,Brasil,5182,5308.666666666667,15 de marzo
+10,Chile,3654,1656.6666666666667,15 de marzo
 10,Colombia,31277,16150.0,15 de marzo
 10,Costa Rica,368,244.0,15 de marzo
 10,Rep. Dominicana,35,35.666666666666664,15 de marzo
@@ -176,15 +176,15 @@ fecha_online,pais,conteo,conteo_MA,semana
 10,Honduras,279,214.0,15 de marzo
 10,Nicaragua,106,64.0,15 de marzo
 10,Panamá,76,84.33333333333333,15 de marzo
-10,Perú,6443,7232.0,15 de marzo
+10,Perú,6439,7224.333333333333,15 de marzo
 10,Paraguay,58,29.333333333333332,15 de marzo
 10,El Salvador,798,587.0,15 de marzo
 10,Uruguay,266,178.33333333333334,15 de marzo
 10,Venezuela,2503,2250.6666666666665,15 de marzo
 11,Argentina,801,3358.6666666666665,22 de marzo
 11,Bolivia,12,45.666666666666664,22 de marzo
-11,Brasil,6489,5509.333333333333,22 de marzo
-11,Chile,5639,3474.3333333333335,22 de marzo
+11,Brasil,6489,5941.333333333333,22 de marzo
+11,Chile,5627,3467.3333333333335,22 de marzo
 11,Colombia,15275,20399.333333333332,22 de marzo
 11,Costa Rica,183,274.3333333333333,22 de marzo
 11,Rep. Dominicana,76,53.0,22 de marzo
@@ -198,8 +198,8 @@ fecha_online,pais,conteo,conteo_MA,semana
 11,Uruguay,93,190.33333333333334,22 de marzo
 11,Venezuela,543,1924.0,22 de marzo
 12,Argentina,4871,4321.0,29 de marzo
-12,Brasil,4567,4983.666666666667,29 de marzo
-12,Chile,64,3121.0,29 de marzo
+12,Brasil,4568,5413.0,29 de marzo
+12,Chile,64,3115.0,29 de marzo
 12,Colombia,30475,25675.666666666668,29 de marzo
 12,Costa Rica,30,193.66666666666666,29 de marzo
 12,Rep. Dominicana,2,37.666666666666664,29 de marzo
@@ -214,8 +214,8 @@ fecha_online,pais,conteo,conteo_MA,semana
 12,Venezuela,448,1164.6666666666667,29 de marzo
 13,Argentina,5249,3640.3333333333335,5 de abril
 13,Bolivia,6,46.333333333333336,5 de abril
-13,Brasil,6605,5887.0,5 de abril
-13,Chile,1781,2494.6666666666665,5 de abril
+13,Brasil,6605,5887.333333333333,5 de abril
+13,Chile,1780,2490.3333333333335,5 de abril
 13,Colombia,8909,18219.666666666668,5 de abril
 13,Costa Rica,120,111.0,5 de abril
 13,Rep. Dominicana,5,27.666666666666668,5 de abril
@@ -224,15 +224,15 @@ fecha_online,pais,conteo,conteo_MA,semana
 13,Honduras,98,65.0,5 de abril
 13,Nicaragua,24,22.0,5 de abril
 13,Panamá,8,22.0,5 de abril
-13,Perú,2522,3015.0,5 de abril
+13,Perú,2517,3012.0,5 de abril
 13,Paraguay,12,10.666666666666666,5 de abril
 13,El Salvador,249,226.0,5 de abril
 13,Uruguay,120,78.0,5 de abril
 13,Venezuela,342,444.3333333333333,5 de abril
 14,Argentina,2619,4246.333333333333,12 de abril
 14,Bolivia,4,7.333333333333333,12 de abril
-14,Brasil,5354,5508.666666666667,12 de abril
-14,Chile,984,943.0,12 de abril
+14,Brasil,5998,5723.666666666667,12 de abril
+14,Chile,984,942.6666666666666,12 de abril
 14,Colombia,3882,14422.0,12 de abril
 14,Costa Rica,39,63.0,12 de abril
 14,Rep. Dominicana,98,35.0,12 de abril
@@ -241,15 +241,15 @@ fecha_online,pais,conteo,conteo_MA,semana
 14,Honduras,28,52.666666666666664,12 de abril
 14,Nicaragua,103,46.666666666666664,12 de abril
 14,Panamá,9,13.333333333333334,12 de abril
-14,Perú,335,3100.0,12 de abril
+14,Perú,335,3097.0,12 de abril
 14,Paraguay,98,38.333333333333336,12 de abril
 14,El Salvador,69,118.66666666666667,12 de abril
 14,Uruguay,28,56.333333333333336,12 de abril
 14,Venezuela,452,414.0,12 de abril
 15,Argentina,1675,3181.0,19 de abril
 15,Bolivia,188,66.0,19 de abril
-15,Brasil,3358,5105.666666666667,19 de abril
-15,Chile,569,1111.3333333333333,19 de abril
+15,Brasil,3358,5320.333333333333,19 de abril
+15,Chile,569,1111.0,19 de abril
 15,Colombia,2508,5099.666666666667,19 de abril
 15,Costa Rica,102,87.0,19 de abril
 15,Rep. Dominicana,10,37.666666666666664,19 de abril
@@ -258,15 +258,15 @@ fecha_online,pais,conteo,conteo_MA,semana
 15,Honduras,31,52.333333333333336,19 de abril
 15,Nicaragua,22,49.666666666666664,19 de abril
 15,Panamá,9,8.666666666666666,19 de abril
-15,Perú,879,1245.3333333333333,19 de abril
+15,Perú,877,1243.0,19 de abril
 15,Paraguay,10,40.0,19 de abril
 15,El Salvador,111,143.0,19 de abril
 15,Uruguay,52,66.66666666666667,19 de abril
 15,Venezuela,444,412.6666666666667,19 de abril
 16,Argentina,4223,2839.0,26 de abril
 16,Bolivia,5,65.66666666666667,26 de abril
-16,Brasil,2423,3711.6666666666665,26 de abril
-16,Chile,1903,1152.0,26 de abril
+16,Brasil,2424,3926.6666666666665,26 de abril
+16,Chile,1898,1150.3333333333333,26 de abril
 16,Colombia,10030,5473.333333333333,26 de abril
 16,Costa Rica,70,70.33333333333333,26 de abril
 16,Rep. Dominicana,12,40.0,26 de abril
@@ -275,15 +275,15 @@ fecha_online,pais,conteo,conteo_MA,semana
 16,Honduras,80,46.333333333333336,26 de abril
 16,Nicaragua,21,48.666666666666664,26 de abril
 16,Panamá,15,11.0,26 de abril
-16,Perú,229,481.0,26 de abril
+16,Perú,229,480.3333333333333,26 de abril
 16,Paraguay,11,39.666666666666664,26 de abril
 16,El Salvador,117,99.0,26 de abril
 16,Uruguay,56,45.333333333333336,26 de abril
 16,Venezuela,429,441.6666666666667,26 de abril
 17,Argentina,2942,2946.6666666666665,3 de mayo
 17,Bolivia,3,65.33333333333333,3 de mayo
-17,Brasil,5900,3893.6666666666665,3 de mayo
-17,Chile,1087,1186.3333333333333,3 de mayo
+17,Brasil,5900,3894.0,3 de mayo
+17,Chile,1085,1184.0,3 de mayo
 17,Colombia,4308,5615.333333333333,3 de mayo
 17,Costa Rica,78,83.33333333333333,3 de mayo
 17,Rep. Dominicana,14,12.0,3 de mayo
@@ -292,14 +292,14 @@ fecha_online,pais,conteo,conteo_MA,semana
 17,Honduras,52,54.333333333333336,3 de mayo
 17,Nicaragua,56,33.0,3 de mayo
 17,Panamá,15,13.0,3 de mayo
-17,Perú,794,634.0,3 de mayo
+17,Perú,789,631.6666666666666,3 de mayo
 17,El Salvador,155,127.66666666666667,3 de mayo
 17,Uruguay,62,56.666666666666664,3 de mayo
 17,Venezuela,443,438.6666666666667,3 de mayo
 18,Argentina,1885,3016.6666666666665,10 de mayo
 18,Bolivia,230,79.33333333333333,10 de mayo
-18,Brasil,5712,4678.333333333333,10 de mayo
-18,Chile,1186,1392.0,10 de mayo
+18,Brasil,5830,4718.0,10 de mayo
+18,Chile,1184,1389.0,10 de mayo
 18,Colombia,4908,6415.333333333333,10 de mayo
 18,Costa Rica,102,83.33333333333333,10 de mayo
 18,Rep. Dominicana,128,51.333333333333336,10 de mayo
@@ -308,14 +308,14 @@ fecha_online,pais,conteo,conteo_MA,semana
 18,Honduras,52,61.333333333333336,10 de mayo
 18,Nicaragua,132,69.66666666666667,10 de mayo
 18,Panamá,23,17.666666666666668,10 de mayo
-18,Perú,1103,708.6666666666666,10 de mayo
+18,Perú,1097,705.0,10 de mayo
 18,Paraguay,118,46.333333333333336,10 de mayo
 18,El Salvador,130,134.0,10 de mayo
 18,Uruguay,86,68.0,10 de mayo
 18,Venezuela,768,546.6666666666666,10 de mayo
 19,Argentina,841,1889.3333333333333,17 de mayo
-19,Brasil,1925,4512.333333333333,17 de mayo
-19,Chile,1031,1101.3333333333333,17 de mayo
+19,Brasil,1925,4551.666666666667,17 de mayo
+19,Chile,1026,1098.3333333333333,17 de mayo
 19,Colombia,5500,4905.333333333333,17 de mayo
 19,Costa Rica,88,89.33333333333333,17 de mayo
 19,Rep. Dominicana,15,52.333333333333336,17 de mayo
@@ -324,15 +324,15 @@ fecha_online,pais,conteo,conteo_MA,semana
 19,Honduras,49,51.0,17 de mayo
 19,Nicaragua,24,70.66666666666667,17 de mayo
 19,Panamá,31,23.0,17 de mayo
-19,Perú,1717,1204.6666666666667,17 de mayo
+19,Perú,1710,1198.6666666666667,17 de mayo
 19,Paraguay,1,43.333333333333336,17 de mayo
 19,El Salvador,104,129.66666666666666,17 de mayo
 19,Uruguay,62,70.0,17 de mayo
 19,Venezuela,766,659.0,17 de mayo
 20,Argentina,810,1178.6666666666667,24 de mayo
 20,Bolivia,4,79.0,24 de mayo
-20,Brasil,2818,3485.0,24 de mayo
-20,Chile,851,1022.6666666666666,24 de mayo
+20,Brasil,2820,3525.0,24 de mayo
+20,Chile,849,1019.6666666666666,24 de mayo
 20,Colombia,5177,5195.0,24 de mayo
 20,Costa Rica,82,90.66666666666667,24 de mayo
 20,Rep. Dominicana,5,49.333333333333336,24 de mayo
@@ -341,15 +341,15 @@ fecha_online,pais,conteo,conteo_MA,semana
 20,Honduras,36,45.666666666666664,24 de mayo
 20,Nicaragua,24,60.0,24 de mayo
 20,Panamá,21,25.0,24 de mayo
-20,Perú,1624,1481.3333333333333,24 de mayo
+20,Perú,1620,1475.6666666666667,24 de mayo
 20,Paraguay,6,41.666666666666664,24 de mayo
 20,El Salvador,129,121.0,24 de mayo
 20,Uruguay,61,69.66666666666667,24 de mayo
 20,Venezuela,758,764.0,24 de mayo
 21,Argentina,900,850.3333333333334,31 de mayo
 21,Bolivia,1,78.33333333333333,31 de mayo
-21,Brasil,3624,2789.0,31 de mayo
-21,Chile,1078,986.6666666666666,31 de mayo
+21,Brasil,3625,2790.0,31 de mayo
+21,Chile,1066,980.3333333333334,31 de mayo
 21,Colombia,4931,5202.666666666667,31 de mayo
 21,Costa Rica,114,94.66666666666667,31 de mayo
 21,Rep. Dominicana,14,11.333333333333334,31 de mayo
@@ -358,14 +358,14 @@ fecha_online,pais,conteo,conteo_MA,semana
 21,Honduras,87,57.333333333333336,31 de mayo
 21,Nicaragua,12,20.0,31 de mayo
 21,Panamá,39,30.333333333333332,31 de mayo
-21,Perú,2056,1799.0,31 de mayo
+21,Perú,2053,1794.3333333333333,31 de mayo
 21,El Salvador,101,111.33333333333333,31 de mayo
 21,Uruguay,69,64.0,31 de mayo
 21,Venezuela,742,755.3333333333334,31 de mayo
 22,Argentina,1017,909.0,7 de junio
 22,Bolivia,234,79.66666666666667,7 de junio
-22,Brasil,7097,4513.0,7 de junio
-22,Chile,1307,1078.6666666666667,7 de junio
+22,Brasil,7101,4515.333333333333,7 de junio
+22,Chile,1286,1067.0,7 de junio
 22,Colombia,6871,5659.666666666667,7 de junio
 22,Costa Rica,111,102.33333333333333,7 de junio
 22,Rep. Dominicana,12,10.333333333333334,7 de junio
@@ -374,15 +374,15 @@ fecha_online,pais,conteo,conteo_MA,semana
 22,Honduras,72,65.0,7 de junio
 22,Nicaragua,145,60.333333333333336,7 de junio
 22,Panamá,50,36.666666666666664,7 de junio
-22,Perú,2992,2224.0,7 de junio
+22,Perú,2942,2205.0,7 de junio
 22,Paraguay,114,40.333333333333336,7 de junio
 22,El Salvador,146,125.33333333333333,7 de junio
 22,Uruguay,90,73.33333333333333,7 de junio
 22,Venezuela,1038,846.0,7 de junio
 23,Argentina,996,971.0,14 de junio
 23,Bolivia,8,81.0,14 de junio
-23,Brasil,3822,4847.666666666667,14 de junio
-23,Chile,1350,1245.0,14 de junio
+23,Brasil,3944,4890.0,14 de junio
+23,Chile,1348,1233.3333333333333,14 de junio
 23,Colombia,5656,5819.333333333333,14 de junio
 23,Costa Rica,134,119.66666666666667,14 de junio
 23,Rep. Dominicana,147,57.666666666666664,14 de junio
@@ -391,15 +391,15 @@ fecha_online,pais,conteo,conteo_MA,semana
 23,Honduras,71,76.66666666666667,14 de junio
 23,Nicaragua,28,61.666666666666664,14 de junio
 23,Panamá,27,38.666666666666664,14 de junio
-23,Perú,2316,2454.6666666666665,14 de junio
+23,Perú,2259,2418.0,14 de junio
 23,Paraguay,4,41.333333333333336,14 de junio
 23,El Salvador,161,136.0,14 de junio
 23,Uruguay,71,76.66666666666667,14 de junio
 23,Venezuela,1245,1008.3333333333334,14 de junio
 24,Argentina,985,999.3333333333334,21 de junio
 24,Bolivia,140,127.33333333333333,21 de junio
-24,Brasil,3964,4961.0,21 de junio
-24,Chile,1733,1463.3333333333333,21 de junio
+24,Brasil,3973,5006.0,21 de junio
+24,Chile,1709,1447.6666666666667,21 de junio
 24,Colombia,6441,6322.666666666667,21 de junio
 24,Costa Rica,112,119.0,21 de junio
 24,Rep. Dominicana,23,60.666666666666664,21 de junio
@@ -408,15 +408,15 @@ fecha_online,pais,conteo,conteo_MA,semana
 24,Honduras,90,77.66666666666667,21 de junio
 24,Nicaragua,96,89.66666666666667,21 de junio
 24,Panamá,25,34.0,21 de junio
-24,Perú,2519,2609.0,21 de junio
+24,Perú,2395,2532.0,21 de junio
 24,Paraguay,75,64.33333333333333,21 de junio
 24,El Salvador,208,171.66666666666666,21 de junio
 24,Uruguay,85,82.0,21 de junio
 24,Venezuela,1389,1224.0,21 de junio
 25,Argentina,889,956.6666666666666,28 de junio
 25,Bolivia,86,78.0,28 de junio
-25,Brasil,4291,4025.6666666666665,28 de junio
-25,Chile,1318,1467.0,28 de junio
+25,Brasil,4296,4071.0,28 de junio
+25,Chile,1306,1454.3333333333333,28 de junio
 25,Colombia,5876,5991.0,28 de junio
 25,Costa Rica,96,114.0,28 de junio
 25,Rep. Dominicana,76,82.0,28 de junio
@@ -425,15 +425,15 @@ fecha_online,pais,conteo,conteo_MA,semana
 25,Honduras,85,82.0,28 de junio
 25,Nicaragua,63,62.333333333333336,28 de junio
 25,Panamá,26,26.0,28 de junio
-25,Perú,2000,2278.3333333333335,28 de junio
+25,Perú,1896,2183.3333333333335,28 de junio
 25,Paraguay,48,42.333333333333336,28 de junio
 25,El Salvador,211,193.33333333333334,28 de junio
 25,Uruguay,90,82.0,28 de junio
 25,Venezuela,1078,1237.3333333333333,28 de junio
 26,Argentina,1083,985.6666666666666,5 de julio
 26,Bolivia,137,121.0,5 de julio
-26,Brasil,5838,4697.666666666667,5 de julio
-26,Chile,1043,1364.6666666666667,5 de julio
+26,Brasil,5846,4705.0,5 de julio
+26,Chile,1006,1340.3333333333333,5 de julio
 26,Colombia,6551,6289.333333333333,5 de julio
 26,Costa Rica,133,113.66666666666667,5 de julio
 26,Rep. Dominicana,109,69.33333333333333,5 de julio
@@ -442,15 +442,15 @@ fecha_online,pais,conteo,conteo_MA,semana
 26,Honduras,78,84.33333333333333,5 de julio
 26,Nicaragua,91,83.33333333333333,5 de julio
 26,Panamá,29,26.666666666666668,5 de julio
-26,Perú,2152,2223.6666666666665,5 de julio
+26,Perú,2035,2108.6666666666665,5 de julio
 26,Paraguay,71,64.66666666666667,5 de julio
 26,El Salvador,277,232.0,5 de julio
 26,Uruguay,76,83.66666666666667,5 de julio
 26,Venezuela,1265,1244.0,5 de julio
 27,Argentina,807,926.3333333333334,12 de julio
 27,Bolivia,92,105.0,12 de julio
-27,Brasil,4646,4925.0,12 de julio
-27,Chile,1357,1239.3333333333333,12 de julio
+27,Brasil,4943,5028.333333333333,12 de julio
+27,Chile,1273,1195.0,12 de julio
 27,Colombia,8482,6969.666666666667,12 de julio
 27,Costa Rica,133,120.66666666666667,12 de julio
 27,Rep. Dominicana,104,96.33333333333333,12 de julio
@@ -459,15 +459,15 @@ fecha_online,pais,conteo,conteo_MA,semana
 27,Honduras,84,82.33333333333333,12 de julio
 27,Nicaragua,72,75.33333333333333,12 de julio
 27,Panamá,38,31.0,12 de julio
-27,Perú,2426,2192.6666666666665,12 de julio
+27,Perú,2267,2066.0,12 de julio
 27,Paraguay,52,57.0,12 de julio
 27,El Salvador,239,242.33333333333334,12 de julio
 27,Uruguay,95,87.0,12 de julio
-27,Venezuela,1101,1148.0,12 de julio
+27,Venezuela,1105,1149.3333333333333,12 de julio
 28,Argentina,1178,1022.6666666666666,19 de julio
 28,Bolivia,145,124.66666666666667,19 de julio
-28,Brasil,4911,5131.666666666667,19 de julio
-28,Chile,1312,1237.3333333333333,19 de julio
+28,Brasil,4950,5246.333333333333,19 de julio
+28,Chile,1217,1165.3333333333333,19 de julio
 28,Colombia,9266,8099.666666666667,19 de julio
 28,Costa Rica,94,120.0,19 de julio
 28,Rep. Dominicana,93,102.0,19 de julio
@@ -476,16 +476,16 @@ fecha_online,pais,conteo,conteo_MA,semana
 28,Honduras,82,81.33333333333333,19 de julio
 28,Nicaragua,100,87.66666666666667,19 de julio
 28,Panamá,47,38.0,19 de julio
-28,Perú,2712,2430.0,19 de julio
+28,Perú,2482,2261.3333333333335,19 de julio
 28,Paraguay,80,67.66666666666667,19 de julio
 28,El Salvador,217,244.33333333333334,19 de julio
 28,Uruguay,100,90.33333333333333,19 de julio
-28,Venezuela,1203,1189.6666666666667,19 de julio
+28,Venezuela,1203,1191.0,19 de julio
 29,Argentina,1176,1053.6666666666667,26 de julio
 29,Bolivia,40,92.33333333333333,26 de julio
-29,Brasil,5095,4884.0,26 de julio
-29,Chile,1349,1339.3333333333333,26 de julio
-29,Colombia,7209,8319.0,26 de julio
+29,Brasil,5135,5009.333333333333,26 de julio
+29,Chile,1222,1237.3333333333333,26 de julio
+29,Colombia,7210,8319.333333333334,26 de julio
 29,Costa Rica,72,99.66666666666667,26 de julio
 29,Rep. Dominicana,55,84.0,26 de julio
 29,Ecuador,159,166.66666666666666,26 de julio
@@ -493,59 +493,144 @@ fecha_online,pais,conteo,conteo_MA,semana
 29,Honduras,85,83.66666666666667,26 de julio
 29,Nicaragua,44,72.0,26 de julio
 29,Panamá,20,35.0,26 de julio
-29,Perú,1909,2349.0,26 de julio
+29,Perú,1735,2161.3333333333335,26 de julio
 29,Paraguay,25,52.333333333333336,26 de julio
 29,El Salvador,226,227.33333333333334,26 de julio
 29,Uruguay,79,91.33333333333333,26 de julio
-29,Venezuela,1109,1137.6666666666667,26 de julio
+29,Venezuela,1109,1139.0,26 de julio
 30,Argentina,1584,1312.6666666666667,2 de agosto
 30,Bolivia,149,111.33333333333333,2 de agosto
-30,Brasil,6196,5400.666666666667,2 de agosto
-30,Chile,1332,1331.0,2 de agosto
-30,Colombia,8646,8373.666666666666,2 de agosto
-30,Costa Rica,73,79.66666666666667,2 de agosto
+30,Brasil,6240,5441.666666666667,2 de agosto
+30,Chile,1111,1183.3333333333333,2 de agosto
+30,Colombia,8646,8374.0,2 de agosto
+30,Costa Rica,74,80.0,2 de agosto
 30,Rep. Dominicana,124,90.66666666666667,2 de agosto
-30,Ecuador,145,162.66666666666666,2 de agosto
-30,Guatemala,358,363.0,2 de agosto
+30,Ecuador,146,163.0,2 de agosto
+30,Guatemala,357,362.6666666666667,2 de agosto
 30,Honduras,114,93.66666666666667,2 de agosto
 30,Nicaragua,97,80.33333333333333,2 de agosto
 30,Panamá,31,32.666666666666664,2 de agosto
-30,Perú,2344,2321.6666666666665,2 de agosto
+30,Perú,2016,2077.6666666666665,2 de agosto
 30,Paraguay,77,60.666666666666664,2 de agosto
 30,El Salvador,226,223.0,2 de agosto
 30,Uruguay,91,90.0,2 de agosto
-30,Venezuela,1137,1149.6666666666667,2 de agosto
-31,Argentina,1874,1544.6666666666667,9 de agosto
+30,Venezuela,1139,1150.3333333333333,2 de agosto
+31,Argentina,1875,1545.0,9 de agosto
 31,Bolivia,27,72.0,9 de agosto
-31,Brasil,5327,5539.333333333333,9 de agosto
-31,Chile,1639,1440.0,9 de agosto
-31,Colombia,7762,7872.333333333333,9 de agosto
-31,Costa Rica,106,83.66666666666667,9 de agosto
+31,Brasil,6691,6022.0,9 de agosto
+31,Chile,1422,1251.6666666666667,9 de agosto
+31,Colombia,7766,7874.0,9 de agosto
+31,Costa Rica,106,84.0,9 de agosto
 31,Rep. Dominicana,29,69.33333333333333,9 de agosto
-31,Ecuador,157,153.66666666666666,9 de agosto
-31,Guatemala,427,371.0,9 de agosto
-31,Honduras,92,97.0,9 de agosto
+31,Ecuador,157,154.0,9 de agosto
+31,Guatemala,427,370.6666666666667,9 de agosto
+31,Honduras,93,97.33333333333333,9 de agosto
 31,Nicaragua,35,58.666666666666664,9 de agosto
 31,Panamá,31,27.333333333333332,9 de agosto
-31,Perú,2672,2308.3333333333335,9 de agosto
+31,Perú,2304,2018.3333333333333,9 de agosto
 31,Paraguay,12,38.0,9 de agosto
 31,El Salvador,171,207.66666666666666,9 de agosto
 31,Uruguay,93,87.66666666666667,9 de agosto
-31,Venezuela,1104,1116.6666666666667,9 de agosto
-32,Argentina,1636,1698.0,16 de agosto
-32,Bolivia,27,67.66666666666667,16 de agosto
-32,Brasil,1780,4434.333333333333,16 de agosto
-32,Chile,1539,1503.3333333333333,16 de agosto
-32,Colombia,6929,7779.0,16 de agosto
-32,Costa Rica,98,92.33333333333333,16 de agosto
-32,Rep. Dominicana,31,61.333333333333336,16 de agosto
-32,Ecuador,146,149.33333333333334,16 de agosto
-32,Guatemala,389,391.3333333333333,16 de agosto
-32,Honduras,67,91.0,16 de agosto
-32,Nicaragua,86,72.66666666666667,16 de agosto
-32,Panamá,17,26.333333333333332,16 de agosto
-32,Perú,2831,2615.6666666666665,16 de agosto
-32,Paraguay,77,55.333333333333336,16 de agosto
-32,El Salvador,225,207.33333333333334,16 de agosto
-32,Uruguay,73,85.66666666666667,16 de agosto
-32,Venezuela,952,1064.3333333333333,16 de agosto
+31,Venezuela,1113,1120.3333333333333,9 de agosto
+32,Argentina,1940,1799.6666666666667,16 de agosto
+32,Bolivia,121,99.0,16 de agosto
+32,Brasil,3187,5372.666666666667,16 de agosto
+32,Chile,1669,1400.6666666666667,16 de agosto
+32,Colombia,9244,8552.0,16 de agosto
+32,Costa Rica,118,99.33333333333333,16 de agosto
+32,Rep. Dominicana,107,86.66666666666667,16 de agosto
+32,Ecuador,187,163.33333333333334,16 de agosto
+32,Guatemala,486,423.3333333333333,16 de agosto
+32,Honduras,96,101.0,16 de agosto
+32,Nicaragua,96,76.0,16 de agosto
+32,Panamá,20,27.333333333333332,16 de agosto
+32,Perú,2337,2219.0,16 de agosto
+32,Paraguay,78,55.666666666666664,16 de agosto
+32,El Salvador,283,226.66666666666666,16 de agosto
+32,Uruguay,107,97.0,16 de agosto
+32,Venezuela,1376,1209.3333333333333,16 de agosto
+33,Argentina,1973,1929.3333333333333,23 de agosto
+33,Bolivia,111,86.33333333333333,23 de agosto
+33,Brasil,6821,5566.333333333333,23 de agosto
+33,Chile,1664,1585.0,23 de agosto
+33,Colombia,7779,8263.0,23 de agosto
+33,Costa Rica,81,101.66666666666667,23 de agosto
+33,Rep. Dominicana,51,62.333333333333336,23 de agosto
+33,Ecuador,190,178.0,23 de agosto
+33,Guatemala,431,448.0,23 de agosto
+33,Honduras,97,95.33333333333333,23 de agosto
+33,Nicaragua,50,60.333333333333336,23 de agosto
+33,Panamá,27,26.0,23 de agosto
+33,Perú,1945,2195.3333333333335,23 de agosto
+33,Paraguay,39,43.0,23 de agosto
+33,El Salvador,364,272.6666666666667,23 de agosto
+33,Uruguay,88,96.0,23 de agosto
+33,Venezuela,1248,1245.6666666666667,23 de agosto
+34,Argentina,2904,2272.3333333333335,30 de agosto
+34,Bolivia,164,132.0,30 de agosto
+34,Brasil,7006,5671.333333333333,30 de agosto
+34,Chile,1783,1705.3333333333333,30 de agosto
+34,Colombia,8947,8656.666666666666,30 de agosto
+34,Costa Rica,102,100.33333333333333,30 de agosto
+34,Rep. Dominicana,106,88.0,30 de agosto
+34,Ecuador,163,180.0,30 de agosto
+34,Guatemala,475,464.0,30 de agosto
+34,Honduras,94,95.66666666666667,30 de agosto
+34,Nicaragua,105,83.66666666666667,30 de agosto
+34,Panamá,23,23.333333333333332,30 de agosto
+34,Perú,2376,2219.3333333333335,30 de agosto
+34,Paraguay,83,66.66666666666667,30 de agosto
+34,El Salvador,345,330.6666666666667,30 de agosto
+34,Uruguay,80,91.66666666666667,30 de agosto
+34,Venezuela,1489,1371.0,30 de agosto
+35,Argentina,3388,2755.0,6 de septiembre
+35,Bolivia,98,124.33333333333333,6 de septiembre
+35,Brasil,6197,6674.666666666667,6 de septiembre
+35,Chile,2887,2111.3333333333335,6 de septiembre
+35,Colombia,11086,9270.666666666666,6 de septiembre
+35,Costa Rica,148,110.33333333333333,6 de septiembre
+35,Rep. Dominicana,120,92.33333333333333,6 de septiembre
+35,Ecuador,166,173.0,6 de septiembre
+35,Guatemala,571,492.3333333333333,6 de septiembre
+35,Honduras,107,99.33333333333333,6 de septiembre
+35,Nicaragua,67,74.0,6 de septiembre
+35,Panamá,29,26.333333333333332,6 de septiembre
+35,Perú,3081,2467.3333333333335,6 de septiembre
+35,Paraguay,47,56.333333333333336,6 de septiembre
+35,El Salvador,419,376.0,6 de septiembre
+35,Uruguay,69,79.0,6 de septiembre
+35,Venezuela,1462,1399.6666666666667,6 de septiembre
+36,Argentina,2419,2903.6666666666665,13 de septiembre
+36,Bolivia,158,140.0,13 de septiembre
+36,Brasil,5202,6135.0,13 de septiembre
+36,Chile,2308,2326.0,13 de septiembre
+36,Colombia,9930,9987.666666666666,13 de septiembre
+36,Costa Rica,119,123.0,13 de septiembre
+36,Rep. Dominicana,76,100.66666666666667,13 de septiembre
+36,Ecuador,197,175.33333333333334,13 de septiembre
+36,Guatemala,427,491.0,13 de septiembre
+36,Honduras,92,97.66666666666667,13 de septiembre
+36,Nicaragua,38,70.0,13 de septiembre
+36,Panamá,23,25.0,13 de septiembre
+36,Perú,872,2109.6666666666665,13 de septiembre
+36,Paraguay,85,71.66666666666667,13 de septiembre
+36,El Salvador,331,365.0,13 de septiembre
+36,Uruguay,26,58.333333333333336,13 de septiembre
+36,Venezuela,1522,1491.0,13 de septiembre
+37,Argentina,2906,2904.3333333333335,20 de septiembre
+37,Bolivia,5,87.0,20 de septiembre
+37,Brasil,6230,5876.333333333333,20 de septiembre
+37,Chile,2671,2622.0,20 de septiembre
+37,Colombia,9346,10120.666666666666,20 de septiembre
+37,Costa Rica,91,119.33333333333333,20 de septiembre
+37,Rep. Dominicana,65,87.0,20 de septiembre
+37,Ecuador,170,177.66666666666666,20 de septiembre
+37,Guatemala,320,439.3333333333333,20 de septiembre
+37,Honduras,149,116.0,20 de septiembre
+37,Nicaragua,7,37.333333333333336,20 de septiembre
+37,Panamá,44,32.0,20 de septiembre
+37,Perú,1674,1875.6666666666667,20 de septiembre
+37,Paraguay,14,48.666666666666664,20 de septiembre
+37,El Salvador,202,317.3333333333333,20 de septiembre
+37,Uruguay,69,54.666666666666664,20 de septiembre
+37,Venezuela,999,1327.6666666666667,20 de septiembre
