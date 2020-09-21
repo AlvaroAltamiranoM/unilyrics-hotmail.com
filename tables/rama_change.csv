@@ -1,31 +1,31 @@
 pais,rama_de_actividad,growth,colorcol
+Argentina,Entretenimiento / Deportes,-50.0,no
 Argentina,Internet,-33.33333333333334,no
-Argentina,Entretenimiento / Deportes,-25.0,no
-Argentina,Materias Primas,-25.0,no
-Argentina,Publicidad / RRPP,-14.285714285714292,no
+Argentina,Hostelería / Turismo,-29.411764705882348,no
+Argentina,Informática / Hardware,-27.272727272727266,no
+Argentina,Educación,-26.66666666666667,no
+Argentina,Servicios Profesionales,-11.764705882352942,no
 Argentina,Finanzas / Banca,-9.090909090909093,no
-Argentina,Venta al consumidor,17.64705882352942,yes
-Argentina,Construcción / obras,23.07692307692308,yes
-Argentina,Venta al por mayor,27.272727272727266,yes
-Argentina,Medios de Comunicación,33.333333333333314,yes
-Argentina,Informática / Software,37.5,yes
-Chile,Transporte / Logística,-17.64705882352942,no
-Chile,Medios de Comunicación,-16.666666666666657,no
-Chile,Gobierno / No Lucro,-14.285714285714292,no
-Chile,Energía / Minería,-9.090909090909093,no
-Chile,Telecomunicaciones,-5.882352941176478,no
-Chile,Entretenimiento / Deportes,50.0,yes
-Chile,Materias Primas,50.0,yes
-Chile,Servicios Profesionales,50.0,yes
-Chile,Salud / Medicina,53.84615384615387,yes
-Chile,Venta al por mayor,66.66666666666669,yes
-Colombia,Internet,-44.44444444444444,no
-Colombia,Construcción / obras,-33.33333333333334,no
-Colombia,Informática / Hardware,-33.33333333333334,no
-Colombia,Venta al por mayor,-30.769230769230774,no
-Colombia,Energía,-27.272727272727266,no
-Colombia,Publicidad / RRPP,-16.666666666666657,no
-Colombia,Telecomunicaciones,-16.666666666666657,no
-Colombia,Entretenimiento / Deportes,-15.789473684210535,no
-Colombia,Medios de Comunicación,-12.5,no
-Colombia,Gobierno / No Lucro,6.666666666666671,yes
+Argentina,Telecomunicaciones,-7.142857142857139,no
+Argentina,Construcción / obras,7.692307692307693,yes
+Argentina,Venta al por mayor,9.09090909090908,yes
+Chile,Gobierno / No Lucro,-57.142857142857146,no
+Chile,Energía / Minería,-36.36363636363637,no
+Chile,Transporte / Logística,-35.294117647058826,no
+Chile,Medios de Comunicación,-33.33333333333334,no
+Chile,Legal / Asesoría,-30.0,no
+Chile,Educación,-7.142857142857139,no
+Chile,Publicidad / RRPP,-7.142857142857139,no
+Chile,Salud / Medicina,7.692307692307693,yes
+Chile,Venta al por mayor,16.66666666666667,yes
+Chile,Materias Primas,25.0,yes
+Colombia,Informática / Hardware,-42.85714285714286,no
+Colombia,Energía,-40.90909090909091,no
+Colombia,Internet,-38.888888888888886,no
+Colombia,Venta al por mayor,-38.46153846153846,no
+Colombia,Agricultura / Pesca / Ganadería,-37.5,no
+Colombia,Hostelería / Turismo,-29.166666666666657,no
+Colombia,Publicidad / RRPP,-29.166666666666657,no
+Colombia,Telecomunicaciones,-29.166666666666657,no
+Colombia,Entretenimiento / Deportes,-26.31578947368422,no
+Colombia,Gobierno / No Lucro,-6.666666666666671,no
