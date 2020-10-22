@@ -1,31 +1,31 @@
 pais,rama_de_actividad,growth,colorcol
-Argentina,Informática / Hardware,-27.272727272727266,no
-Argentina,Educación,-6.666666666666671,no
-Argentina,Fabricación,5.882352941176478,yes
-Argentina,Finanzas / Banca,9.09090909090908,yes
-Argentina,Venta al por mayor,9.09090909090908,yes
-Argentina,Medios de Comunicación,33.333333333333314,yes
-Argentina,Hostelería / Turismo,41.176470588235304,yes
-Argentina,Informática / Software,50.0,yes
-Argentina,Servicios Profesionales,52.94117647058823,yes
-Argentina,Construcción / obras,53.84615384615387,yes
-Chile,Finanzas / Banca,-38.46153846153846,no
-Chile,Informática / Hardware,-23.076923076923066,no
-Chile,Publicidad / RRPP,-14.285714285714292,no
-Chile,Informática / Software,-5.882352941176478,no
+Argentina,Entretenimiento / Deportes,-12.5,no
+Argentina,Gobierno / No Lucro,14.285714285714278,yes
+Argentina,Energía / Minería,20.0,yes
+Argentina,Educación,26.666666666666657,yes
+Argentina,Internet,33.333333333333314,yes
+Argentina,Venta al por mayor,72.72727272727272,yes
+Argentina,Informática / Software,81.25,yes
+Argentina,Servicios Profesionales,88.23529411764704,yes
+Argentina,Agricultura / Pesca / Ganadería,88.88888888888889,yes
+Argentina,Construcción / obras,100.0,yes
+Chile,Medios de Comunicación,-33.33333333333334,no
+Chile,Legal / Asesoría,-10.0,no
+Chile,Informática / Software,5.882352941176478,yes
 Chile,Telecomunicaciones,5.882352941176478,yes
-Chile,Educación,57.14285714285714,yes
-Chile,Otros,60.0,yes
-Chile,Venta al por mayor,66.66666666666669,yes
-Chile,Construcción / obras,71.42857142857142,yes
-Chile,Servicios Profesionales,75.0,yes
-Colombia,Agricultura / Pesca / Ganadería,-66.66666666666667,no
-Colombia,Informática / Hardware,-61.904761904761905,no
-Colombia,Materias Primas,-60.0,no
-Colombia,Entretenimiento / Deportes,-57.89473684210527,no
-Colombia,Legal / Asesoría,-56.52173913043478,no
-Colombia,Venta al por mayor,-30.769230769230774,no
-Colombia,Hostelería / Turismo,-25.0,no
-Colombia,Informática / Software,-25.0,no
-Colombia,Fabricación,-16.666666666666657,no
-Colombia,Venta al consumidor,-12.0,no
+Chile,Hostelería / Turismo,6.25,yes
+Chile,Salud / Medicina,46.15384615384613,yes
+Chile,Construcción / obras,50.0,yes
+Chile,Materias Primas,50.0,yes
+Chile,Venta al por mayor,58.333333333333314,yes
+Chile,Agricultura / Pesca / Ganadería,66.66666666666669,yes
+Colombia,Informática / Hardware,-14.285714285714292,no
+Colombia,Agricultura / Pesca / Ganadería,4.166666666666671,yes
+Colombia,Legal / Asesoría,4.347826086956516,yes
+Colombia,Materias Primas,5.0,yes
+Colombia,Gobierno / No Lucro,6.666666666666671,yes
+Colombia,Telecomunicaciones,25.0,yes
+Colombia,Educación,28.0,yes
+Colombia,Construcción / obras,29.166666666666686,yes
+Colombia,Venta al consumidor,36.0,yes
+Colombia,Fabricación,37.5,yes

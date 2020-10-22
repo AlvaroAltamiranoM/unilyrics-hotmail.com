@@ -36,8 +36,10 @@ fecha_online,pais,conteo,conteo_MA,semana
 35,Argentina,3388.0,2755.0,6 de septiembre
 36,Argentina,2419.0,2903.6666666666665,13 de septiembre
 37,Argentina,3130.0,2979.0,20 de septiembre
-38,Argentina,2562.0,2703.6666666666665,27 de septiembre
-39,Argentina,2208.0,2633.3333333333335,4 de octubre
+38,Argentina,2564.0,2704.3333333333335,27 de septiembre
+39,Argentina,3110.0,2934.6666666666665,4 de octubre
+40,Argentina,3114.0,2929.3333333333335,11 de octubre
+41,Argentina,2523.0,2915.6666666666665,18 de octubre
 1,Bolivia,2.0,2.0,12 de enero
 2,Bolivia,6.0,4.0,19 de enero
 3,Bolivia,25.0,11.0,26 de enero
@@ -74,116 +76,122 @@ fecha_online,pais,conteo,conteo_MA,semana
 36,Bolivia,167.0,221.0,13 de septiembre
 37,Bolivia,33.0,170.0,20 de septiembre
 38,Bolivia,386.0,195.33333333333334,27 de septiembre
-39,Bolivia,69.0,162.66666666666666,4 de octubre
+39,Bolivia,698.0,372.3333333333333,4 de octubre
+40,Bolivia,33.0,372.3333333333333,11 de octubre
+41,Bolivia,185.0,305.3333333333333,18 de octubre
 0,Brasil,6069.0,6069.0,5 de enero
-1,Brasil,17395.0,11732.0,12 de enero
-2,Brasil,21209.0,14891.0,19 de enero
-3,Brasil,22143.0,20249.0,26 de enero
-4,Brasil,25572.0,22974.666666666668,2 de febrero
-5,Brasil,18754.0,22156.333333333332,9 de febrero
-6,Brasil,19817.0,21381.0,16 de febrero
-7,Brasil,19856.0,19475.666666666668,23 de febrero
-8,Brasil,14459.0,18044.0,1 de marzo
-9,Brasil,20927.0,18414.0,8 de marzo
-10,Brasil,21044.0,18810.0,15 de marzo
-11,Brasil,20821.0,20930.666666666668,22 de marzo
-12,Brasil,18122.0,19995.666666666668,29 de marzo
-13,Brasil,24260.0,21067.666666666668,5 de abril
-14,Brasil,20873.0,21085.0,12 de abril
-15,Brasil,11405.0,18846.0,19 de abril
-16,Brasil,8123.0,13467.0,26 de abril
-17,Brasil,19185.0,12904.333333333334,3 de mayo
-18,Brasil,19753.0,15687.0,10 de mayo
-19,Brasil,5788.0,14908.666666666666,17 de mayo
-20,Brasil,8635.0,11392.0,24 de mayo
+1,Brasil,21014.0,13541.5,12 de enero
+2,Brasil,21211.0,16098.0,19 de enero
+3,Brasil,22145.0,21456.666666666668,26 de enero
+4,Brasil,25573.0,22976.333333333332,2 de febrero
+5,Brasil,18857.0,22191.666666666668,9 de febrero
+6,Brasil,23645.0,22691.666666666668,16 de febrero
+7,Brasil,19856.0,20786.0,23 de febrero
+8,Brasil,14460.0,19320.333333333332,1 de marzo
+9,Brasil,20933.0,18416.333333333332,8 de marzo
+10,Brasil,22374.0,19255.666666666668,15 de marzo
+11,Brasil,20821.0,21376.0,22 de marzo
+12,Brasil,18142.0,20445.666666666668,29 de marzo
+13,Brasil,24260.0,21074.333333333332,5 de abril
+14,Brasil,21681.0,21361.0,12 de abril
+15,Brasil,11405.0,19115.333333333332,19 de abril
+16,Brasil,8123.0,13736.333333333334,26 de abril
+17,Brasil,19186.0,12904.666666666666,3 de mayo
+18,Brasil,24827.0,17378.666666666668,10 de mayo
+19,Brasil,5788.0,16600.333333333332,17 de mayo
+20,Brasil,8635.0,13083.333333333334,24 de mayo
 21,Brasil,9921.0,8114.666666666667,31 de mayo
 22,Brasil,23112.0,13889.333333333334,7 de junio
-23,Brasil,14292.0,15775.0,14 de junio
-24,Brasil,10937.0,16113.666666666666,21 de junio
-25,Brasil,12221.0,12483.333333333334,28 de junio
-26,Brasil,17702.0,13620.0,5 de julio
-27,Brasil,17553.0,15825.333333333334,12 de julio
-28,Brasil,12277.0,15844.0,19 de julio
-29,Brasil,15527.0,15119.0,26 de julio
-30,Brasil,17010.0,14938.0,2 de agosto
-31,Brasil,22802.0,18446.333333333332,9 de agosto
-32,Brasil,10689.0,16833.666666666668,16 de agosto
-33,Brasil,18874.0,17455.0,23 de agosto
-34,Brasil,19719.0,16427.333333333332,30 de agosto
-35,Brasil,20011.0,19534.666666666668,6 de septiembre
-36,Brasil,18752.0,19494.0,13 de septiembre
-37,Brasil,25052.0,21271.666666666668,20 de septiembre
-38,Brasil,33849.0,25884.333333333332,27 de septiembre
-39,Brasil,32919.0,30606.666666666668,4 de octubre
+23,Brasil,18534.0,17189.0,14 de junio
+24,Brasil,10938.0,17528.0,21 de junio
+25,Brasil,12221.0,13897.666666666666,28 de junio
+26,Brasil,17702.0,13620.333333333334,5 de julio
+27,Brasil,22378.0,17433.666666666668,12 de julio
+28,Brasil,12278.0,17452.666666666668,19 de julio
+29,Brasil,15531.0,16729.0,26 de julio
+30,Brasil,17019.0,14942.666666666666,2 de agosto
+31,Brasil,22828.0,18459.333333333332,9 de agosto
+32,Brasil,12286.0,17377.666666666668,16 de agosto
+33,Brasil,18897.0,18003.666666666668,23 de agosto
+34,Brasil,19745.0,16976.0,30 de agosto
+35,Brasil,20016.0,19552.666666666668,6 de septiembre
+36,Brasil,23429.0,21063.333333333332,13 de septiembre
+37,Brasil,25161.0,22868.666666666668,20 de septiembre
+38,Brasil,34149.0,27579.666666666668,27 de septiembre
+39,Brasil,33349.0,30886.333333333332,4 de octubre
+40,Brasil,30501.0,32666.333333333332,11 de octubre
+41,Brasil,34557.0,32802.333333333336,18 de octubre
 0,Chile,165.0,165.0,5 de enero
 1,Chile,462.0,313.5,12 de enero
 2,Chile,416.0,347.6666666666667,19 de enero
 3,Chile,442.0,440.0,26 de enero
 4,Chile,1670.0,842.6666666666666,2 de febrero
-5,Chile,4704.0,2272.0,9 de febrero
-6,Chile,5260.0,3878.0,16 de febrero
-7,Chile,1.0,3321.6666666666665,23 de febrero
-8,Chile,195.0,1818.6666666666667,1 de marzo
+5,Chile,4702.0,2271.3333333333335,9 de febrero
+6,Chile,5259.0,3877.0,16 de febrero
+7,Chile,1.0,3320.6666666666665,23 de febrero
+8,Chile,195.0,1818.3333333333333,1 de marzo
 9,Chile,1121.0,439.0,8 de marzo
-10,Chile,3654.0,1656.6666666666667,15 de marzo
-11,Chile,5625.0,3466.6666666666665,22 de marzo
-12,Chile,64.0,3114.3333333333335,29 de marzo
-13,Chile,1780.0,2489.6666666666665,5 de abril
-14,Chile,983.0,942.3333333333334,12 de abril
-15,Chile,569.0,1110.6666666666667,19 de abril
+10,Chile,3652.0,1656.0,15 de marzo
+11,Chile,5624.0,3465.6666666666665,22 de marzo
+12,Chile,64.0,3113.3333333333335,29 de marzo
+13,Chile,1778.0,2488.6666666666665,5 de abril
+14,Chile,983.0,941.6666666666666,12 de abril
+15,Chile,569.0,1110.0,19 de abril
 16,Chile,1898.0,1150.0,26 de abril
 17,Chile,1084.0,1183.6666666666667,3 de mayo
-18,Chile,1184.0,1388.6666666666667,10 de mayo
-19,Chile,1024.0,1097.3333333333333,17 de mayo
-20,Chile,849.0,1019.0,24 de mayo
-21,Chile,1065.0,979.3333333333334,31 de mayo
-22,Chile,1285.0,1066.3333333333333,7 de junio
-23,Chile,1347.0,1232.3333333333333,14 de junio
-24,Chile,1705.0,1445.6666666666667,21 de junio
-25,Chile,1305.0,1452.3333333333333,28 de junio
-26,Chile,1004.0,1338.0,5 de julio
-27,Chile,1271.0,1193.3333333333333,12 de julio
-28,Chile,1216.0,1163.6666666666667,19 de julio
-29,Chile,1221.0,1236.0,26 de julio
-30,Chile,1101.0,1179.3333333333333,2 de agosto
-31,Chile,1409.0,1243.6666666666667,9 de agosto
-32,Chile,1644.0,1384.6666666666667,16 de agosto
-33,Chile,1636.0,1563.0,23 de agosto
-34,Chile,1728.0,1669.3333333333333,30 de agosto
-35,Chile,2780.0,2048.0,6 de septiembre
-36,Chile,2161.0,2223.0,13 de septiembre
-37,Chile,2308.0,2416.3333333333335,20 de septiembre
-38,Chile,2454.0,2307.6666666666665,27 de septiembre
-39,Chile,2994.0,2585.3333333333335,4 de octubre
+18,Chile,1183.0,1388.3333333333333,10 de mayo
+19,Chile,1022.0,1096.3333333333333,17 de mayo
+20,Chile,849.0,1018.0,24 de mayo
+21,Chile,1065.0,978.6666666666666,31 de mayo
+22,Chile,1281.0,1065.0,7 de junio
+23,Chile,1345.0,1230.3333333333333,14 de junio
+24,Chile,1700.0,1442.0,21 de junio
+25,Chile,1295.0,1446.6666666666667,28 de junio
+26,Chile,1002.0,1332.3333333333333,5 de julio
+27,Chile,1269.0,1188.6666666666667,12 de julio
+28,Chile,1214.0,1161.6666666666667,19 de julio
+29,Chile,1220.0,1234.3333333333333,26 de julio
+30,Chile,1100.0,1178.0,2 de agosto
+31,Chile,1408.0,1242.6666666666667,9 de agosto
+32,Chile,1627.0,1378.3333333333333,16 de agosto
+33,Chile,1605.0,1546.6666666666667,23 de agosto
+34,Chile,1629.0,1620.3333333333333,30 de agosto
+35,Chile,2642.0,1958.6666666666667,6 de septiembre
+36,Chile,1999.0,2090.0,13 de septiembre
+37,Chile,2152.0,2264.3333333333335,20 de septiembre
+38,Chile,2128.0,2093.0,27 de septiembre
+39,Chile,4054.0,2778.0,4 de octubre
+40,Chile,2355.0,2845.6666666666665,11 de octubre
+41,Chile,3888.0,3432.3333333333335,18 de octubre
 0,Colombia,87.0,87.0,5 de enero
-1,Colombia,285.0,186.0,12 de enero
-2,Colombia,656.0,342.6666666666667,19 de enero
-3,Colombia,871.0,604.0,26 de enero
-4,Colombia,1977.0,1168.0,2 de febrero
-5,Colombia,9025.0,3957.6666666666665,9 de febrero
-6,Colombia,18638.0,9880.0,16 de febrero
-7,Colombia,838.0,9500.333333333334,23 de febrero
-8,Colombia,2527.0,7334.333333333333,1 de marzo
-9,Colombia,14646.0,6003.666666666667,8 de marzo
-10,Colombia,31277.0,16150.0,15 de marzo
-11,Colombia,15275.0,20399.333333333332,22 de marzo
-12,Colombia,30475.0,25675.666666666668,29 de marzo
-13,Colombia,8909.0,18219.666666666668,5 de abril
-14,Colombia,3882.0,14422.0,12 de abril
+1,Colombia,286.0,186.5,12 de enero
+2,Colombia,659.0,344.0,19 de enero
+3,Colombia,872.0,605.6666666666666,26 de enero
+4,Colombia,1977.0,1169.3333333333333,2 de febrero
+5,Colombia,9028.0,3959.0,9 de febrero
+6,Colombia,18639.0,9881.333333333334,16 de febrero
+7,Colombia,840.0,9502.333333333334,23 de febrero
+8,Colombia,2527.0,7335.333333333333,1 de marzo
+9,Colombia,14647.0,6004.666666666667,8 de marzo
+10,Colombia,31278.0,16150.666666666666,15 de marzo
+11,Colombia,15276.0,20400.333333333332,22 de marzo
+12,Colombia,30476.0,25676.666666666668,29 de marzo
+13,Colombia,8909.0,18220.333333333332,5 de abril
+14,Colombia,3882.0,14422.333333333334,12 de abril
 15,Colombia,2508.0,5099.666666666667,19 de abril
-16,Colombia,10030.0,5473.333333333333,26 de abril
-17,Colombia,4308.0,5615.333333333333,3 de mayo
-18,Colombia,4908.0,6415.333333333333,10 de mayo
-19,Colombia,5500.0,4905.333333333333,17 de mayo
-20,Colombia,5177.0,5195.0,24 de mayo
+16,Colombia,10031.0,5473.666666666667,26 de abril
+17,Colombia,4308.0,5615.666666666667,3 de mayo
+18,Colombia,4909.0,6416.0,10 de mayo
+19,Colombia,5500.0,4905.666666666667,17 de mayo
+20,Colombia,5177.0,5195.333333333333,24 de mayo
 21,Colombia,4931.0,5202.666666666667,31 de mayo
 22,Colombia,6871.0,5659.666666666667,7 de junio
 23,Colombia,5656.0,5819.333333333333,14 de junio
 24,Colombia,6441.0,6322.666666666667,21 de junio
 25,Colombia,5876.0,5991.0,28 de junio
-26,Colombia,6564.0,6293.666666666667,5 de julio
-27,Colombia,8488.0,6976.0,12 de julio
-28,Colombia,9266.0,8106.0,19 de julio
+26,Colombia,6565.0,6294.0,5 de julio
+27,Colombia,8488.0,6976.333333333333,12 de julio
+28,Colombia,9266.0,8106.333333333333,19 de julio
 29,Colombia,7211.0,8321.666666666666,26 de julio
 30,Colombia,8646.0,8374.333333333334,2 de agosto
 31,Colombia,7768.0,7875.0,9 de agosto
@@ -191,10 +199,12 @@ fecha_online,pais,conteo,conteo_MA,semana
 33,Colombia,7779.0,8264.0,23 de agosto
 34,Colombia,8949.0,8657.666666666666,30 de agosto
 35,Colombia,11086.0,9271.333333333334,6 de septiembre
-36,Colombia,9938.0,9991.0,13 de septiembre
-37,Colombia,11559.0,10861.0,20 de septiembre
-38,Colombia,12173.0,11223.333333333334,27 de septiembre
-39,Colombia,7790.0,10507.333333333334,4 de octubre
+36,Colombia,9939.0,9991.333333333334,13 de septiembre
+37,Colombia,11563.0,10862.666666666666,20 de septiembre
+38,Colombia,12179.0,11227.0,27 de septiembre
+39,Colombia,15508.0,13083.333333333334,4 de octubre
+40,Colombia,10855.0,12847.333333333334,11 de octubre
+41,Colombia,12120.0,12827.666666666666,18 de octubre
 0,Costa Rica,28.0,28.0,5 de enero
 1,Costa Rica,183.0,105.5,12 de enero
 2,Costa Rica,184.0,131.66666666666666,19 de enero
@@ -234,7 +244,9 @@ fecha_online,pais,conteo,conteo_MA,semana
 36,Costa Rica,1150.0,678.3333333333334,13 de septiembre
 37,Costa Rica,202.0,649.6666666666666,20 de septiembre
 38,Costa Rica,846.0,732.6666666666666,27 de septiembre
-39,Costa Rica,342.0,463.3333333333333,4 de octubre
+39,Costa Rica,783.0,610.3333333333334,4 de octubre
+40,Costa Rica,592.0,740.3333333333334,11 de octubre
+41,Costa Rica,227.0,534.0,18 de octubre
 0,Ecuador,257.0,257.0,5 de enero
 1,Ecuador,926.0,591.5,12 de enero
 2,Ecuador,1030.0,737.6666666666666,19 de enero
@@ -269,12 +281,14 @@ fecha_online,pais,conteo,conteo_MA,semana
 31,Ecuador,350.0,356.0,9 de agosto
 32,Ecuador,482.0,384.3333333333333,16 de agosto
 33,Ecuador,441.0,424.3333333333333,23 de agosto
-34,Ecuador,625.0,516.0,30 de agosto
-35,Ecuador,369.0,478.3333333333333,6 de septiembre
-36,Ecuador,586.0,526.6666666666666,13 de septiembre
+34,Ecuador,626.0,516.3333333333334,30 de agosto
+35,Ecuador,369.0,478.6666666666667,6 de septiembre
+36,Ecuador,586.0,527.0,13 de septiembre
 37,Ecuador,470.0,475.0,20 de septiembre
 38,Ecuador,534.0,530.0,27 de septiembre
-39,Ecuador,346.0,450.0,4 de octubre
+39,Ecuador,771.0,591.6666666666666,4 de octubre
+40,Ecuador,374.0,559.6666666666666,11 de octubre
+41,Ecuador,428.0,524.3333333333334,18 de octubre
 0,El Salvador,370.0,370.0,5 de enero
 1,El Salvador,810.0,590.0,12 de enero
 2,El Salvador,511.0,563.6666666666666,19 de enero
@@ -308,13 +322,15 @@ fecha_online,pais,conteo,conteo_MA,semana
 30,El Salvador,555.0,571.0,2 de agosto
 31,El Salvador,775.0,652.0,9 de agosto
 32,El Salvador,791.0,707.0,16 de agosto
-33,El Salvador,870.0,812.0,23 de agosto
-34,El Salvador,787.0,816.0,30 de agosto
-35,El Salvador,1142.0,933.0,6 de septiembre
-36,El Salvador,728.0,885.6666666666666,13 de septiembre
+33,El Salvador,871.0,812.3333333333334,23 de agosto
+34,El Salvador,788.0,816.6666666666666,30 de agosto
+35,El Salvador,1142.0,933.6666666666666,6 de septiembre
+36,El Salvador,728.0,886.0,13 de septiembre
 37,El Salvador,759.0,876.3333333333334,20 de septiembre
 38,El Salvador,932.0,806.3333333333334,27 de septiembre
-39,El Salvador,570.0,753.6666666666666,4 de octubre
+39,El Salvador,1707.0,1132.6666666666667,4 de octubre
+40,El Salvador,1061.0,1233.3333333333333,11 de octubre
+41,El Salvador,691.0,1153.0,18 de octubre
 0,Guatemala,86.0,86.0,5 de enero
 1,Guatemala,553.0,319.5,12 de enero
 2,Guatemala,380.0,339.6666666666667,19 de enero
@@ -353,8 +369,10 @@ fecha_online,pais,conteo,conteo_MA,semana
 35,Guatemala,1249.0,1087.0,6 de septiembre
 36,Guatemala,874.0,1007.3333333333334,13 de septiembre
 37,Guatemala,894.0,1005.6666666666666,20 de septiembre
-38,Guatemala,1165.0,977.6666666666666,27 de septiembre
-39,Guatemala,970.0,1009.6666666666666,4 de octubre
+38,Guatemala,1166.0,978.0,27 de septiembre
+39,Guatemala,1674.0,1244.6666666666667,4 de octubre
+40,Guatemala,1346.0,1395.3333333333333,11 de octubre
+41,Guatemala,937.0,1319.0,18 de octubre
 0,Honduras,114.0,114.0,5 de enero
 1,Honduras,233.0,173.5,12 de enero
 2,Honduras,169.0,172.0,19 de enero
@@ -386,15 +404,17 @@ fecha_online,pais,conteo,conteo_MA,semana
 28,Honduras,177.0,182.0,19 de julio
 29,Honduras,218.0,202.33333333333334,26 de julio
 30,Honduras,235.0,210.0,2 de agosto
-31,Honduras,461.0,304.6666666666667,9 de agosto
-32,Honduras,262.0,319.3333333333333,16 de agosto
-33,Honduras,158.0,293.6666666666667,23 de agosto
-34,Honduras,168.0,196.0,30 de agosto
-35,Honduras,193.0,173.0,6 de septiembre
-36,Honduras,160.0,173.66666666666666,13 de septiembre
-37,Honduras,262.0,205.0,20 de septiembre
-38,Honduras,349.0,257.0,27 de septiembre
-39,Honduras,234.0,281.6666666666667,4 de octubre
+31,Honduras,466.0,306.3333333333333,9 de agosto
+32,Honduras,262.0,321.0,16 de agosto
+33,Honduras,154.0,294.0,23 de agosto
+34,Honduras,168.0,194.66666666666666,30 de agosto
+35,Honduras,193.0,171.66666666666666,6 de septiembre
+36,Honduras,161.0,174.0,13 de septiembre
+37,Honduras,262.0,205.33333333333334,20 de septiembre
+38,Honduras,350.0,257.6666666666667,27 de septiembre
+39,Honduras,395.0,335.6666666666667,4 de octubre
+40,Honduras,318.0,354.3333333333333,11 de octubre
+41,Honduras,417.0,376.6666666666667,18 de octubre
 0,Nicaragua,25.0,25.0,5 de enero
 1,Nicaragua,90.0,57.5,12 de enero
 2,Nicaragua,76.0,63.666666666666664,19 de enero
@@ -434,7 +454,9 @@ fecha_online,pais,conteo,conteo_MA,semana
 36,Nicaragua,107.0,230.66666666666666,13 de septiembre
 37,Nicaragua,41.0,125.0,20 de septiembre
 38,Nicaragua,236.0,128.0,27 de septiembre
-39,Nicaragua,144.0,140.33333333333334,4 de octubre
+39,Nicaragua,238.0,171.66666666666666,4 de octubre
+40,Nicaragua,117.0,197.0,11 de octubre
+41,Nicaragua,144.0,166.33333333333334,18 de octubre
 0,Panamá,36.0,36.0,5 de enero
 1,Panamá,204.0,120.0,12 de enero
 2,Panamá,184.0,141.33333333333334,19 de enero
@@ -474,7 +496,9 @@ fecha_online,pais,conteo,conteo_MA,semana
 36,Panamá,79.0,126.0,13 de septiembre
 37,Panamá,116.0,134.0,20 de septiembre
 38,Panamá,624.0,273.0,27 de septiembre
-39,Panamá,541.0,427.0,4 de octubre
+39,Panamá,609.0,449.6666666666667,4 de octubre
+40,Panamá,293.0,508.6666666666667,11 de octubre
+41,Panamá,391.0,431.0,18 de octubre
 1,Paraguay,16.0,16.0,12 de enero
 2,Paraguay,19.0,17.5,19 de enero
 3,Paraguay,14.0,16.333333333333332,26 de enero
@@ -508,46 +532,50 @@ fecha_online,pais,conteo,conteo_MA,semana
 33,Paraguay,190.0,117.66666666666667,23 de agosto
 34,Paraguay,359.0,214.66666666666666,30 de agosto
 35,Paraguay,212.0,253.66666666666666,6 de septiembre
-36,Paraguay,107.0,226.0,13 de septiembre
-37,Paraguay,136.0,151.66666666666666,20 de septiembre
-38,Paraguay,279.0,174.0,27 de septiembre
-39,Paraguay,367.0,260.6666666666667,4 de octubre
+36,Paraguay,109.0,226.66666666666666,13 de septiembre
+37,Paraguay,136.0,152.33333333333334,20 de septiembre
+38,Paraguay,279.0,174.66666666666666,27 de septiembre
+39,Paraguay,370.0,261.6666666666667,4 de octubre
+40,Paraguay,161.0,270.0,11 de octubre
+41,Paraguay,155.0,228.66666666666666,18 de octubre
 0,Perú,723.0,723.0,5 de enero
 1,Perú,1785.0,1254.0,12 de enero
-2,Perú,1490.0,1332.6666666666667,19 de enero
-3,Perú,1058.0,1444.3333333333333,26 de enero
-4,Perú,4678.0,2408.6666666666665,2 de febrero
-5,Perú,61978.0,22571.333333333332,9 de febrero
-6,Perú,113642.0,60099.333333333336,16 de febrero
-9,Perú,1164.0,58928.0,8 de marzo
-10,Perú,49552.0,54786.0,15 de marzo
-13,Perú,20395.0,23703.666666666668,5 de abril
-14,Perú,3198.0,24381.666666666668,12 de abril
-15,Perú,9763.0,11118.666666666666,19 de abril
-16,Perú,2594.0,5185.0,26 de abril
+2,Perú,1483.0,1330.3333333333333,19 de enero
+3,Perú,1058.0,1442.0,26 de enero
+4,Perú,4676.0,2405.6666666666665,2 de febrero
+5,Perú,61971.0,22568.333333333332,9 de febrero
+6,Perú,113627.0,60091.333333333336,16 de febrero
+9,Perú,1164.0,58920.666666666664,8 de marzo
+10,Perú,49537.0,54776.0,15 de marzo
+13,Perú,20388.0,23696.333333333332,5 de abril
+14,Perú,3197.0,24374.0,12 de abril
+15,Perú,9763.0,11116.0,19 de abril
+16,Perú,2594.0,5184.666666666667,26 de abril
 17,Perú,7010.0,6455.666666666667,3 de mayo
 18,Perú,8625.0,6076.333333333333,10 de mayo
-19,Perú,15354.0,10329.666666666666,17 de mayo
-20,Perú,17273.0,13750.666666666666,24 de mayo
-21,Perú,21855.0,18160.666666666668,31 de mayo
-22,Perú,36433.0,25187.0,7 de junio
-23,Perú,24770.0,27686.0,14 de junio
-24,Perú,25144.0,28782.333333333332,21 de junio
-25,Perú,23558.0,24490.666666666668,28 de junio
-26,Perú,24117.0,24273.0,5 de julio
-27,Perú,24925.0,24200.0,12 de julio
-28,Perú,25764.0,24935.333333333332,19 de julio
-29,Perú,18026.0,22905.0,26 de julio
-30,Perú,22994.0,22261.333333333332,2 de agosto
-31,Perú,23314.0,21444.666666666668,9 de agosto
-32,Perú,27409.0,24572.333333333332,16 de agosto
-33,Perú,22378.0,24367.0,23 de agosto
-34,Perú,28346.0,26044.333333333332,30 de agosto
-35,Perú,30338.0,27020.666666666668,6 de septiembre
-36,Perú,10962.0,23215.333333333332,13 de septiembre
-37,Perú,16354.0,19218.0,20 de septiembre
-38,Perú,15290.0,14202.0,27 de septiembre
-39,Perú,15503.0,15715.666666666666,4 de octubre
+19,Perú,15344.0,10326.333333333334,17 de mayo
+20,Perú,17268.0,13745.666666666666,24 de mayo
+21,Perú,21852.0,18154.666666666668,31 de mayo
+22,Perú,36429.0,25183.0,7 de junio
+23,Perú,24735.0,27672.0,14 de junio
+24,Perú,25140.0,28768.0,21 de junio
+25,Perú,23555.0,24476.666666666668,28 de junio
+26,Perú,24062.0,24252.333333333332,5 de julio
+27,Perú,24881.0,24166.0,12 de julio
+28,Perú,25739.0,24894.0,19 de julio
+29,Perú,18019.0,22879.666666666668,26 de julio
+30,Perú,22309.0,22022.333333333332,2 de agosto
+31,Perú,22903.0,21077.0,9 de agosto
+32,Perú,26795.0,24002.333333333332,16 de agosto
+33,Perú,22189.0,23962.333333333332,23 de agosto
+34,Perú,27700.0,25561.333333333332,30 de agosto
+35,Perú,30232.0,26707.0,6 de septiembre
+36,Perú,10755.0,22895.666666666668,13 de septiembre
+37,Perú,16210.0,19065.666666666668,20 de septiembre
+38,Perú,14485.0,13816.666666666666,27 de septiembre
+39,Perú,11754.0,14149.666666666666,4 de octubre
+40,Perú,1802.0,9347.0,11 de octubre
+41,Perú,25648.0,13068.0,18 de octubre
 0,Rep. Dominicana,32.0,32.0,5 de enero
 1,Rep. Dominicana,28.0,30.0,12 de enero
 2,Rep. Dominicana,322.0,127.33333333333333,19 de enero
@@ -587,7 +615,9 @@ fecha_online,pais,conteo,conteo_MA,semana
 36,Rep. Dominicana,183.0,557.0,13 de septiembre
 37,Rep. Dominicana,319.0,378.6666666666667,20 de septiembre
 38,Rep. Dominicana,373.0,291.6666666666667,27 de septiembre
-39,Rep. Dominicana,276.0,322.6666666666667,4 de octubre
+39,Rep. Dominicana,354.0,348.6666666666667,4 de octubre
+40,Rep. Dominicana,255.0,327.3333333333333,11 de octubre
+41,Rep. Dominicana,427.0,345.3333333333333,18 de octubre
 0,Uruguay,75.0,75.0,5 de enero
 1,Uruguay,67.0,71.0,12 de enero
 2,Uruguay,160.0,100.66666666666667,19 de enero
@@ -617,17 +647,19 @@ fecha_online,pais,conteo,conteo_MA,semana
 26,Uruguay,170.0,211.66666666666666,5 de julio
 27,Uruguay,207.0,213.33333333333334,12 de julio
 28,Uruguay,327.0,234.66666666666666,19 de julio
-29,Uruguay,167.0,233.66666666666666,26 de julio
-30,Uruguay,212.0,235.33333333333334,2 de agosto
-31,Uruguay,231.0,203.33333333333334,9 de agosto
-32,Uruguay,344.0,262.3333333333333,16 de agosto
-33,Uruguay,232.0,269.0,23 de agosto
-34,Uruguay,346.0,307.3333333333333,30 de agosto
-35,Uruguay,171.0,249.66666666666666,6 de septiembre
+29,Uruguay,168.0,234.0,26 de julio
+30,Uruguay,212.0,235.66666666666666,2 de agosto
+31,Uruguay,231.0,203.66666666666666,9 de agosto
+32,Uruguay,366.0,269.6666666666667,16 de agosto
+33,Uruguay,234.0,277.0,23 de agosto
+34,Uruguay,346.0,315.3333333333333,30 de agosto
+35,Uruguay,171.0,250.33333333333334,6 de septiembre
 36,Uruguay,37.0,184.66666666666666,13 de septiembre
 37,Uruguay,166.0,124.66666666666667,20 de septiembre
 38,Uruguay,109.0,104.0,27 de septiembre
-39,Uruguay,308.0,194.33333333333334,4 de octubre
+39,Uruguay,576.0,283.6666666666667,4 de octubre
+40,Uruguay,518.0,401.0,11 de octubre
+41,Uruguay,516.0,536.6666666666666,18 de octubre
 0,Venezuela,2368.0,2368.0,5 de enero
 1,Venezuela,9927.0,6147.5,12 de enero
 2,Venezuela,7360.0,6551.666666666667,19 de enero
@@ -657,14 +689,16 @@ fecha_online,pais,conteo,conteo_MA,semana
 26,Venezuela,4033.0,3851.3333333333335,5 de julio
 27,Venezuela,4468.0,3934.0,12 de julio
 28,Venezuela,5170.0,4557.0,19 de julio
-29,Venezuela,4592.0,4743.333333333333,26 de julio
-30,Venezuela,4310.0,4690.666666666667,2 de agosto
-31,Venezuela,5387.0,4763.0,9 de agosto
-32,Venezuela,4381.0,4692.666666666667,16 de agosto
-33,Venezuela,3849.0,4539.0,23 de agosto
-34,Venezuela,5187.0,4472.333333333333,30 de agosto
-35,Venezuela,5129.0,4721.666666666667,6 de septiembre
-36,Venezuela,5368.0,5228.0,13 de septiembre
-37,Venezuela,4624.0,5040.333333333333,20 de septiembre
-38,Venezuela,17074.0,9022.0,27 de septiembre
-39,Venezuela,14582.0,12093.333333333334,4 de octubre
+29,Venezuela,4591.0,4743.0,26 de julio
+30,Venezuela,4310.0,4690.333333333333,2 de agosto
+31,Venezuela,5383.0,4761.333333333333,9 de agosto
+32,Venezuela,4379.0,4690.666666666667,16 de agosto
+33,Venezuela,3853.0,4538.333333333333,23 de agosto
+34,Venezuela,5187.0,4473.0,30 de agosto
+35,Venezuela,5129.0,4723.0,6 de septiembre
+36,Venezuela,5364.0,5226.666666666667,13 de septiembre
+37,Venezuela,4623.0,5038.666666666667,20 de septiembre
+38,Venezuela,17074.0,9020.333333333334,27 de septiembre
+39,Venezuela,25200.0,15632.333333333334,4 de octubre
+40,Venezuela,17840.0,20038.0,11 de octubre
+41,Venezuela,13167.0,18735.666666666668,18 de octubre
