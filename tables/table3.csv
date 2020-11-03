@@ -41,6 +41,8 @@ fecha_online,pais,conteo,conteo_MA,semana
 40,Argentina,3114.0,2929.3333333333335,11 de octubre
 41,Argentina,2525.0,2916.3333333333335,18 de octubre
 42,Argentina,3887.0,3175.3333333333335,25 de octubre
+43,Argentina,3378.0,3263.3333333333335,1 de noviembre
+44,Argentina,528.0,2597.6666666666665,8 de noviembre
 1,Bolivia,2.0,2.0,12 de enero
 2,Bolivia,6.0,4.0,19 de enero
 3,Bolivia,25.0,11.0,26 de enero
@@ -81,6 +83,8 @@ fecha_online,pais,conteo,conteo_MA,semana
 40,Bolivia,33.0,372.3333333333333,11 de octubre
 41,Bolivia,185.0,305.3333333333333,18 de octubre
 42,Bolivia,225.0,147.66666666666666,25 de octubre
+43,Bolivia,246.0,218.66666666666666,1 de noviembre
+44,Bolivia,33.0,168.0,8 de noviembre
 0,Brasil,6069.0,6069.0,5 de enero
 1,Brasil,21037.0,13553.0,12 de enero
 2,Brasil,21211.0,16105.666666666666,19 de enero
@@ -124,6 +128,8 @@ fecha_online,pais,conteo,conteo_MA,semana
 40,Brasil,30517.0,32711.333333333332,11 de octubre
 41,Brasil,34791.0,32915.666666666664,18 de octubre
 42,Brasil,44324.0,36544.0,25 de octubre
+43,Brasil,35768.0,38294.333333333336,1 de noviembre
+44,Brasil,19914.0,33335.333333333336,8 de noviembre
 0,Chile,165.0,165.0,5 de enero
 1,Chile,461.0,313.0,12 de enero
 2,Chile,416.0,347.3333333333333,19 de enero
@@ -167,6 +173,8 @@ fecha_online,pais,conteo,conteo_MA,semana
 40,Chile,1916.0,2515.6666666666665,11 de octubre
 41,Chile,3082.0,2905.6666666666665,18 de octubre
 42,Chile,4513.0,3170.3333333333335,25 de octubre
+43,Chile,3134.0,3576.3333333333335,1 de noviembre
+44,Chile,312.0,2653.0,8 de noviembre
 0,Colombia,87.0,87.0,5 de enero
 1,Colombia,286.0,186.5,12 de enero
 2,Colombia,659.0,344.0,19 de enero
@@ -210,6 +218,8 @@ fecha_online,pais,conteo,conteo_MA,semana
 40,Colombia,10857.0,12849.0,11 de octubre
 41,Colombia,12141.0,12836.0,18 de octubre
 42,Colombia,11136.0,11378.0,25 de octubre
+43,Colombia,5741.0,9672.666666666666,1 de noviembre
+44,Colombia,328.0,5735.0,8 de noviembre
 0,Costa Rica,28.0,28.0,5 de enero
 1,Costa Rica,183.0,105.5,12 de enero
 2,Costa Rica,184.0,131.66666666666666,19 de enero
@@ -253,6 +263,8 @@ fecha_online,pais,conteo,conteo_MA,semana
 40,Costa Rica,592.0,740.3333333333334,11 de octubre
 41,Costa Rica,227.0,534.0,18 de octubre
 42,Costa Rica,317.0,378.6666666666667,25 de octubre
+43,Costa Rica,170.0,238.0,1 de noviembre
+44,Costa Rica,128.0,205.0,8 de noviembre
 0,Ecuador,257.0,257.0,5 de enero
 1,Ecuador,926.0,591.5,12 de enero
 2,Ecuador,1030.0,737.6666666666666,19 de enero
@@ -296,6 +308,8 @@ fecha_online,pais,conteo,conteo_MA,semana
 40,Ecuador,374.0,559.6666666666666,11 de octubre
 41,Ecuador,428.0,524.3333333333334,18 de octubre
 42,Ecuador,1041.0,614.3333333333334,25 de octubre
+43,Ecuador,723.0,730.6666666666666,1 de noviembre
+44,Ecuador,533.0,765.6666666666666,8 de noviembre
 0,El Salvador,370.0,370.0,5 de enero
 1,El Salvador,810.0,590.0,12 de enero
 2,El Salvador,511.0,563.6666666666666,19 de enero
@@ -339,6 +353,8 @@ fecha_online,pais,conteo,conteo_MA,semana
 40,El Salvador,1061.0,1233.3333333333333,11 de octubre
 41,El Salvador,691.0,1153.0,18 de octubre
 42,El Salvador,1130.0,960.6666666666666,25 de octubre
+43,El Salvador,885.0,902.0,1 de noviembre
+44,El Salvador,766.0,927.0,8 de noviembre
 0,Guatemala,86.0,86.0,5 de enero
 1,Guatemala,553.0,319.5,12 de enero
 2,Guatemala,380.0,339.6666666666667,19 de enero
@@ -382,6 +398,8 @@ fecha_online,pais,conteo,conteo_MA,semana
 40,Guatemala,1346.0,1395.3333333333333,11 de octubre
 41,Guatemala,937.0,1319.0,18 de octubre
 42,Guatemala,904.0,1062.3333333333333,25 de octubre
+43,Guatemala,763.0,868.0,1 de noviembre
+44,Guatemala,255.0,640.6666666666666,8 de noviembre
 0,Honduras,114.0,114.0,5 de enero
 1,Honduras,233.0,173.5,12 de enero
 2,Honduras,169.0,172.0,19 de enero
@@ -425,6 +443,8 @@ fecha_online,pais,conteo,conteo_MA,semana
 40,Honduras,318.0,354.3333333333333,11 de octubre
 41,Honduras,417.0,376.6666666666667,18 de octubre
 42,Honduras,625.0,453.3333333333333,25 de octubre
+43,Honduras,774.0,605.3333333333334,1 de noviembre
+44,Honduras,190.0,529.6666666666666,8 de noviembre
 0,Nicaragua,25.0,25.0,5 de enero
 1,Nicaragua,90.0,57.5,12 de enero
 2,Nicaragua,76.0,63.666666666666664,19 de enero
@@ -468,6 +488,8 @@ fecha_online,pais,conteo,conteo_MA,semana
 40,Nicaragua,117.0,197.0,11 de octubre
 41,Nicaragua,144.0,166.33333333333334,18 de octubre
 42,Nicaragua,257.0,172.66666666666666,25 de octubre
+43,Nicaragua,115.0,172.0,1 de noviembre
+44,Nicaragua,328.0,233.33333333333334,8 de noviembre
 0,Panamá,36.0,36.0,5 de enero
 1,Panamá,204.0,120.0,12 de enero
 2,Panamá,184.0,141.33333333333334,19 de enero
@@ -511,6 +533,8 @@ fecha_online,pais,conteo,conteo_MA,semana
 40,Panamá,293.0,508.6666666666667,11 de octubre
 41,Panamá,391.0,431.0,18 de octubre
 42,Panamá,262.0,315.3333333333333,25 de octubre
+43,Panamá,944.0,532.3333333333334,1 de noviembre
+44,Panamá,229.0,478.3333333333333,8 de noviembre
 1,Paraguay,16.0,16.0,12 de enero
 2,Paraguay,19.0,17.5,19 de enero
 3,Paraguay,14.0,16.333333333333332,26 de enero
@@ -551,6 +575,8 @@ fecha_online,pais,conteo,conteo_MA,semana
 40,Paraguay,161.0,270.0,11 de octubre
 41,Paraguay,155.0,228.66666666666666,18 de octubre
 42,Paraguay,418.0,244.66666666666666,25 de octubre
+43,Paraguay,293.0,288.6666666666667,1 de noviembre
+44,Paraguay,164.0,291.6666666666667,8 de noviembre
 0,Perú,723.0,723.0,5 de enero
 1,Perú,1785.0,1254.0,12 de enero
 2,Perú,1483.0,1330.3333333333333,19 de enero
@@ -590,6 +616,8 @@ fecha_online,pais,conteo,conteo_MA,semana
 40,Perú,1489.0,8350.0,11 de octubre
 41,Perú,15343.0,9139.0,18 de octubre
 42,Perú,14668.0,10500.0,25 de octubre
+43,Perú,16256.0,15422.333333333334,1 de noviembre
+44,Perú,959.0,10627.666666666666,8 de noviembre
 0,Rep. Dominicana,32.0,32.0,5 de enero
 1,Rep. Dominicana,28.0,30.0,12 de enero
 2,Rep. Dominicana,322.0,127.33333333333333,19 de enero
@@ -633,6 +661,8 @@ fecha_online,pais,conteo,conteo_MA,semana
 40,Rep. Dominicana,255.0,327.3333333333333,11 de octubre
 41,Rep. Dominicana,427.0,345.3333333333333,18 de octubre
 42,Rep. Dominicana,424.0,368.6666666666667,25 de octubre
+43,Rep. Dominicana,260.0,370.3333333333333,1 de noviembre
+44,Rep. Dominicana,268.0,317.3333333333333,8 de noviembre
 0,Uruguay,75.0,75.0,5 de enero
 1,Uruguay,67.0,71.0,12 de enero
 2,Uruguay,160.0,100.66666666666667,19 de enero
@@ -676,6 +706,8 @@ fecha_online,pais,conteo,conteo_MA,semana
 40,Uruguay,518.0,401.0,11 de octubre
 41,Uruguay,517.0,537.0,18 de octubre
 42,Uruguay,481.0,505.3333333333333,25 de octubre
+43,Uruguay,855.0,617.6666666666666,1 de noviembre
+44,Uruguay,324.0,553.3333333333334,8 de noviembre
 0,Venezuela,2368.0,2368.0,5 de enero
 1,Venezuela,9927.0,6147.5,12 de enero
 2,Venezuela,7360.0,6551.666666666667,19 de enero
@@ -719,6 +751,8 @@ fecha_online,pais,conteo,conteo_MA,semana
 40,Venezuela,17840.0,20038.0,11 de octubre
 41,Venezuela,13214.0,18751.333333333332,18 de octubre
 42,Venezuela,13058.0,14704.0,25 de octubre
+43,Venezuela,13137.0,13136.333333333334,1 de noviembre
+44,Venezuela,11581.0,12592.0,8 de noviembre
 2,mx,3.0,3.0,19 de enero
 3,mx,16.0,9.5,26 de enero
 6,mx,1389.0,469.3333333333333,16 de febrero
@@ -758,3 +792,4 @@ fecha_online,pais,conteo,conteo_MA,semana
 40,mx,14976.0,15826.333333333334,11 de octubre
 41,mx,13091.0,15618.0,18 de octubre
 42,mx,12107.0,13391.333333333334,25 de octubre
+43,mx,5979.0,10392.333333333334,1 de noviembre
