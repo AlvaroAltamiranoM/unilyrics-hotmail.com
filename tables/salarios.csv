@@ -40,8 +40,6 @@ Argentina,25470.891156462585,4 de octubre
 Argentina,22764.62731871838,11 de octubre
 Argentina,24679.680212014133,18 de octubre
 Argentina,22490.593220338982,25 de octubre
-Argentina,24151.15008156607,1 de noviembre
-Argentina,28226.175925925927,8 de noviembre
 Bolivia,3200.0,26 de enero
 Bolivia,4133.0,2 de febrero
 Bolivia,4500.0,9 de febrero
@@ -73,8 +71,6 @@ Bolivia,18611.0,4 de octubre
 Bolivia,53641.333333333336,11 de octubre
 Bolivia,200000.0,18 de octubre
 Bolivia,22312.18181818182,25 de octubre
-Bolivia,93404.0,1 de noviembre
-Bolivia,125000.0,8 de noviembre
 Brasil,1832.881118881119,12 de enero
 Brasil,1738.7048417132216,19 de enero
 Brasil,1690.073933649289,26 de enero
@@ -117,8 +113,6 @@ Brasil,1829.7408472302088,4 de octubre
 Brasil,1810.613000187864,11 de octubre
 Brasil,1793.5672007120604,18 de octubre
 Brasil,1741.8695577353296,25 de octubre
-Brasil,1856.6678923371085,1 de noviembre
-Brasil,1684.4023942846109,8 de noviembre
 Chile,435091.8947368421,12 de enero
 Chile,394017.0663265306,19 de enero
 Chile,387195.015625,26 de enero
@@ -160,8 +154,6 @@ Chile,390188.11040145985,4 de octubre
 Chile,366387.1790620559,11 de octubre
 Chile,388429.34558180225,18 de octubre
 Chile,388056.0644814616,25 de octubre
-Chile,382623.8916083916,1 de noviembre
-Chile,378787.20696864114,8 de noviembre
 Colombia,372694.59523809527,12 de enero
 Colombia,354810.5401069519,19 de enero
 Colombia,332232.25768321514,26 de enero
@@ -204,8 +196,6 @@ Colombia,382024.2603349587,4 de octubre
 Colombia,389346.1722547162,11 de octubre
 Colombia,376099.77949486795,18 de octubre
 Colombia,386136.04423380725,25 de octubre
-Colombia,383918.9053620785,1 de noviembre
-Colombia,364177.37601581373,8 de noviembre
 Costa Rica,338806.5,12 de enero
 Costa Rica,373096.7346938776,19 de enero
 Costa Rica,418920.24324324325,26 de enero
@@ -248,8 +238,6 @@ Costa Rica,384550.45454545453,4 de octubre
 Costa Rica,380754.0281690141,11 de octubre
 Costa Rica,400958.85074626864,18 de octubre
 Costa Rica,386650.2,25 de octubre
-Costa Rica,381334.54098360654,1 de noviembre
-Costa Rica,381632.1395348837,8 de noviembre
 Ecuador,527.7956989247311,12 de enero
 Ecuador,643.2727272727273,19 de enero
 Ecuador,522.8843537414966,26 de enero
@@ -292,8 +280,6 @@ Ecuador,563.8941176470588,4 de octubre
 Ecuador,571.5564516129032,11 de octubre
 Ecuador,612.7123287671233,18 de octubre
 Ecuador,1091.0735294117646,25 de octubre
-Ecuador,564.1055555555556,1 de noviembre
-Ecuador,684.25,8 de noviembre
 El Salvador,437.5438596491228,12 de enero
 El Salvador,425.88,19 de enero
 El Salvador,427.34285714285716,26 de enero
@@ -336,8 +322,6 @@ El Salvador,480.14375,4 de octubre
 El Salvador,435.70542635658916,11 de octubre
 El Salvador,440.6305418719212,18 de octubre
 El Salvador,443.3008130081301,25 de octubre
-El Salvador,414.19444444444446,1 de noviembre
-El Salvador,434.24087591240874,8 de noviembre
 Guatemala,4604.275862068966,12 de enero
 Guatemala,4484.983193277311,19 de enero
 Guatemala,5142.5368421052635,26 de enero
@@ -380,8 +364,6 @@ Guatemala,4643.959016393443,4 de octubre
 Guatemala,4786.35831381733,11 de octubre
 Guatemala,4655.552552552553,18 de octubre
 Guatemala,5256.882352941177,25 de octubre
-Guatemala,4671.415384615385,1 de noviembre
-Guatemala,5430.676190476191,8 de noviembre
 Honduras,20901.96551724138,12 de enero
 Honduras,12154.109375,19 de enero
 Honduras,14739.472727272727,26 de enero
@@ -424,8 +406,6 @@ Honduras,25313.0,4 de octubre
 Honduras,16156.2,11 de octubre
 Honduras,18531.402777777777,18 de octubre
 Honduras,17155.219178082192,25 de octubre
-Honduras,14761.072289156626,1 de noviembre
-Honduras,17330.52380952381,8 de noviembre
 Nicaragua,12920.4,12 de enero
 Nicaragua,11538.90909090909,19 de enero
 Nicaragua,10665.947368421053,26 de enero
@@ -468,8 +448,6 @@ Nicaragua,13310.35294117647,4 de octubre
 Nicaragua,10436.529411764706,11 de octubre
 Nicaragua,11109.130434782608,18 de octubre
 Nicaragua,9577.384615384615,25 de octubre
-Nicaragua,13883.433333333332,1 de noviembre
-Nicaragua,11373.529411764706,8 de noviembre
 Panamá,796.6,12 de enero
 Panamá,947.695652173913,19 de enero
 Panamá,970.125,26 de enero
@@ -512,8 +490,6 @@ Panamá,1676.6875,4 de octubre
 Panamá,1027.8524590163934,11 de octubre
 Panamá,996.425925925926,18 de octubre
 Panamá,1078.9506172839506,25 de octubre
-Panamá,1233.4814814814815,1 de noviembre
-Panamá,1014.7333333333333,8 de noviembre
 Paraguay,4500.0,19 de enero
 Paraguay,11250.0,26 de enero
 Paraguay,2500.0,2 de febrero
@@ -541,8 +517,6 @@ Paraguay,51786.11111111111,4 de octubre
 Paraguay,16013.09090909091,11 de octubre
 Paraguay,7464.0,18 de octubre
 Paraguay,9606.0,25 de octubre
-Paraguay,14800.0,1 de noviembre
-Paraguay,3454.8571428571427,8 de noviembre
 Perú,1287.58407079646,12 de enero
 Perú,1395.2065217391305,19 de enero
 Perú,1398.4893617021276,26 de enero
@@ -581,8 +555,6 @@ Perú,1430.7386759581882,4 de octubre
 Perú,1475.2663755458516,11 de octubre
 Perú,1342.7272727272727,18 de octubre
 Perú,1344.2666666666667,25 de octubre
-Perú,1351.8138613861386,1 de noviembre
-Perú,1410.5228758169935,8 de noviembre
 Rep. Dominicana,18345.8,12 de enero
 Rep. Dominicana,28940.666666666668,19 de enero
 Rep. Dominicana,38021.90909090909,26 de enero
@@ -624,8 +596,6 @@ Rep. Dominicana,45430.13043478261,4 de octubre
 Rep. Dominicana,31057.075471698114,11 de octubre
 Rep. Dominicana,33882.529411764706,18 de octubre
 Rep. Dominicana,40828.470588235294,25 de octubre
-Rep. Dominicana,18647.058823529413,1 de noviembre
-Rep. Dominicana,25643.105263157893,8 de noviembre
 Uruguay,38013.875,12 de enero
 Uruguay,27918.0,19 de enero
 Uruguay,78417.96551724138,26 de enero
@@ -668,8 +638,6 @@ Uruguay,54084.529411764706,4 de octubre
 Uruguay,55126.098039215685,11 de octubre
 Uruguay,55234.441860465115,18 de octubre
 Uruguay,56233.92857142857,25 de octubre
-Uruguay,73506.41860465116,1 de noviembre
-Uruguay,47322.833333333336,8 de noviembre
 Venezuela,179320.85714285713,12 de enero
 Venezuela,146190.33666333667,19 de enero
 Venezuela,159667.83049040512,26 de enero
@@ -712,8 +680,6 @@ Venezuela,132894.61401952084,4 de octubre
 Venezuela,141733.33178114085,11 de octubre
 Venezuela,158493.44459551325,18 de octubre
 Venezuela,166095.85381526104,25 de octubre
-Venezuela,159847.8004552352,1 de noviembre
-Venezuela,184942.61509073543,8 de noviembre
 mx,20000.0,26 de enero
 mx,11622.4,2 de febrero
 mx,9096.579452054795,23 de febrero
@@ -752,5 +718,3 @@ mx,10186.158979391561,4 de octubre
 mx,10015.26036628875,11 de octubre
 mx,9918.032011134308,18 de octubre
 mx,10080.718560128396,25 de octubre
-mx,9961.13656716418,1 de noviembre
-mx,9915.159911023233,8 de noviembre
