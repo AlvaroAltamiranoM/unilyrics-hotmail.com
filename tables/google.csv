@@ -591,19 +591,67 @@ date,country_region_code,workplaces_percent_change_from_baseline,pais,semana,fec
 42,sv,-24.285714285714285,El Salvador,25 de octubre,42
 42,uy,-1.1428571428571428,Uruguay,25 de octubre,42
 42,ve,-14.285714285714286,Venezuela,25 de octubre,42
-43,ar,-18.2,Argentina,1 de noviembre,43
-43,bo,-16.8,Bolivia,1 de noviembre,43
-43,br,-5.0,Brasil,1 de noviembre,43
-43,cl,-25.4,Chile,1 de noviembre,43
-43,co,-23.0,Colombia,1 de noviembre,43
-43,cr,-29.6,Costa Rica,1 de noviembre,43
-43,do,-27.4,Rep. Dominicana,1 de noviembre,43
-43,ec,-30.8,Ecuador,1 de noviembre,43
-43,hn,-29.4,Honduras,1 de noviembre,43
-43,ni,-7.4,Nicaragua,1 de noviembre,43
-43,pa,-33.7,Panamá,1 de noviembre,43
-43,pe,-31.8,Perú,1 de noviembre,43
-43,py,-11.2,Paraguay,1 de noviembre,43
-43,sv,-27.6,El Salvador,1 de noviembre,43
-43,uy,6.0,Uruguay,1 de noviembre,43
-43,ve,-25.0,Venezuela,1 de noviembre,43
+43,ar,-15.857142857142858,Argentina,1 de noviembre,43
+43,bo,-15.714285714285714,Bolivia,1 de noviembre,43
+43,br,-2.2857142857142856,Brasil,1 de noviembre,43
+43,cl,-24.428571428571427,Chile,1 de noviembre,43
+43,co,-17.285714285714285,Colombia,1 de noviembre,43
+43,cr,-25.428571428571427,Costa Rica,1 de noviembre,43
+43,do,-25.571428571428573,Rep. Dominicana,1 de noviembre,43
+43,ec,-21.428571428571427,Ecuador,1 de noviembre,43
+43,hn,-26.428571428571427,Honduras,1 de noviembre,43
+43,ni,-7.428571428571429,Nicaragua,1 de noviembre,43
+43,pa,-31.285714285714285,Panamá,1 de noviembre,43
+43,pe,-28.428571428571427,Perú,1 de noviembre,43
+43,py,-10.0,Paraguay,1 de noviembre,43
+43,sv,-23.0,El Salvador,1 de noviembre,43
+43,uy,0.8571428571428571,Uruguay,1 de noviembre,43
+43,ve,-18.857142857142858,Venezuela,1 de noviembre,43
+44,ar,-14.571428571428571,Argentina,8 de noviembre,44
+44,bo,-24.285714285714285,Bolivia,8 de noviembre,44
+44,br,-8.285714285714286,Brasil,8 de noviembre,44
+44,cl,-21.428571428571427,Chile,8 de noviembre,44
+44,co,-21.285714285714285,Colombia,8 de noviembre,44
+44,cr,-26.285714285714285,Costa Rica,8 de noviembre,44
+44,do,-26.857142857142858,Rep. Dominicana,8 de noviembre,44
+44,ec,-30.285714285714285,Ecuador,8 de noviembre,44
+44,hn,-39.857142857142854,Honduras,8 de noviembre,44
+44,ni,-13.571428571428571,Nicaragua,8 de noviembre,44
+44,pa,-48.57142857142857,Panamá,8 de noviembre,44
+44,pe,-28.0,Perú,8 de noviembre,44
+44,py,-8.285714285714286,Paraguay,8 de noviembre,44
+44,sv,-29.571428571428573,El Salvador,8 de noviembre,44
+44,uy,-5.285714285714286,Uruguay,8 de noviembre,44
+44,ve,-13.0,Venezuela,8 de noviembre,44
+45,ar,-13.571428571428571,Argentina,15 de noviembre,45
+45,bo,-12.571428571428571,Bolivia,15 de noviembre,45
+45,br,2.2857142857142856,Brasil,15 de noviembre,45
+45,cl,-20.428571428571427,Chile,15 de noviembre,45
+45,co,-15.857142857142858,Colombia,15 de noviembre,45
+45,cr,-23.714285714285715,Costa Rica,15 de noviembre,45
+45,do,-31.0,Rep. Dominicana,15 de noviembre,45
+45,ec,-21.0,Ecuador,15 de noviembre,45
+45,hn,-27.0,Honduras,15 de noviembre,45
+45,ni,-4.571428571428571,Nicaragua,15 de noviembre,45
+45,pa,-35.92857142857143,Panamá,15 de noviembre,45
+45,pe,-27.285714285714285,Perú,15 de noviembre,45
+45,py,-10.571428571428571,Paraguay,15 de noviembre,45
+45,sv,-21.285714285714285,El Salvador,15 de noviembre,45
+45,uy,1.2142857142857142,Uruguay,15 de noviembre,45
+45,ve,-15.857142857142858,Venezuela,15 de noviembre,45
+46,ar,-12.285714285714286,Argentina,22 de noviembre,46
+46,bo,-12.0,Bolivia,22 de noviembre,46
+46,br,-2.7142857142857144,Brasil,22 de noviembre,46
+46,cl,-19.428571428571427,Chile,22 de noviembre,46
+46,co,-19.0,Colombia,22 de noviembre,46
+46,cr,-23.571428571428573,Costa Rica,22 de noviembre,46
+46,do,-24.428571428571427,Rep. Dominicana,22 de noviembre,46
+46,ec,-20.857142857142858,Ecuador,22 de noviembre,46
+46,hn,-35.285714285714285,Honduras,22 de noviembre,46
+46,ni,-7.571428571428571,Nicaragua,22 de noviembre,46
+46,pa,-30.214285714285715,Panamá,22 de noviembre,46
+46,pe,-25.428571428571427,Perú,22 de noviembre,46
+46,py,-8.142857142857142,Paraguay,22 de noviembre,46
+46,sv,-21.428571428571427,El Salvador,22 de noviembre,46
+46,uy,1.0,Uruguay,22 de noviembre,46
+46,ve,-10.285714285714286,Venezuela,22 de noviembre,46
