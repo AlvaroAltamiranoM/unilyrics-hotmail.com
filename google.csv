@@ -431,99 +431,227 @@ date,country_region_code,workplaces_percent_change_from_baseline,pais,semana,fec
 32,sv,-39.0,El Salvador,16 de agosto,32
 32,uy,-3.9285714285714284,Uruguay,16 de agosto,32
 32,ve,-21.285714285714285,Venezuela,16 de agosto,32
-33,ar,-26.428571428571427,Argentina,23 de agosto,33
-33,bo,-39.42857142857143,Bolivia,23 de agosto,33
-33,br,-11.571428571428571,Brasil,23 de agosto,33
-33,cl,-36.285714285714285,Chile,23 de agosto,33
-33,co,-35.57142857142857,Colombia,23 de agosto,33
-33,cr,-36.714285714285715,Costa Rica,23 de agosto,33
-33,do,-35.57142857142857,Rep. Dominicana,23 de agosto,33
-33,ec,-30.571428571428573,Ecuador,23 de agosto,33
-33,hn,-37.42857142857143,Honduras,23 de agosto,33
-33,ni,-18.428571428571427,Nicaragua,23 de agosto,33
-33,pa,-53.857142857142854,Panamá,23 de agosto,33
-33,pe,-44.0,Perú,23 de agosto,33
-33,py,-11.857142857142858,Paraguay,23 de agosto,33
-33,sv,-38.42857142857143,El Salvador,23 de agosto,33
-33,uy,-4.857142857142857,Uruguay,23 de agosto,33
-33,ve,-27.571428571428573,Venezuela,23 de agosto,33
-34,ar,-22.857142857142858,Argentina,30 de agosto,34
-34,bo,-35.857142857142854,Bolivia,30 de agosto,34
-34,br,-8.857142857142858,Brasil,30 de agosto,34
-34,cl,-35.42857142857143,Chile,30 de agosto,34
-34,co,-28.571428571428573,Colombia,30 de agosto,34
-34,cr,-31.571428571428573,Costa Rica,30 de agosto,34
-34,do,-32.714285714285715,Rep. Dominicana,30 de agosto,34
-34,ec,-29.571428571428573,Ecuador,30 de agosto,34
-34,hn,-35.42857142857143,Honduras,30 de agosto,34
-34,ni,-16.785714285714285,Nicaragua,30 de agosto,34
-34,pa,-48.785714285714285,Panamá,30 de agosto,34
-34,pe,-43.142857142857146,Perú,30 de agosto,34
-34,py,-12.428571428571429,Paraguay,30 de agosto,34
-34,sv,-35.142857142857146,El Salvador,30 de agosto,34
-34,uy,-16.928571428571427,Uruguay,30 de agosto,34
-34,ve,-21.0,Venezuela,30 de agosto,34
-35,ar,-24.857142857142858,Argentina,6 de septiembre,35
-35,bo,-30.714285714285715,Bolivia,6 de septiembre,35
-35,br,-9.571428571428571,Brasil,6 de septiembre,35
-35,cl,-35.57142857142857,Chile,6 de septiembre,35
-35,co,-27.428571428571427,Colombia,6 de septiembre,35
-35,cr,-32.857142857142854,Costa Rica,6 de septiembre,35
-35,do,-33.57142857142857,Rep. Dominicana,6 de septiembre,35
-35,ec,-29.714285714285715,Ecuador,6 de septiembre,35
-35,hn,-36.42857142857143,Honduras,6 de septiembre,35
-35,ni,-17.071428571428573,Nicaragua,6 de septiembre,35
-35,pa,-48.5,Panamá,6 de septiembre,35
-35,pe,-43.142857142857146,Perú,6 de septiembre,35
-35,py,-14.714285714285714,Paraguay,6 de septiembre,35
-35,sv,-35.142857142857146,El Salvador,6 de septiembre,35
-35,uy,-5.214285714285714,Uruguay,6 de septiembre,35
-35,ve,-27.857142857142858,Venezuela,6 de septiembre,35
-36,ar,-24.714285714285715,Argentina,13 de septiembre,36
-36,bo,-28.285714285714285,Bolivia,13 de septiembre,36
-36,br,-16.142857142857142,Brasil,13 de septiembre,36
-36,cl,-35.285714285714285,Chile,13 de septiembre,36
-36,co,-27.571428571428573,Colombia,13 de septiembre,36
-36,cr,-34.142857142857146,Costa Rica,13 de septiembre,36
-36,do,-33.42857142857143,Rep. Dominicana,13 de septiembre,36
-36,ec,-29.857142857142858,Ecuador,13 de septiembre,36
-36,hn,-36.57142857142857,Honduras,13 de septiembre,36
-36,ni,-18.714285714285715,Nicaragua,13 de septiembre,36
-36,pa,-48.214285714285715,Panamá,13 de septiembre,36
-36,pe,-43.285714285714285,Perú,13 de septiembre,36
-36,py,-16.857142857142858,Paraguay,13 de septiembre,36
-36,sv,-34.57142857142857,El Salvador,13 de septiembre,36
-36,uy,-4.642857142857143,Uruguay,13 de septiembre,36
-36,ve,-23.0,Venezuela,13 de septiembre,36
-37,ar,-23.285714285714285,Argentina,20 de septiembre,37
-37,bo,-25.857142857142858,Bolivia,20 de septiembre,37
-37,br,-7.857142857142857,Brasil,20 de septiembre,37
-37,cl,-44.714285714285715,Chile,20 de septiembre,37
-37,co,-24.571428571428573,Colombia,20 de septiembre,37
-37,cr,-36.42857142857143,Costa Rica,20 de septiembre,37
-37,do,-31.428571428571427,Rep. Dominicana,20 de septiembre,37
-37,ec,-28.0,Ecuador,20 de septiembre,37
-37,hn,-38.285714285714285,Honduras,20 de septiembre,37
-37,ni,-35.142857142857146,Nicaragua,20 de septiembre,37
-37,pa,-44.785714285714285,Panamá,20 de septiembre,37
-37,pe,-38.142857142857146,Perú,20 de septiembre,37
-37,py,-16.428571428571427,Paraguay,20 de septiembre,37
-37,sv,-36.42857142857143,El Salvador,20 de septiembre,37
-37,uy,-6.5,Uruguay,20 de septiembre,37
-37,ve,-27.428571428571427,Venezuela,20 de septiembre,37
-38,ar,-24.428571428571427,Argentina,27 de septiembre,38
-38,bo,-26.714285714285715,Bolivia,27 de septiembre,38
-38,br,-7.428571428571429,Brasil,27 de septiembre,38
-38,cl,-33.42857142857143,Chile,27 de septiembre,38
-38,co,-24.857142857142858,Colombia,27 de septiembre,38
-38,cr,-32.714285714285715,Costa Rica,27 de septiembre,38
-38,do,-37.0,Rep. Dominicana,27 de septiembre,38
-38,ec,-28.142857142857142,Ecuador,27 de septiembre,38
-38,hn,-35.142857142857146,Honduras,27 de septiembre,38
-38,ni,-17.357142857142858,Nicaragua,27 de septiembre,38
-38,pa,-44.642857142857146,Panamá,27 de septiembre,38
-38,pe,-37.57142857142857,Perú,27 de septiembre,38
-38,py,-16.285714285714285,Paraguay,27 de septiembre,38
-38,sv,-32.0,El Salvador,27 de septiembre,38
-38,uy,-8.714285714285714,Uruguay,27 de septiembre,38
-38,ve,-23.428571428571427,Venezuela,27 de septiembre,38
+33,ar,-26.285714285714285,Argentina,23 de agosto,33
+33,bo,-38.714285714285715,Bolivia,23 de agosto,33
+33,br,-11.0,Brasil,23 de agosto,33
+33,cl,-35.857142857142854,Chile,23 de agosto,33
+33,co,-35.42857142857143,Colombia,23 de agosto,33
+33,cr,-36.285714285714285,Costa Rica,23 de agosto,33
+33,do,-35.42857142857143,Rep. Dominicana,23 de agosto,33
+33,ec,-30.0,Ecuador,23 de agosto,33
+33,hn,-36.42857142857143,Honduras,23 de agosto,33
+33,ni,-17.714285714285715,Nicaragua,23 de agosto,33
+33,pa,-53.642857142857146,Panamá,23 de agosto,33
+33,pe,-43.714285714285715,Perú,23 de agosto,33
+33,py,-11.142857142857142,Paraguay,23 de agosto,33
+33,sv,-37.714285714285715,El Salvador,23 de agosto,33
+33,uy,-4.357142857142857,Uruguay,23 de agosto,33
+33,ve,-27.142857142857142,Venezuela,23 de agosto,33
+34,ar,-22.0,Argentina,30 de agosto,34
+34,bo,-35.142857142857146,Bolivia,30 de agosto,34
+34,br,-8.0,Brasil,30 de agosto,34
+34,cl,-34.42857142857143,Chile,30 de agosto,34
+34,co,-28.0,Colombia,30 de agosto,34
+34,cr,-30.285714285714285,Costa Rica,30 de agosto,34
+34,do,-32.142857142857146,Rep. Dominicana,30 de agosto,34
+34,ec,-28.571428571428573,Ecuador,30 de agosto,34
+34,hn,-34.0,Honduras,30 de agosto,34
+34,ni,-15.071428571428571,Nicaragua,30 de agosto,34
+34,pa,-48.42857142857143,Panamá,30 de agosto,34
+34,pe,-42.142857142857146,Perú,30 de agosto,34
+34,py,-11.142857142857142,Paraguay,30 de agosto,34
+34,sv,-34.0,El Salvador,30 de agosto,34
+34,uy,-16.0,Uruguay,30 de agosto,34
+34,ve,-20.0,Venezuela,30 de agosto,34
+35,ar,-24.0,Argentina,6 de septiembre,35
+35,bo,-29.285714285714285,Bolivia,6 de septiembre,35
+35,br,-8.428571428571429,Brasil,6 de septiembre,35
+35,cl,-34.0,Chile,6 de septiembre,35
+35,co,-26.428571428571427,Colombia,6 de septiembre,35
+35,cr,-31.285714285714285,Costa Rica,6 de septiembre,35
+35,do,-32.57142857142857,Rep. Dominicana,6 de septiembre,35
+35,ec,-28.714285714285715,Ecuador,6 de septiembre,35
+35,hn,-34.57142857142857,Honduras,6 de septiembre,35
+35,ni,-14.642857142857142,Nicaragua,6 de septiembre,35
+35,pa,-48.142857142857146,Panamá,6 de septiembre,35
+35,pe,-42.42857142857143,Perú,6 de septiembre,35
+35,py,-13.428571428571429,Paraguay,6 de septiembre,35
+35,sv,-33.714285714285715,El Salvador,6 de septiembre,35
+35,uy,-3.7857142857142856,Uruguay,6 de septiembre,35
+35,ve,-26.571428571428573,Venezuela,6 de septiembre,35
+36,ar,-23.285714285714285,Argentina,13 de septiembre,36
+36,bo,-25.857142857142858,Bolivia,13 de septiembre,36
+36,br,-14.571428571428571,Brasil,13 de septiembre,36
+36,cl,-33.142857142857146,Chile,13 de septiembre,36
+36,co,-26.0,Colombia,13 de septiembre,36
+36,cr,-31.571428571428573,Costa Rica,13 de septiembre,36
+36,do,-31.857142857142858,Rep. Dominicana,13 de septiembre,36
+36,ec,-28.0,Ecuador,13 de septiembre,36
+36,hn,-33.42857142857143,Honduras,13 de septiembre,36
+36,ni,-15.214285714285714,Nicaragua,13 de septiembre,36
+36,pa,-47.57142857142857,Panamá,13 de septiembre,36
+36,pe,-41.714285714285715,Perú,13 de septiembre,36
+36,py,-14.857142857142858,Paraguay,13 de septiembre,36
+36,sv,-32.57142857142857,El Salvador,13 de septiembre,36
+36,uy,-2.5714285714285716,Uruguay,13 de septiembre,36
+36,ve,-21.142857142857142,Venezuela,13 de septiembre,36
+37,ar,-22.285714285714285,Argentina,20 de septiembre,37
+37,bo,-23.428571428571427,Bolivia,20 de septiembre,37
+37,br,-6.142857142857143,Brasil,20 de septiembre,37
+37,cl,-42.57142857142857,Chile,20 de septiembre,37
+37,co,-22.857142857142858,Colombia,20 de septiembre,37
+37,cr,-34.0,Costa Rica,20 de septiembre,37
+37,do,-29.571428571428573,Rep. Dominicana,20 de septiembre,37
+37,ec,-26.142857142857142,Ecuador,20 de septiembre,37
+37,hn,-34.714285714285715,Honduras,20 de septiembre,37
+37,ni,-32.285714285714285,Nicaragua,20 de septiembre,37
+37,pa,-44.07142857142857,Panamá,20 de septiembre,37
+37,pe,-36.42857142857143,Perú,20 de septiembre,37
+37,py,-14.0,Paraguay,20 de septiembre,37
+37,sv,-34.142857142857146,El Salvador,20 de septiembre,37
+37,uy,-4.071428571428571,Uruguay,20 de septiembre,37
+37,ve,-25.571428571428573,Venezuela,20 de septiembre,37
+38,ar,-23.428571428571427,Argentina,27 de septiembre,38
+38,bo,-24.285714285714285,Bolivia,27 de septiembre,38
+38,br,-5.714285714285714,Brasil,27 de septiembre,38
+38,cl,-31.0,Chile,27 de septiembre,38
+38,co,-22.857142857142858,Colombia,27 de septiembre,38
+38,cr,-30.0,Costa Rica,27 de septiembre,38
+38,do,-35.57142857142857,Rep. Dominicana,27 de septiembre,38
+38,ec,-26.285714285714285,Ecuador,27 de septiembre,38
+38,hn,-31.857142857142858,Honduras,27 de septiembre,38
+38,ni,-13.5,Nicaragua,27 de septiembre,38
+38,pa,-44.0,Panamá,27 de septiembre,38
+38,pe,-36.0,Perú,27 de septiembre,38
+38,py,-14.0,Paraguay,27 de septiembre,38
+38,sv,-29.714285714285715,El Salvador,27 de septiembre,38
+38,uy,-6.571428571428571,Uruguay,27 de septiembre,38
+38,ve,-21.285714285714285,Venezuela,27 de septiembre,38
+39,ar,-21.857142857142858,Argentina,4 de octubre,39
+39,bo,-20.285714285714285,Bolivia,4 de octubre,39
+39,br,-4.428571428571429,Brasil,4 de octubre,39
+39,cl,-29.0,Chile,4 de octubre,39
+39,co,-20.714285714285715,Colombia,4 de octubre,39
+39,cr,-29.571428571428573,Costa Rica,4 de octubre,39
+39,do,-29.285714285714285,Rep. Dominicana,4 de octubre,39
+39,ec,-25.571428571428573,Ecuador,4 de octubre,39
+39,hn,-32.42857142857143,Honduras,4 de octubre,39
+39,ni,-13.357142857142858,Nicaragua,4 de octubre,39
+39,pa,-42.214285714285715,Panamá,4 de octubre,39
+39,pe,-34.285714285714285,Perú,4 de octubre,39
+39,py,-19.142857142857142,Paraguay,4 de octubre,39
+39,sv,-29.142857142857142,El Salvador,4 de octubre,39
+39,uy,-2.357142857142857,Uruguay,4 de octubre,39
+39,ve,-28.571428571428573,Venezuela,4 de octubre,39
+40,ar,-18.285714285714285,Argentina,11 de octubre,40
+40,bo,-17.571428571428573,Bolivia,11 de octubre,40
+40,br,-3.0,Brasil,11 de octubre,40
+40,cl,-27.285714285714285,Chile,11 de octubre,40
+40,co,-20.142857142857142,Colombia,11 de octubre,40
+40,cr,-29.142857142857142,Costa Rica,11 de octubre,40
+40,do,-27.571428571428573,Rep. Dominicana,11 de octubre,40
+40,ec,-28.428571428571427,Ecuador,11 de octubre,40
+40,hn,-30.0,Honduras,11 de octubre,40
+40,ni,-10.785714285714286,Nicaragua,11 de octubre,40
+40,pa,-40.714285714285715,Panamá,11 de octubre,40
+40,pe,-32.714285714285715,Perú,11 de octubre,40
+40,py,-11.428571428571429,Paraguay,11 de octubre,40
+40,sv,-26.714285714285715,El Salvador,11 de octubre,40
+40,uy,0.7142857142857143,Uruguay,11 de octubre,40
+40,ve,-18.571428571428573,Venezuela,11 de octubre,40
+41,ar,-20.285714285714285,Argentina,18 de octubre,41
+41,bo,-19.428571428571427,Bolivia,18 de octubre,41
+41,br,-10.428571428571429,Brasil,18 de octubre,41
+41,cl,-32.285714285714285,Chile,18 de octubre,41
+41,co,-24.142857142857142,Colombia,18 de octubre,41
+41,cr,-27.428571428571427,Costa Rica,18 de octubre,41
+41,do,-26.714285714285715,Rep. Dominicana,18 de octubre,41
+41,ec,-23.428571428571427,Ecuador,18 de octubre,41
+41,hn,-28.857142857142858,Honduras,18 de octubre,41
+41,ni,-8.928571428571429,Nicaragua,18 de octubre,41
+41,pa,-39.214285714285715,Panamá,18 de octubre,41
+41,pe,-31.714285714285715,Perú,18 de octubre,41
+41,py,-11.0,Paraguay,18 de octubre,41
+41,sv,-25.428571428571427,El Salvador,18 de octubre,41
+41,uy,-4.642857142857143,Uruguay,18 de octubre,41
+41,ve,-24.285714285714285,Venezuela,18 de octubre,41
+42,ar,-20.0,Argentina,25 de octubre,42
+42,bo,-15.428571428571429,Bolivia,25 de octubre,42
+42,br,-1.8571428571428572,Brasil,25 de octubre,42
+42,cl,-22.571428571428573,Chile,25 de octubre,42
+42,co,-18.0,Colombia,25 de octubre,42
+42,cr,-26.714285714285715,Costa Rica,25 de octubre,42
+42,do,-25.428571428571427,Rep. Dominicana,25 de octubre,42
+42,ec,-22.571428571428573,Ecuador,25 de octubre,42
+42,hn,-27.714285714285715,Honduras,25 de octubre,42
+42,ni,-8.285714285714286,Nicaragua,25 de octubre,42
+42,pa,-33.57142857142857,Panamá,25 de octubre,42
+42,pe,-29.857142857142858,Perú,25 de octubre,42
+42,py,-9.285714285714286,Paraguay,25 de octubre,42
+42,sv,-24.285714285714285,El Salvador,25 de octubre,42
+42,uy,-1.1428571428571428,Uruguay,25 de octubre,42
+42,ve,-14.285714285714286,Venezuela,25 de octubre,42
+43,ar,-15.857142857142858,Argentina,1 de noviembre,43
+43,bo,-15.714285714285714,Bolivia,1 de noviembre,43
+43,br,-2.2857142857142856,Brasil,1 de noviembre,43
+43,cl,-24.428571428571427,Chile,1 de noviembre,43
+43,co,-17.285714285714285,Colombia,1 de noviembre,43
+43,cr,-25.428571428571427,Costa Rica,1 de noviembre,43
+43,do,-25.571428571428573,Rep. Dominicana,1 de noviembre,43
+43,ec,-21.428571428571427,Ecuador,1 de noviembre,43
+43,hn,-26.428571428571427,Honduras,1 de noviembre,43
+43,ni,-7.428571428571429,Nicaragua,1 de noviembre,43
+43,pa,-31.285714285714285,Panamá,1 de noviembre,43
+43,pe,-28.428571428571427,Perú,1 de noviembre,43
+43,py,-10.0,Paraguay,1 de noviembre,43
+43,sv,-23.0,El Salvador,1 de noviembre,43
+43,uy,0.8571428571428571,Uruguay,1 de noviembre,43
+43,ve,-18.857142857142858,Venezuela,1 de noviembre,43
+44,ar,-14.571428571428571,Argentina,8 de noviembre,44
+44,bo,-24.285714285714285,Bolivia,8 de noviembre,44
+44,br,-8.285714285714286,Brasil,8 de noviembre,44
+44,cl,-21.428571428571427,Chile,8 de noviembre,44
+44,co,-21.285714285714285,Colombia,8 de noviembre,44
+44,cr,-26.285714285714285,Costa Rica,8 de noviembre,44
+44,do,-26.857142857142858,Rep. Dominicana,8 de noviembre,44
+44,ec,-30.285714285714285,Ecuador,8 de noviembre,44
+44,hn,-39.857142857142854,Honduras,8 de noviembre,44
+44,ni,-13.571428571428571,Nicaragua,8 de noviembre,44
+44,pa,-48.57142857142857,Panamá,8 de noviembre,44
+44,pe,-28.0,Perú,8 de noviembre,44
+44,py,-8.285714285714286,Paraguay,8 de noviembre,44
+44,sv,-29.571428571428573,El Salvador,8 de noviembre,44
+44,uy,-5.285714285714286,Uruguay,8 de noviembre,44
+44,ve,-13.0,Venezuela,8 de noviembre,44
+45,ar,-13.571428571428571,Argentina,15 de noviembre,45
+45,bo,-12.571428571428571,Bolivia,15 de noviembre,45
+45,br,2.2857142857142856,Brasil,15 de noviembre,45
+45,cl,-20.428571428571427,Chile,15 de noviembre,45
+45,co,-15.857142857142858,Colombia,15 de noviembre,45
+45,cr,-23.714285714285715,Costa Rica,15 de noviembre,45
+45,do,-31.0,Rep. Dominicana,15 de noviembre,45
+45,ec,-21.0,Ecuador,15 de noviembre,45
+45,hn,-27.0,Honduras,15 de noviembre,45
+45,ni,-4.571428571428571,Nicaragua,15 de noviembre,45
+45,pa,-35.92857142857143,Panamá,15 de noviembre,45
+45,pe,-27.285714285714285,Perú,15 de noviembre,45
+45,py,-10.571428571428571,Paraguay,15 de noviembre,45
+45,sv,-21.285714285714285,El Salvador,15 de noviembre,45
+45,uy,1.2142857142857142,Uruguay,15 de noviembre,45
+45,ve,-15.857142857142858,Venezuela,15 de noviembre,45
+46,ar,-12.285714285714286,Argentina,22 de noviembre,46
+46,bo,-12.0,Bolivia,22 de noviembre,46
+46,br,-2.7142857142857144,Brasil,22 de noviembre,46
+46,cl,-19.428571428571427,Chile,22 de noviembre,46
+46,co,-19.0,Colombia,22 de noviembre,46
+46,cr,-23.571428571428573,Costa Rica,22 de noviembre,46
+46,do,-24.428571428571427,Rep. Dominicana,22 de noviembre,46
+46,ec,-20.857142857142858,Ecuador,22 de noviembre,46
+46,hn,-35.285714285714285,Honduras,22 de noviembre,46
+46,ni,-7.571428571428571,Nicaragua,22 de noviembre,46
+46,pa,-30.214285714285715,Panamá,22 de noviembre,46
+46,pe,-25.428571428571427,Perú,22 de noviembre,46
+46,py,-8.142857142857142,Paraguay,22 de noviembre,46
+46,sv,-21.428571428571427,El Salvador,22 de noviembre,46
+46,uy,1.0,Uruguay,22 de noviembre,46
+46,ve,-10.285714285714286,Venezuela,22 de noviembre,46
