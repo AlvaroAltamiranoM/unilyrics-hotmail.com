@@ -1,31 +1,31 @@
 pais,rama_de_actividad,growth,colorcol
-Argentina,Legal / Asesoría,-64.70588235294117,no
-Argentina,Publicidad / RRPP,-50.0,no
-Argentina,Transporte / Logística,-50.0,no
-Argentina,Venta al consumidor,-50.0,no
-Argentina,Servicios Profesionales,-48.14814814814815,no
-Argentina,Hostelería / Turismo,-34.78260869565217,no
-Argentina,Agricultura / Pesca / Ganadería,-33.33333333333334,no
-Argentina,Internet,-33.33333333333334,no
-Argentina,Entretenimiento / Deportes,-20.0,no
-Argentina,Gobierno / No Lucro,-20.0,no
-Chile,Educación,-58.33333333333333,no
-Chile,Fabricación,-50.0,no
-Chile,Finanzas / Banca,-46.666666666666664,no
-Chile,Energía / Minería,-42.85714285714286,no
-Chile,Transporte / Logística,-38.46153846153846,no
-Chile,Servicios Profesionales,-31.25,no
-Chile,Telecomunicaciones,-26.66666666666667,no
-Chile,Informática / Hardware,-23.076923076923066,no
-Chile,Agricultura / Pesca / Ganadería,-14.285714285714292,no
-Chile,Otros,33.333333333333314,yes
-Colombia,Internet,-63.63636363636363,no
-Colombia,Materias Primas,-55.0,no
-Colombia,Informática / Hardware,-47.36842105263158,no
-Colombia,Venta al por mayor,-46.875,no
-Colombia,Gobierno / No Lucro,-45.45454545454546,no
-Colombia,Salud / Medicina,-33.33333333333334,no
-Colombia,Servicios Profesionales,-33.33333333333334,no
-Colombia,Publicidad / RRPP,-32.14285714285714,no
-Colombia,Medios de Comunicación,-31.818181818181827,no
-Colombia,Entretenimiento / Deportes,-29.166666666666657,no
+Argentina,Materias Primas,25.0,yes
+Argentina,Agricultura / Pesca / Ganadería,27.272727272727266,yes
+Argentina,Publicidad / RRPP,55.55555555555557,yes
+Argentina,Finanzas / Banca,63.636363636363654,yes
+Argentina,Telecomunicaciones,64.70588235294116,yes
+Argentina,Venta al consumidor,126.66666666666666,yes
+Argentina,Transporte / Logística,136.36363636363637,yes
+Argentina,Venta al por mayor,150.0,yes
+Argentina,Legal / Asesoría,157.14285714285717,yes
+Argentina,Internet,266.66666666666663,yes
+Chile,Agricultura / Pesca / Ganadería,66.66666666666669,yes
+Chile,Gobierno / No Lucro,100.0,yes
+Chile,Medios de Comunicación,100.0,yes
+Chile,Otros,100.0,yes
+Chile,Publicidad / RRPP,122.22222222222223,yes
+Chile,Más de 1000 trabajadores,233.33333333333337,yes
+Chile,Fabricación,242.85714285714283,yes
+Chile,Materias Primas,250.0,yes
+Chile,Transporte / Logística,250.0,yes
+Chile,Educación,300.0,yes
+Colombia,Entretenimiento / Deportes,-9.090909090909093,no
+Colombia,Publicidad / RRPP,-4.0,no
+Colombia,Gobierno / No Lucro,12.5,yes
+Colombia,Legal / Asesoría,15.789473684210535,yes
+Colombia,Medios de Comunicación,15.789473684210535,yes
+Colombia,Construcción / obras,75.0,yes
+Colombia,Venta al por mayor,80.95238095238096,yes
+Colombia,Transporte,92.0,yes
+Colombia,Otros,100.0,yes
+Colombia,Materias Primas,120.00000000000003,yes
