@@ -1,31 +1,31 @@
 pais,rama_de_actividad,growth,colorcol
-Argentina,Materias Primas,25.0,yes
-Argentina,Agricultura / Pesca / Ganadería,27.272727272727266,yes
-Argentina,Publicidad / RRPP,55.55555555555557,yes
-Argentina,Finanzas / Banca,63.636363636363654,yes
-Argentina,Telecomunicaciones,64.70588235294116,yes
-Argentina,Venta al consumidor,126.66666666666666,yes
-Argentina,Transporte / Logística,136.36363636363637,yes
-Argentina,Venta al por mayor,150.0,yes
-Argentina,Legal / Asesoría,157.14285714285717,yes
-Argentina,Internet,266.66666666666663,yes
-Chile,Agricultura / Pesca / Ganadería,66.66666666666669,yes
-Chile,Gobierno / No Lucro,100.0,yes
-Chile,Medios de Comunicación,100.0,yes
-Chile,Otros,100.0,yes
-Chile,Publicidad / RRPP,122.22222222222223,yes
-Chile,Más de 1000 trabajadores,233.33333333333337,yes
-Chile,Fabricación,242.85714285714283,yes
-Chile,Materias Primas,250.0,yes
-Chile,Transporte / Logística,250.0,yes
-Chile,Educación,300.0,yes
-Colombia,Entretenimiento / Deportes,-9.090909090909093,no
-Colombia,Publicidad / RRPP,-4.0,no
-Colombia,Gobierno / No Lucro,12.5,yes
-Colombia,Legal / Asesoría,15.789473684210535,yes
-Colombia,Medios de Comunicación,15.789473684210535,yes
-Colombia,Construcción / obras,75.0,yes
-Colombia,Venta al por mayor,80.95238095238096,yes
-Colombia,Transporte,92.0,yes
-Colombia,Otros,100.0,yes
-Colombia,Materias Primas,120.00000000000003,yes
+Argentina,Agricultura / Pesca / Ganadería,100.0,yes
+Argentina,Construcción / obras,100.0,yes
+Argentina,Educación,100.0,yes
+Argentina,Energía / Minería,100.0,yes
+Argentina,Entretenimiento / Deportes,100.0,yes
+Argentina,Servicios Profesionales,100.0,yes
+Argentina,Telecomunicaciones,100.0,yes
+Argentina,Transporte / Logística,100.0,yes
+Argentina,Venta al consumidor,100.0,yes
+Argentina,Venta al por mayor,100.0,yes
+Chile,Agricultura / Pesca / Ganadería,100.0,yes
+Chile,Construcción / obras,100.0,yes
+Chile,Educación,100.0,yes
+Chile,Energía / Minería,100.0,yes
+Chile,Entretenimiento / Deportes,100.0,yes
+Chile,Servicios Profesionales,100.0,yes
+Chile,Telecomunicaciones,100.0,yes
+Chile,Transporte / Logística,100.0,yes
+Chile,Venta al consumidor,100.0,yes
+Chile,Venta al por mayor,100.0,yes
+Colombia,Agricultura / Pesca / Ganadería,100.0,yes
+Colombia,Construcción / obras,100.0,yes
+Colombia,Educación,100.0,yes
+Colombia,Energía,100.0,yes
+Colombia,Entretenimiento / Deportes,100.0,yes
+Colombia,Servicios Profesionales,100.0,yes
+Colombia,Telecomunicaciones,100.0,yes
+Colombia,Transporte,100.0,yes
+Colombia,Venta al consumidor,100.0,yes
+Colombia,Venta al por mayor,100.0,yes

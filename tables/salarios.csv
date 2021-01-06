@@ -47,6 +47,9 @@ Argentina,20234.162790697676,22 de noviembre
 Argentina,22740.932270916335,29 de noviembre
 Argentina,21664.452631578948,6 de diciembre
 Argentina,21725.04491017964,13 de diciembre
+Argentina,20436.43946188341,20 de diciembre
+Argentina,18000.0,27 de diciembre
+Argentina,29029.447368421053,
 Bolivia,4000.0,26 de enero
 Bolivia,4133.0,2 de febrero
 Bolivia,4500.0,9 de febrero
@@ -126,6 +129,9 @@ Brasil,1813.266100702576,22 de noviembre
 Brasil,1791.533078068496,29 de noviembre
 Brasil,1777.5856852562656,6 de diciembre
 Brasil,1849.517183217373,13 de diciembre
+Brasil,1769.1217728055078,20 de diciembre
+Brasil,1792.04134762634,27 de diciembre
+Brasil,1522.7128927410618,
 Chile,435091.8947368421,12 de enero
 Chile,394017.0663265306,19 de enero
 Chile,387599.1780104712,26 de enero
@@ -174,6 +180,9 @@ Chile,397914.1169230769,22 de noviembre
 Chile,398514.9502074689,29 de noviembre
 Chile,388069.4951267057,6 de diciembre
 Chile,390971.8927738928,13 de diciembre
+Chile,405328.7467411546,20 de diciembre
+Chile,365000.0,27 de diciembre
+Chile,425401.1711711712,
 Colombia,381759.0975609756,12 de enero
 Colombia,354162.54594594595,19 de enero
 Colombia,332206.2361445783,26 de enero
@@ -223,6 +232,9 @@ Colombia,374599.8957802322,22 de noviembre
 Colombia,394412.72933182336,29 de noviembre
 Colombia,380795.33852829185,6 de diciembre
 Colombia,398361.2286855085,13 de diciembre
+Colombia,397982.6863136863,20 de diciembre
+Colombia,349046.225,27 de diciembre
+Colombia,284943.18823529413,
 Costa Rica,338806.5,12 de enero
 Costa Rica,364717.87234042556,19 de enero
 Costa Rica,411112.47222222225,26 de enero
@@ -271,6 +283,8 @@ Costa Rica,393094.5652173913,15 de noviembre
 Costa Rica,525228.1304347826,22 de noviembre
 Costa Rica,445271.14634146343,29 de noviembre
 Costa Rica,340260.0,6 de diciembre
+Costa Rica,365555.55555555556,27 de diciembre
+Costa Rica,364528.1666666667,
 Ecuador,527.7956989247311,12 de enero
 Ecuador,643.2727272727273,19 de enero
 Ecuador,522.8843537414966,26 de enero
@@ -319,6 +333,7 @@ Ecuador,545.6041666666666,15 de noviembre
 Ecuador,576.8947368421053,22 de noviembre
 Ecuador,630.82,29 de noviembre
 Ecuador,586.1,6 de diciembre
+Ecuador,484.27659574468083,
 El Salvador,437.41284403669727,12 de enero
 El Salvador,421.76047904191614,19 de enero
 El Salvador,424.48091603053433,26 de enero
@@ -367,6 +382,8 @@ El Salvador,459.93589743589746,15 de noviembre
 El Salvador,451.7358490566038,22 de noviembre
 El Salvador,512.2897727272727,29 de noviembre
 El Salvador,550.688524590164,6 de diciembre
+El Salvador,480.47058823529414,27 de diciembre
+El Salvador,389.55,
 Guatemala,4604.275862068966,12 de enero
 Guatemala,4484.983193277311,19 de enero
 Guatemala,5142.5368421052635,26 de enero
@@ -415,6 +432,8 @@ Guatemala,4950.204225352113,15 de noviembre
 Guatemala,4773.133802816901,22 de noviembre
 Guatemala,5138.297709923664,29 de noviembre
 Guatemala,5186.761538461538,6 de diciembre
+Guatemala,3696.3125,27 de diciembre
+Guatemala,5250.0,
 Honduras,25983.958333333332,12 de enero
 Honduras,12182.016666666666,19 de enero
 Honduras,15026.836734693878,26 de enero
@@ -463,6 +482,8 @@ Honduras,12738.0,15 de noviembre
 Honduras,13291.70588235294,22 de noviembre
 Honduras,15710.785714285714,29 de noviembre
 Honduras,11202.785714285714,6 de diciembre
+Honduras,10518.25,27 de diciembre
+Honduras,12987.827586206897,
 Nicaragua,12920.4,12 de enero
 Nicaragua,11538.90909090909,19 de enero
 Nicaragua,11019.588235294117,26 de enero
@@ -511,6 +532,8 @@ Nicaragua,9456.666666666666,15 de noviembre
 Nicaragua,9044.0,22 de noviembre
 Nicaragua,24785.545454545456,29 de noviembre
 Nicaragua,14863.857142857143,6 de diciembre
+Nicaragua,14809.333333333334,27 de diciembre
+Nicaragua,16515.14285714286,
 Panamá,672.4615384615385,12 de enero
 Panamá,1031.8333333333333,19 de enero
 Panamá,1057.7619047619048,26 de enero
@@ -559,6 +582,8 @@ Panamá,1014.0,15 de noviembre
 Panamá,957.4615384615385,22 de noviembre
 Panamá,826.2,29 de noviembre
 Panamá,837.5,6 de diciembre
+Panamá,1044.642857142857,27 de diciembre
+Panamá,800.1739130434783,
 Paraguay,4500.0,19 de enero
 Paraguay,2500.0,26 de enero
 Paraguay,35000.0,9 de febrero
@@ -625,6 +650,9 @@ Perú,1302.0510204081634,22 de noviembre
 Perú,1291.9175824175825,29 de noviembre
 Perú,1349.0,6 de diciembre
 Perú,1402.3711340206185,13 de diciembre
+Perú,1363.682108626198,20 de diciembre
+Perú,1278.6315789473683,27 de diciembre
+Perú,1345.3620689655172,
 Rep. Dominicana,18345.8,12 de enero
 Rep. Dominicana,28940.666666666668,19 de enero
 Rep. Dominicana,44867.82352941176,26 de enero
@@ -672,6 +700,8 @@ Rep. Dominicana,10729.0,15 de noviembre
 Rep. Dominicana,40500.0,22 de noviembre
 Rep. Dominicana,20786.11111111111,29 de noviembre
 Rep. Dominicana,16862.0,6 de diciembre
+Rep. Dominicana,34946.0,27 de diciembre
+Rep. Dominicana,16750.0,
 Uruguay,38013.875,12 de enero
 Uruguay,28595.25,19 de enero
 Uruguay,75360.28571428571,26 de enero
@@ -720,6 +750,8 @@ Uruguay,82401.0,15 de noviembre
 Uruguay,77176.83333333333,22 de noviembre
 Uruguay,75919.54054054055,29 de noviembre
 Uruguay,65211.269230769234,6 de diciembre
+Uruguay,41777.75,27 de diciembre
+Uruguay,64780.28571428572,
 Venezuela,175700.23875432526,12 de enero
 Venezuela,146512.67252066114,19 de enero
 Venezuela,159790.83092324805,26 de enero
@@ -769,3 +801,6 @@ Venezuela,140985.09782608695,22 de noviembre
 Venezuela,136332.46014492755,29 de noviembre
 Venezuela,96534.82467532468,6 de diciembre
 Venezuela,183866.66666666666,13 de diciembre
+Venezuela,241200.0,20 de diciembre
+Venezuela,95000.0,27 de diciembre
+Venezuela,99866.00896860987,

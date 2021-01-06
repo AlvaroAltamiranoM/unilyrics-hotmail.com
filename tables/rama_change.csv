@@ -1,31 +1,31 @@
 pais,rama_de_actividad,growth,colorcol
-Argentina,Gobierno / No Lucro,14.285714285714278,yes
-Argentina,Entretenimiento / Deportes,25.0,yes
-Argentina,Materias Primas,25.0,yes
-Argentina,Educación,46.66666666666666,yes
-Argentina,Agricultura / Pesca / Ganadería,55.55555555555557,yes
-Argentina,Venta al consumidor,100.0,yes
-Argentina,Hostelería / Turismo,111.76470588235296,yes
-Argentina,Construcción / obras,130.76923076923075,yes
-Argentina,Internet,144.44444444444446,yes
-Argentina,Venta al por mayor,172.7272727272727,yes
-Chile,Energía / Minería,-9.090909090909093,no
-Chile,Gobierno / No Lucro,14.285714285714278,yes
+Argentina,Publicidad / RRPP,71.42857142857142,yes
+Argentina,Internet,100.0,yes
+Argentina,Materias Primas,100.0,yes
+Argentina,Informática / Hardware,118.18181818181816,yes
+Argentina,Agricultura / Pesca / Ganadería,122.22222222222223,yes
+Argentina,Entretenimiento / Deportes,225.0,yes
+Argentina,Construcción / obras,238.46153846153845,yes
+Argentina,Energía / Minería,260.0,yes
+Argentina,Legal / Asesoría,260.0,yes
+Argentina,Venta al por mayor,281.8181818181818,yes
+Chile,Finanzas / Banca,7.692307692307693,yes
 Chile,Medios de Comunicación,33.333333333333314,yes
-Chile,Educación,42.85714285714286,yes
-Chile,Publicidad / RRPP,42.85714285714286,yes
-Chile,Informática / Hardware,100.0,yes
-Chile,Venta al por mayor,100.0,yes
-Chile,Construcción / obras,114.28571428571428,yes
-Chile,Salud / Medicina,115.38461538461539,yes
+Chile,Energía / Minería,81.81818181818181,yes
+Chile,Educación,128.57142857142856,yes
+Chile,Publicidad / RRPP,128.57142857142856,yes
+Chile,Venta al por mayor,233.33333333333337,yes
+Chile,Informática / Hardware,238.46153846153845,yes
 Chile,Materias Primas,250.0,yes
-Colombia,Internet,-22.222222222222214,no
-Colombia,Informática / Hardware,-14.285714285714292,no
-Colombia,Legal / Asesoría,-4.347826086956516,no
-Colombia,Entretenimiento / Deportes,5.263157894736835,yes
-Colombia,Agricultura / Pesca / Ganadería,8.333333333333329,yes
-Colombia,Salud / Medicina,76.0,yes
-Colombia,Venta al consumidor,76.0,yes
-Colombia,Fabricación,83.33333333333331,yes
-Colombia,Transporte,92.0,yes
-Colombia,Otros,100.0,yes
+Chile,Gobierno / No Lucro,357.1428571428571,yes
+Chile,Entretenimiento / Deportes,400.0,yes
+Colombia,Gobierno / No Lucro,-46.666666666666664,no
+Colombia,Medios de Comunicación,-37.5,no
+Colombia,Informática / Hardware,23.80952380952381,yes
+Colombia,Agricultura / Pesca / Ganadería,25.0,yes
+Colombia,Finanzas / Banca,33.333333333333314,yes
+Colombia,Informática / Software,83.33333333333331,yes
+Colombia,Venta al consumidor,84.0,yes
+Colombia,Educación,92.0,yes
+Colombia,Transporte,100.0,yes
+Colombia,Fabricación,108.33333333333334,yes
