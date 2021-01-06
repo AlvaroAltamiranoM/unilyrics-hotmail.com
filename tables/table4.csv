@@ -649,205 +649,203 @@ fecha_online,pais,conteo,conteo_MA,semana
 38,El Salvador,321,305.3333333333333,27 de septiembre
 38,Uruguay,31,42.0,27 de septiembre
 38,Venezuela,1588,1457.0,27 de septiembre
-39,Argentina,2001,1567.6666666666667,4 de octubre
-39,Bolivia,159,81.66666666666667,4 de octubre
+39,Argentina,1429,1377.0,4 de octubre
+39,Bolivia,156,80.66666666666667,4 de octubre
 39,Brasil,9172,8151.333333333333,4 de octubre
-39,Chile,1402,1212.0,4 de octubre
-39,Colombia,15305,12930.666666666666,4 de octubre
-39,Costa Rica,179,136.0,4 de octubre
-39,Rep. Dominicana,123,78.33333333333333,4 de octubre
-39,Ecuador,268,218.33333333333334,4 de octubre
-39,Guatemala,775,571.6666666666666,4 de octubre
-39,Honduras,151,136.33333333333334,4 de octubre
-39,Nicaragua,131,76.0,4 de octubre
-39,Panamá,67,47.0,4 de octubre
+39,Chile,990,1074.6666666666667,4 de octubre
+39,Colombia,10373,11286.666666666666,4 de octubre
+39,Costa Rica,106,111.66666666666667,4 de octubre
+39,Rep. Dominicana,105,72.33333333333333,4 de octubre
+39,Ecuador,174,187.0,4 de octubre
+39,Guatemala,500,480.0,4 de octubre
+39,Honduras,89,115.66666666666667,4 de octubre
+39,Nicaragua,118,71.66666666666667,4 de octubre
+39,Panamá,54,42.666666666666664,4 de octubre
 39,Perú,655,981.6666666666666,4 de octubre
-39,Paraguay,81,41.333333333333336,4 de octubre
-39,El Salvador,512,365.6666666666667,4 de octubre
-39,Uruguay,82,60.666666666666664,4 de octubre
-39,Venezuela,2139,1663.6666666666667,4 de octubre
-40,Argentina,1412,1575.6666666666667,11 de octubre
-40,Bolivia,3,80.66666666666667,11 de octubre
+39,Paraguay,80,41.0,4 de octubre
+39,El Salvador,318,301.0,4 de octubre
+39,Uruguay,56,52.0,4 de octubre
+39,Venezuela,1483,1445.0,4 de octubre
+40,Argentina,1491,1411.3333333333333,11 de octubre
+40,Bolivia,5,80.33333333333333,11 de octubre
 40,Brasil,6913,7875.666666666667,11 de octubre
-40,Chile,784,1081.0,11 de octubre
-40,Colombia,10703,12696.0,11 de octubre
-40,Costa Rica,147,146.66666666666666,11 de octubre
-40,Rep. Dominicana,18,67.33333333333333,11 de octubre
-40,Ecuador,166,208.66666666666666,11 de octubre
-40,Guatemala,587,623.6666666666666,11 de octubre
-40,Honduras,104,116.66666666666667,11 de octubre
-40,Nicaragua,51,85.33333333333333,11 de octubre
-40,Panamá,25,44.333333333333336,11 de octubre
-40,Perú,191,569.0,11 de octubre
-40,Paraguay,4,41.0,11 de octubre
-40,El Salvador,401,411.3333333333333,11 de octubre
-40,Uruguay,90,67.66666666666667,11 de octubre
-40,Venezuela,1407,1711.3333333333333,11 de octubre
-41,Argentina,1214,1542.3333333333333,18 de octubre
-41,Bolivia,98,86.66666666666667,18 de octubre
+40,Chile,945,997.3333333333334,11 de octubre
+40,Colombia,12642,11698.333333333334,11 de octubre
+40,Costa Rica,148,122.66666666666667,11 de octubre
+40,Rep. Dominicana,26,64.0,11 de octubre
+40,Ecuador,179,181.66666666666666,11 de octubre
+40,Guatemala,633,547.3333333333334,11 de octubre
+40,Honduras,131,105.0,11 de octubre
+40,Nicaragua,45,79.0,11 de octubre
+40,Panamá,27,40.666666666666664,11 de octubre
+40,Paraguay,2,40.0,11 de octubre
+40,El Salvador,427,355.3333333333333,11 de octubre
+40,Uruguay,81,56.0,11 de octubre
+40,Venezuela,1496,1522.3333333333333,11 de octubre
+41,Argentina,1360,1426.6666666666667,18 de octubre
+41,Bolivia,94,85.0,18 de octubre
 41,Brasil,7908,7997.666666666667,18 de octubre
-41,Chile,1059,1081.6666666666667,18 de octubre
-41,Colombia,11983,12663.666666666666,18 de octubre
-41,Costa Rica,102,142.66666666666666,18 de octubre
-41,Rep. Dominicana,65,68.66666666666667,18 de octubre
-41,Ecuador,144,192.66666666666666,18 de octubre
-41,Guatemala,406,589.3333333333334,18 de octubre
-41,Honduras,95,116.66666666666667,18 de octubre
-41,Nicaragua,103,95.0,18 de octubre
-41,Panamá,37,43.0,18 de octubre
-41,Perú,1214,686.6666666666666,18 de octubre
-41,Paraguay,50,45.0,18 de octubre
-41,El Salvador,242,385.0,18 de octubre
-41,Uruguay,106,92.66666666666667,18 de octubre
-41,Venezuela,1224,1590.0,18 de octubre
-42,Argentina,1326,1317.3333333333333,25 de octubre
-42,Bolivia,166,89.0,25 de octubre
+41,Chile,671,868.6666666666666,18 de octubre
+41,Colombia,11541,11518.666666666666,18 de octubre
+41,Costa Rica,142,132.0,18 de octubre
+41,Rep. Dominicana,70,67.0,18 de octubre
+41,Ecuador,160,171.0,18 de octubre
+41,Guatemala,546,559.6666666666666,18 de octubre
+41,Honduras,97,105.66666666666667,18 de octubre
+41,Nicaragua,82,81.66666666666667,18 de octubre
+41,Panamá,35,38.666666666666664,18 de octubre
+41,Perú,1077,864.3333333333334,18 de octubre
+41,Paraguay,52,44.666666666666664,18 de octubre
+41,El Salvador,339,361.3333333333333,18 de octubre
+41,Uruguay,115,84.0,18 de octubre
+41,Venezuela,1346,1441.6666666666667,18 de octubre
+42,Argentina,1673,1508.0,25 de octubre
+42,Bolivia,171,90.0,25 de octubre
 42,Brasil,8366,7729.0,25 de octubre
-42,Chile,1867,1236.6666666666667,25 de octubre
-42,Colombia,10610,11098.666666666666,25 de octubre
-42,Costa Rica,91,113.33333333333333,25 de octubre
-42,Rep. Dominicana,13,32.0,25 de octubre
-42,Ecuador,214,174.66666666666666,25 de octubre
-42,Guatemala,327,440.0,25 de octubre
-42,Honduras,150,116.33333333333333,25 de octubre
-42,Nicaragua,87,80.33333333333333,25 de octubre
-42,Panamá,37,33.0,25 de octubre
-42,Perú,1081,828.6666666666666,25 de octubre
-42,Paraguay,92,48.666666666666664,25 de octubre
-42,El Salvador,265,302.6666666666667,25 de octubre
-42,Uruguay,106,100.66666666666667,25 de octubre
-42,Venezuela,1305,1312.0,25 de octubre
-43,Argentina,1082,1207.3333333333333,1 de noviembre
-43,Bolivia,1,88.33333333333333,1 de noviembre
+42,Chile,2506,1374.0,25 de octubre
+42,Colombia,14042,12741.666666666666,25 de octubre
+42,Costa Rica,123,137.66666666666666,25 de octubre
+42,Rep. Dominicana,18,38.0,25 de octubre
+42,Ecuador,279,206.0,25 de octubre
+42,Guatemala,416,531.6666666666666,25 de octubre
+42,Honduras,183,137.0,25 de octubre
+42,Nicaragua,127,84.66666666666667,25 de octubre
+42,Panamá,50,37.333333333333336,25 de octubre
+42,Perú,1409,1047.0,25 de octubre
+42,Paraguay,93,49.0,25 de octubre
+42,El Salvador,336,367.3333333333333,25 de octubre
+42,Uruguay,132,109.33333333333333,25 de octubre
+42,Venezuela,1750,1530.6666666666667,25 de octubre
+43,Argentina,593,1208.6666666666667,1 de noviembre
 43,Brasil,7668,7980.666666666667,1 de noviembre
-43,Chile,1179,1368.3333333333333,1 de noviembre
-43,Colombia,9352,10648.333333333334,1 de noviembre
-43,Costa Rica,112,101.66666666666667,1 de noviembre
-43,Rep. Dominicana,26,34.666666666666664,1 de noviembre
-43,Ecuador,128,162.0,1 de noviembre
-43,Guatemala,434,389.0,1 de noviembre
-43,Honduras,164,136.33333333333334,1 de noviembre
-43,Nicaragua,30,73.33333333333333,1 de noviembre
-43,Panamá,33,35.666666666666664,1 de noviembre
-43,Perú,1080,1125.0,1 de noviembre
-43,Paraguay,1,47.666666666666664,1 de noviembre
-43,El Salvador,242,249.66666666666666,1 de noviembre
-43,Uruguay,155,122.33333333333333,1 de noviembre
-43,Venezuela,1350,1293.0,1 de noviembre
-44,Argentina,629,1012.3333333333334,8 de noviembre
-44,Bolivia,180,115.66666666666667,8 de noviembre
+43,Chile,959,1378.6666666666667,1 de noviembre
+43,Colombia,5792,10458.333333333334,1 de noviembre
+43,Costa Rica,39,101.33333333333333,1 de noviembre
+43,Rep. Dominicana,5,31.0,1 de noviembre
+43,Ecuador,102,180.33333333333334,1 de noviembre
+43,Guatemala,182,381.3333333333333,1 de noviembre
+43,Honduras,93,124.33333333333333,1 de noviembre
+43,Nicaragua,19,76.0,1 de noviembre
+43,Panamá,21,35.333333333333336,1 de noviembre
+43,Perú,804,1096.6666666666667,1 de noviembre
+43,Paraguay,1,48.666666666666664,1 de noviembre
+43,El Salvador,101,258.6666666666667,1 de noviembre
+43,Uruguay,92,113.0,1 de noviembre
+43,Venezuela,623,1239.6666666666667,1 de noviembre
+44,Argentina,1118,1128.0,8 de noviembre
+44,Bolivia,181,148.66666666666666,8 de noviembre
 44,Brasil,7875,7969.666666666667,8 de noviembre
-44,Chile,446,1164.0,8 de noviembre
-44,Colombia,5710,8557.333333333334,8 de noviembre
-44,Costa Rica,55,86.0,8 de noviembre
-44,Rep. Dominicana,92,43.666666666666664,8 de noviembre
-44,Ecuador,111,151.0,8 de noviembre
-44,Guatemala,252,337.6666666666667,8 de noviembre
-44,Honduras,27,113.66666666666667,8 de noviembre
-44,Nicaragua,100,72.33333333333333,8 de noviembre
-44,Panamá,7,25.666666666666668,8 de noviembre
-44,Perú,776,979.0,8 de noviembre
-44,Paraguay,100,64.33333333333333,8 de noviembre
-44,El Salvador,173,226.66666666666666,8 de noviembre
-44,Uruguay,45,102.0,8 de noviembre
-44,Venezuela,706,1120.3333333333333,8 de noviembre
+44,Chile,666,1377.0,8 de noviembre
+44,Colombia,9249,9694.333333333334,8 de noviembre
+44,Costa Rica,128,96.66666666666667,8 de noviembre
+44,Rep. Dominicana,113,45.333333333333336,8 de noviembre
+44,Ecuador,137,172.66666666666666,8 de noviembre
+44,Guatemala,503,367.0,8 de noviembre
+44,Honduras,98,124.66666666666667,8 de noviembre
+44,Nicaragua,111,85.66666666666667,8 de noviembre
+44,Panamá,19,30.0,8 de noviembre
+44,Perú,1052,1088.3333333333333,8 de noviembre
+44,Paraguay,100,64.66666666666667,8 de noviembre
+44,El Salvador,314,250.33333333333334,8 de noviembre
+44,Uruguay,108,110.66666666666667,8 de noviembre
+44,Venezuela,1433,1268.6666666666667,8 de noviembre
 45,Argentina,373,694.6666666666666,15 de noviembre
-45,Bolivia,1,60.666666666666664,15 de noviembre
+45,Bolivia,1,117.66666666666667,15 de noviembre
 45,Brasil,5901,7148.0,15 de noviembre
 45,Chile,490,705.0,15 de noviembre
-45,Colombia,4444,6502.0,15 de noviembre
-45,Costa Rica,43,70.0,15 de noviembre
-45,Rep. Dominicana,10,42.666666666666664,15 de noviembre
-45,Ecuador,47,95.33333333333333,15 de noviembre
-45,Guatemala,210,298.6666666666667,15 de noviembre
-45,Honduras,49,80.0,15 de noviembre
-45,Nicaragua,18,49.333333333333336,15 de noviembre
-45,Panamá,31,23.666666666666668,15 de noviembre
+45,Colombia,3936,6325.666666666667,15 de noviembre
+45,Costa Rica,26,64.33333333333333,15 de noviembre
+45,Rep. Dominicana,3,40.333333333333336,15 de noviembre
+45,Ecuador,29,89.33333333333333,15 de noviembre
+45,Guatemala,130,271.6666666666667,15 de noviembre
+45,Honduras,27,72.66666666666667,15 de noviembre
+45,Nicaragua,6,45.333333333333336,15 de noviembre
+45,Panamá,8,16.0,15 de noviembre
 45,Perú,330,728.6666666666666,15 de noviembre
-45,Paraguay,3,34.666666666666664,15 de noviembre
-45,El Salvador,103,172.66666666666666,15 de noviembre
-45,Uruguay,29,76.33333333333333,15 de noviembre
-45,Venezuela,477,844.3333333333334,15 de noviembre
-46,Argentina,1375,792.3333333333334,22 de noviembre
-46,Bolivia,192,124.33333333333333,22 de noviembre
+45,El Salvador,71,162.0,15 de noviembre
+45,Uruguay,21,73.66666666666667,15 de noviembre
+45,Venezuela,305,787.0,15 de noviembre
+46,Argentina,1325,938.6666666666666,22 de noviembre
+46,Bolivia,191,124.33333333333333,22 de noviembre
 46,Brasil,7669,7148.333333333333,22 de noviembre
-46,Chile,2065,1000.3333333333334,22 de noviembre
-46,Colombia,13590,7914.666666666667,22 de noviembre
-46,Costa Rica,85,61.0,22 de noviembre
-46,Rep. Dominicana,105,69.0,22 de noviembre
-46,Ecuador,236,131.33333333333334,22 de noviembre
-46,Guatemala,439,300.3333333333333,22 de noviembre
-46,Honduras,84,53.333333333333336,22 de noviembre
-46,Nicaragua,127,81.66666666666667,22 de noviembre
-46,Panamá,36,24.666666666666668,22 de noviembre
-46,Perú,565,557.0,22 de noviembre
-46,Paraguay,96,66.33333333333333,22 de noviembre
-46,El Salvador,341,205.66666666666666,22 de noviembre
-46,Uruguay,95,56.333333333333336,22 de noviembre
-46,Venezuela,1899,1027.3333333333333,22 de noviembre
-47,Argentina,1715,1154.3333333333333,29 de noviembre
+46,Chile,1178,778.0,22 de noviembre
+46,Colombia,10828,8004.333333333333,22 de noviembre
+46,Costa Rica,71,75.0,22 de noviembre
+46,Rep. Dominicana,107,74.33333333333333,22 de noviembre
+46,Ecuador,197,121.0,22 de noviembre
+46,Guatemala,418,350.3333333333333,22 de noviembre
+46,Honduras,76,67.0,22 de noviembre
+46,Nicaragua,129,82.0,22 de noviembre
+46,Panamá,45,24.0,22 de noviembre
+46,Perú,451,611.0,22 de noviembre
+46,Paraguay,99,66.66666666666667,22 de noviembre
+46,El Salvador,295,226.66666666666666,22 de noviembre
+46,Uruguay,97,75.33333333333333,22 de noviembre
+46,Venezuela,1697,1145.0,22 de noviembre
+47,Argentina,972,890.0,29 de noviembre
+47,Bolivia,1,64.33333333333333,29 de noviembre
 47,Brasil,7074,6881.333333333333,29 de noviembre
-47,Chile,969,1174.6666666666667,29 de noviembre
-47,Colombia,13931,10655.0,29 de noviembre
-47,Costa Rica,46,58.0,29 de noviembre
-47,Rep. Dominicana,18,44.333333333333336,29 de noviembre
-47,Ecuador,59,114.0,29 de noviembre
-47,Guatemala,229,292.6666666666667,29 de noviembre
-47,Honduras,36,56.333333333333336,29 de noviembre
-47,Nicaragua,9,51.333333333333336,29 de noviembre
-47,Panamá,6,24.333333333333332,29 de noviembre
-47,Perú,425,440.0,29 de noviembre
-47,Paraguay,2,33.666666666666664,29 de noviembre
-47,El Salvador,109,184.33333333333334,29 de noviembre
-47,Uruguay,54,59.333333333333336,29 de noviembre
-47,Venezuela,380,918.6666666666666,29 de noviembre
-48,Argentina,2120,1736.6666666666667,6 de diciembre
+47,Chile,1677,1115.0,29 de noviembre
+47,Colombia,11367,8710.333333333334,29 de noviembre
+47,Costa Rica,77,58.0,29 de noviembre
+47,Rep. Dominicana,23,44.333333333333336,29 de noviembre
+47,Ecuador,116,114.0,29 de noviembre
+47,Guatemala,331,293.0,29 de noviembre
+47,Honduras,66,56.333333333333336,29 de noviembre
+47,Nicaragua,19,51.333333333333336,29 de noviembre
+47,Panamá,20,24.333333333333332,29 de noviembre
+47,Perú,494,425.0,29 de noviembre
+47,Paraguay,2,67.0,29 de noviembre
+47,El Salvador,187,184.33333333333334,29 de noviembre
+47,Uruguay,60,59.333333333333336,29 de noviembre
+47,Venezuela,754,918.6666666666666,29 de noviembre
+48,Argentina,2790,1695.6666666666667,6 de diciembre
 48,Brasil,8406,7716.333333333333,6 de diciembre
-48,Chile,2632,1888.6666666666667,6 de diciembre
-48,Colombia,15962,14494.333333333334,6 de diciembre
-48,Perú,1227,739.0,6 de diciembre
-48,Venezuela,8,762.3333333333334,6 de diciembre
-49,Argentina,1016,1617.0,13 de diciembre
+48,Chile,1671,1508.6666666666667,6 de diciembre
+48,Colombia,18954,13716.333333333334,6 de diciembre
+48,Perú,950,631.6666666666666,6 de diciembre
+48,Venezuela,8,819.6666666666666,6 de diciembre
+49,Argentina,1139,1633.6666666666667,13 de diciembre
 49,Brasil,3873,6451.0,13 de diciembre
-49,Chile,3050,2217.0,13 de diciembre
-49,Colombia,11028,13640.333333333334,13 de diciembre
-49,Perú,2131,1261.0,13 de diciembre
-49,Venezuela,9,132.33333333333334,13 de diciembre
-50,Argentina,4,1046.6666666666667,20 de diciembre
+49,Chile,4190,2512.6666666666665,13 de diciembre
+49,Colombia,13894,14738.333333333334,13 de diciembre
+49,Perú,2450,1298.0,13 de diciembre
+49,Venezuela,9,257.0,13 de diciembre
+50,Argentina,2,1310.3333333333333,20 de diciembre
 50,Brasil,3234,5171.0,20 de diciembre
-50,Chile,44,1908.6666666666667,20 de diciembre
-50,Colombia,76,9022.0,20 de diciembre
-50,Costa Rica,19,50.0,20 de diciembre
-50,Rep. Dominicana,5,42.666666666666664,20 de diciembre
-50,Ecuador,1,98.66666666666667,20 de diciembre
-50,Guatemala,24,230.66666666666666,20 de diciembre
-50,Honduras,21,47.0,20 de diciembre
-50,Nicaragua,13,49.666666666666664,20 de diciembre
-50,Panamá,20,20.666666666666668,20 de diciembre
-50,Perú,117,1158.3333333333333,20 de diciembre
-50,El Salvador,31,160.33333333333334,20 de diciembre
-50,Uruguay,17,55.333333333333336,20 de diciembre
+50,Chile,4,1955.0,20 de diciembre
+50,Colombia,73,10973.666666666666,20 de diciembre
+50,Costa Rica,19,55.666666666666664,20 de diciembre
+50,Rep. Dominicana,5,45.0,20 de diciembre
+50,Ecuador,1,104.66666666666667,20 de diciembre
+50,Guatemala,24,257.6666666666667,20 de diciembre
+50,Honduras,21,54.333333333333336,20 de diciembre
+50,Nicaragua,13,53.666666666666664,20 de diciembre
+50,Panamá,20,28.333333333333332,20 de diciembre
+50,Perú,107,1169.0,20 de diciembre
+50,El Salvador,31,171.0,20 de diciembre
+50,Uruguay,17,58.0,20 de diciembre
 50,Venezuela,3,6.666666666666667,20 de diciembre
-51,Argentina,213,411.0,27 de diciembre
+51,Argentina,213,451.3333333333333,27 de diciembre
 51,Brasil,1466,2857.6666666666665,27 de diciembre
-51,Chile,255,1116.3333333333333,27 de diciembre
-51,Colombia,120,3741.3333333333335,27 de diciembre
-51,Costa Rica,21,28.666666666666668,27 de diciembre
-51,Rep. Dominicana,5,9.333333333333334,27 de diciembre
-51,Ecuador,94,51.333333333333336,27 de diciembre
-51,Guatemala,27,93.33333333333333,27 de diciembre
-51,Honduras,44,33.666666666666664,27 de diciembre
-51,Nicaragua,19,13.666666666666666,27 de diciembre
-51,Panamá,34,20.0,27 de diciembre
-51,Perú,182,810.0,27 de diciembre
-51,Paraguay,1,33.0,27 de diciembre
-51,El Salvador,83,74.33333333333333,27 de diciembre
-51,Uruguay,35,35.333333333333336,27 de diciembre
+51,Chile,281,1491.6666666666667,27 de diciembre
+51,Colombia,119,4695.333333333333,27 de diciembre
+51,Costa Rica,21,39.0,27 de diciembre
+51,Rep. Dominicana,5,11.0,27 de diciembre
+51,Ecuador,94,70.33333333333333,27 de diciembre
+51,Guatemala,27,127.33333333333333,27 de diciembre
+51,Honduras,44,43.666666666666664,27 de diciembre
+51,Nicaragua,19,17.0,27 de diciembre
+51,Panamá,34,24.666666666666668,27 de diciembre
+51,Perú,189,915.3333333333334,27 de diciembre
+51,Paraguay,1,34.0,27 de diciembre
+51,El Salvador,82,100.0,27 de diciembre
+51,Uruguay,35,37.333333333333336,27 de diciembre
 51,Venezuela,436,149.33333333333334,27 de diciembre
-52,Argentina,102,106.33333333333333,
+52,Argentina,104,106.33333333333333,
 52,Brasil,449,1716.3333333333333,
-52,Chile,116,138.33333333333334,
-52,Colombia,37,77.66666666666667,
+52,Chile,130,138.33333333333334,
+52,Colombia,41,77.66666666666667,
 52,Costa Rica,18,19.333333333333332,
 52,Rep. Dominicana,4,4.666666666666667,
 52,Ecuador,41,45.333333333333336,
@@ -855,7 +853,7 @@ fecha_online,pais,conteo,conteo_MA,semana
 52,Honduras,14,26.333333333333332,
 52,Nicaragua,8,13.333333333333334,
 52,Panamá,9,21.0,
-52,Perú,81,126.66666666666667,
-52,El Salvador,35,49.666666666666664,
+52,Perú,87,127.66666666666667,
+52,El Salvador,36,49.666666666666664,
 52,Uruguay,13,21.666666666666668,
 52,Venezuela,225,221.33333333333334,
