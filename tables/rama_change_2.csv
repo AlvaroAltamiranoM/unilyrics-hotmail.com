@@ -1,31 +1,31 @@
 rama_de_actividad,pais,year_x,year_y,growth,colorcol
-Informática / Hardware,Argentina,2021.0,2021.0,-60.0,no
-Energía / Minería,Argentina,2021.0,2021.0,-50.0,no
-Medios de Comunicación,Argentina,2021.0,2021.0,-50.0,no
-Hostelería / Turismo,Argentina,2021.0,2021.0,-30.201342281879192,no
-Transporte / Logística,Argentina,2021.0,2021.0,-18.75,no
-Salud / Medicina,Argentina,2021.0,2020.0,213.35149863760216,yes
-Educación,Argentina,2021.0,2020.0,235.71428571428572,yes
-Materias Primas,Argentina,2021.0,2020.0,359.99999999999994,yes
-Entretenimiento / Deportes,Argentina,2021.0,2020.0,800.0,yes
-Finanzas / Banca,Argentina,2021.0,2020.0,823.5294117647059,yes
-Gobierno / No Lucro,Chile,2021.0,2020.0,-35.483870967741936,no
-Materias Primas,Chile,2021.0,2020.0,-20.0,no
-Energía / Minería,Chile,2021.0,2021.0,23.07692307692308,yes
-Legal / Asesoría,Chile,2021.0,2021.0,23.07692307692308,yes
-Telecomunicaciones,Chile,2021.0,2020.0,25.08591065292096,yes
-Otros,Chile,2021.0,2020.0,233.33333333333337,yes
-Energía / Minería,Chile,2021.0,2020.0,238.46153846153845,yes
-Legal / Asesoría,Chile,2021.0,2020.0,253.8461538461538,yes
-Educación,Chile,2021.0,2020.0,421.21212121212125,yes
-Hostelería / Turismo,Chile,2021.0,2020.0,481.981981981982,yes
-Medios de Comunicación,Colombia,2021.0,2021.0,-42.42424242424242,no
-Informática / Software,Colombia,2021.0,2021.0,-33.16239316239317,no
-Salud / Medicina,Colombia,2021.0,2020.0,-29.901329901329902,no
-Educación,Colombia,2021.0,2021.0,-27.917282127031015,no
-Legal / Asesoría,Colombia,2021.0,2021.0,-27.659574468085097,no
-Internet,Colombia,2021.0,2020.0,172.22222222222223,yes
-Publicidad / RRPP,Colombia,2021.0,2020.0,175.4189944134078,yes
-Informática / Hardware,Colombia,2021.0,2020.0,188.88888888888886,yes
-Materias Primas,Colombia,2021.0,2020.0,228.57142857142856,yes
-Otros,Colombia,2021.0,2020.0,233.33333333333337,yes
+Informática / Hardware,Argentina,2020.0,2021.0,-60.0,no
+Energía / Minería,Argentina,2020.0,2021.0,-53.84615384615385,no
+Entretenimiento / Deportes,Argentina,2020.0,2021.0,-36.36363636363637,no
+Legal / Asesoría,Argentina,2020.0,2021.0,-31.707317073170728,no
+Hostelería / Turismo,Argentina,2020.0,2021.0,-26.24113475177306,no
+Salud / Medicina,Argentina,2020.0,2020.0,584.5238095238095,yes
+Telecomunicaciones,Argentina,2020.0,2020.0,737.0370370370371,yes
+Informática / Software,Argentina,2020.0,2021.0,931.404958677686,yes
+Finanzas / Banca,Argentina,2020.0,2020.0,1021.4285714285713,yes
+Informática / Software,Argentina,2020.0,2020.0,1488.4297520661157,yes
+Gobierno / No Lucro,Chile,2020.0,2020.0,-39.39393939393939,no
+Legal / Asesoría,Chile,2020.0,2021.0,-20.0,no
+Educación,Chile,2020.0,2021.0,-8.333333333333343,no
+Otros,Chile,2020.0,2020.0,25.0,yes
+Gobierno / No Lucro,Chile,2020.0,2021.0,27.272727272727266,yes
+Salud / Medicina,Chile,2020.0,2020.0,611.6279069767442,yes
+Finanzas / Banca,Chile,2020.0,2021.0,1081.8181818181818,yes
+Medios de Comunicación,Chile,2020.0,2021.0,1350.0,yes
+Medios de Comunicación,Chile,2020.0,2020.0,1450.0,yes
+Finanzas / Banca,Chile,2020.0,2020.0,1772.7272727272727,yes
+Informática / Hardware,Colombia,2020.0,2021.0,82.35294117647058,yes
+Materias Primas,Colombia,2020.0,2021.0,82.6086956521739,yes
+Internet,Colombia,2020.0,2021.0,108.69565217391303,yes
+Construcción / obras,Colombia,2020.0,2021.0,165.70048309178742,yes
+Educación,Colombia,2020.0,2021.0,178.8571428571429,yes
+Finanzas / Banca,Colombia,2020.0,2021.0,1265.2173913043478,yes
+Servicios Profesionales,Colombia,2020.0,2020.0,1484.7750865051903,yes
+Finanzas / Banca,Colombia,2020.0,2020.0,1691.304347826087,yes
+Telecomunicaciones,Colombia,2020.0,2020.0,5023.711340206186,yes
+Telecomunicaciones,Colombia,2020.0,2021.0,5549.484536082474,yes
