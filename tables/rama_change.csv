@@ -1,31 +1,31 @@
-pais,rama_de_actividad,growth,colorcol
-Argentina,Publicidad / RRPP,71.42857142857142,yes
-Argentina,Internet,100.0,yes
-Argentina,Materias Primas,100.0,yes
-Argentina,Informática / Hardware,118.18181818181816,yes
-Argentina,Agricultura / Pesca / Ganadería,122.22222222222223,yes
-Argentina,Entretenimiento / Deportes,225.0,yes
-Argentina,Construcción / obras,238.46153846153845,yes
-Argentina,Energía / Minería,260.0,yes
-Argentina,Legal / Asesoría,260.0,yes
-Argentina,Venta al por mayor,281.8181818181818,yes
-Chile,Finanzas / Banca,7.692307692307693,yes
-Chile,Medios de Comunicación,33.333333333333314,yes
-Chile,Energía / Minería,81.81818181818181,yes
-Chile,Educación,128.57142857142856,yes
-Chile,Publicidad / RRPP,128.57142857142856,yes
-Chile,Venta al por mayor,233.33333333333337,yes
-Chile,Informática / Hardware,238.46153846153845,yes
-Chile,Materias Primas,250.0,yes
-Chile,Gobierno / No Lucro,357.1428571428571,yes
-Chile,Entretenimiento / Deportes,400.0,yes
-Colombia,Gobierno / No Lucro,-46.666666666666664,no
-Colombia,Medios de Comunicación,-37.5,no
-Colombia,Informática / Hardware,23.80952380952381,yes
-Colombia,Agricultura / Pesca / Ganadería,25.0,yes
-Colombia,Finanzas / Banca,33.333333333333314,yes
-Colombia,Informática / Software,83.33333333333331,yes
-Colombia,Venta al consumidor,84.0,yes
-Colombia,Educación,92.0,yes
-Colombia,Transporte,100.0,yes
-Colombia,Fabricación,108.33333333333334,yes
+pais,rama_de_actividad,year,growth,colorcol
+Argentina,Finanzas / Banca,2021.0,-78.34394904458598,no
+Argentina,Informática / Hardware,2021.0,-65.51724137931035,no
+Argentina,Entretenimiento / Deportes,2021.0,-61.11111111111111,no
+Argentina,Hostelería / Turismo,2021.0,-48.768472906403936,no
+Argentina,Salud / Medicina,2021.0,-46.434782608695656,no
+Argentina,Servicios Profesionales,2020.0,100.0,yes
+Argentina,Telecomunicaciones,2020.0,100.0,yes
+Argentina,Transporte / Logística,2020.0,100.0,yes
+Argentina,Venta al consumidor,2020.0,100.0,yes
+Argentina,Venta al por mayor,2020.0,100.0,yes
+Chile,Educación,2021.0,-48.837209302325576,no
+Chile,Legal / Asesoría,2021.0,-30.434782608695656,no
+Chile,Energía / Minería,2021.0,-27.272727272727266,no
+Chile,Hostelería / Turismo,2021.0,-0.30959752321982137,no
+Chile,Informática / Software,2021.0,4.960835509138377,yes
+Chile,Transporte / Logística,2021.0,126.41509433962264,yes
+Chile,Venta al por mayor,2021.0,250.0,yes
+Chile,Servicios Profesionales,2021.0,252.35849056603774,yes
+Chile,Gobierno / No Lucro,2021.0,320.0,yes
+Chile,Materias Primas,2021.0,566.6666666666667,yes
+Colombia,Materias Primas,2021.0,-39.13043478260869,no
+Colombia,Informática / Hardware,2021.0,-31.86813186813187,no
+Colombia,Medios de Comunicación,2021.0,-28.301886792452834,no
+Colombia,Entretenimiento / Deportes,2021.0,-27.777777777777786,no
+Colombia,Venta al por mayor,2021.0,-25.86206896551724,no
+Colombia,Transporte,2020.0,100.0,yes
+Colombia,Venta al consumidor,2020.0,100.0,yes
+Colombia,Venta al por mayor,2020.0,100.0,yes
+Colombia,Salud / Medicina,2021.0,116.89106487148103,yes
+Colombia,Telecomunicaciones,2021.0,120.52313883299797,yes
