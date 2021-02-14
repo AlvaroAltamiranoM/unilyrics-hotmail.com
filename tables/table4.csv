@@ -8,6 +8,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,1.0,Ecuador,114,114.0,12 de enero
 2020.0,1.0,Guatemala,35,35.0,12 de enero
 2020.0,1.0,Honduras,32,32.0,12 de enero
+2020.0,1.0,México,319,319.0,12 de enero
 2020.0,1.0,Nicaragua,14,14.0,12 de enero
 2020.0,1.0,Panamá,18,18.0,12 de enero
 2020.0,1.0,Perú,259,259.0,12 de enero
@@ -23,6 +24,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,2.0,Ecuador,325,219.5,19 de enero
 2020.0,2.0,Guatemala,198,116.5,19 de enero
 2020.0,2.0,Honduras,112,72.0,19 de enero
+2020.0,2.0,México,997,658.0,19 de enero
 2020.0,2.0,Nicaragua,50,32.0,19 de enero
 2020.0,2.0,Panamá,59,38.5,19 de enero
 2020.0,2.0,Perú,571,415.0,19 de enero
@@ -40,7 +42,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,3.0,Ecuador,283,240.66666666666666,26 de enero
 2020.0,3.0,Guatemala,154,129.0,26 de enero
 2020.0,3.0,Honduras,86,76.66666666666667,26 de enero
-2020.0,3.0,México,556,556.0,26 de enero
+2020.0,3.0,México,984,766.6666666666666,26 de enero
 2020.0,3.0,Nicaragua,34,32.666666666666664,26 de enero
 2020.0,3.0,Panamá,79,52.0,26 de enero
 2020.0,3.0,Perú,476,435.3333333333333,26 de enero
@@ -58,7 +60,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,4.0,Ecuador,293,300.3333333333333,2 de febrero
 2020.0,4.0,Guatemala,193,181.66666666666666,2 de febrero
 2020.0,4.0,Honduras,124,107.33333333333333,2 de febrero
-2020.0,4.0,México,936,746.0,2 de febrero
+2020.0,4.0,México,1079,1020.0,2 de febrero
 2020.0,4.0,Nicaragua,49,44.333333333333336,2 de febrero
 2020.0,4.0,Panamá,61,66.33333333333333,2 de febrero
 2020.0,4.0,Perú,434,493.6666666666667,2 de febrero
@@ -76,7 +78,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,5.0,Ecuador,226,267.3333333333333,9 de febrero
 2020.0,5.0,Guatemala,332,226.33333333333334,9 de febrero
 2020.0,5.0,Honduras,196,135.33333333333334,9 de febrero
-2020.0,5.0,México,753,748.3333333333334,9 de febrero
+2020.0,5.0,México,3502,1855.0,9 de febrero
 2020.0,5.0,Nicaragua,50,44.333333333333336,9 de febrero
 2020.0,5.0,Panamá,91,77.0,9 de febrero
 2020.0,5.0,Perú,1188,699.3333333333334,9 de febrero
@@ -94,7 +96,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,6.0,Ecuador,649,389.3333333333333,16 de febrero
 2020.0,6.0,Guatemala,1959,828.0,16 de febrero
 2020.0,6.0,Honduras,555,291.6666666666667,16 de febrero
-2020.0,6.0,México,867,852.0,16 de febrero
+2020.0,6.0,México,30988,11856.333333333334,16 de febrero
 2020.0,6.0,Nicaragua,56,51.666666666666664,16 de febrero
 2020.0,6.0,Panamá,161,104.33333333333333,16 de febrero
 2020.0,6.0,Perú,9300,3640.6666666666665,16 de febrero
@@ -112,7 +114,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,7.0,Ecuador,785,553.3333333333334,23 de febrero
 2020.0,7.0,Guatemala,2171,1487.3333333333333,23 de febrero
 2020.0,7.0,Honduras,430,393.6666666666667,23 de febrero
-2020.0,7.0,México,1364,994.6666666666666,23 de febrero
+2020.0,7.0,México,57320,30603.333333333332,23 de febrero
 2020.0,7.0,Nicaragua,112,72.66666666666667,23 de febrero
 2020.0,7.0,Panamá,110,120.66666666666667,23 de febrero
 2020.0,7.0,Perú,15078,8522.0,23 de febrero
@@ -129,7 +131,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,8.0,Ecuador,243,559.0,1 de marzo
 2020.0,8.0,Guatemala,168,1432.6666666666667,1 de marzo
 2020.0,8.0,Honduras,99,361.3333333333333,1 de marzo
-2020.0,8.0,México,1909,1380.0,1 de marzo
+2020.0,8.0,México,12171,33493.0,1 de marzo
 2020.0,8.0,Nicaragua,46,71.33333333333333,1 de marzo
 2020.0,8.0,Panamá,64,111.66666666666667,1 de marzo
 2020.0,8.0,Paraguay,2,40.666666666666664,1 de marzo
@@ -145,7 +147,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,9.0,Ecuador,156,394.6666666666667,8 de marzo
 2020.0,9.0,Guatemala,207,848.6666666666666,8 de marzo
 2020.0,9.0,Honduras,105,211.33333333333334,8 de marzo
-2020.0,9.0,México,3668,2313.6666666666665,8 de marzo
+2020.0,9.0,México,1927,23806.0,8 de marzo
 2020.0,9.0,Nicaragua,40,66.0,8 de marzo
 2020.0,9.0,Panamá,56,76.66666666666667,8 de marzo
 2020.0,9.0,Paraguay,8,9.666666666666666,8 de marzo
@@ -162,7 +164,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,10.0,Ecuador,383,260.6666666666667,15 de marzo
 2020.0,10.0,Guatemala,891,422.0,15 de marzo
 2020.0,10.0,Honduras,240,148.0,15 de marzo
-2020.0,10.0,México,21146,8907.666666666666,15 de marzo
+2020.0,10.0,México,9510,7869.333333333333,15 de marzo
 2020.0,10.0,Nicaragua,45,43.666666666666664,15 de marzo
 2020.0,10.0,Panamá,96,72.0,15 de marzo
 2020.0,10.0,Perú,80,8152.666666666667,15 de marzo
@@ -180,7 +182,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,11.0,Ecuador,472,337.0,22 de marzo
 2020.0,11.0,Guatemala,1625,907.6666666666666,22 de marzo
 2020.0,11.0,Honduras,265,203.33333333333334,22 de marzo
-2020.0,11.0,México,28661,17825.0,22 de marzo
+2020.0,11.0,México,16288,9241.666666666666,22 de marzo
 2020.0,11.0,Nicaragua,100,61.666666666666664,22 de marzo
 2020.0,11.0,Panamá,70,74.0,22 de marzo
 2020.0,11.0,Perú,6351,7169.666666666667,22 de marzo
@@ -198,7 +200,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,12.0,Ecuador,133,329.3333333333333,29 de marzo
 2020.0,12.0,Guatemala,633,1049.6666666666667,29 de marzo
 2020.0,12.0,Honduras,58,187.66666666666666,29 de marzo
-2020.0,12.0,México,4609,18138.666666666668,29 de marzo
+2020.0,12.0,México,4486,10094.666666666666,29 de marzo
 2020.0,12.0,Nicaragua,29,58.0,29 de marzo
 2020.0,12.0,Panamá,34,66.66666666666667,29 de marzo
 2020.0,12.0,Paraguay,15,30.666666666666668,29 de marzo
@@ -214,7 +216,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,13.0,Ecuador,32,212.33333333333334,5 de abril
 2020.0,13.0,Guatemala,68,775.3333333333334,5 de abril
 2020.0,13.0,Honduras,28,117.0,5 de abril
-2020.0,13.0,México,7750,13673.333333333334,5 de abril
+2020.0,13.0,México,7057,9277.0,5 de abril
 2020.0,13.0,Nicaragua,13,47.333333333333336,5 de abril
 2020.0,13.0,Panamá,23,42.333333333333336,5 de abril
 2020.0,13.0,Paraguay,5,26.0,5 de abril
@@ -231,7 +233,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,14.0,Ecuador,73,79.33333333333333,12 de abril
 2020.0,14.0,Guatemala,519,406.6666666666667,12 de abril
 2020.0,14.0,Honduras,97,61.0,12 de abril
-2020.0,14.0,México,16953,9770.666666666666,12 de abril
+2020.0,14.0,México,15297,8946.666666666666,12 de abril
 2020.0,14.0,Nicaragua,24,22.0,12 de abril
 2020.0,14.0,Panamá,8,21.666666666666668,12 de abril
 2020.0,14.0,Perú,2483,2971.3333333333335,12 de abril
@@ -249,7 +251,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,15.0,Ecuador,42,49.0,19 de abril
 2020.0,15.0,Guatemala,122,236.33333333333334,19 de abril
 2020.0,15.0,Honduras,25,50.0,19 de abril
-2020.0,15.0,México,50782,25161.666666666668,19 de abril
+2020.0,15.0,México,44816,22390.0,19 de abril
 2020.0,15.0,Nicaragua,103,46.666666666666664,19 de abril
 2020.0,15.0,Panamá,9,13.333333333333334,19 de abril
 2020.0,15.0,Perú,331,3055.0,19 de abril
@@ -267,7 +269,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,16.0,Ecuador,70,61.666666666666664,26 de abril
 2020.0,16.0,Guatemala,238,293.0,26 de abril
 2020.0,16.0,Honduras,31,51.0,26 de abril
-2020.0,16.0,México,2905,23546.666666666668,26 de abril
+2020.0,16.0,México,2863,20992.0,26 de abril
 2020.0,16.0,Nicaragua,22,49.666666666666664,26 de abril
 2020.0,16.0,Panamá,9,8.666666666666666,26 de abril
 2020.0,16.0,Perú,871,1228.3333333333333,26 de abril
@@ -285,7 +287,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,17.0,Ecuador,52,54.666666666666664,3 de mayo
 2020.0,17.0,Guatemala,226,195.33333333333334,3 de mayo
 2020.0,17.0,Honduras,77,44.333333333333336,3 de mayo
-2020.0,17.0,México,13497,22394.666666666668,3 de mayo
+2020.0,17.0,México,13293,20324.0,3 de mayo
 2020.0,17.0,Nicaragua,21,48.666666666666664,3 de mayo
 2020.0,17.0,Panamá,14,10.666666666666666,3 de mayo
 2020.0,17.0,Perú,222,474.6666666666667,3 de mayo
@@ -303,7 +305,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,18.0,Ecuador,63,61.666666666666664,10 de mayo
 2020.0,18.0,Guatemala,285,249.66666666666666,10 de mayo
 2020.0,18.0,Honduras,49,52.333333333333336,10 de mayo
-2020.0,18.0,México,6271,7557.666666666667,10 de mayo
+2020.0,18.0,México,6221,7459.0,10 de mayo
 2020.0,18.0,Nicaragua,56,33.0,10 de mayo
 2020.0,18.0,Panamá,12,11.666666666666666,10 de mayo
 2020.0,18.0,Perú,783,625.3333333333334,10 de mayo
@@ -320,7 +322,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,19.0,Ecuador,78,64.33333333333333,17 de mayo
 2020.0,19.0,Guatemala,277,262.6666666666667,17 de mayo
 2020.0,19.0,Honduras,48,58.0,17 de mayo
-2020.0,19.0,México,7619,9129.0,17 de mayo
+2020.0,19.0,México,7538,9017.333333333334,17 de mayo
 2020.0,19.0,Nicaragua,132,69.66666666666667,17 de mayo
 2020.0,19.0,Panamá,20,15.333333333333334,17 de mayo
 2020.0,19.0,Perú,1084,696.3333333333334,17 de mayo
@@ -337,7 +339,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,20.0,Ecuador,87,76.0,24 de mayo
 2020.0,20.0,Guatemala,306,289.3333333333333,24 de mayo
 2020.0,20.0,Honduras,46,47.666666666666664,24 de mayo
-2020.0,20.0,México,8223,7371.0,24 de mayo
+2020.0,20.0,México,8160,7306.333333333333,24 de mayo
 2020.0,20.0,Nicaragua,24,70.66666666666667,24 de mayo
 2020.0,20.0,Panamá,30,20.666666666666668,24 de mayo
 2020.0,20.0,Perú,1694,1187.0,24 de mayo
@@ -355,7 +357,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,21.0,Ecuador,76,80.33333333333333,31 de mayo
 2020.0,21.0,Guatemala,234,272.3333333333333,31 de mayo
 2020.0,21.0,Honduras,36,43.333333333333336,31 de mayo
-2020.0,21.0,México,7448,7763.333333333333,31 de mayo
+2020.0,21.0,México,7395,7697.666666666667,31 de mayo
 2020.0,21.0,Nicaragua,24,60.0,31 de mayo
 2020.0,21.0,Panamá,20,23.333333333333332,31 de mayo
 2020.0,21.0,Perú,1598,1458.6666666666667,31 de mayo
@@ -373,7 +375,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,22.0,Ecuador,74,79.0,7 de junio
 2020.0,22.0,Guatemala,294,278.0,7 de junio
 2020.0,22.0,Honduras,86,56.0,7 de junio
-2020.0,22.0,México,8085,7918.666666666667,7 de junio
+2020.0,22.0,México,8034,7863.0,7 de junio
 2020.0,22.0,Nicaragua,12,20.0,7 de junio
 2020.0,22.0,Panamá,36,28.666666666666668,7 de junio
 2020.0,22.0,Perú,2031,1774.3333333333333,7 de junio
@@ -390,7 +392,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,23.0,Ecuador,126,92.0,14 de junio
 2020.0,23.0,Guatemala,413,313.6666666666667,14 de junio
 2020.0,23.0,Honduras,71,64.33333333333333,14 de junio
-2020.0,23.0,México,10204,8579.0,14 de junio
+2020.0,23.0,México,10145,8524.666666666666,14 de junio
 2020.0,23.0,Nicaragua,145,60.333333333333336,14 de junio
 2020.0,23.0,Panamá,49,35.0,14 de junio
 2020.0,23.0,Perú,2913,2180.6666666666665,14 de junio
@@ -408,7 +410,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,24.0,Ecuador,139,113.0,21 de junio
 2020.0,24.0,Guatemala,239,315.3333333333333,21 de junio
 2020.0,24.0,Honduras,68,75.0,21 de junio
-2020.0,24.0,México,7415,8568.0,21 de junio
+2020.0,24.0,México,7361,8513.333333333334,21 de junio
 2020.0,24.0,Nicaragua,28,61.666666666666664,21 de junio
 2020.0,24.0,Panamá,25,36.666666666666664,21 de junio
 2020.0,24.0,Perú,2209,2384.3333333333335,21 de junio
@@ -426,7 +428,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,25.0,Ecuador,146,137.0,28 de junio
 2020.0,25.0,Guatemala,345,332.3333333333333,28 de junio
 2020.0,25.0,Honduras,77,72.0,28 de junio
-2020.0,25.0,México,9840,9153.0,28 de junio
+2020.0,25.0,México,9788,9098.0,28 de junio
 2020.0,25.0,Nicaragua,96,89.66666666666667,28 de junio
 2020.0,25.0,Panamá,24,32.666666666666664,28 de junio
 2020.0,25.0,Perú,2360,2494.0,28 de junio
@@ -444,7 +446,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,26.0,Ecuador,141,142.0,5 de julio
 2020.0,26.0,Guatemala,333,305.6666666666667,5 de julio
 2020.0,26.0,Honduras,76,73.66666666666667,5 de julio
-2020.0,26.0,México,8401,8552.0,5 de julio
+2020.0,26.0,México,8370,8506.333333333334,5 de julio
 2020.0,26.0,Nicaragua,63,62.333333333333336,5 de julio
 2020.0,26.0,Panamá,26,25.0,5 de julio
 2020.0,26.0,Perú,1868,2145.6666666666665,5 de julio
@@ -462,7 +464,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,27.0,Ecuador,183,156.66666666666666,12 de julio
 2020.0,27.0,Guatemala,309,329.0,12 de julio
 2020.0,27.0,Honduras,78,77.0,12 de julio
-2020.0,27.0,México,9194,9145.0,12 de julio
+2020.0,27.0,México,9144,9100.666666666666,12 de julio
 2020.0,27.0,Nicaragua,91,83.33333333333333,12 de julio
 2020.0,27.0,Panamá,26,25.333333333333332,12 de julio
 2020.0,27.0,Perú,2009,2079.0,12 de julio
@@ -480,7 +482,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,28.0,Ecuador,157,160.33333333333334,19 de julio
 2020.0,28.0,Guatemala,387,343.0,19 de julio
 2020.0,28.0,Honduras,84,79.33333333333333,19 de julio
-2020.0,28.0,México,9288,8961.0,19 de julio
+2020.0,28.0,México,9239,8917.666666666666,19 de julio
 2020.0,28.0,Nicaragua,72,75.33333333333333,19 de julio
 2020.0,28.0,Panamá,36,29.333333333333332,19 de julio
 2020.0,28.0,Perú,2212,2029.6666666666667,19 de julio
@@ -498,7 +500,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,29.0,Ecuador,184,174.66666666666666,26 de julio
 2020.0,29.0,Guatemala,403,366.3333333333333,26 de julio
 2020.0,29.0,Honduras,82,81.33333333333333,26 de julio
-2020.0,29.0,México,12821,10434.333333333334,26 de julio
+2020.0,29.0,México,12787,10390.0,26 de julio
 2020.0,29.0,Nicaragua,100,87.66666666666667,26 de julio
 2020.0,29.0,Panamá,42,34.666666666666664,26 de julio
 2020.0,29.0,Perú,2439,2220.0,26 de julio
@@ -516,7 +518,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,30.0,Ecuador,159,166.66666666666666,2 de agosto
 2020.0,30.0,Guatemala,328,372.6666666666667,2 de agosto
 2020.0,30.0,Honduras,85,83.66666666666667,2 de agosto
-2020.0,30.0,México,10808,10972.333333333334,2 de agosto
+2020.0,30.0,México,10785,10937.0,2 de agosto
 2020.0,30.0,Nicaragua,44,72.0,2 de agosto
 2020.0,30.0,Panamá,18,32.0,2 de agosto
 2020.0,30.0,Perú,1684,2111.6666666666665,2 de agosto
@@ -534,7 +536,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,31.0,Ecuador,146,163.0,9 de agosto
 2020.0,31.0,Guatemala,357,362.6666666666667,9 de agosto
 2020.0,31.0,Honduras,114,93.66666666666667,9 de agosto
-2020.0,31.0,México,11116,11581.666666666666,9 de agosto
+2020.0,31.0,México,11086,11552.666666666666,9 de agosto
 2020.0,31.0,Nicaragua,97,80.33333333333333,9 de agosto
 2020.0,31.0,Panamá,29,29.666666666666668,9 de agosto
 2020.0,31.0,Perú,1951,2024.6666666666667,9 de agosto
@@ -552,7 +554,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,32.0,Ecuador,158,154.33333333333334,16 de agosto
 2020.0,32.0,Guatemala,427,370.6666666666667,16 de agosto
 2020.0,32.0,Honduras,97,98.66666666666667,16 de agosto
-2020.0,32.0,México,11512,11145.333333333334,16 de agosto
+2020.0,32.0,México,11483,11118.0,16 de agosto
 2020.0,32.0,Nicaragua,35,58.666666666666664,16 de agosto
 2020.0,32.0,Panamá,29,25.333333333333332,16 de agosto
 2020.0,32.0,Perú,2158,1931.0,16 de agosto
@@ -570,7 +572,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,33.0,Ecuador,187,163.66666666666666,23 de agosto
 2020.0,33.0,Guatemala,486,423.3333333333333,23 de agosto
 2020.0,33.0,Honduras,96,102.33333333333333,23 de agosto
-2020.0,33.0,México,11815,11481.0,23 de agosto
+2020.0,33.0,México,11779,11449.333333333334,23 de agosto
 2020.0,33.0,Nicaragua,96,76.0,23 de agosto
 2020.0,33.0,Panamá,20,26.0,23 de agosto
 2020.0,33.0,Perú,2147,2085.3333333333335,23 de agosto
@@ -588,7 +590,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,34.0,Ecuador,190,178.33333333333334,30 de agosto
 2020.0,34.0,Guatemala,431,448.0,30 de agosto
 2020.0,34.0,Honduras,96,96.33333333333333,30 de agosto
-2020.0,34.0,México,11584,11637.0,30 de agosto
+2020.0,34.0,México,11567,11609.666666666666,30 de agosto
 2020.0,34.0,Nicaragua,50,60.333333333333336,30 de agosto
 2020.0,34.0,Panamá,27,25.333333333333332,30 de agosto
 2020.0,34.0,Perú,1771,2025.3333333333333,30 de agosto
@@ -606,7 +608,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,35.0,Ecuador,164,180.33333333333334,6 de septiembre
 2020.0,35.0,Guatemala,474,463.6666666666667,6 de septiembre
 2020.0,35.0,Honduras,94,95.33333333333333,6 de septiembre
-2020.0,35.0,México,11797,11732.0,6 de septiembre
+2020.0,35.0,México,11767,11704.333333333334,6 de septiembre
 2020.0,35.0,Nicaragua,105,83.66666666666667,6 de septiembre
 2020.0,35.0,Panamá,23,23.333333333333332,6 de septiembre
 2020.0,35.0,Perú,2064,1994.0,6 de septiembre
@@ -624,7 +626,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,36.0,Ecuador,166,173.33333333333334,13 de septiembre
 2020.0,36.0,Guatemala,571,492.0,13 de septiembre
 2020.0,36.0,Honduras,107,99.0,13 de septiembre
-2020.0,36.0,México,14576,12652.333333333334,13 de septiembre
+2020.0,36.0,México,14547,12627.0,13 de septiembre
 2020.0,36.0,Nicaragua,67,74.0,13 de septiembre
 2020.0,36.0,Panamá,29,26.333333333333332,13 de septiembre
 2020.0,36.0,Perú,2853,2229.3333333333335,13 de septiembre
@@ -642,7 +644,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,37.0,Ecuador,197,175.66666666666666,20 de septiembre
 2020.0,37.0,Guatemala,427,490.6666666666667,20 de septiembre
 2020.0,37.0,Honduras,93,98.0,20 de septiembre
-2020.0,37.0,México,11664,12679.0,20 de septiembre
+2020.0,37.0,México,11634,12649.333333333334,20 de septiembre
 2020.0,37.0,Nicaragua,38,70.0,20 de septiembre
 2020.0,37.0,Panamá,22,24.666666666666668,20 de septiembre
 2020.0,37.0,Perú,733,1883.3333333333333,20 de septiembre
@@ -660,7 +662,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,38.0,Ecuador,195,186.0,27 de septiembre
 2020.0,38.0,Guatemala,431,476.3333333333333,27 de septiembre
 2020.0,38.0,Honduras,163,121.0,27 de septiembre
-2020.0,38.0,México,12274,12838.0,27 de septiembre
+2020.0,38.0,México,12250,12810.333333333334,27 de septiembre
 2020.0,38.0,Nicaragua,23,42.666666666666664,27 de septiembre
 2020.0,38.0,Panamá,33,28.0,27 de septiembre
 2020.0,38.0,Perú,1425,1670.3333333333333,27 de septiembre
@@ -678,7 +680,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,39.0,Ecuador,192,194.66666666666666,4 de octubre
 2020.0,39.0,Guatemala,509,455.6666666666667,4 de octubre
 2020.0,39.0,Honduras,95,117.0,4 de octubre
-2020.0,39.0,México,13592,12510.0,4 de octubre
+2020.0,39.0,México,13561,12481.666666666666,4 de octubre
 2020.0,39.0,Nicaragua,74,45.0,4 de octubre
 2020.0,39.0,Panamá,41,32.0,4 de octubre
 2020.0,39.0,Perú,850,1002.6666666666666,4 de octubre
@@ -696,7 +698,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,40.0,Ecuador,174,187.0,11 de octubre
 2020.0,40.0,Guatemala,500,480.0,11 de octubre
 2020.0,40.0,Honduras,89,115.66666666666667,11 de octubre
-2020.0,40.0,México,12641,12835.666666666666,11 de octubre
+2020.0,40.0,México,12623,12811.333333333334,11 de octubre
 2020.0,40.0,Nicaragua,118,71.66666666666667,11 de octubre
 2020.0,40.0,Panamá,54,42.666666666666664,11 de octubre
 2020.0,40.0,Perú,655,976.6666666666666,11 de octubre
@@ -714,7 +716,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,41.0,Ecuador,179,181.66666666666666,18 de octubre
 2020.0,41.0,Guatemala,633,547.3333333333334,18 de octubre
 2020.0,41.0,Honduras,131,105.0,18 de octubre
-2020.0,41.0,México,14916,13716.333333333334,18 de octubre
+2020.0,41.0,México,14896,13693.333333333334,18 de octubre
 2020.0,41.0,Nicaragua,45,79.0,18 de octubre
 2020.0,41.0,Panamá,27,40.666666666666664,18 de octubre
 2020.0,41.0,Paraguay,2,40.0,18 de octubre
@@ -731,7 +733,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,42.0,Ecuador,160,171.0,25 de octubre
 2020.0,42.0,Guatemala,546,559.6666666666666,25 de octubre
 2020.0,42.0,Honduras,97,105.66666666666667,25 de octubre
-2020.0,42.0,México,14913,14156.666666666666,25 de octubre
+2020.0,42.0,México,14894,14137.666666666666,25 de octubre
 2020.0,42.0,Nicaragua,82,81.66666666666667,25 de octubre
 2020.0,42.0,Panamá,35,38.666666666666664,25 de octubre
 2020.0,42.0,Perú,1074,859.6666666666666,25 de octubre
@@ -749,7 +751,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,43.0,Ecuador,279,206.0,1 de noviembre
 2020.0,43.0,Guatemala,416,531.6666666666666,1 de noviembre
 2020.0,43.0,Honduras,183,137.0,1 de noviembre
-2020.0,43.0,México,15773,15200.666666666666,1 de noviembre
+2020.0,43.0,México,15749,15179.666666666666,1 de noviembre
 2020.0,43.0,Nicaragua,127,84.66666666666667,1 de noviembre
 2020.0,43.0,Panamá,50,37.333333333333336,1 de noviembre
 2020.0,43.0,Perú,1398,1042.3333333333333,1 de noviembre
@@ -766,7 +768,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,44.0,Ecuador,102,180.33333333333334,8 de noviembre
 2020.0,44.0,Guatemala,182,381.3333333333333,8 de noviembre
 2020.0,44.0,Honduras,93,124.33333333333333,8 de noviembre
-2020.0,44.0,México,6283,12323.0,8 de noviembre
+2020.0,44.0,México,6271,12304.666666666666,8 de noviembre
 2020.0,44.0,Nicaragua,19,76.0,8 de noviembre
 2020.0,44.0,Panamá,21,35.333333333333336,8 de noviembre
 2020.0,44.0,Perú,798,1090.0,8 de noviembre
@@ -784,7 +786,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,45.0,Ecuador,137,172.66666666666666,15 de noviembre
 2020.0,45.0,Guatemala,503,367.0,15 de noviembre
 2020.0,45.0,Honduras,99,125.0,15 de noviembre
-2020.0,45.0,México,10588,10881.333333333334,15 de noviembre
+2020.0,45.0,México,10568,10862.666666666666,15 de noviembre
 2020.0,45.0,Nicaragua,111,85.66666666666667,15 de noviembre
 2020.0,45.0,Panamá,19,30.0,15 de noviembre
 2020.0,45.0,Perú,1034,1076.6666666666667,15 de noviembre
@@ -802,7 +804,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,46.0,Ecuador,29,89.33333333333333,22 de noviembre
 2020.0,46.0,Guatemala,130,271.6666666666667,22 de noviembre
 2020.0,46.0,Honduras,27,73.0,22 de noviembre
-2020.0,46.0,México,4583,7151.333333333333,22 de noviembre
+2020.0,46.0,México,4579,7139.333333333333,22 de noviembre
 2020.0,46.0,Nicaragua,6,45.333333333333336,22 de noviembre
 2020.0,46.0,Panamá,8,16.0,22 de noviembre
 2020.0,46.0,Perú,299,710.3333333333334,22 de noviembre
@@ -819,7 +821,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,47.0,Ecuador,197,121.0,29 de noviembre
 2020.0,47.0,Guatemala,418,350.3333333333333,29 de noviembre
 2020.0,47.0,Honduras,76,67.33333333333333,29 de noviembre
-2020.0,47.0,México,8199,7790.0,29 de noviembre
+2020.0,47.0,México,8190,7779.0,29 de noviembre
 2020.0,47.0,Nicaragua,129,82.0,29 de noviembre
 2020.0,47.0,Panamá,45,24.0,29 de noviembre
 2020.0,47.0,Perú,442,591.6666666666666,29 de noviembre
@@ -837,7 +839,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,48.0,Ecuador,116,114.0,6 de diciembre
 2020.0,48.0,Guatemala,331,293.0,6 de diciembre
 2020.0,48.0,Honduras,66,56.333333333333336,6 de diciembre
-2020.0,48.0,México,12713,8498.333333333334,6 de diciembre
+2020.0,48.0,México,12705,8491.333333333334,6 de diciembre
 2020.0,48.0,Nicaragua,19,51.333333333333336,6 de diciembre
 2020.0,48.0,Panamá,20,24.333333333333332,6 de diciembre
 2020.0,48.0,Perú,484,408.3333333333333,6 de diciembre
@@ -852,7 +854,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,49.0,Rep. Dominicana,1,43.666666666666664,13 de diciembre
 2020.0,49.0,Guatemala,1,250.0,13 de diciembre
 2020.0,49.0,Honduras,7,49.666666666666664,13 de diciembre
-2020.0,49.0,México,18863,13258.333333333334,13 de diciembre
+2020.0,49.0,México,18843,13246.0,13 de diciembre
 2020.0,49.0,Panamá,3,22.666666666666668,13 de diciembre
 2020.0,49.0,Perú,845,590.3333333333334,13 de diciembre
 2020.0,49.0,El Salvador,1,161.0,13 de diciembre
@@ -864,7 +866,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,50.0,Colombia,14608,14979.333333333334,20 de diciembre
 2020.0,50.0,Guatemala,3,111.66666666666667,20 de diciembre
 2020.0,50.0,Honduras,5,26.0,20 de diciembre
-2020.0,50.0,México,15001,15525.666666666666,20 de diciembre
+2020.0,50.0,México,14994,15514.0,20 de diciembre
 2020.0,50.0,Perú,1736,1021.6666666666666,20 de diciembre
 2020.0,50.0,Uruguay,15,34.333333333333336,20 de diciembre
 2020.0,50.0,Venezuela,20,262.6666666666667,20 de diciembre
@@ -877,7 +879,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,51.0,Ecuador,12,108.33333333333333,27 de diciembre
 2020.0,51.0,Guatemala,62,22.0,27 de diciembre
 2020.0,51.0,Honduras,27,13.0,27 de diciembre
-2020.0,51.0,México,14555,16139.666666666666,27 de diciembre
+2020.0,51.0,México,14865,16234.0,27 de diciembre
 2020.0,51.0,Nicaragua,13,53.666666666666664,27 de diciembre
 2020.0,51.0,Panamá,20,14.333333333333334,27 de diciembre
 2020.0,51.0,Perú,1420,1333.6666666666667,27 de diciembre
@@ -893,7 +895,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,52.0,Ecuador,103,77.0,3 de enero
 2020.0,52.0,Guatemala,46,37.0,3 de enero
 2020.0,52.0,Honduras,46,26.0,3 de enero
-2020.0,52.0,México,8400,12652.0,3 de enero
+2020.0,52.0,México,8628,12829.0,3 de enero
 2020.0,52.0,Nicaragua,19,17.0,3 de enero
 2020.0,52.0,Panamá,34,19.0,3 de enero
 2020.0,52.0,Perú,981,1379.0,3 de enero
@@ -910,7 +912,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020.0,53.0,Ecuador,42,52.333333333333336,10 de enero
 2020.0,53.0,Guatemala,34,47.333333333333336,10 de enero
 2020.0,53.0,Honduras,30,34.333333333333336,10 de enero
-2020.0,53.0,México,6605,9853.333333333334,10 de enero
+2020.0,53.0,México,6730,10074.333333333334,10 de enero
 2020.0,53.0,Nicaragua,9,13.666666666666666,10 de enero
 2020.0,53.0,Panamá,9,21.0,10 de enero
 2020.0,53.0,Perú,547,982.6666666666666,10 de enero
@@ -925,7 +927,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021.0,54.0,Ecuador,49,64.66666666666667,17 de enero
 2021.0,54.0,Guatemala,76,52.0,17 de enero
 2021.0,54.0,Honduras,19,31.666666666666668,17 de enero
-2021.0,54.0,México,15280,10095.0,17 de enero
+2021.0,54.0,México,15268,10208.666666666666,17 de enero
 2021.0,54.0,Perú,431,653.0,17 de enero
 2021.0,54.0,El Salvador,24,57.666666666666664,17 de enero
 2021.0,54.0,Uruguay,7,25.0,17 de enero
@@ -940,7 +942,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021.0,55.0,Ecuador,172,87.66666666666667,24 de enero
 2021.0,55.0,Guatemala,257,122.33333333333333,24 de enero
 2021.0,55.0,Honduras,91,46.666666666666664,24 de enero
-2021.0,55.0,México,14973,12286.0,24 de enero
+2021.0,55.0,México,14959,12319.0,24 de enero
 2021.0,55.0,Nicaragua,30,19.333333333333332,24 de enero
 2021.0,55.0,Panamá,40,27.666666666666668,24 de enero
 2021.0,55.0,Perú,589,522.3333333333334,24 de enero
@@ -957,7 +959,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021.0,56.0,Ecuador,179,133.33333333333334,31 de enero
 2021.0,56.0,Guatemala,250,194.33333333333334,31 de enero
 2021.0,56.0,Honduras,75,61.666666666666664,31 de enero
-2021.0,56.0,México,15856,15369.666666666666,31 de enero
+2021.0,56.0,México,15841,15356.0,31 de enero
 2021.0,56.0,Nicaragua,62,33.666666666666664,31 de enero
 2021.0,56.0,Panamá,31,26.666666666666668,31 de enero
 2021.0,56.0,Perú,856,625.3333333333334,31 de enero
@@ -974,7 +976,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021.0,57.0,Ecuador,121,157.33333333333334,7 de febrero
 2021.0,57.0,Guatemala,329,278.6666666666667,7 de febrero
 2021.0,57.0,Honduras,114,93.33333333333333,7 de febrero
-2021.0,57.0,México,15727,15518.666666666666,7 de febrero
+2021.0,57.0,México,15713,15504.333333333334,7 de febrero
 2021.0,57.0,Nicaragua,71,54.333333333333336,7 de febrero
 2021.0,57.0,Panamá,56,42.333333333333336,7 de febrero
 2021.0,57.0,Perú,1952,1132.3333333333333,7 de febrero
@@ -992,7 +994,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021.0,58.0,Ecuador,407,235.66666666666666,14 de febrero
 2021.0,58.0,Guatemala,1381,653.3333333333334,14 de febrero
 2021.0,58.0,Honduras,461,216.66666666666666,14 de febrero
-2021.0,58.0,México,15172,15585.0,14 de febrero
+2021.0,58.0,México,15164,15572.666666666666,14 de febrero
 2021.0,58.0,Nicaragua,129,87.33333333333333,14 de febrero
 2021.0,58.0,Panamá,79,55.333333333333336,14 de febrero
 2021.0,58.0,Perú,3108,1972.0,14 de febrero
