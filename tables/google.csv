@@ -866,22 +866,142 @@ year,date,country_region_code,workplaces_percent_change_from_baseline,pais,seman
 2021,5,sv,-20.714285714285715,El Salvador,9 de febrero,6
 2021,5,uy,-22.214285714285715,Uruguay,9 de febrero,6
 2021,5,ve,-17.0,Venezuela,9 de febrero,6
-2021,6,ar,-19.0,Argentina,16 de febrero,7
-2021,6,bo,-21.8,Bolivia,16 de febrero,7
-2021,6,br,-7.6,Brasil,16 de febrero,7
-2021,6,co,-23.8,Colombia,16 de febrero,7
-2021,6,cr,-25.4,Costa Rica,16 de febrero,7
-2021,6,do,-31.2,Rep. Dominicana,16 de febrero,7
-2021,6,ec,-33.2,Ecuador,16 de febrero,7
-2021,6,hn,-28.6,Honduras,16 de febrero,7
-2021,6,mx,-36.6,México,16 de febrero,7
-2021,6,ni,-7.4,Nicaragua,16 de febrero,7
-2021,6,pa,-35.6,Panamá,16 de febrero,7
-2021,6,pe,-43.8,Perú,16 de febrero,7
-2021,6,py,-15.8,Paraguay,16 de febrero,7
-2021,6,sv,-24.4,El Salvador,16 de febrero,7
-2021,6,uy,-18.6,Uruguay,16 de febrero,7
-2021,6,ve,-28.0,Venezuela,16 de febrero,7
+2021,6,ar,-16.428571428571427,Argentina,16 de febrero,7
+2021,6,bo,-19.571428571428573,Bolivia,16 de febrero,7
+2021,6,br,-5.571428571428571,Brasil,16 de febrero,7
+2021,6,cl,-25.0,Chile,16 de febrero,7
+2021,6,co,-17.857142857142858,Colombia,16 de febrero,7
+2021,6,cr,-21.571428571428573,Costa Rica,16 de febrero,7
+2021,6,do,-30.142857142857142,Rep. Dominicana,16 de febrero,7
+2021,6,ec,-23.142857142857142,Ecuador,16 de febrero,7
+2021,6,hn,-26.714285714285715,Honduras,16 de febrero,7
+2021,6,mx,-27.571428571428573,México,16 de febrero,7
+2021,6,ni,-7.642857142857143,Nicaragua,16 de febrero,7
+2021,6,pa,-44.0,Panamá,16 de febrero,7
+2021,6,pe,-41.285714285714285,Perú,16 de febrero,7
+2021,6,py,-14.857142857142858,Paraguay,16 de febrero,7
+2021,6,sv,-20.571428571428573,El Salvador,16 de febrero,7
+2021,6,uy,-17.428571428571427,Uruguay,16 de febrero,7
+2021,6,ve,-22.285714285714285,Venezuela,16 de febrero,7
+2021,7,ar,-15.142857142857142,Argentina,23 de febrero,8
+2021,7,bo,-20.285714285714285,Bolivia,23 de febrero,8
+2021,7,br,-4.428571428571429,Brasil,23 de febrero,8
+2021,7,cl,-23.571428571428573,Chile,23 de febrero,8
+2021,7,co,-16.857142857142858,Colombia,23 de febrero,8
+2021,7,cr,-19.857142857142858,Costa Rica,23 de febrero,8
+2021,7,do,-29.142857142857142,Rep. Dominicana,23 de febrero,8
+2021,7,ec,-23.714285714285715,Ecuador,23 de febrero,8
+2021,7,hn,-26.0,Honduras,23 de febrero,8
+2021,7,mx,-22.571428571428573,México,23 de febrero,8
+2021,7,ni,-5.928571428571429,Nicaragua,23 de febrero,8
+2021,7,pa,-42.214285714285715,Panamá,23 de febrero,8
+2021,7,pe,-38.57142857142857,Perú,23 de febrero,8
+2021,7,py,-12.857142857142858,Paraguay,23 de febrero,8
+2021,7,sv,-19.857142857142858,El Salvador,23 de febrero,8
+2021,7,uy,-16.928571428571427,Uruguay,23 de febrero,8
+2021,7,ve,-13.571428571428571,Venezuela,23 de febrero,8
+2021,8,ar,-24.0,Argentina,1 de marzo,9
+2021,8,bo,-31.857142857142858,Bolivia,1 de marzo,9
+2021,8,br,-10.428571428571429,Brasil,1 de marzo,9
+2021,8,cl,-23.285714285714285,Chile,1 de marzo,9
+2021,8,co,-14.285714285714286,Colombia,1 de marzo,9
+2021,8,cr,-19.857142857142858,Costa Rica,1 de marzo,9
+2021,8,do,-28.571428571428573,Rep. Dominicana,1 de marzo,9
+2021,8,ec,-33.57142857142857,Ecuador,1 de marzo,9
+2021,8,hn,-26.857142857142858,Honduras,1 de marzo,9
+2021,8,mx,-22.142857142857142,México,1 de marzo,9
+2021,8,ni,-6.142857142857143,Nicaragua,1 de marzo,9
+2021,8,pa,-47.42857142857143,Panamá,1 de marzo,9
+2021,8,pe,-38.0,Perú,1 de marzo,9
+2021,8,py,-12.142857142857142,Paraguay,1 de marzo,9
+2021,8,sv,-19.714285714285715,El Salvador,1 de marzo,9
+2021,8,uy,-26.571428571428573,Uruguay,1 de marzo,9
+2021,8,ve,-27.0,Venezuela,1 de marzo,9
+2021,9,ar,-10.857142857142858,Argentina,8 de marzo,10
+2021,9,bo,-14.0,Bolivia,8 de marzo,10
+2021,9,br,-4.285714285714286,Brasil,8 de marzo,10
+2021,9,cl,-19.571428571428573,Chile,8 de marzo,10
+2021,9,co,-12.285714285714286,Colombia,8 de marzo,10
+2021,9,cr,-18.285714285714285,Costa Rica,8 de marzo,10
+2021,9,do,-29.571428571428573,Rep. Dominicana,8 de marzo,10
+2021,9,ec,-22.428571428571427,Ecuador,8 de marzo,10
+2021,9,hn,-24.857142857142858,Honduras,8 de marzo,10
+2021,9,mx,-19.285714285714285,México,8 de marzo,10
+2021,9,ni,-3.9285714285714284,Nicaragua,8 de marzo,10
+2021,9,pa,-38.42857142857143,Panamá,8 de marzo,10
+2021,9,pe,-35.57142857142857,Perú,8 de marzo,10
+2021,9,py,-10.714285714285714,Paraguay,8 de marzo,10
+2021,9,sv,-18.428571428571427,El Salvador,8 de marzo,10
+2021,9,uy,-12.428571428571429,Uruguay,8 de marzo,10
+2021,9,ve,-17.285714285714285,Venezuela,8 de marzo,10
+2021,10,ar,-8.571428571428571,Argentina,15 de marzo,11
+2021,10,bo,-16.285714285714285,Bolivia,15 de marzo,11
+2021,10,br,-8.285714285714286,Brasil,15 de marzo,11
+2021,10,cl,-18.857142857142858,Chile,15 de marzo,11
+2021,10,co,-11.857142857142858,Colombia,15 de marzo,11
+2021,10,cr,-18.142857142857142,Costa Rica,15 de marzo,11
+2021,10,do,-25.857142857142858,Rep. Dominicana,15 de marzo,11
+2021,10,ec,-22.857142857142858,Ecuador,15 de marzo,11
+2021,10,hn,-24.857142857142858,Honduras,15 de marzo,11
+2021,10,mx,-19.0,México,15 de marzo,11
+2021,10,ni,-3.357142857142857,Nicaragua,15 de marzo,11
+2021,10,pa,-27.642857142857142,Panamá,15 de marzo,11
+2021,10,pe,-34.285714285714285,Perú,15 de marzo,11
+2021,10,py,-17.428571428571427,Paraguay,15 de marzo,11
+2021,10,sv,-19.285714285714285,El Salvador,15 de marzo,11
+2021,10,uy,-9.142857142857142,Uruguay,15 de marzo,11
+2021,10,ve,-11.571428571428571,Venezuela,15 de marzo,11
+2021,11,ar,-6.857142857142857,Argentina,22 de marzo,12
+2021,11,bo,-13.285714285714286,Bolivia,22 de marzo,12
+2021,11,br,-10.142857142857142,Brasil,22 de marzo,12
+2021,11,cl,-19.285714285714285,Chile,22 de marzo,12
+2021,11,co,-11.142857142857142,Colombia,22 de marzo,12
+2021,11,cr,-17.428571428571427,Costa Rica,22 de marzo,12
+2021,11,do,-25.714285714285715,Rep. Dominicana,22 de marzo,12
+2021,11,ec,-22.0,Ecuador,22 de marzo,12
+2021,11,hn,-23.857142857142858,Honduras,22 de marzo,12
+2021,11,mx,-18.714285714285715,México,22 de marzo,12
+2021,11,ni,-2.357142857142857,Nicaragua,22 de marzo,12
+2021,11,pa,-26.571428571428573,Panamá,22 de marzo,12
+2021,11,pe,-33.285714285714285,Perú,22 de marzo,12
+2021,11,py,-10.714285714285714,Paraguay,22 de marzo,12
+2021,11,sv,-18.571428571428573,El Salvador,22 de marzo,12
+2021,11,uy,-8.857142857142858,Uruguay,22 de marzo,12
+2021,11,ve,-19.714285714285715,Venezuela,22 de marzo,12
+2021,12,ar,-6.428571428571429,Argentina,29 de marzo,13
+2021,12,bo,-11.285714285714286,Bolivia,29 de marzo,13
+2021,12,br,-13.285714285714286,Brasil,29 de marzo,13
+2021,12,cl,-19.428571428571427,Chile,29 de marzo,13
+2021,12,co,-9.714285714285714,Colombia,29 de marzo,13
+2021,12,cr,-15.857142857142858,Costa Rica,29 de marzo,13
+2021,12,do,-23.285714285714285,Rep. Dominicana,29 de marzo,13
+2021,12,ec,-20.0,Ecuador,29 de marzo,13
+2021,12,hn,-23.428571428571427,Honduras,29 de marzo,13
+2021,12,mx,-20.571428571428573,México,29 de marzo,13
+2021,12,ni,0.07142857142857142,Nicaragua,29 de marzo,13
+2021,12,pa,-24.928571428571427,Panamá,29 de marzo,13
+2021,12,pe,-29.571428571428573,Perú,29 de marzo,13
+2021,12,py,-13.428571428571429,Paraguay,29 de marzo,13
+2021,12,sv,-16.428571428571427,El Salvador,29 de marzo,13
+2021,12,uy,-10.357142857142858,Uruguay,29 de marzo,13
+2021,12,ve,-12.714285714285714,Venezuela,29 de marzo,13
+2021,13,ar,-2.5,Argentina,5 de abril,14
+2021,13,bo,-14.5,Bolivia,5 de abril,14
+2021,13,br,-14.0,Brasil,5 de abril,14
+2021,13,cl,-20.0,Chile,5 de abril,14
+2021,13,co,-38.0,Colombia,5 de abril,14
+2021,13,cr,-17.5,Costa Rica,5 de abril,14
+2021,13,do,-24.0,Rep. Dominicana,5 de abril,14
+2021,13,ec,-29.5,Ecuador,5 de abril,14
+2021,13,hn,-23.5,Honduras,5 de abril,14
+2021,13,mx,-25.0,México,5 de abril,14
+2021,13,ni,4.75,Nicaragua,5 de abril,14
+2021,13,pa,-26.25,Panamá,5 de abril,14
+2021,13,pe,-32.0,Perú,5 de abril,14
+2021,13,py,-12.0,Paraguay,5 de abril,14
+2021,13,sv,-19.5,El Salvador,5 de abril,14
+2021,13,uy,-8.0,Uruguay,5 de abril,14
+2021,13,ve,-28.5,Venezuela,5 de abril,14
 2021,54,ar,-29.666666666666668,Argentina,17 de enero,55
 2021,54,bo,-45.666666666666664,Bolivia,17 de enero,55
 2021,54,br,-33.333333333333336,Brasil,17 de enero,55

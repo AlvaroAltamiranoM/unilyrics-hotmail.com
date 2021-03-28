@@ -1,41 +1,41 @@
 pais,rama_de_actividad,year,growth,colorcol
-Argentina,Finanzas / Banca,2021.0,-72.1311475409836,no
-Argentina,Informática / Hardware,2021.0,-67.21311475409837,no
-Argentina,Entretenimiento / Deportes,2021.0,-54.09836065573771,no
-Argentina,Publicidad / RRPP,2021.0,-45.945945945945944,no
-Argentina,Educación,2021.0,-45.63106796116505,no
-Argentina,Venta al por mayor,2021.0,9.09090909090908,yes
-Argentina,Fabricación,2021.0,18.888888888888886,yes
-Argentina,Agricultura / Pesca / Ganadería,2021.0,24.13793103448276,yes
-Argentina,Informática / Software,2021.0,38.205980066445164,yes
-Argentina,Construcción / obras,2021.0,57.213930348258714,yes
-Chile,Educación,2021.0,-43.58974358974359,no
+Argentina,Gobierno / No Lucro,2021.0,-71.42857142857143,no
+Argentina,Entretenimiento / Deportes,2021.0,-67.21311475409837,no
+Argentina,Finanzas / Banca,2021.0,-62.295081967213115,no
+Argentina,Legal / Asesoría,2021.0,-45.45454545454546,no
+Argentina,Internet,2021.0,-36.8421052631579,no
+Argentina,Venta al por mayor,2021.0,26.060606060606048,yes
+Argentina,Medios de Comunicación,2021.0,30.769230769230774,yes
+Argentina,Fabricación,2021.0,55.55555555555557,yes
+Argentina,Energía / Minería,2021.0,60.0,yes
+Argentina,Construcción / obras,2021.0,120.8955223880597,yes
+Chile,Entretenimiento / Deportes,2021.0,-26.31578947368422,no
 Chile,Legal / Asesoría,2021.0,-15.789473684210535,no
-Chile,Energía / Minería,2021.0,-3.030303030303031,no
-Chile,Informática / Software,2021.0,17.543859649122822,yes
-Chile,Hostelería / Turismo,2021.0,30.894308943089413,yes
-Chile,Gobierno / No Lucro,2021.0,154.54545454545453,yes
-Chile,Transporte / Logística,2021.0,156.68449197860963,yes
-Chile,Venta al por mayor,2021.0,218.1818181818182,yes
-Chile,Servicios Profesionales,2021.0,271.1801242236025,yes
-Chile,Materias Primas,2021.0,515.3846153846155,yes
-Colombia,Materias Primas,2021.0,-61.11111111111111,no
-Colombia,Servicios Profesionales,2021.0,-56.60439200262209,no
-Colombia,Venta al por mayor,2021.0,-53.53862776877364,no
-Colombia,Entretenimiento / Deportes,2021.0,-52.870090634441084,no
-Colombia,Medios de Comunicación,2021.0,-51.282051282051285,no
-Colombia,Finanzas / Banca,2021.0,-21.006289308176093,no
-Colombia,Gobierno / No Lucro,2021.0,-14.545454545454547,no
-Colombia,Telecomunicaciones,2021.0,-5.598621877691642,no
-Colombia,Energía,2021.0,-4.62287104622871,no
-Colombia,Salud / Medicina,2021.0,9.82336535481872,yes
-México,Entretenimiento / Deportes,2021.0,-83.25455773126266,no
-México,Internet,2021.0,-82.98755186721992,no
-México,HostelerÃ­a / Turismo,2021.0,-67.04805491990847,no
-México,Servicios Profesionales,2021.0,-63.36854634726975,no
-México,Medios de ComunicaciÃ³n,2021.0,-58.86214442013129,no
-México,Transporte,2021.0,-4.747550866616422,no
-México,InformÃ¡tica / Hardware,2021.0,-1.8018018018018012,no
-México,Agricultura / Pesca / GanaderÃ­a,2021.0,-1.3452914798206308,no
-México,ConstrucciÃ³n / obras,2021.0,11.361079865016862,yes
-México,FabricaciÃ³n,2021.0,20.717377860235004,yes
+Chile,Internet,2021.0,20.0,yes
+Chile,Energía / Minería,2021.0,27.272727272727266,yes
+Chile,Informática / Software,2021.0,27.77777777777777,yes
+Chile,Publicidad / RRPP,2021.0,258.06451612903226,yes
+Chile,Venta al por mayor,2021.0,265.90909090909093,yes
+Chile,Telecomunicaciones,2021.0,276.3975155279503,yes
+Chile,Agricultura / Pesca / Ganadería,2021.0,281.8181818181818,yes
+Chile,Materias Primas,2021.0,469.2307692307693,yes
+Colombia,Materias Primas,2021.0,-69.44444444444444,no
+Colombia,Servicios Profesionales,2021.0,-45.00163880694854,no
+Colombia,Venta al por mayor,2021.0,-39.70826580226904,no
+Colombia,Hostelería / Turismo,2021.0,-38.193146417445476,no
+Colombia,Entretenimiento / Deportes,2021.0,-37.7643504531722,no
+Colombia,Educación,2021.0,1.5736766809728095,yes
+Colombia,Gobierno / No Lucro,2021.0,8.181818181818173,yes
+Colombia,Energía,2021.0,15.328467153284663,yes
+Colombia,Salud / Medicina,2021.0,33.00278896808183,yes
+Colombia,Informática / Software,2021.0,53.25842696629212,yes
+México,Internet,2021.0,-68.32779623477298,no
+México,Servicios Profesionales,2021.0,-21.670644391408118,no
+México,Educación,2021.0,-10.901001112347046,no
+México,Entretenimiento / Deportes,2021.0,3.7701974865349968,yes
+México,Medios de Comunicación,2021.0,8.152173913043484,yes
+México,Fabricación,2021.0,80.11214953271028,yes
+México,Informática / Hardware,2021.0,83.91608391608392,yes
+México,Energía,2021.0,87.5,yes
+México,Transporte,2021.0,102.99401197604791,yes
+México,Construcción / obras,2021.0,103.19767441860463,yes
