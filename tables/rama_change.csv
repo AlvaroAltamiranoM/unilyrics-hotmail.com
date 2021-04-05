@@ -1,41 +1,39 @@
 pais,rama_de_actividad,year,growth,colorcol
-Argentina,Gobierno / No Lucro,2021.0,-71.42857142857143,no
-Argentina,Entretenimiento / Deportes,2021.0,-67.21311475409837,no
-Argentina,Finanzas / Banca,2021.0,-62.295081967213115,no
-Argentina,Legal / Asesoría,2021.0,-45.45454545454546,no
-Argentina,Internet,2021.0,-36.8421052631579,no
-Argentina,Venta al por mayor,2021.0,26.060606060606048,yes
-Argentina,Medios de Comunicación,2021.0,30.769230769230774,yes
-Argentina,Fabricación,2021.0,55.55555555555557,yes
-Argentina,Energía / Minería,2021.0,60.0,yes
-Argentina,Construcción / obras,2021.0,120.8955223880597,yes
-Chile,Entretenimiento / Deportes,2021.0,-26.31578947368422,no
-Chile,Legal / Asesoría,2021.0,-15.789473684210535,no
-Chile,Internet,2021.0,20.0,yes
-Chile,Energía / Minería,2021.0,27.272727272727266,yes
-Chile,Informática / Software,2021.0,27.77777777777777,yes
-Chile,Publicidad / RRPP,2021.0,258.06451612903226,yes
-Chile,Venta al por mayor,2021.0,265.90909090909093,yes
-Chile,Telecomunicaciones,2021.0,276.3975155279503,yes
-Chile,Agricultura / Pesca / Ganadería,2021.0,281.8181818181818,yes
-Chile,Materias Primas,2021.0,469.2307692307693,yes
-Colombia,Materias Primas,2021.0,-69.44444444444444,no
-Colombia,Servicios Profesionales,2021.0,-45.00163880694854,no
-Colombia,Venta al por mayor,2021.0,-39.70826580226904,no
-Colombia,Hostelería / Turismo,2021.0,-38.193146417445476,no
-Colombia,Entretenimiento / Deportes,2021.0,-37.7643504531722,no
-Colombia,Educación,2021.0,1.5736766809728095,yes
-Colombia,Gobierno / No Lucro,2021.0,8.181818181818173,yes
-Colombia,Energía,2021.0,15.328467153284663,yes
-Colombia,Salud / Medicina,2021.0,33.00278896808183,yes
-Colombia,Informática / Software,2021.0,53.25842696629212,yes
-México,Internet,2021.0,-68.32779623477298,no
-México,Servicios Profesionales,2021.0,-21.670644391408118,no
-México,Educación,2021.0,-10.901001112347046,no
-México,Entretenimiento / Deportes,2021.0,3.7701974865349968,yes
-México,Medios de Comunicación,2021.0,8.152173913043484,yes
-México,Fabricación,2021.0,80.11214953271028,yes
-México,Informática / Hardware,2021.0,83.91608391608392,yes
-México,Energía,2021.0,87.5,yes
-México,Transporte,2021.0,102.99401197604791,yes
-México,Construcción / obras,2021.0,103.19767441860463,yes
+Argentina,Salud / Medicina,2021.0,-96.13899613899613,no
+Argentina,Venta al consumidor,2021.0,-95.0,no
+Argentina,Informática / Software,2021.0,-93.7984496124031,no
+Argentina,Servicios Profesionales,2021.0,-92.37536656891496,no
+Argentina,Hostelería / Turismo,2021.0,-84.0,no
+Argentina,Transporte / Logística,2021.0,-83.83838383838383,no
+Argentina,Fabricación,2021.0,-64.44444444444444,no
+Argentina,Construcción / obras,2021.0,-64.17910447761194,no
+Chile,Informática / Software,2021.0,-90.64327485380117,no
+Chile,Finanzas / Banca,2021.0,-85.18518518518519,no
+Chile,Hostelería / Turismo,2021.0,-75.60975609756098,no
+Chile,Informática / Hardware,2021.0,-75.0,no
+Chile,Publicidad / RRPP,2021.0,-74.19354838709677,no
+Chile,Salud / Medicina,2021.0,-65.75875486381324,no
+Chile,Telecomunicaciones,2021.0,-55.27950310559006,no
+Chile,Transporte / Logística,2021.0,-40.106951871657756,no
+Chile,Servicios Profesionales,2021.0,-31.42857142857143,no
+Chile,Gobierno / No Lucro,2021.0,69.69696969696969,yes
+Colombia,Fabricación,2021.0,-98.85673454805287,no
+Colombia,Transporte,2021.0,-98.67330016583747,no
+Colombia,Informática / Software,2021.0,-98.56179775280899,no
+Colombia,Salud / Medicina,2021.0,-98.51255035636814,no
+Colombia,Servicios Profesionales,2021.0,-98.42674532940019,no
+Colombia,Telecomunicaciones,2021.0,-98.00172265288545,no
+Colombia,Finanzas / Banca,2021.0,-97.9874213836478,no
+Colombia,Venta al consumidor,2021.0,-97.91541391060332,no
+Colombia,Hostelería / Turismo,2021.0,-97.50778816199377,no
+Colombia,Gobierno / No Lucro,2021.0,-89.0909090909091,no
+México,Internet,2021.0,-97.3421926910299,no
+México,Informática / Software,2021.0,-95.24067063277447,no
+México,Finanzas / Banca,2021.0,-94.01589527816736,no
+México,Medios de Comunicación,2021.0,-93.47826086956522,no
+México,Servicios Profesionales,2021.0,-93.12649164677805,no
+México,Transporte,2021.0,-83.23353293413174,no
+México,Construcción / obras,2021.0,-82.55813953488372,no
+México,Hostelería / Turismo,2021.0,-78.61635220125785,no
+México,Telecomunicaciones,2021.0,-74.2959143197144,no
+México,Informática / Hardware,2021.0,-66.43356643356643,no

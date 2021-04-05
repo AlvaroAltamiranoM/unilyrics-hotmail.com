@@ -985,23 +985,40 @@ year,date,country_region_code,workplaces_percent_change_from_baseline,pais,seman
 2021,12,sv,-16.428571428571427,El Salvador,29 de marzo,13
 2021,12,uy,-10.357142857142858,Uruguay,29 de marzo,13
 2021,12,ve,-12.714285714285714,Venezuela,29 de marzo,13
-2021,13,ar,-2.5,Argentina,5 de abril,14
-2021,13,bo,-14.5,Bolivia,5 de abril,14
-2021,13,br,-14.0,Brasil,5 de abril,14
-2021,13,cl,-20.0,Chile,5 de abril,14
-2021,13,co,-38.0,Colombia,5 de abril,14
-2021,13,cr,-17.5,Costa Rica,5 de abril,14
-2021,13,do,-24.0,Rep. Dominicana,5 de abril,14
-2021,13,ec,-29.5,Ecuador,5 de abril,14
-2021,13,hn,-23.5,Honduras,5 de abril,14
-2021,13,mx,-25.0,México,5 de abril,14
-2021,13,ni,4.75,Nicaragua,5 de abril,14
-2021,13,pa,-26.25,Panamá,5 de abril,14
-2021,13,pe,-32.0,Perú,5 de abril,14
-2021,13,py,-12.0,Paraguay,5 de abril,14
-2021,13,sv,-19.5,El Salvador,5 de abril,14
-2021,13,uy,-8.0,Uruguay,5 de abril,14
-2021,13,ve,-28.5,Venezuela,5 de abril,14
+2021,13,ar,-11.428571428571429,Argentina,5 de abril,14
+2021,13,bo,-9.714285714285714,Bolivia,5 de abril,14
+2021,13,br,-14.285714285714286,Brasil,5 de abril,14
+2021,13,cl,-29.285714285714285,Chile,5 de abril,14
+2021,13,co,-15.0,Colombia,5 de abril,14
+2021,13,cr,-14.142857142857142,Costa Rica,5 de abril,14
+2021,13,do,-22.428571428571427,Rep. Dominicana,5 de abril,14
+2021,13,ec,-19.857142857142858,Ecuador,5 de abril,14
+2021,13,hn,-20.571428571428573,Honduras,5 de abril,14
+2021,13,mx,-15.285714285714286,México,5 de abril,14
+2021,13,ni,1.5,Nicaragua,5 de abril,14
+2021,13,pa,-24.428571428571427,Panamá,5 de abril,14
+2021,13,pe,-28.285714285714285,Perú,5 de abril,14
+2021,13,py,-15.428571428571429,Paraguay,5 de abril,14
+2021,13,sv,-15.0,El Salvador,5 de abril,14
+2021,13,uy,-17.428571428571427,Uruguay,5 de abril,14
+2021,13,ve,-22.571428571428573,Venezuela,5 de abril,14
+2021,14,ar,-2.0,Argentina,12 de abril,15
+2021,14,bo,-12.666666666666666,Bolivia,12 de abril,15
+2021,14,br,-18.0,Brasil,12 de abril,15
+2021,14,cl,-26.666666666666668,Chile,12 de abril,15
+2021,14,co,-20.0,Colombia,12 de abril,15
+2021,14,cr,-35.333333333333336,Costa Rica,12 de abril,15
+2021,14,do,-27.0,Rep. Dominicana,12 de abril,15
+2021,14,ec,-29.666666666666668,Ecuador,12 de abril,15
+2021,14,hn,-34.666666666666664,Honduras,12 de abril,15
+2021,14,mx,-26.333333333333332,México,12 de abril,15
+2021,14,ni,-25.5,Nicaragua,12 de abril,15
+2021,14,pa,-25.5,Panamá,12 de abril,15
+2021,14,pe,-30.333333333333332,Perú,12 de abril,15
+2021,14,py,-30.0,Paraguay,12 de abril,15
+2021,14,sv,-36.666666666666664,El Salvador,12 de abril,15
+2021,14,uy,-39.166666666666664,Uruguay,12 de abril,15
+2021,14,ve,-35.333333333333336,Venezuela,12 de abril,15
 2021,54,ar,-29.666666666666668,Argentina,17 de enero,55
 2021,54,bo,-45.666666666666664,Bolivia,17 de enero,55
 2021,54,br,-33.333333333333336,Brasil,17 de enero,55
