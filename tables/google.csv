@@ -1087,23 +1087,125 @@ year,date,country_region_code,workplaces_percent_change_from_baseline,pais,seman
 2021,18,sv,-16.428571428571427,El Salvador,10 de mayo,19
 2021,18,uy,-23.071428571428573,Uruguay,10 de mayo,19
 2021,18,ve,-10.142857142857142,Venezuela,10 de mayo,19
-2021,19,ar,-5.4,Argentina,17 de mayo,20
-2021,19,bo,-8.8,Bolivia,17 de mayo,20
-2021,19,br,-1.2,Brasil,17 de mayo,20
-2021,19,cl,-21.0,Chile,17 de mayo,20
-2021,19,co,-24.6,Colombia,17 de mayo,20
-2021,19,cr,-33.0,Costa Rica,17 de mayo,20
-2021,19,do,-20.6,Rep. Dominicana,17 de mayo,20
-2021,19,ec,-27.8,Ecuador,17 de mayo,20
-2021,19,hn,-21.6,Honduras,17 de mayo,20
-2021,19,mx,-20.2,México,17 de mayo,20
-2021,19,ni,0.4,Nicaragua,17 de mayo,20
-2021,19,pa,-20.9,Panamá,17 de mayo,20
-2021,19,pe,-27.6,Perú,17 de mayo,20
-2021,19,py,-9.4,Paraguay,17 de mayo,20
-2021,19,sv,-14.6,El Salvador,17 de mayo,20
-2021,19,uy,-17.1,Uruguay,17 de mayo,20
-2021,19,ve,-19.4,Venezuela,17 de mayo,20
+2021,19,ar,-7.0,Argentina,17 de mayo,20
+2021,19,bo,-6.285714285714286,Bolivia,17 de mayo,20
+2021,19,br,2.7142857142857144,Brasil,17 de mayo,20
+2021,19,cl,-18.142857142857142,Chile,17 de mayo,20
+2021,19,co,-18.285714285714285,Colombia,17 de mayo,20
+2021,19,cr,-29.857142857142858,Costa Rica,17 de mayo,20
+2021,19,do,-19.571428571428573,Rep. Dominicana,17 de mayo,20
+2021,19,ec,-33.857142857142854,Ecuador,17 de mayo,20
+2021,19,hn,-18.285714285714285,Honduras,17 de mayo,20
+2021,19,mx,-10.857142857142858,México,17 de mayo,20
+2021,19,ni,-0.9285714285714286,Nicaragua,17 de mayo,20
+2021,19,pa,-19.285714285714285,Panamá,17 de mayo,20
+2021,19,pe,-25.0,Perú,17 de mayo,20
+2021,19,py,-9.428571428571429,Paraguay,17 de mayo,20
+2021,19,sv,-11.142857142857142,El Salvador,17 de mayo,20
+2021,19,uy,-14.428571428571429,Uruguay,17 de mayo,20
+2021,19,ve,-10.142857142857142,Venezuela,17 de mayo,20
+2021,20,ar,-5.571428571428571,Argentina,24 de mayo,21
+2021,20,bo,-7.142857142857143,Bolivia,24 de mayo,21
+2021,20,br,0.0,Brasil,24 de mayo,21
+2021,20,cl,-23.0,Chile,24 de mayo,21
+2021,20,co,-13.142857142857142,Colombia,24 de mayo,21
+2021,20,cr,-18.571428571428573,Costa Rica,24 de mayo,21
+2021,20,do,-19.142857142857142,Rep. Dominicana,24 de mayo,21
+2021,20,ec,-33.857142857142854,Ecuador,24 de mayo,21
+2021,20,hn,-19.428571428571427,Honduras,24 de mayo,21
+2021,20,mx,-11.0,México,24 de mayo,21
+2021,20,ni,3.7857142857142856,Nicaragua,24 de mayo,21
+2021,20,pa,-18.142857142857142,Panamá,24 de mayo,21
+2021,20,pe,-24.285714285714285,Perú,24 de mayo,21
+2021,20,py,-18.571428571428573,Paraguay,24 de mayo,21
+2021,20,sv,-17.571428571428573,El Salvador,24 de mayo,21
+2021,20,uy,-14.571428571428571,Uruguay,24 de mayo,21
+2021,20,ve,-6.714285714285714,Venezuela,24 de mayo,21
+2021,21,ar,-11.571428571428571,Argentina,31 de mayo,22
+2021,21,bo,-10.428571428571429,Bolivia,31 de mayo,22
+2021,21,br,2.2857142857142856,Brasil,31 de mayo,22
+2021,21,cl,-23.142857142857142,Chile,31 de mayo,22
+2021,21,co,-15.428571428571429,Colombia,31 de mayo,22
+2021,21,cr,-17.428571428571427,Costa Rica,31 de mayo,22
+2021,21,do,-18.0,Rep. Dominicana,31 de mayo,22
+2021,21,ec,-15.428571428571429,Ecuador,31 de mayo,22
+2021,21,hn,-16.0,Honduras,31 de mayo,22
+2021,21,mx,-7.714285714285714,México,31 de mayo,22
+2021,21,ni,6.785714285714286,Nicaragua,31 de mayo,22
+2021,21,pa,-17.571428571428573,Panamá,31 de mayo,22
+2021,21,pe,-21.285714285714285,Perú,31 de mayo,22
+2021,21,py,-5.857142857142857,Paraguay,31 de mayo,22
+2021,21,sv,-9.142857142857142,El Salvador,31 de mayo,22
+2021,21,uy,-18.285714285714285,Uruguay,31 de mayo,22
+2021,21,ve,-9.142857142857142,Venezuela,31 de mayo,22
+2021,22,ar,-31.142857142857142,Argentina,7 de junio,23
+2021,22,bo,-14.0,Bolivia,7 de junio,23
+2021,22,br,3.2857142857142856,Brasil,7 de junio,23
+2021,22,cl,-11.714285714285714,Chile,7 de junio,23
+2021,22,co,-8.0,Colombia,7 de junio,23
+2021,22,cr,-19.857142857142858,Costa Rica,7 de junio,23
+2021,22,do,-16.857142857142858,Rep. Dominicana,7 de junio,23
+2021,22,ec,-17.428571428571427,Ecuador,7 de junio,23
+2021,22,hn,-13.142857142857142,Honduras,7 de junio,23
+2021,22,mx,-6.285714285714286,México,7 de junio,23
+2021,22,ni,9.357142857142858,Nicaragua,7 de junio,23
+2021,22,pa,-15.714285714285714,Panamá,7 de junio,23
+2021,22,pe,-19.714285714285715,Perú,7 de junio,23
+2021,22,py,-4.857142857142857,Paraguay,7 de junio,23
+2021,22,sv,-7.714285714285714,El Salvador,7 de junio,23
+2021,22,uy,-10.857142857142858,Uruguay,7 de junio,23
+2021,22,ve,-3.5714285714285716,Venezuela,7 de junio,23
+2021,23,ar,-7.857142857142857,Argentina,14 de junio,24
+2021,23,bo,-22.285714285714285,Bolivia,14 de junio,24
+2021,23,br,-4.857142857142857,Brasil,14 de junio,24
+2021,23,cl,-11.714285714285714,Chile,14 de junio,24
+2021,23,co,-5.857142857142857,Colombia,14 de junio,24
+2021,23,cr,-18.714285714285715,Costa Rica,14 de junio,24
+2021,23,do,-27.285714285714285,Rep. Dominicana,14 de junio,24
+2021,23,ec,-12.571428571428571,Ecuador,14 de junio,24
+2021,23,hn,-12.285714285714286,Honduras,14 de junio,24
+2021,23,mx,-4.857142857142857,México,14 de junio,24
+2021,23,ni,4.571428571428571,Nicaragua,14 de junio,24
+2021,23,pa,-15.357142857142858,Panamá,14 de junio,24
+2021,23,pe,-18.285714285714285,Perú,14 de junio,24
+2021,23,py,-4.0,Paraguay,14 de junio,24
+2021,23,sv,-7.0,El Salvador,14 de junio,24
+2021,23,uy,-10.428571428571429,Uruguay,14 de junio,24
+2021,23,ve,-7.428571428571429,Venezuela,14 de junio,24
+2021,24,ar,-5.571428571428571,Argentina,21 de junio,25
+2021,24,bo,-12.285714285714286,Bolivia,21 de junio,25
+2021,24,br,5.0,Brasil,21 de junio,25
+2021,24,cl,-12.714285714285714,Chile,21 de junio,25
+2021,24,co,-13.571428571428571,Colombia,21 de junio,25
+2021,24,cr,-19.285714285714285,Costa Rica,21 de junio,25
+2021,24,do,-20.714285714285715,Rep. Dominicana,21 de junio,25
+2021,24,ec,-12.714285714285714,Ecuador,21 de junio,25
+2021,24,hn,-13.428571428571429,Honduras,21 de junio,25
+2021,24,mx,-6.142857142857143,México,21 de junio,25
+2021,24,ni,7.714285714285714,Nicaragua,21 de junio,25
+2021,24,pa,-17.0,Panamá,21 de junio,25
+2021,24,pe,-18.571428571428573,Perú,21 de junio,25
+2021,24,py,-7.142857142857143,Paraguay,21 de junio,25
+2021,24,sv,-7.285714285714286,El Salvador,21 de junio,25
+2021,24,uy,-8.428571428571429,Uruguay,21 de junio,25
+2021,24,ve,-2.4285714285714284,Venezuela,21 de junio,25
+2021,25,ar,-3.0,Argentina,28 de junio,26
+2021,25,bo,-11.0,Bolivia,28 de junio,26
+2021,25,br,6.0,Brasil,28 de junio,26
+2021,25,cl,-16.0,Chile,28 de junio,26
+2021,25,co,-63.0,Colombia,28 de junio,26
+2021,25,cr,-23.0,Costa Rica,28 de junio,26
+2021,25,do,-21.0,Rep. Dominicana,28 de junio,26
+2021,25,ec,-23.0,Ecuador,28 de junio,26
+2021,25,hn,-16.0,Honduras,28 de junio,26
+2021,25,mx,-13.0,México,28 de junio,26
+2021,25,ni,10.0,Nicaragua,28 de junio,26
+2021,25,pa,-18.5,Panamá,28 de junio,26
+2021,25,pe,-23.0,Perú,28 de junio,26
+2021,25,py,-4.0,Paraguay,28 de junio,26
+2021,25,sv,-10.0,El Salvador,28 de junio,26
+2021,25,uy,-8.0,Uruguay,28 de junio,26
+2021,25,ve,-15.0,Venezuela,28 de junio,26
 2021,54,ar,-29.666666666666668,Argentina,17 de enero,55
 2021,54,bo,-45.666666666666664,Bolivia,17 de enero,55
 2021,54,br,-33.333333333333336,Brasil,17 de enero,55
