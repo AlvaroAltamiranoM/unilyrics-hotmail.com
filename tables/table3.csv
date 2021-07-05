@@ -72,6 +72,8 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,74,Argentina,702.0,1088.3333333333333,6 de junio
 2021,75,Argentina,2032.0,1253.6666666666667,13 de junio
 2021,76,Argentina,537.0,1090.3333333333333,20 de junio
+2021,77,Argentina,480.0,1016.3333333333334,27 de junio
+2021,78,Argentina,419.0,478.6666666666667,4 de julio
 2020,3,Bolivia,5.0,5.0,19 de enero
 2020,4,Bolivia,20.0,12.5,26 de enero
 2020,5,Bolivia,5.0,10.0,2 de febrero
@@ -135,6 +137,8 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,71,Bolivia,247.0,248.0,16 de mayo
 2021,75,Bolivia,1092.0,460.0,13 de junio
 2021,76,Bolivia,192.0,510.3333333333333,20 de junio
+2021,77,Bolivia,200.0,494.6666666666667,27 de junio
+2021,78,Bolivia,153.0,181.66666666666666,4 de julio
 2020,1,Brasil,6069.0,6069.0,5 de enero
 2020,2,Brasil,19515.0,12792.0,12 de enero
 2020,3,Brasil,21212.0,15598.666666666666,19 de enero
@@ -188,29 +192,31 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020,51,Brasil,37717.0,27385.0,20 de diciembre
 2020,52,Brasil,21403.0,24765.0,27 de diciembre
 2020,53,Brasil,9951.0,23023.666666666668,3 de enero
-2021,54,Brasil,33295.0,21549.666666666668,10 de enero
-2021,55,Brasil,22513.0,21919.666666666668,17 de enero
-2021,56,Brasil,21857.0,25888.333333333332,24 de enero
+2021,54,Brasil,33335.0,21563.0,10 de enero
+2021,55,Brasil,22513.0,21933.0,17 de enero
+2021,56,Brasil,21857.0,25901.666666666668,24 de enero
 2021,57,Brasil,20101.0,21490.333333333332,31 de enero
-2021,58,Brasil,30340.0,24099.333333333332,7 de febrero
-2021,59,Brasil,22163.0,24201.333333333332,14 de febrero
-2021,60,Brasil,20070.0,24191.0,21 de febrero
+2021,58,Brasil,30348.0,24102.0,7 de febrero
+2021,59,Brasil,22163.0,24204.0,14 de febrero
+2021,60,Brasil,20070.0,24193.666666666668,21 de febrero
 2021,61,Brasil,25532.0,22588.333333333332,28 de febrero
-2021,62,Brasil,19991.0,21864.333333333332,7 de marzo
-2021,63,Brasil,21656.0,22393.0,14 de marzo
-2021,64,Brasil,19738.0,20461.666666666668,21 de marzo
+2021,62,Brasil,20013.0,21871.666666666668,7 de marzo
+2021,63,Brasil,21656.0,22400.333333333332,14 de marzo
+2021,64,Brasil,19738.0,20469.0,21 de marzo
 2021,65,Brasil,19046.0,20146.666666666668,4 de abril
 2021,66,Brasil,13036.0,17273.333333333332,11 de abril
-2021,67,Brasil,30078.0,20720.0,18 de abril
-2021,68,Brasil,24032.0,22382.0,25 de abril
-2021,69,Brasil,19593.0,24567.666666666668,2 de mayo
+2021,67,Brasil,30108.0,20730.0,18 de abril
+2021,68,Brasil,24032.0,22392.0,25 de abril
+2021,69,Brasil,19593.0,24577.666666666668,2 de mayo
 2021,70,Brasil,21604.0,21743.0,9 de mayo
 2021,71,Brasil,15091.0,18762.666666666668,16 de mayo
 2021,72,Brasil,20693.0,19129.333333333332,23 de mayo
 2021,73,Brasil,23955.0,19913.0,30 de mayo
-2021,74,Brasil,27603.0,24083.666666666668,6 de junio
-2021,75,Brasil,6522.0,19360.0,13 de junio
-2021,76,Brasil,28728.0,20951.0,20 de junio
+2021,74,Brasil,28063.0,24237.0,6 de junio
+2021,75,Brasil,6794.0,19604.0,13 de junio
+2021,76,Brasil,29652.0,21503.0,20 de junio
+2021,77,Brasil,38593.0,25013.0,27 de junio
+2021,78,Brasil,31031.0,33092.0,4 de julio
 2020,1,Chile,165.0,165.0,5 de enero
 2020,2,Chile,460.0,312.5,12 de enero
 2020,3,Chile,415.0,346.6666666666667,19 de enero
@@ -285,6 +291,8 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,74,Chile,317.0,2444.6666666666665,6 de junio
 2021,75,Chile,9557.0,4507.0,13 de junio
 2021,76,Chile,3227.0,4367.0,20 de junio
+2021,77,Chile,2810.0,5198.0,27 de junio
+2021,78,Chile,2147.0,2728.0,4 de julio
 2020,1,Colombia,85.0,85.0,5 de enero
 2020,2,Colombia,284.0,184.5,12 de enero
 2020,3,Colombia,647.0,338.6666666666667,19 de enero
@@ -356,9 +364,11 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,69,Colombia,16100.0,16557.666666666668,2 de mayo
 2021,70,Colombia,13318.0,15402.0,9 de mayo
 2021,71,Colombia,10565.0,13327.666666666666,16 de mayo
-2021,74,Colombia,4435.0,9439.333333333334,6 de junio
-2021,75,Colombia,14784.0,9928.0,13 de junio
-2021,76,Colombia,4587.0,7935.333333333333,20 de junio
+2021,74,Colombia,4438.0,9440.333333333334,6 de junio
+2021,75,Colombia,14785.0,9929.333333333334,13 de junio
+2021,76,Colombia,4587.0,7936.666666666667,20 de junio
+2021,77,Colombia,5123.0,8165.0,27 de junio
+2021,78,Colombia,5900.0,5203.333333333333,4 de julio
 2020,1,Costa Rica,28.0,28.0,5 de enero
 2020,2,Costa Rica,180.0,104.0,12 de enero
 2020,3,Costa Rica,182.0,130.0,19 de enero
@@ -433,6 +443,8 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,74,Costa Rica,75.0,89.0,6 de junio
 2021,75,Costa Rica,173.0,110.33333333333333,13 de junio
 2021,76,Costa Rica,38.0,95.33333333333333,20 de junio
+2021,77,Costa Rica,55.0,88.66666666666667,27 de junio
+2021,78,Costa Rica,68.0,53.666666666666664,4 de julio
 2020,1,Ecuador,257.0,257.0,5 de enero
 2020,2,Ecuador,926.0,591.5,12 de enero
 2020,3,Ecuador,1030.0,737.6666666666666,19 de enero
@@ -507,6 +519,8 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,74,Ecuador,122.0,132.66666666666666,6 de junio
 2021,75,Ecuador,135.0,136.33333333333334,13 de junio
 2021,76,Ecuador,58.0,105.0,20 de junio
+2021,77,Ecuador,42.0,78.33333333333333,27 de junio
+2021,78,Ecuador,19.0,39.666666666666664,4 de julio
 2020,1,El Salvador,360.0,360.0,5 de enero
 2020,2,El Salvador,793.0,576.5,12 de enero
 2020,3,El Salvador,497.0,550.0,19 de enero
@@ -581,6 +595,8 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,74,El Salvador,221.0,294.0,6 de junio
 2021,75,El Salvador,524.0,365.6666666666667,13 de junio
 2021,76,El Salvador,144.0,296.3333333333333,20 de junio
+2021,77,El Salvador,103.0,257.0,27 de junio
+2021,78,El Salvador,110.0,119.0,4 de julio
 2020,1,Guatemala,86.0,86.0,5 de enero
 2020,2,Guatemala,553.0,319.5,12 de enero
 2020,3,Guatemala,381.0,340.0,19 de enero
@@ -655,6 +671,8 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,74,Guatemala,585.0,489.3333333333333,6 de junio
 2021,75,Guatemala,1217.0,737.0,13 de junio
 2021,76,Guatemala,266.0,689.3333333333334,20 de junio
+2021,77,Guatemala,208.0,563.6666666666666,27 de junio
+2021,78,Guatemala,262.0,245.33333333333334,4 de julio
 2020,1,Honduras,105.0,105.0,5 de enero
 2020,2,Honduras,219.0,162.0,12 de enero
 2020,3,Honduras,150.0,158.0,19 de enero
@@ -729,6 +747,8 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,74,Honduras,75.0,102.33333333333333,6 de junio
 2021,75,Honduras,286.0,157.66666666666666,13 de junio
 2021,76,Honduras,122.0,161.0,20 de junio
+2021,77,Honduras,31.0,146.33333333333334,27 de junio
+2021,78,Honduras,29.0,60.666666666666664,4 de julio
 2020,7,México,1297.0,1297.0,16 de febrero
 2020,8,México,1805.0,1551.0,23 de febrero
 2020,9,México,1455.0,1519.0,1 de marzo
@@ -795,9 +815,11 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,70,México,14507.0,15920.0,9 de mayo
 2021,71,México,11942.0,14253.333333333334,16 de mayo
 2021,73,México,2.0,8817.0,30 de mayo
-2021,74,México,6081.0,6008.333333333333,6 de junio
-2021,75,México,21138.0,9073.666666666666,13 de junio
-2021,76,México,7359.0,11526.0,20 de junio
+2021,74,México,6082.0,6008.666666666667,6 de junio
+2021,75,México,21139.0,9074.333333333334,13 de junio
+2021,76,México,7359.0,11526.666666666666,20 de junio
+2021,77,México,7766.0,12088.0,27 de junio
+2021,78,México,7051.0,7392.0,4 de julio
 2020,1,Nicaragua,25.0,25.0,5 de enero
 2020,2,Nicaragua,90.0,57.5,12 de enero
 2020,3,Nicaragua,72.0,62.333333333333336,19 de enero
@@ -871,6 +893,8 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,74,Nicaragua,56.0,44.333333333333336,6 de junio
 2021,75,Nicaragua,258.0,112.33333333333333,13 de junio
 2021,76,Nicaragua,37.0,117.0,20 de junio
+2021,77,Nicaragua,38.0,111.0,27 de junio
+2021,78,Nicaragua,40.0,38.333333333333336,4 de julio
 2020,1,Panamá,25.0,25.0,5 de enero
 2020,2,Panamá,185.0,105.0,12 de enero
 2020,3,Panamá,150.0,120.0,19 de enero
@@ -944,6 +968,8 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,74,Panamá,11.0,36.666666666666664,6 de junio
 2021,75,Panamá,12.0,20.666666666666668,13 de junio
 2021,76,Panamá,7.0,10.0,20 de junio
+2021,77,Panamá,5.0,8.0,27 de junio
+2021,78,Panamá,15.0,9.0,4 de julio
 2020,2,Paraguay,13.0,13.0,12 de enero
 2020,3,Paraguay,13.0,13.0,19 de enero
 2020,4,Paraguay,4.0,10.0,26 de enero
@@ -1011,6 +1037,8 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,74,Paraguay,49.0,72.33333333333333,6 de junio
 2021,75,Paraguay,213.0,132.66666666666666,13 de junio
 2021,76,Paraguay,35.0,99.0,20 de junio
+2021,77,Paraguay,100.0,116.0,27 de junio
+2021,78,Paraguay,36.0,57.0,4 de julio
 2020,1,Perú,723.0,723.0,5 de enero
 2020,2,Perú,1783.0,1253.0,12 de enero
 2020,3,Perú,1483.0,1329.6666666666667,19 de enero
@@ -1080,6 +1108,8 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,71,Perú,48584.0,51825.666666666664,16 de mayo
 2021,75,Perú,7274.0,32408.0,13 de junio
 2021,76,Perú,2477.0,19445.0,20 de junio
+2021,77,Perú,2713.0,4154.666666666667,27 de junio
+2021,78,Perú,2823.0,2671.0,4 de julio
 2020,1,Rep. Dominicana,11.0,11.0,5 de enero
 2020,2,Rep. Dominicana,26.0,18.5,12 de enero
 2020,3,Rep. Dominicana,68.0,35.0,19 de enero
@@ -1153,6 +1183,8 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,74,Rep. Dominicana,87.0,49.333333333333336,6 de junio
 2021,75,Rep. Dominicana,506.0,201.33333333333334,13 de junio
 2021,76,Rep. Dominicana,52.0,215.0,20 de junio
+2021,77,Rep. Dominicana,51.0,203.0,27 de junio
+2021,78,Rep. Dominicana,52.0,51.666666666666664,4 de julio
 2020,1,Uruguay,49.0,49.0,5 de enero
 2020,2,Uruguay,60.0,54.5,12 de enero
 2020,3,Uruguay,145.0,84.66666666666667,19 de enero
@@ -1227,6 +1259,8 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,74,Uruguay,81.0,69.66666666666667,6 de junio
 2021,75,Uruguay,555.0,228.0,13 de junio
 2021,76,Uruguay,104.0,246.66666666666666,20 de junio
+2021,77,Uruguay,36.0,231.66666666666666,27 de junio
+2021,78,Uruguay,22.0,54.0,4 de julio
 2020,1,Venezuela,2324.0,2324.0,5 de enero
 2020,2,Venezuela,9834.0,6079.0,12 de enero
 2020,3,Venezuela,7268.0,6475.333333333333,19 de enero
@@ -1301,3 +1335,5 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,74,Venezuela,83.0,1071.0,6 de junio
 2021,75,Venezuela,920.0,734.6666666666666,13 de junio
 2021,76,Venezuela,221.0,408.0,20 de junio
+2021,77,Venezuela,220.0,453.6666666666667,27 de junio
+2021,78,Venezuela,191.0,210.66666666666666,4 de julio
