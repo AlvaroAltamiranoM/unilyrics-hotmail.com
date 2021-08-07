@@ -1240,57 +1240,57 @@ year,date,country_region_code,workplaces_percent_change_from_baseline,pais,seman
 2021,79,sv,-9.0,El Salvador,18 de julio,80.0
 2021,79,uy,-11.357142857142858,Uruguay,18 de julio,80.0
 2021,79,ve,-8.285714285714286,Venezuela,18 de julio,80.0
-2021,80,ar,-7.571428571428571,Argentina,,
-2021,80,bo,-4.0,Bolivia,,
-2021,80,br,4.857142857142857,Brasil,,
-2021,80,cl,-7.0,Chile,,
-2021,80,co,-10.857142857142858,Colombia,,
-2021,80,cr,-19.428571428571427,Costa Rica,,
-2021,80,do,-19.571428571428573,Rep. Dominicana,,
-2021,80,ec,-11.571428571428571,Ecuador,,
-2021,80,hn,-16.857142857142858,Honduras,,
-2021,80,mx,-6.285714285714286,México,,
-2021,80,ni,-3.2857142857142856,Nicaragua,,
-2021,80,pa,-15.0,Panamá,,
-2021,80,pe,-15.714285714285714,Perú,,
-2021,80,py,-0.8571428571428571,Paraguay,,
-2021,80,sv,-7.428571428571429,El Salvador,,
-2021,80,uy,-8.214285714285714,Uruguay,,
-2021,80,ve,-7.571428571428571,Venezuela,,
-2021,81,ar,-3.2857142857142856,Argentina,,
-2021,81,bo,-6.285714285714286,Bolivia,,
-2021,81,br,6.571428571428571,Brasil,,
-2021,81,cl,-19.0,Chile,,
-2021,81,co,-1.4285714285714286,Colombia,,
-2021,81,cr,-13.714285714285714,Costa Rica,,
-2021,81,do,-19.142857142857142,Rep. Dominicana,,
-2021,81,ec,-11.142857142857142,Ecuador,,
-2021,81,hn,-14.714285714285714,Honduras,,
-2021,81,mx,-6.857142857142857,México,,
-2021,81,ni,-0.7857142857142857,Nicaragua,,
-2021,81,pa,-14.5,Panamá,,
-2021,81,pe,-14.428571428571429,Perú,,
-2021,81,py,-4.571428571428571,Paraguay,,
-2021,81,sv,-6.714285714285714,El Salvador,,
-2021,81,uy,-5.642857142857143,Uruguay,,
-2021,81,ve,-3.142857142857143,Venezuela,,
-2021,82,ar,-7.0,Argentina,,
-2021,82,bo,-7.0,Bolivia,,
-2021,82,br,6.0,Brasil,,
-2021,82,cl,-13.0,Chile,,
-2021,82,co,-12.0,Colombia,,
-2021,82,cr,-16.0,Costa Rica,,
-2021,82,do,-19.0,Rep. Dominicana,,
-2021,82,ec,-21.0,Ecuador,,
-2021,82,hn,-16.0,Honduras,,
-2021,82,mx,-15.0,México,,
-2021,82,ni,-64.0,Nicaragua,,
-2021,82,pa,-14.5,Panamá,,
-2021,82,pe,-19.0,Perú,,
-2021,82,py,-5.0,Paraguay,,
-2021,82,sv,-8.0,El Salvador,,
-2021,82,uy,0.5,Uruguay,,
-2021,82,ve,-8.0,Venezuela,,
+2021,80,ar,-7.571428571428571,Argentina,25 de julio,81.0
+2021,80,bo,-4.0,Bolivia,25 de julio,81.0
+2021,80,br,4.857142857142857,Brasil,25 de julio,81.0
+2021,80,cl,-7.0,Chile,25 de julio,81.0
+2021,80,co,-10.857142857142858,Colombia,25 de julio,81.0
+2021,80,cr,-19.428571428571427,Costa Rica,25 de julio,81.0
+2021,80,do,-19.571428571428573,Rep. Dominicana,25 de julio,81.0
+2021,80,ec,-11.571428571428571,Ecuador,25 de julio,81.0
+2021,80,hn,-16.857142857142858,Honduras,25 de julio,81.0
+2021,80,mx,-6.285714285714286,México,25 de julio,81.0
+2021,80,ni,-3.2857142857142856,Nicaragua,25 de julio,81.0
+2021,80,pa,-15.0,Panamá,25 de julio,81.0
+2021,80,pe,-15.714285714285714,Perú,25 de julio,81.0
+2021,80,py,-0.8571428571428571,Paraguay,25 de julio,81.0
+2021,80,sv,-7.428571428571429,El Salvador,25 de julio,81.0
+2021,80,uy,-8.214285714285714,Uruguay,25 de julio,81.0
+2021,80,ve,-7.571428571428571,Venezuela,25 de julio,81.0
+2021,81,ar,-3.2857142857142856,Argentina,1 de agosto,82.0
+2021,81,bo,-6.285714285714286,Bolivia,1 de agosto,82.0
+2021,81,br,6.571428571428571,Brasil,1 de agosto,82.0
+2021,81,cl,-19.0,Chile,1 de agosto,82.0
+2021,81,co,-1.4285714285714286,Colombia,1 de agosto,82.0
+2021,81,cr,-13.714285714285714,Costa Rica,1 de agosto,82.0
+2021,81,do,-19.142857142857142,Rep. Dominicana,1 de agosto,82.0
+2021,81,ec,-11.142857142857142,Ecuador,1 de agosto,82.0
+2021,81,hn,-14.714285714285714,Honduras,1 de agosto,82.0
+2021,81,mx,-6.857142857142857,México,1 de agosto,82.0
+2021,81,ni,-0.7857142857142857,Nicaragua,1 de agosto,82.0
+2021,81,pa,-14.5,Panamá,1 de agosto,82.0
+2021,81,pe,-14.428571428571429,Perú,1 de agosto,82.0
+2021,81,py,-4.571428571428571,Paraguay,1 de agosto,82.0
+2021,81,sv,-6.714285714285714,El Salvador,1 de agosto,82.0
+2021,81,uy,-5.642857142857143,Uruguay,1 de agosto,82.0
+2021,81,ve,-3.142857142857143,Venezuela,1 de agosto,82.0
+2021,82,ar,-7.0,Argentina,8 de agosto,83.0
+2021,82,bo,-7.0,Bolivia,8 de agosto,83.0
+2021,82,br,6.0,Brasil,8 de agosto,83.0
+2021,82,cl,-13.0,Chile,8 de agosto,83.0
+2021,82,co,-12.0,Colombia,8 de agosto,83.0
+2021,82,cr,-16.0,Costa Rica,8 de agosto,83.0
+2021,82,do,-19.0,Rep. Dominicana,8 de agosto,83.0
+2021,82,ec,-21.0,Ecuador,8 de agosto,83.0
+2021,82,hn,-16.0,Honduras,8 de agosto,83.0
+2021,82,mx,-15.0,México,8 de agosto,83.0
+2021,82,ni,-64.0,Nicaragua,8 de agosto,83.0
+2021,82,pa,-14.5,Panamá,8 de agosto,83.0
+2021,82,pe,-19.0,Perú,8 de agosto,83.0
+2021,82,py,-5.0,Paraguay,8 de agosto,83.0
+2021,82,sv,-8.0,El Salvador,8 de agosto,83.0
+2021,82,uy,0.5,Uruguay,8 de agosto,83.0
+2021,82,ve,-8.0,Venezuela,8 de agosto,83.0
 2021,106,ar,-29.666666666666668,Argentina,,
 2021,106,bo,-45.666666666666664,Bolivia,,
 2021,106,br,-33.333333333333336,Brasil,,
