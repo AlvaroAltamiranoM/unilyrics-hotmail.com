@@ -1274,23 +1274,74 @@ year,date,country_region_code,workplaces_percent_change_from_baseline,pais,seman
 2021,81,sv,-6.714285714285714,El Salvador,1 de agosto,82.0
 2021,81,uy,-5.642857142857143,Uruguay,1 de agosto,82.0
 2021,81,ve,-3.142857142857143,Venezuela,1 de agosto,82.0
-2021,82,ar,-7.0,Argentina,8 de agosto,83.0
-2021,82,bo,-7.0,Bolivia,8 de agosto,83.0
-2021,82,br,6.0,Brasil,8 de agosto,83.0
-2021,82,cl,-13.0,Chile,8 de agosto,83.0
-2021,82,co,-12.0,Colombia,8 de agosto,83.0
-2021,82,cr,-16.0,Costa Rica,8 de agosto,83.0
-2021,82,do,-19.0,Rep. Dominicana,8 de agosto,83.0
-2021,82,ec,-21.0,Ecuador,8 de agosto,83.0
-2021,82,hn,-16.0,Honduras,8 de agosto,83.0
-2021,82,mx,-15.0,México,8 de agosto,83.0
-2021,82,ni,-64.0,Nicaragua,8 de agosto,83.0
-2021,82,pa,-14.5,Panamá,8 de agosto,83.0
-2021,82,pe,-19.0,Perú,8 de agosto,83.0
-2021,82,py,-5.0,Paraguay,8 de agosto,83.0
-2021,82,sv,-8.0,El Salvador,8 de agosto,83.0
-2021,82,uy,0.5,Uruguay,8 de agosto,83.0
-2021,82,ve,-8.0,Venezuela,8 de agosto,83.0
+2021,82,ar,-5.0,Argentina,8 de agosto,83.0
+2021,82,bo,-2.142857142857143,Bolivia,8 de agosto,83.0
+2021,82,br,7.0,Brasil,8 de agosto,83.0
+2021,82,cl,-8.285714285714286,Chile,8 de agosto,83.0
+2021,82,co,-7.857142857142857,Colombia,8 de agosto,83.0
+2021,82,cr,-14.0,Costa Rica,8 de agosto,83.0
+2021,82,do,-18.0,Rep. Dominicana,8 de agosto,83.0
+2021,82,ec,-10.285714285714286,Ecuador,8 de agosto,83.0
+2021,82,hn,-13.714285714285714,Honduras,8 de agosto,83.0
+2021,82,mx,-8.285714285714286,México,8 de agosto,83.0
+2021,82,ni,-7.214285714285714,Nicaragua,8 de agosto,83.0
+2021,82,pa,-15.0,Panamá,8 de agosto,83.0
+2021,82,pe,-12.857142857142858,Perú,8 de agosto,83.0
+2021,82,py,-2.4285714285714284,Paraguay,8 de agosto,83.0
+2021,82,sv,-6.571428571428571,El Salvador,8 de agosto,83.0
+2021,82,uy,-0.5,Uruguay,8 de agosto,83.0
+2021,82,ve,-1.5714285714285714,Venezuela,8 de agosto,83.0
+2021,83,ar,-0.5714285714285714,Argentina,15 de agosto,84.0
+2021,83,bo,-0.42857142857142855,Bolivia,15 de agosto,84.0
+2021,83,br,8.142857142857142,Brasil,15 de agosto,84.0
+2021,83,cl,-1.4285714285714286,Chile,15 de agosto,84.0
+2021,83,co,2.4285714285714284,Colombia,15 de agosto,84.0
+2021,83,cr,-17.857142857142858,Costa Rica,15 de agosto,84.0
+2021,83,do,-17.857142857142858,Rep. Dominicana,15 de agosto,84.0
+2021,83,ec,-10.714285714285714,Ecuador,15 de agosto,84.0
+2021,83,hn,-12.428571428571429,Honduras,15 de agosto,84.0
+2021,83,mx,-8.142857142857142,México,15 de agosto,84.0
+2021,83,ni,3.9285714285714284,Nicaragua,15 de agosto,84.0
+2021,83,pa,-13.0,Panamá,15 de agosto,84.0
+2021,83,pe,-26.0,Perú,15 de agosto,84.0
+2021,83,py,-0.2857142857142857,Paraguay,15 de agosto,84.0
+2021,83,sv,-5.571428571428571,El Salvador,15 de agosto,84.0
+2021,83,uy,2.5,Uruguay,15 de agosto,84.0
+2021,83,ve,-2.2857142857142856,Venezuela,15 de agosto,84.0
+2021,84,ar,5.142857142857143,Argentina,,
+2021,84,bo,-10.142857142857142,Bolivia,,
+2021,84,br,12.571428571428571,Brasil,,
+2021,84,cl,0.42857142857142855,Chile,,
+2021,84,co,-2.0,Colombia,,
+2021,84,cr,-16.285714285714285,Costa Rica,,
+2021,84,do,-18.428571428571427,Rep. Dominicana,,
+2021,84,ec,-10.285714285714286,Ecuador,,
+2021,84,hn,-13.0,Honduras,,
+2021,84,mx,-8.142857142857142,México,,
+2021,84,ni,5.214285714285714,Nicaragua,,
+2021,84,pa,-12.785714285714286,Panamá,,
+2021,84,pe,-13.571428571428571,Perú,,
+2021,84,py,2.5714285714285716,Paraguay,,
+2021,84,sv,-37.857142857142854,El Salvador,,
+2021,84,uy,5.428571428571429,Uruguay,,
+2021,84,ve,1.2857142857142858,Venezuela,,
+2021,85,ar,6.0,Argentina,,
+2021,85,bo,-5.0,Bolivia,,
+2021,85,br,13.0,Brasil,,
+2021,85,cl,-1.0,Chile,,
+2021,85,co,-2.0,Colombia,,
+2021,85,cr,-13.0,Costa Rica,,
+2021,85,do,-20.0,Rep. Dominicana,,
+2021,85,ec,-56.0,Ecuador,,
+2021,85,hn,-13.0,Honduras,,
+2021,85,mx,-15.0,México,,
+2021,85,ni,8.0,Nicaragua,,
+2021,85,pa,-13.5,Panamá,,
+2021,85,pe,-18.0,Perú,,
+2021,85,py,3.0,Paraguay,,
+2021,85,sv,-8.0,El Salvador,,
+2021,85,uy,6.5,Uruguay,,
+2021,85,ve,-9.0,Venezuela,,
 2021,106,ar,-29.666666666666668,Argentina,,
 2021,106,bo,-45.666666666666664,Bolivia,,
 2021,106,br,-33.333333333333336,Brasil,,
