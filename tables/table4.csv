@@ -929,7 +929,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2020,53,Uruguay,19,36.333333333333336,3 de enero
 2020,53,Venezuela,225,463.0,3 de enero
 2021,54,Argentina,2021,1482.0,10 de enero
-2021,54,Brasil,11429,6499.666666666667,10 de enero
+2021,54,Brasil,13973,7347.666666666667,10 de enero
 2021,54,Chile,1189,1434.6666666666667,10 de enero
 2021,54,Colombia,15319,10643.333333333334,10 de enero
 2021,54,Costa Rica,9,20.333333333333332,10 de enero
@@ -943,7 +943,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,54,Venezuela,4,222.0,10 de enero
 2021,55,Argentina,1636,1592.0,17 de enero
 2021,55,Bolivia,4,4.0,17 de enero
-2021,55,Brasil,7853,7521.333333333333,17 de enero
+2021,55,Brasil,7853,8369.333333333334,17 de enero
 2021,55,Chile,1523,1485.0,17 de enero
 2021,55,Colombia,11258,11256.333333333334,17 de enero
 2021,55,Costa Rica,62,31.333333333333332,17 de enero
@@ -960,7 +960,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,55,Venezuela,1656,628.3333333333334,17 de enero
 2021,56,Argentina,1367,1674.6666666666667,24 de enero
 2021,56,Bolivia,13,6.666666666666667,24 de enero
-2021,56,Brasil,7304,8862.0,24 de enero
+2021,56,Brasil,7304,9710.0,24 de enero
 2021,56,Chile,1794,1502.0,24 de enero
 2021,56,Colombia,13325,13300.666666666666,24 de enero
 2021,56,Costa Rica,57,42.666666666666664,24 de enero
@@ -1014,7 +1014,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,58,Venezuela,2137,1970.0,7 de febrero
 2021,59,Argentina,1676,2033.0,14 de febrero
 2021,59,Bolivia,11,123.66666666666667,14 de febrero
-2021,59,Brasil,9506,9127.666666666666,14 de febrero
+2021,59,Brasil,9647,9174.666666666666,14 de febrero
 2021,59,Chile,3436,3793.6666666666665,14 de febrero
 2021,59,Colombia,13586,15073.666666666666,14 de febrero
 2021,59,Costa Rica,210,186.66666666666666,14 de febrero
@@ -1032,7 +1032,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,59,Venezuela,1861,1973.6666666666667,14 de febrero
 2021,60,Argentina,998,1736.6666666666667,21 de febrero
 2021,60,Bolivia,362,225.0,21 de febrero
-2021,60,Brasil,6970,9137.666666666666,21 de febrero
+2021,60,Brasil,6970,9184.666666666666,21 de febrero
 2021,60,Chile,4162,4093.6666666666665,21 de febrero
 2021,60,Colombia,16699,15319.666666666666,21 de febrero
 2021,60,Costa Rica,156,210.33333333333334,21 de febrero
@@ -1050,7 +1050,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,60,Venezuela,1791,1929.6666666666667,21 de febrero
 2021,61,Argentina,589,1087.6666666666667,28 de febrero
 2021,61,Bolivia,103,158.66666666666666,28 de febrero
-2021,61,Brasil,7644,8040.0,28 de febrero
+2021,61,Brasil,7644,8087.0,28 de febrero
 2021,61,Chile,1650,3082.6666666666665,28 de febrero
 2021,61,Colombia,10957,13747.333333333334,28 de febrero
 2021,61,Costa Rica,135,167.0,28 de febrero
@@ -1086,7 +1086,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,62,Venezuela,2304,2077.3333333333335,7 de marzo
 2021,63,Argentina,2000,1941.6666666666667,14 de marzo
 2021,63,Bolivia,114,190.66666666666666,14 de marzo
-2021,63,Brasil,9479,8311.0,14 de marzo
+2021,63,Brasil,11376,8943.333333333334,14 de marzo
 2021,63,Chile,4145,4793.0,14 de marzo
 2021,63,Colombia,17876,14000.333333333334,14 de marzo
 2021,63,Costa Rica,155,153.33333333333334,14 de marzo
@@ -1104,7 +1104,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,63,Venezuela,2183,2208.0,14 de marzo
 2021,64,Argentina,1630,2288.6666666666665,21 de marzo
 2021,64,Bolivia,63,177.33333333333334,21 de marzo
-2021,64,Brasil,6736,8008.333333333333,21 de marzo
+2021,64,Brasil,6736,8640.666666666666,21 de marzo
 2021,64,Chile,3178,5302.333333333333,21 de marzo
 2021,64,Colombia,17290,16111.333333333334,21 de marzo
 2021,64,Costa Rica,142,155.66666666666666,21 de marzo
@@ -1122,7 +1122,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,64,Venezuela,2017,2168.0,21 de marzo
 2021,65,Argentina,1850,1826.6666666666667,4 de abril
 2021,65,Bolivia,366,181.0,4 de abril
-2021,65,Brasil,6380,7531.666666666667,4 de abril
+2021,65,Brasil,6380,8164.0,4 de abril
 2021,65,Chile,3862,3728.3333333333335,4 de abril
 2021,65,Colombia,14302,16489.333333333332,4 de abril
 2021,65,Costa Rica,166,154.33333333333334,4 de abril
@@ -1158,7 +1158,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,66,Venezuela,963,1678.6666666666667,11 de abril
 2021,67,Argentina,1924,1714.6666666666667,18 de abril
 2021,67,Bolivia,263,244.33333333333334,18 de abril
-2021,67,Brasil,11379,7212.0,18 de abril
+2021,67,Brasil,11584,7280.333333333333,18 de abril
 2021,67,Chile,3327,3591.0,18 de abril
 2021,67,Colombia,16785,13582.666666666666,18 de abril
 2021,67,Costa Rica,177,137.66666666666666,18 de abril
@@ -1176,7 +1176,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,67,Venezuela,1911,1643.3333333333333,18 de abril
 2021,68,Argentina,1938,1744.0,25 de abril
 2021,68,Bolivia,12,126.33333333333333,25 de abril
-2021,68,Brasil,7459,7571.666666666667,25 de abril
+2021,68,Brasil,7459,7640.0,25 de abril
 2021,68,Chile,3747,3552.6666666666665,25 de abril
 2021,68,Colombia,16788,14411.333333333334,25 de abril
 2021,68,Costa Rica,173,140.0,25 de abril
@@ -1194,7 +1194,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,68,Venezuela,1918,1597.3333333333333,25 de abril
 2021,69,Argentina,1154,1672.0,2 de mayo
 2021,69,Bolivia,456,243.66666666666666,2 de mayo
-2021,69,Brasil,6884,8574.0,2 de mayo
+2021,69,Brasil,6884,8642.333333333334,2 de mayo
 2021,69,Chile,2982,3352.0,2 de mayo
 2021,69,Colombia,16100,16557.666666666668,2 de mayo
 2021,69,Costa Rica,134,161.33333333333334,2 de mayo
@@ -1230,7 +1230,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,70,Venezuela,1929,1990.6666666666667,9 de mayo
 2021,71,Argentina,1027,1239.0,16 de mayo
 2021,71,Bolivia,247,248.0,16 de mayo
-2021,71,Brasil,8718,7632.333333333333,16 de mayo
+2021,71,Brasil,8877,7685.333333333333,16 de mayo
 2021,71,Chile,3647,3333.0,16 de mayo
 2021,71,Colombia,10565,13327.666666666666,16 de mayo
 2021,71,Costa Rica,83,108.66666666666667,16 de mayo
@@ -1246,8 +1246,8 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,71,El Salvador,352,364.3333333333333,16 de mayo
 2021,71,Uruguay,48,138.0,16 de mayo
 2021,71,Venezuela,1201,1751.6666666666667,16 de mayo
-2021,72,Brasil,6450,7487.666666666667,23 de mayo
-2021,73,Brasil,7755,7641.0,30 de mayo
+2021,72,Brasil,6450,7540.666666666667,23 de mayo
+2021,73,Brasil,7755,7694.0,30 de mayo
 2021,73,México,2,8817.0,30 de mayo
 2021,74,Argentina,702,1088.3333333333333,6 de junio
 2021,74,Brasil,8597,7600.666666666667,6 de junio
@@ -1285,7 +1285,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,75,Venezuela,920,734.6666666666666,13 de junio
 2021,76,Argentina,537,1090.3333333333333,20 de junio
 2021,76,Bolivia,192,510.3333333333333,20 de junio
-2021,76,Brasil,13434,8008.333333333333,20 de junio
+2021,76,Brasil,14937,8509.333333333334,20 de junio
 2021,76,Chile,3227,4367.0,20 de junio
 2021,76,Colombia,4587,7936.666666666667,20 de junio
 2021,76,Costa Rica,38,95.33333333333333,20 de junio
@@ -1303,7 +1303,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,76,Venezuela,221,408.0,20 de junio
 2021,77,Argentina,480,1016.3333333333334,27 de junio
 2021,77,Bolivia,200,494.6666666666667,27 de junio
-2021,77,Brasil,9738,8388.666666666666,27 de junio
+2021,77,Brasil,9738,8889.666666666666,27 de junio
 2021,77,Chile,2810,5198.0,27 de junio
 2021,77,Colombia,5127,8166.333333333333,27 de junio
 2021,77,Costa Rica,55,88.66666666666667,27 de junio
@@ -1321,7 +1321,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,77,Venezuela,220,453.6666666666667,27 de junio
 2021,78,Argentina,419,478.6666666666667,4 de julio
 2021,78,Bolivia,153,181.66666666666666,4 de julio
-2021,78,Brasil,10070,11080.666666666666,4 de julio
+2021,78,Brasil,10070,11581.666666666666,4 de julio
 2021,78,Chile,2147,2728.0,4 de julio
 2021,78,Colombia,5900,5204.666666666667,4 de julio
 2021,78,Costa Rica,68,53.666666666666664,4 de julio
@@ -1357,7 +1357,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,79,Venezuela,98,169.66666666666666,11 de julio
 2021,80,Argentina,513,483.3333333333333,18 de julio
 2021,80,Bolivia,20,72.66666666666667,18 de julio
-2021,80,Brasil,6038,7555.333333333333,18 de julio
+2021,80,Brasil,6423,7683.666666666667,18 de julio
 2021,80,Chile,3776,2658.6666666666665,18 de julio
 2021,80,Colombia,5216,5153.0,18 de julio
 2021,80,Costa Rica,53,51.666666666666664,18 de julio
@@ -1375,7 +1375,7 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,80,Venezuela,77,122.0,18 de julio
 2021,81,Argentina,507,512.6666666666666,25 de julio
 2021,81,Bolivia,11,25.333333333333332,25 de julio
-2021,81,Brasil,10416,7670.666666666667,25 de julio
+2021,81,Brasil,10416,7799.0,25 de julio
 2021,81,Chile,3513,3114.0,25 de julio
 2021,81,Colombia,6940,5499.666666666667,25 de julio
 2021,81,Costa Rica,60,49.0,25 de julio
@@ -1392,15 +1392,15 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,81,Uruguay,33,103.0,25 de julio
 2021,81,Venezuela,78,84.33333333333333,25 de julio
 2021,82,Argentina,467,495.6666666666667,1 de agosto
-2021,82,Brasil,13405,9953.0,1 de agosto
+2021,82,Brasil,13503,10114.0,1 de agosto
 2021,82,Chile,2418,3235.6666666666665,1 de agosto
-2021,82,Colombia,5848,6001.333333333333,1 de agosto
+2021,82,Colombia,5850,6002.0,1 de agosto
 2021,82,Costa Rica,53,55.333333333333336,1 de agosto
 2021,82,Rep. Dominicana,19,50.0,1 de agosto
 2021,82,Ecuador,86,56.0,1 de agosto
 2021,82,Guatemala,300,293.6666666666667,1 de agosto
 2021,82,Honduras,33,65.0,1 de agosto
-2021,82,México,7850,7437.333333333333,1 de agosto
+2021,82,México,7854,7438.666666666667,1 de agosto
 2021,82,Nicaragua,248,103.66666666666667,1 de agosto
 2021,82,Panamá,8,9.666666666666666,1 de agosto
 2021,82,Perú,2727,2880.6666666666665,1 de agosto
@@ -1409,15 +1409,15 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,82,Venezuela,347,167.33333333333334,1 de agosto
 2021,83,Argentina,662,545.3333333333334,8 de agosto
 2021,83,Bolivia,130,53.666666666666664,8 de agosto
-2021,83,Brasil,9439,11086.666666666666,8 de agosto
+2021,83,Brasil,9585,11168.0,8 de agosto
 2021,83,Chile,2143,2691.3333333333335,8 de agosto
-2021,83,Colombia,6640,6476.0,8 de agosto
+2021,83,Colombia,6641,6477.0,8 de agosto
 2021,83,Costa Rica,57,56.666666666666664,8 de agosto
 2021,83,Rep. Dominicana,134,66.0,8 de agosto
 2021,83,Ecuador,21,45.666666666666664,8 de agosto
 2021,83,Guatemala,250,279.3333333333333,8 de agosto
 2021,83,Honduras,31,32.333333333333336,8 de agosto
-2021,83,México,7161,7268.0,8 de agosto
+2021,83,México,7163,7270.0,8 de agosto
 2021,83,Nicaragua,14,90.33333333333333,8 de agosto
 2021,83,Panamá,7,9.333333333333334,8 de agosto
 2021,83,Perú,1807,2532.3333333333335,8 de agosto
