@@ -79,6 +79,11 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,81,Argentina,507.0,512.6666666666666,25 de julio
 2021,82,Argentina,467.0,495.6666666666667,1 de agosto
 2021,83,Argentina,662.0,545.3333333333334,8 de agosto
+2021,84,Argentina,410.0,513.0,15 de agosto
+2021,85,Argentina,860.0,644.0,22 de agosto
+2021,86,Argentina,386.0,552.0,29 de agosto
+2021,87,Argentina,596.0,614.0,5 de septiembre
+2021,88,Argentina,682.0,554.6666666666666,12 de septiembre
 2020,3,Bolivia,5.0,5.0,19 de enero
 2020,4,Bolivia,20.0,12.5,26 de enero
 2020,5,Bolivia,5.0,10.0,2 de febrero
@@ -148,6 +153,11 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,80,Bolivia,20.0,72.66666666666667,18 de julio
 2021,81,Bolivia,11.0,25.333333333333332,25 de julio
 2021,83,Bolivia,130.0,53.666666666666664,8 de agosto
+2021,84,Bolivia,6.0,49.0,15 de agosto
+2021,85,Bolivia,36.0,57.333333333333336,22 de agosto
+2021,86,Bolivia,94.0,45.333333333333336,29 de agosto
+2021,87,Bolivia,42.0,57.333333333333336,5 de septiembre
+2021,88,Bolivia,87.0,74.33333333333333,12 de septiembre
 2020,1,Brasil,6069.0,6069.0,5 de enero
 2020,2,Brasil,19515.0,12792.0,12 de enero
 2020,3,Brasil,21212.0,15598.666666666666,19 de enero
@@ -231,6 +241,11 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,81,Brasil,33475.0,26052.666666666668,25 de julio
 2021,82,Brasil,57094.0,38299.333333333336,1 de agosto
 2021,83,Brasil,28078.0,39549.0,8 de agosto
+2021,84,Brasil,6044.0,30405.333333333332,15 de agosto
+2021,85,Brasil,49581.0,27901.0,22 de agosto
+2021,86,Brasil,43158.0,32927.666666666664,29 de agosto
+2021,87,Brasil,41665.0,44801.333333333336,5 de septiembre
+2021,88,Brasil,22115.0,35646.0,12 de septiembre
 2020,1,Chile,165.0,165.0,5 de enero
 2020,2,Chile,460.0,312.5,12 de enero
 2020,3,Chile,415.0,346.6666666666667,19 de enero
@@ -312,6 +327,11 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,81,Chile,3513.0,3114.0,25 de julio
 2021,82,Chile,2418.0,3235.6666666666665,1 de agosto
 2021,83,Chile,2143.0,2691.3333333333335,8 de agosto
+2021,84,Chile,3065.0,2542.0,15 de agosto
+2021,85,Chile,5271.0,3493.0,22 de agosto
+2021,86,Chile,2519.0,3618.3333333333335,29 de agosto
+2021,87,Chile,2144.0,3311.3333333333335,5 de septiembre
+2021,88,Chile,4178.0,2947.0,12 de septiembre
 2020,1,Colombia,85.0,85.0,5 de enero
 2020,2,Colombia,284.0,184.5,12 de enero
 2020,3,Colombia,647.0,338.6666666666667,19 de enero
@@ -393,6 +413,11 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,81,Colombia,6940.0,5499.666666666667,25 de julio
 2021,82,Colombia,5850.0,6002.0,1 de agosto
 2021,83,Colombia,6641.0,6477.0,8 de agosto
+2021,84,Colombia,5767.0,6086.0,15 de agosto
+2021,85,Colombia,7958.0,6788.666666666667,22 de agosto
+2021,86,Colombia,5675.0,6466.666666666667,29 de agosto
+2021,87,Colombia,6544.0,6725.666666666667,5 de septiembre
+2021,88,Colombia,7652.0,6623.666666666667,12 de septiembre
 2020,1,Costa Rica,28.0,28.0,5 de enero
 2020,2,Costa Rica,180.0,104.0,12 de enero
 2020,3,Costa Rica,182.0,130.0,19 de enero
@@ -474,6 +499,11 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,81,Costa Rica,60.0,49.0,25 de julio
 2021,82,Costa Rica,53.0,55.333333333333336,1 de agosto
 2021,83,Costa Rica,57.0,56.666666666666664,8 de agosto
+2021,84,Costa Rica,35.0,48.333333333333336,15 de agosto
+2021,85,Costa Rica,80.0,57.333333333333336,22 de agosto
+2021,86,Costa Rica,47.0,54.0,29 de agosto
+2021,87,Costa Rica,37.0,54.666666666666664,5 de septiembre
+2021,88,Costa Rica,44.0,42.666666666666664,12 de septiembre
 2020,1,Ecuador,257.0,257.0,5 de enero
 2020,2,Ecuador,926.0,591.5,12 de enero
 2020,3,Ecuador,1030.0,737.6666666666666,19 de enero
@@ -555,6 +585,11 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,81,Ecuador,30.0,33.666666666666664,25 de julio
 2021,82,Ecuador,86.0,56.0,1 de agosto
 2021,83,Ecuador,21.0,45.666666666666664,8 de agosto
+2021,84,Ecuador,84.0,63.666666666666664,15 de agosto
+2021,85,Ecuador,58.0,54.333333333333336,22 de agosto
+2021,86,Ecuador,28.0,56.666666666666664,29 de agosto
+2021,87,Ecuador,35.0,40.333333333333336,5 de septiembre
+2021,88,Ecuador,93.0,52.0,12 de septiembre
 2020,1,El Salvador,360.0,360.0,5 de enero
 2020,2,El Salvador,793.0,576.5,12 de enero
 2020,3,El Salvador,497.0,550.0,19 de enero
@@ -636,6 +671,11 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,81,El Salvador,131.0,135.33333333333334,25 de julio
 2021,82,El Salvador,124.0,131.66666666666666,1 de agosto
 2021,83,El Salvador,119.0,124.66666666666667,8 de agosto
+2021,84,El Salvador,75.0,106.0,15 de agosto
+2021,85,El Salvador,142.0,112.0,22 de agosto
+2021,86,El Salvador,130.0,115.66666666666667,29 de agosto
+2021,87,El Salvador,137.0,136.33333333333334,5 de septiembre
+2021,88,El Salvador,152.0,139.66666666666666,12 de septiembre
 2020,1,Guatemala,86.0,86.0,5 de enero
 2020,2,Guatemala,553.0,319.5,12 de enero
 2020,3,Guatemala,381.0,340.0,19 de enero
@@ -717,6 +757,11 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,81,Guatemala,288.0,278.0,25 de julio
 2021,82,Guatemala,300.0,293.6666666666667,1 de agosto
 2021,83,Guatemala,250.0,279.3333333333333,8 de agosto
+2021,84,Guatemala,315.0,288.3333333333333,15 de agosto
+2021,85,Guatemala,397.0,320.6666666666667,22 de agosto
+2021,86,Guatemala,259.0,323.6666666666667,29 de agosto
+2021,87,Guatemala,293.0,316.3333333333333,5 de septiembre
+2021,88,Guatemala,329.0,293.6666666666667,12 de septiembre
 2020,1,Honduras,105.0,105.0,5 de enero
 2020,2,Honduras,219.0,162.0,12 de enero
 2020,3,Honduras,150.0,158.0,19 de enero
@@ -798,6 +843,11 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,81,Honduras,33.0,68.66666666666667,25 de julio
 2021,82,Honduras,33.0,65.0,1 de agosto
 2021,83,Honduras,31.0,32.333333333333336,8 de agosto
+2021,84,Honduras,56.0,40.0,15 de agosto
+2021,85,Honduras,59.0,48.666666666666664,22 de agosto
+2021,86,Honduras,136.0,83.66666666666667,29 de agosto
+2021,87,Honduras,31.0,75.33333333333333,5 de septiembre
+2021,88,Honduras,119.0,95.33333333333333,12 de septiembre
 2020,7,México,1297.0,1297.0,16 de febrero
 2020,8,México,1805.0,1551.0,23 de febrero
 2020,9,México,1455.0,1519.0,1 de marzo
@@ -874,6 +924,11 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,81,México,6793.0,7188.0,25 de julio
 2021,82,México,7854.0,7438.666666666667,1 de agosto
 2021,83,México,7163.0,7270.0,8 de agosto
+2021,84,México,6801.0,7272.666666666667,15 de agosto
+2021,85,México,8665.0,7543.0,22 de agosto
+2021,86,México,7630.0,7698.666666666667,29 de agosto
+2021,87,México,8023.0,8106.0,5 de septiembre
+2021,88,México,8377.0,8010.0,12 de septiembre
 2020,1,Nicaragua,25.0,25.0,5 de enero
 2020,2,Nicaragua,90.0,57.5,12 de enero
 2020,3,Nicaragua,72.0,62.333333333333336,19 de enero
@@ -954,6 +1009,11 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,81,Nicaragua,9.0,27.333333333333332,25 de julio
 2021,82,Nicaragua,248.0,103.66666666666667,1 de agosto
 2021,83,Nicaragua,14.0,90.33333333333333,8 de agosto
+2021,84,Nicaragua,118.0,126.66666666666667,15 de agosto
+2021,85,Nicaragua,142.0,91.33333333333333,22 de agosto
+2021,86,Nicaragua,116.0,125.33333333333333,29 de agosto
+2021,87,Nicaragua,169.0,142.33333333333334,5 de septiembre
+2021,88,Nicaragua,106.0,130.33333333333334,12 de septiembre
 2020,1,Panamá,25.0,25.0,5 de enero
 2020,2,Panamá,185.0,105.0,12 de enero
 2020,3,Panamá,150.0,120.0,19 de enero
@@ -1034,6 +1094,11 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,81,Panamá,13.0,10.0,25 de julio
 2021,82,Panamá,8.0,9.666666666666666,1 de agosto
 2021,83,Panamá,7.0,9.333333333333334,8 de agosto
+2021,84,Panamá,4.0,6.333333333333333,15 de agosto
+2021,85,Panamá,11.0,7.333333333333333,22 de agosto
+2021,86,Panamá,10.0,8.333333333333334,29 de agosto
+2021,87,Panamá,4.0,8.333333333333334,5 de septiembre
+2021,88,Panamá,9.0,7.666666666666667,12 de septiembre
 2020,2,Paraguay,13.0,13.0,12 de enero
 2020,3,Paraguay,13.0,13.0,19 de enero
 2020,4,Paraguay,4.0,10.0,26 de enero
@@ -1107,6 +1172,11 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,80,Paraguay,83.0,46.333333333333336,18 de julio
 2021,81,Paraguay,25.0,42.666666666666664,25 de julio
 2021,83,Paraguay,251.0,119.66666666666667,8 de agosto
+2021,84,Paraguay,5.0,93.66666666666667,15 de agosto
+2021,85,Paraguay,17.0,91.0,22 de agosto
+2021,86,Paraguay,140.0,54.0,29 de agosto
+2021,87,Paraguay,108.0,88.33333333333333,5 de septiembre
+2021,88,Paraguay,104.0,117.33333333333333,12 de septiembre
 2020,1,Perú,723.0,723.0,5 de enero
 2020,2,Perú,1783.0,1253.0,12 de enero
 2020,3,Perú,1483.0,1329.6666666666667,19 de enero
@@ -1183,6 +1253,11 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,81,Perú,3063.0,2881.6666666666665,25 de julio
 2021,82,Perú,2727.0,2880.6666666666665,1 de agosto
 2021,83,Perú,1807.0,2532.3333333333335,8 de agosto
+2021,84,Perú,2974.0,2502.6666666666665,15 de agosto
+2021,85,Perú,2822.0,2534.3333333333335,22 de agosto
+2021,86,Perú,3472.0,3089.3333333333335,29 de agosto
+2021,87,Perú,2895.0,3063.0,5 de septiembre
+2021,88,Perú,3564.0,3310.3333333333335,12 de septiembre
 2020,1,Rep. Dominicana,11.0,11.0,5 de enero
 2020,2,Rep. Dominicana,26.0,18.5,12 de enero
 2020,3,Rep. Dominicana,68.0,35.0,19 de enero
@@ -1263,6 +1338,11 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,81,Rep. Dominicana,45.0,56.333333333333336,25 de julio
 2021,82,Rep. Dominicana,19.0,50.0,1 de agosto
 2021,83,Rep. Dominicana,134.0,66.0,8 de agosto
+2021,84,Rep. Dominicana,25.0,59.333333333333336,15 de agosto
+2021,85,Rep. Dominicana,20.0,59.666666666666664,22 de agosto
+2021,86,Rep. Dominicana,133.0,59.333333333333336,29 de agosto
+2021,87,Rep. Dominicana,65.0,72.66666666666667,5 de septiembre
+2021,88,Rep. Dominicana,126.0,108.0,12 de septiembre
 2020,1,Uruguay,49.0,49.0,5 de enero
 2020,2,Uruguay,60.0,54.5,12 de enero
 2020,3,Uruguay,145.0,84.66666666666667,19 de enero
@@ -1344,6 +1424,11 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,81,Uruguay,33.0,103.0,25 de julio
 2021,82,Uruguay,28.0,99.33333333333333,1 de agosto
 2021,83,Uruguay,23.0,28.0,8 de agosto
+2021,84,Uruguay,190.0,80.33333333333333,15 de agosto
+2021,85,Uruguay,57.0,90.0,22 de agosto
+2021,86,Uruguay,67.0,104.66666666666667,29 de agosto
+2021,87,Uruguay,37.0,53.666666666666664,5 de septiembre
+2021,88,Uruguay,51.0,51.666666666666664,12 de septiembre
 2020,1,Venezuela,2324.0,2324.0,5 de enero
 2020,2,Venezuela,9834.0,6079.0,12 de enero
 2020,3,Venezuela,7268.0,6475.333333333333,19 de enero
@@ -1425,3 +1510,8 @@ year,fecha_online,pais,conteo,conteo_MA,semana
 2021,81,Venezuela,78.0,84.33333333333333,25 de julio
 2021,82,Venezuela,347.0,167.33333333333334,1 de agosto
 2021,83,Venezuela,280.0,235.0,8 de agosto
+2021,84,Venezuela,218.0,281.6666666666667,15 de agosto
+2021,85,Venezuela,184.0,227.33333333333334,22 de agosto
+2021,86,Venezuela,230.0,210.66666666666666,29 de agosto
+2021,87,Venezuela,547.0,320.3333333333333,5 de septiembre
+2021,88,Venezuela,321.0,366.0,12 de septiembre
