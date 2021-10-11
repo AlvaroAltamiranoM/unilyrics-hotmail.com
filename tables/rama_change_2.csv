@@ -1,41 +1,41 @@
 rama_de_actividad,pais,year_x,year_y,growth,colorcol
-Salud / Medicina,Argentina,2021,2021.0,-36.809815950920246,no
-Transporte / Logística,Argentina,2021,2021.0,-33.33333333333334,no
-Agricultura / Pesca / Ganadería,Argentina,2021,2021.0,-23.529411764705884,no
-Informática / Software,Argentina,2021,2021.0,-21.568627450980387,no
-Telecomunicaciones,Argentina,2021,2021.0,-7.142857142857139,no
-Informática / Hardware,Argentina,2021,2021.0,57.14285714285714,yes
-Construcción / obras,Argentina,2021,2021.0,64.10256410256409,yes
-Finanzas / Banca,Argentina,2021,2021.0,71.42857142857142,yes
-Publicidad / RRPP,Argentina,2021,2021.0,83.33333333333331,yes
-Legal / Asesoría,Argentina,2021,2021.0,133.33333333333334,yes
-Finanzas / Banca,Chile,2021,2021.0,-50.0,no
-Informática / Hardware,Chile,2021,2021.0,-43.548387096774185,no
-Gobierno / No Lucro,Chile,2021,2021.0,-29.166666666666657,no
-Educación,Chile,2021,2021.0,-28.57142857142857,no
-Telecomunicaciones,Chile,2021,2021.0,-25.10121457489879,no
-Venta al consumidor,Chile,2021,2021.0,20.320855614973254,yes
-Fabricación,Chile,2021,2021.0,25.714285714285708,yes
-Venta al por mayor,Chile,2021,2021.0,26.92307692307692,yes
-Publicidad / RRPP,Chile,2021,2021.0,28.571428571428584,yes
-Materias Primas,Chile,2021,2021.0,200.0,yes
-Medios de Comunicación,Colombia,2021,2021.0,-43.99999999999999,no
-Gobierno / No Lucro,Colombia,2021,2021.0,-25.925925925925924,no
-Entretenimiento / Deportes,Colombia,2021,2021.0,-14.583333333333343,no
-Educación,Colombia,2021,2021.0,-13.97849462365592,no
-Hostelería / Turismo,Colombia,2021,2021.0,-10.952380952380963,no
-Informática / Software,Colombia,2021,2021.0,16.856256463288517,yes
-Venta al consumidor,Colombia,2021,2021.0,17.27158948685856,yes
-Materias Primas,Colombia,2021,2021.0,20.0,yes
-Agricultura / Pesca / Ganadería,Colombia,2021,2021.0,27.08333333333333,yes
-Venta al por mayor,Colombia,2021,2021.0,55.194805194805184,yes
-Internet,México,2021,2021.0,-30.985915492957744,no
-Legal / Asesoría,México,2021,2021.0,-23.893805309734518,no
-Fabricación,México,2021,2021.0,-13.831967213114751,no
-Agricultura / Pesca / Ganadería,México,2021,2021.0,-12.459016393442624,no
-Medios de Comunicación,México,2021,2021.0,-10.869565217391312,no
-Finanzas / Banca,México,2021,2021.0,8.61275476660093,yes
-Gobierno / No Lucro,México,2021,2021.0,14.285714285714278,yes
-Transporte,México,2021,2021.0,15.780730897009974,yes
-Construcción / obras,México,2021,2021.0,19.73094170403587,yes
-Materias Primas,México,2021,2021.0,21.739130434782624,yes
+Informática / Hardware,Argentina,2021,2021.0,-45.45454545454546,no
+Transporte / Logística,Argentina,2021,2021.0,-21.42857142857143,no
+Construcción / obras,Argentina,2021,2021.0,-7.8125,no
+Agricultura / Pesca / Ganadería,Argentina,2021,2021.0,-7.692307692307693,no
+Venta al por mayor,Argentina,2021,2021.0,-3.3333333333333286,no
+Legal / Asesoría,Argentina,2021,2021.0,42.85714285714286,yes
+Telecomunicaciones,Argentina,2021,2021.0,53.84615384615387,yes
+Publicidad / RRPP,Argentina,2021,2021.0,54.54545454545453,yes
+Finanzas / Banca,Argentina,2021,2021.0,58.333333333333314,yes
+Entretenimiento / Deportes,Argentina,2021,2021.0,133.33333333333334,yes
+Fabricación,Chile,2021,2021.0,-34.09090909090909,no
+Construcción / obras,Chile,2021,2021.0,-17.64705882352942,no
+Materias Primas,Chile,2021,2021.0,3.333333333333343,yes
+Informática / Software,Chile,2021,2021.0,9.859154929577471,yes
+Servicios Profesionales,Chile,2021,2021.0,10.981912144702832,yes
+Educación,Chile,2021,2021.0,53.33333333333334,yes
+Transporte / Logística,Chile,2021,2021.0,54.03726708074535,yes
+Salud / Medicina,Chile,2021,2021.0,72.97297297297297,yes
+Informática / Hardware,Chile,2021,2021.0,105.7142857142857,yes
+Gobierno / No Lucro,Chile,2021,2021.0,129.41176470588235,yes
+Venta al por mayor,Colombia,2021,2021.0,-16.317991631799174,no
+Gobierno / No Lucro,Colombia,2021,2021.0,-15.0,no
+Informática / Hardware,Colombia,2021,2021.0,-11.764705882352942,no
+Agricultura / Pesca / Ganadería,Colombia,2021,2021.0,-8.196721311475414,no
+Finanzas / Banca,Colombia,2021,2021.0,-0.8771929824561369,no
+Venta al consumidor,Colombia,2021,2021.0,21.00213219616205,yes
+Entretenimiento / Deportes,Colombia,2021,2021.0,24.390243902439025,yes
+Materias Primas,Colombia,2021,2021.0,27.77777777777777,yes
+Otros,Colombia,2021,2021.0,40.0,yes
+Construcción / obras,Colombia,2021,2021.0,54.02298850574712,yes
+Medios de Comunicación,México,2021,2021.0,-19.51219512195121,no
+Telecomunicaciones,México,2021,2021.0,-18.22144725370532,no
+Materias Primas,México,2021,2021.0,-17.85714285714286,no
+Energía,México,2021,2021.0,-14.102564102564102,no
+Publicidad / RRPP,México,2021,2021.0,-8.461538461538467,no
+Salud / Medicina,México,2021,2021.0,10.649546827794552,yes
+Gobierno / No Lucro,México,2021,2021.0,12.5,yes
+Entretenimiento / Deportes,México,2021,2021.0,16.83168316831683,yes
+Internet,México,2021,2021.0,21.428571428571416,yes
+Legal / Asesoría,México,2021,2021.0,50.0,yes

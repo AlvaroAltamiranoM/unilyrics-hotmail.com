@@ -1,41 +1,41 @@
 pais,rama_de_actividad,year,growth,colorcol
-Argentina,Entretenimiento / Deportes,2021.0,-90.1639344262295,no
-Argentina,Finanzas / Banca,2021.0,-90.1639344262295,no
 Argentina,Educación,2021.0,-89.51456310679612,no
-Argentina,Informática / Software,2021.0,-86.7109634551495,no
-Argentina,Transporte / Logística,2021.0,-85.92964824120602,no
-Argentina,Informática / Hardware,2021.0,-63.9344262295082,no
-Argentina,Venta al por mayor,2021.0,-63.63636363636363,no
-Argentina,Agricultura / Pesca / Ganadería,2021.0,-55.172413793103445,no
-Argentina,Otros,2021.0,-53.84615384615385,no
-Argentina,Construcción / obras,2021.0,-36.318407960199,no
-Chile,Finanzas / Banca,2021.0,-95.06172839506173,no
-Chile,Educación,2021.0,-80.89171974522293,no
-Chile,Construcción / obras,2021.0,-77.55775577557756,no
-Chile,Informática / Hardware,2021.0,-63.54166666666667,no
-Chile,Fabricación,2021.0,-46.34146341463414,no
-Chile,Venta al por mayor,2021.0,50.0,yes
-Chile,Transporte / Logística,2021.0,72.19251336898395,yes
-Chile,Publicidad / RRPP,2021.0,83.87096774193549,yes
-Chile,Servicios Profesionales,2021.0,92.05955334987593,yes
-Chile,Materias Primas,2021.0,361.5384615384615,yes
-Colombia,Materias Primas,2021.0,-83.33333333333334,no
+Argentina,Transporte / Logística,2021.0,-88.94472361809045,no
+Argentina,Finanzas / Banca,2021.0,-84.42622950819673,no
+Argentina,Informática / Software,2021.0,-82.94573643410853,no
+Argentina,Informática / Hardware,2021.0,-80.32786885245902,no
+Argentina,Energía / Minería,2021.0,-60.0,no
+Argentina,Agricultura / Pesca / Ganadería,2021.0,-58.62068965517241,no
+Argentina,Internet,2021.0,-57.89473684210527,no
+Argentina,Construcción / obras,2021.0,-41.29353233830846,no
+Argentina,Otros,2021.0,-38.46153846153846,no
+Chile,Medios de Comunicación,2021.0,-98.18181818181819,no
+Chile,Finanzas / Banca,2021.0,-93.82716049382717,no
+Chile,Construcción / obras,2021.0,-81.51815181518151,no
+Chile,Educación,2021.0,-70.70063694267516,no
+Chile,Fabricación,2021.0,-64.6341463414634,no
+Chile,Servicios Profesionales,2021.0,113.15136476426798,yes
+Chile,Publicidad / RRPP,2021.0,119.35483870967741,yes
+Chile,Gobierno / No Lucro,2021.0,136.36363636363637,yes
+Chile,Transporte / Logística,2021.0,165.24064171122996,yes
+Chile,Materias Primas,2021.0,376.9230769230769,yes
+Colombia,Gobierno / No Lucro,2021.0,-84.61538461538461,no
 Colombia,Medios de Comunicación,2021.0,-82.05128205128204,no
-Colombia,Gobierno / No Lucro,2021.0,-81.90045248868779,no
-Colombia,Energía,2021.0,-78.20823244552058,no
-Colombia,Hostelería / Turismo,2021.0,-76.7123287671233,no
-Colombia,Internet,2021.0,-47.540983606557376,no
-Colombia,Telecomunicaciones,2021.0,-46.052518295307785,no
-Colombia,Salud / Medicina,2021.0,-40.520446096654275,no
-Colombia,Informática / Software,2021.0,1.2544802867383567,yes
-Colombia,Otros,2021.0,42.85714285714286,yes
-México,Otros,2021.0,-81.81818181818181,no
-México,Internet,2021.0,-78.29457364341086,no
-México,Medios de Comunicación,2021.0,-77.71739130434783,no
-México,Legal / Asesoría,2021.0,-64.75409836065575,no
-México,Gobierno / No Lucro,2021.0,-63.2183908045977,no
-México,Transporte,2021.0,-16.52694610778444,no
-México,Informática / Hardware,2021.0,-15.384615384615387,no
-México,Hostelería / Turismo,2021.0,-14.937106918238996,no
-México,Agricultura / Pesca / Ganadería,2021.0,-14.83253588516746,no
-México,Telecomunicaciones,2021.0,-9.04044409199048,no
+Colombia,Materias Primas,2021.0,-78.7037037037037,no
+Colombia,Venta al por mayor,2021.0,-78.39005942733658,no
+Colombia,Energía,2021.0,-74.818401937046,no
+Colombia,Internet,2021.0,-40.98360655737705,no
+Colombia,Salud / Medicina,2021.0,-38.28996282527881,no
+Colombia,Telecomunicaciones,2021.0,-34.756780025828675,no
+Colombia,Informática / Software,2021.0,18.100358422939067,yes
+Colombia,Otros,2021.0,100.0,yes
+México,Medios de Comunicación,2021.0,-82.06521739130434,no
+México,Internet,2021.0,-73.64341085271317,no
+México,Gobierno / No Lucro,2021.0,-58.62068965517241,no
+México,Educación,2021.0,-57.5319622012229,no
+México,Servicios Profesionales,2021.0,-56.89408396946565,no
+México,Venta al por mayor,2021.0,-17.91421362489487,no
+México,Construcción / obras,2021.0,-17.00581395348837,no
+México,Entretenimiento / Deportes,2021.0,-15.260323159784562,no
+México,Transporte,2021.0,-13.772455089820355,no
+México,Agricultura / Pesca / Ganadería,2021.0,-12.280701754385973,no
