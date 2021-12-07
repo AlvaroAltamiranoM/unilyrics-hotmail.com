@@ -1,41 +1,41 @@
 pais,rama_de_actividad,year,growth,colorcol
-Argentina,Educación,2021.0,-89.51456310679612,no
-Argentina,Transporte / Logística,2021.0,-88.94472361809045,no
-Argentina,Finanzas / Banca,2021.0,-84.42622950819673,no
-Argentina,Informática / Software,2021.0,-82.94573643410853,no
-Argentina,Informática / Hardware,2021.0,-80.32786885245902,no
-Argentina,Energía / Minería,2021.0,-60.0,no
-Argentina,Agricultura / Pesca / Ganadería,2021.0,-58.62068965517241,no
-Argentina,Internet,2021.0,-57.89473684210527,no
-Argentina,Construcción / obras,2021.0,-41.29353233830846,no
-Argentina,Otros,2021.0,-38.46153846153846,no
-Chile,Medios de Comunicación,2021.0,-98.18181818181819,no
-Chile,Finanzas / Banca,2021.0,-93.82716049382717,no
-Chile,Construcción / obras,2021.0,-81.51815181518151,no
-Chile,Educación,2021.0,-70.70063694267516,no
-Chile,Fabricación,2021.0,-64.6341463414634,no
-Chile,Servicios Profesionales,2021.0,113.15136476426798,yes
-Chile,Publicidad / RRPP,2021.0,119.35483870967741,yes
-Chile,Gobierno / No Lucro,2021.0,136.36363636363637,yes
-Chile,Transporte / Logística,2021.0,165.24064171122996,yes
-Chile,Materias Primas,2021.0,376.9230769230769,yes
-Colombia,Gobierno / No Lucro,2021.0,-84.61538461538461,no
-Colombia,Medios de Comunicación,2021.0,-82.05128205128204,no
-Colombia,Materias Primas,2021.0,-78.7037037037037,no
-Colombia,Venta al por mayor,2021.0,-78.39005942733658,no
-Colombia,Energía,2021.0,-74.818401937046,no
-Colombia,Internet,2021.0,-40.98360655737705,no
-Colombia,Salud / Medicina,2021.0,-38.28996282527881,no
-Colombia,Telecomunicaciones,2021.0,-34.756780025828675,no
-Colombia,Informática / Software,2021.0,18.100358422939067,yes
-Colombia,Otros,2021.0,100.0,yes
-México,Medios de Comunicación,2021.0,-82.06521739130434,no
-México,Internet,2021.0,-73.64341085271317,no
-México,Gobierno / No Lucro,2021.0,-58.62068965517241,no
-México,Educación,2021.0,-57.5319622012229,no
-México,Servicios Profesionales,2021.0,-56.89408396946565,no
-México,Venta al por mayor,2021.0,-17.91421362489487,no
-México,Construcción / obras,2021.0,-17.00581395348837,no
-México,Entretenimiento / Deportes,2021.0,-15.260323159784562,no
-México,Transporte,2021.0,-13.772455089820355,no
-México,Agricultura / Pesca / Ganadería,2021.0,-12.280701754385973,no
+Argentina,Legal / Asesoría,2021,-72.27722772277227,no
+Argentina,Educación,2021,-67.93248945147678,no
+Argentina,Medios de Comunicación,2021,-62.5,no
+Argentina,Internet,2021,-61.904761904761905,no
+Argentina,Finanzas / Banca,2021,-58.174904942965775,no
+Argentina,Hostelería / Turismo,2021,-3.3613445378151283,no
+Argentina,Construcción / obras,2021,-2.60223048327137,no
+Argentina,Publicidad / RRPP,2021,0.8547008547008517,yes
+Argentina,Materias Primas,2021,5.555555555555557,yes
+Argentina,Otros,2021,111.76470588235296,yes
+Chile,Legal / Asesoría,2021,-74.54545454545455,no
+Chile,Entretenimiento / Deportes,2021,-71.42857142857143,no
+Chile,Construcción / obras,2021,-71.36659436008676,no
+Chile,Energía / Minería,2021,-64.44444444444444,no
+Chile,Educación,2021,-64.04494382022472,no
+Chile,Telecomunicaciones,2021,82.5136612021858,yes
+Chile,Internet,2021,100.0,yes
+Chile,Materias Primas,2021,121.0526315789474,yes
+Chile,Servicios Profesionales,2021,155.01618122977345,yes
+Chile,Agricultura / Pesca / Ganadería,2021,231.0344827586207,yes
+Colombia,Venta al por mayor,2021,-94.48134900357691,no
+Colombia,Medios de Comunicación,2021,-93.90243902439025,no
+Colombia,Educación,2021,-93.74601148691768,no
+Colombia,Construcción / obras,2021,-93.62597714972941,no
+Colombia,Fabricación,2021,-93.55888093689005,no
+Colombia,Legal / Asesoría,2021,-86.64596273291926,no
+Colombia,Internet,2021,-86.20689655172414,no
+Colombia,Salud / Medicina,2021,-81.09243697478992,no
+Colombia,Telecomunicaciones,2021,-72.11512597507397,no
+Colombia,Otros,2021,-20.0,no
+México,Medios de Comunicación,2021,-94.33497536945814,no
+México,Internet,2021,-93.70165745856353,no
+México,Educación,2021,-92.67771245323357,no
+México,Informática / Software,2021,-92.34424498416051,no
+México,Servicios Profesionales,2021,-92.02538949798038,no
+México,Energía,2021,-83.47107438016529,no
+México,Transporte,2021,-82.11572180011689,no
+México,Entretenimiento / Deportes,2021,-81.32231404958678,no
+México,Hostelería / Turismo,2021,-80.9305373525557,no
+México,Agricultura / Pesca / Ganadería,2021,-79.76973684210526,no
